@@ -3,10 +3,14 @@ description: Thank you to all the contributors!
 draft: false
 layout: standard
 show_title_as_headline: true
-title: Contributors
+title: Contributors and Sponsors
 ---
 
-Thank you to all the folks who have contributed both technical and creative skills to this project:
+Thank you to  all the people, companies, founding agencies and institutions for the support to the students and the research at the SUPER-Lab
+
+## Contributors to the Apero Package
+
+Thank you to [Alison Hill](https://alison.rbind.io/) for the Apero package, and   all the folks who have contributed both technical and creative skills to that project:
 
 + [Desirée De Leon :giraffe:](http://desiree.rbind.io/) (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
 
