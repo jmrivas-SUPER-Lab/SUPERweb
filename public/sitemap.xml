@@ -38,25 +38,16 @@
     <loc>/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/social/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/theme-features/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/style/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/color-themes/</loc>
+    <loc>/blog/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/style/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/fonts/</loc>
@@ -65,14 +56,11 @@
     <loc>/tags/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/theme-features/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/blog/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/campfire/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
@@ -110,6 +98,12 @@
     <loc>/blog/rmarkdown/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/awards/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/ieeep3talk/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/talk/seedling/</loc>
     <lastmod>2020-01-13T14:15:59-06:00</lastmod>
   </url><url>
@@ -134,6 +128,9 @@
     <loc>/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/blog/19apeczk/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
@@ -143,12 +140,21 @@
     <loc>/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>/categories/grants/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2018nsfhv/</loc>
+    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2018nasaitech/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/contributors/</loc>
   </url><url>
     <loc>/labpeople/</loc>
   </url><url>
     <loc>/license/</loc>
+  </url><url>
+    <loc>/about/</loc>
   </url>
 </urlset>

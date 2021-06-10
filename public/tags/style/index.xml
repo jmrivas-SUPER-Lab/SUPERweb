@@ -8,16 +8,6 @@
     <language>en</language>
     <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/style/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Style your site colors</title>
-      <link>/blog/color-themes/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/color-themes/</guid>
-      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
-Use a color theme     Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS.</description>
-    </item>
-    
-    <item>
       <title>Style your site typography</title>
       <link>/blog/fonts/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>

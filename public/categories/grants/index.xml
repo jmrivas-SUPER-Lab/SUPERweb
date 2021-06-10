@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grants on SUPER-Lab</title>
+    <link>/categories/grants/</link>
+    <description>Recent content in Grants on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="/categories/grants/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prof. Rivas received NSF award to develop high-voltage power supplies for medical, environmental, and aerospace applications.</title>
+      <link>/blog/2018nsfhv/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018nsfhv/</guid>
+      <description>High-Voltage High-Power-Density Power Electronics for Emerging Medical, Environmental, and Aerospace Applications   High-voltage low-current power-electronic converters that can deliver voltages between 10s to 100s of kV and currents in the 1-100 mA range play a critical role in many medical, environmental, and aerospace applications, established or emerging. In many of those applications, a compact and lightweight high-voltage power supply is desirable if not essential. Unfortunately, conventional technologies are inefficient, heavy, and bulky.</description>
+    </item>
+    
+  </channel>
+</rss>

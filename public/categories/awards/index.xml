@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards on SUPER-Lab</title>
+    <link>/categories/awards/</link>
+    <description>Recent content in Awards on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/awards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dr. Lei Gu awarded the IEEE PELS PhD Thesis Talk Award</title>
+      <link>/blog/ieeep3talk/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ieeep3talk/</guid>
+      <description>The Selection Committee for the PELS Ph.D.Thesis Talk (P3) consisted of worldwide Distinguished Professors in the Power Electronics community. Each video submission was reviewed by a panel of three judges who have now completed their evaluations, this was a difficult task because of the high quality of nominations. I&amp;rsquo;d like to now congratulate the following winners.
+2020 IEEE PELS Ph.D. Thesis Talk Award (P3) Winners:
+  Design Considerations for Radio Frequency Power Converters by Lei Gu, Stanford University, USA Synchronised Control of Grid-Interactive Inverters using Stationary Frame Resonant Regulators by Afif Nazib, RMIT University, Australia Mission Profile based System-Level Lifetime Prediction of Modular Multilevel Converters by Yi Zhang, Aalborg University, Denmark Three-Layer Control Strategy for LLC Converters: Large-Signal, Small Signal, and Steady-State Operation by Mehdi Mohammadi, University of British Columbia, Canada Torque Estimation in Permanent Magnet Synchronous Machines by Maria Martinez Gomez, University of Oviedo, Spain  The Award Consists of $1000 + Certificate + up to a maximum of $500 towards travel reimbursement to attend IEEE ECCE 2020 in Detroit to receive the award.</description>
+    </item>
+    
+    <item>
+      <title>Zikang Tong received Outstanding Presentation Award.</title>
+      <link>/blog/19apeczk/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/19apeczk/</guid>
+      <description>Z. Tong, S. Park and J. Rivas-Davila, &amp;ldquo;Empirical Circuit Model for Output Capacitance Losses in Silicon Carbide Power Devices,&amp;rdquo; 2019 IEEE Applied Power Electronics Conference and Exposition (APEC), 2019, pp. 998-1003, doi: 10.1109/APEC.2019.8721907.</description>
+    </item>
+    
+    <item>
+      <title>Fan Lab &amp; SUPERlab are one of three winners of NASA iTech’s 2018 Energy Cycle</title>
+      <link>/blog/2018nasaitech/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018nasaitech/</guid>
+      <description>knitr::include_graphics(&amp;quot;GraysonZulauf-SUPERLab.jpg&amp;quot;) Congratulations to professors Jon Fan and Juan Rivas-Davila! Two of their researchers won the 2018 NASA iTech Forum. The event is a collaborative effort between NASA and the U.S. Department (DOE) of Energy&amp;rsquo;s Advanced Research Projects Agency-Energy (ARPA-E) to find and foster innovative solutions for critical energy challenges on Earth and in space.
+The winning project was presented by Grayson Zulauf and Thaibao (Peter) Phan. Both are PhD candidates. Their collaborative project is developing technology for wireless charging of electric vehicles on Earth, and eventually, Mars.</description>
+    </item>
+    
+  </channel>
+</rss>
