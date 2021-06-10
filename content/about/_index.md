@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  SUPER-Lab Website
+  Personal Website
 show_header: true
 sidebar_left: false
 title: About
