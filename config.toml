@@ -20,8 +20,8 @@ enableEmoji = true
     unsafe = true  # Enable user to embed HTML snippets in Markdown content.
     hardwraps = false 
   [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 2
+    startLevel = 1
+    endLevel = 3
     ordered = false
   [markup.highlight]
     # one of: https://xyproto.github.io/splash/docs/ 
@@ -116,34 +116,35 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About Me"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
+    name = "Blog and News"
     title = "Blog"
     url = "/blog/"
     weight = 2
   [[menu.header]]
+    name = "People"
+    title = "People"
+    url = "/labpeople/"
+    weight = 3
+  [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 3
+    weight = 4
+  [[menu.header]]
+    name = "Publications"
+    title = "Publications"
+    url = "/publication/"
+    weight = 4
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
     weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
+
     
   # Configure footer  
   [[menu.footer]]
