@@ -1,27 +1,33 @@
 ---
-author: Prof. Juan Rivas @SUPER-Lab
-cascade:
-  show_author_byline: true
-  show_comments: false
-  show_post_date: true
-  sidebar:
-    show_sidebar_adunit: true
-    text_link_label: View all projects
-    text_link_url: /project/
-description: Here are some of our current projects
-layout: list-grid
-show_author_byline: true
-show_post_date: false
+title: People at the SUPER-Lab
+description: "SUPER-Lab members"
+author: "Juan Rivas"
 show_post_thumbnail: true
-sidebar:
-  author: Prof. Juan Rivas @SUPER-Lab
-  description: "Projects can be anything!\nCheck out the _index.md file in the /project
-    folder \nto edit this content.\n"
-  show_sidebar_adunit: false
+show_author_byline: false
+show_post_date: false
+# for listing page layout
+layout: list-grid # list, list-sidebar, list-grid
+
+# for list-sidebar layout
+sidebar: 
+  title: People at the SUPER-Lab
+  description: |
+    SUPER-Lab members
+  author: "Juan Rivas"
   text_link_label: ""
   text_link_url: ""
-  title: A Sidebar for Your Projects
-title: Current projects
+  show_sidebar_adunit: false # show ad container
+
+# set up common front matter for all individual pages inside project/
+cascade:    
+  show_author_byline: false
+  show_post_date: false
+  show_comments: false # see site config to choose Disqus or Utterances
+  # for single-sidebar layout only
+  sidebar:
+    text_link_label: View all examples
+    text_link_url: /labpeople/
+    show_sidebar_adunit: true # show ad container
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **

@@ -40,6 +40,15 @@ Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rst
     </item>
     
     <item>
+      <title>Zhechi Ye</title>
+      <link>/labpeople/zhechi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/zhechi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A postcard</title>
       <link>/collection/day01/02-postcards/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
@@ -59,6 +68,15 @@ install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you u
       <description>Pre-requisites     First, make sure you have the latest version of the blogdown package installed from CRAN:
 install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
  Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>Eric Stolt</title>
+      <link>/labpeople/ericstolt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/ericstolt/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -204,15 +222,6 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     </item>
     
     <item>
-      <title>SUPER-Lab undergrad intern featured in Stanford EE Spotligh</title>
-      <link>/blog/2017sabera/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2017sabera/</guid>
-      <description>Figure 1: Sabera J. Talukder  How did you become interested in your research area? There are two research avenues that I am extremely interested in: one is neuroengineering and the second is creating systems to help people in third world countries. For as long as I can remember I have been interested in the brain, and experiences like interning for Medtronic’s Deep Brain Stimulation division cemented my desire to pursue neuroengineering.</description>
-    </item>
-    
-    <item>
       <title>2018 COMPEL Best Paper Award.</title>
       <link>/blog/2018compel_lei/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -230,6 +239,34 @@ Summary:     Applying RF circuit design techniques to dc-dc resonant converters 
       <guid>/blog/2018ecceasia/</guid>
       <description>Figure 1: Kawin (North) Surakitbovorn at the award ceremony  K. Surakitbovorn and J. Rivas-Davilla, “Design of a GaN-Based Wireless Power Transfer System at 13.56 MHz to Replace Conventional Wired Connection in a Vehicle,” 2018 International Power Electronics Conference (IPEC-Niigata 2018 -ECCE Asia), 2018, pp. 3848-3854, doi: 10.23919/IPEC.2018.8507473.
 Abstract Wired connections running through the doors, hatchbacks, and trunks of a vehicle are subjected to extensive mechanical wear from repeated bending caused by the open-and-close motion.</description>
+    </item>
+    
+    <item>
+      <title>SUPER-Lab undergrad intern featured in Stanford EE Spotligh</title>
+      <link>/blog/2017sabera/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2017sabera/</guid>
+      <description>Figure 1: Sabera J. Talukder  How did you become interested in your research area? There are two research avenues that I am extremely interested in: one is neuroengineering and the second is creating systems to help people in third world countries. For as long as I can remember I have been interested in the brain, and experiences like interning for Medtronic’s Deep Brain Stimulation division cemented my desire to pursue neuroengineering.</description>
+    </item>
+    
+    <item>
+      <title>2015 IEEE COMPEL Best Paper Award.</title>
+      <link>/blog/2015compel_luke/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2015compel_luke/</guid>
+      <description>L. Raymond, W. Liang, L. Gu and J. R. Davila, &amp;ldquo;13.56 MHz high voltage multi-level resonant DC-DC converter,&amp;rdquo; 2015 IEEE 16th Workshop on Control and Modeling for Power Electronics (COMPEL), 2015, pp. 1-8, doi: 10.1109/COMPEL.2015.7236446.
+Abstract     This paper demonstrates a dc-dc converter that combines resonant rectifiers in a way to achieve impedance matching and significant voltage gains without the need for a high quality factor (Q) impedance matching network.</description>
+    </item>
+    
+    <item>
+      <title>Prof. Rivas featured in Stanford EE spotlight</title>
+      <link>/blog/2014eespotlight_rivas/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2014eespotlight_rivas/</guid>
+      <description>Figure 1: Electrical Engineering Professor Juan Rivas-Davila loves being in the midst of top-notch Stanford students, world-class research facilities and within a community brimming with entrepreneurial attitudes.  EE spotlight What made you decide to be a professor, and what made you want to be at Stanford? After grad school, I spent a few years working at GE Global Research. There I learned electrical engineering research can change (and has changed) the world.</description>
     </item>
     
     <item>

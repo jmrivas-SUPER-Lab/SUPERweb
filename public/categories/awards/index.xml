@@ -37,15 +37,6 @@
     </item>
     
     <item>
-      <title>SUPER-Lab undergrad intern featured in Stanford EE Spotligh</title>
-      <link>/blog/2017sabera/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2017sabera/</guid>
-      <description>Figure 1: Sabera J. Talukder  How did you become interested in your research area? There are two research avenues that I am extremely interested in: one is neuroengineering and the second is creating systems to help people in third world countries. For as long as I can remember I have been interested in the brain, and experiences like interning for Medtronic’s Deep Brain Stimulation division cemented my desire to pursue neuroengineering.</description>
-    </item>
-    
-    <item>
       <title>2018 COMPEL Best Paper Award.</title>
       <link>/blog/2018compel_lei/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -63,6 +54,16 @@ Summary:     Applying RF circuit design techniques to dc-dc resonant converters 
       <guid>/blog/2018ecceasia/</guid>
       <description>Figure 1: Kawin (North) Surakitbovorn at the award ceremony  K. Surakitbovorn and J. Rivas-Davilla, “Design of a GaN-Based Wireless Power Transfer System at 13.56 MHz to Replace Conventional Wired Connection in a Vehicle,” 2018 International Power Electronics Conference (IPEC-Niigata 2018 -ECCE Asia), 2018, pp. 3848-3854, doi: 10.23919/IPEC.2018.8507473.
 Abstract Wired connections running through the doors, hatchbacks, and trunks of a vehicle are subjected to extensive mechanical wear from repeated bending caused by the open-and-close motion.</description>
+    </item>
+    
+    <item>
+      <title>2015 IEEE COMPEL Best Paper Award.</title>
+      <link>/blog/2015compel_luke/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2015compel_luke/</guid>
+      <description>L. Raymond, W. Liang, L. Gu and J. R. Davila, &amp;ldquo;13.56 MHz high voltage multi-level resonant DC-DC converter,&amp;rdquo; 2015 IEEE 16th Workshop on Control and Modeling for Power Electronics (COMPEL), 2015, pp. 1-8, doi: 10.1109/COMPEL.2015.7236446.
+Abstract     This paper demonstrates a dc-dc converter that combines resonant rectifiers in a way to achieve impedance matching and significant voltage gains without the need for a high quality factor (Q) impedance matching network.</description>
     </item>
     
   </channel>

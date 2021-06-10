@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on SUPER-Lab</title>
+    <link>/categories/news/</link>
+    <description>Recent content in News on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SUPER-Lab undergrad intern featured in Stanford EE Spotligh</title>
+      <link>/blog/2017sabera/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2017sabera/</guid>
+      <description>Figure 1: Sabera J. Talukder  How did you become interested in your research area? There are two research avenues that I am extremely interested in: one is neuroengineering and the second is creating systems to help people in third world countries. For as long as I can remember I have been interested in the brain, and experiences like interning for Medtronic’s Deep Brain Stimulation division cemented my desire to pursue neuroengineering.</description>
+    </item>
+    
+    <item>
+      <title>Prof. Rivas featured in Stanford EE spotlight</title>
+      <link>/blog/2014eespotlight_rivas/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2014eespotlight_rivas/</guid>
+      <description>Figure 1: Electrical Engineering Professor Juan Rivas-Davila loves being in the midst of top-notch Stanford students, world-class research facilities and within a community brimming with entrepreneurial attitudes.  EE spotlight What made you decide to be a professor, and what made you want to be at Stanford? After grad school, I spent a few years working at GE Global Research. There I learned electrical engineering research can change (and has changed) the world.</description>
+    </item>
+    
+  </channel>
+</rss>

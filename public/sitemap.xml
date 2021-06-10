@@ -11,6 +11,8 @@
     <loc>/collection/prework/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/labpeople/zhechi/</loc>
+  </url><url>
     <loc>/collection/day01/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -19,6 +21,8 @@
   </url><url>
     <loc>/collection/day02/02-blogdown/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/labpeople/ericstolt/</loc>
   </url><url>
     <loc>/collection/day02/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
@@ -113,20 +117,31 @@
     <loc>/blog/2018nasaitech/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/2017sabera/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/blog/2018compel_lei/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/2018ecceasia/</loc>
     <lastmod>2018-05-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/news/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2017sabera/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2015compel_luke/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2014eespotlight_rivas/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/contributors/</loc>
   </url><url>
-    <loc>/labpeople/</loc>
+    <loc>/categories/example/</loc>
   </url><url>
     <loc>/license/</loc>
+  </url><url>
+    <loc>/labpeople/</loc>
   </url><url>
     <loc>/series/</loc>
   </url><url>
