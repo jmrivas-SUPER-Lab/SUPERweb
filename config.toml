@@ -115,8 +115,8 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
-    title = "About Me"
+    name = "SUPER-Lab"
+    title = "SUPER-Lab"
     url = "/about/"
     weight = 1
   [[menu.header]]
