@@ -6,40 +6,7 @@
     <description>Recent content in News and updates on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Style your site typography</title>
-      <link>/blog/fonts/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/fonts/</guid>
-      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
-Embedded fonts     Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content ❤️!</description>
-    </item>
-    
-    <item>
-      <title>Using panelsets</title>
-      <link>/blog/seedling/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/seedling/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
-For example, this panelset:
-Hello! 👋 hello
- Goodbye 💨 goodbye
-  Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:
-{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:</description>
-    </item>
-    
-    <item>
-      <title>An Rmarkdown post</title>
-      <link>/blog/rmarkdown/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/rmarkdown/</guid>
-      <description> Air quality     with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
-    </item>
-    
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr. Lei Gu awarded the IEEE PELS PhD Thesis Talk Award</title>
       <link>/blog/ieeep3talk/</link>
@@ -52,26 +19,7 @@ Hello! 👋 hello
     </item>
     
     <item>
-      <title>CSS Grid Scaffold</title>
-      <link>/blog/css-grid-scaffold/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/css-grid-scaffold/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Overview     Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    
-    <item>
-      <title>Built-in Contact Form</title>
-      <link>/blog/built-in-contact-form/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/built-in-contact-form/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
-    </item>
-    
-    <item>
-      <title>Zikang Tong received Outstanding Presentation Award.</title>
+      <title>APEC 2019 Outstanding Presentation Award.</title>
       <link>/blog/19apeczk/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -94,8 +42,36 @@ Hello! 👋 hello
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/2018nasaitech/</guid>
-      <description>knitr::include_graphics(&amp;quot;GraysonZulauf-SUPERLab.jpg&amp;quot;) Congratulations to professors Jon Fan and Juan Rivas-Davila! Two of their researchers won the 2018 NASA iTech Forum. The event is a collaborative effort between NASA and the U.S. Department (DOE) of Energy&amp;rsquo;s Advanced Research Projects Agency-Energy (ARPA-E) to find and foster innovative solutions for critical energy challenges on Earth and in space.
-The winning project was presented by Grayson Zulauf and Thaibao (Peter) Phan. Both are PhD candidates. Their collaborative project is developing technology for wireless charging of electric vehicles on Earth, and eventually, Mars.</description>
+      <description>Figure 1: Grayson Zulauf (third from left) is an EE PhD candidate. He is a researcher in the SUPERLab, directed by Professor Juan Rivas-Davila. the Fan Lab is directed by professor Jonathan Fan.  Congratulations to professors Jon Fan and Juan Rivas-Davila! Two of their researchers won the 2018 NASA iTech Forum. The event is a collaborative effort between NASA and the U.S. Department (DOE) of Energy’s Advanced Research Projects Agency-Energy (ARPA-E) to find and foster innovative solutions for critical energy challenges on Earth and in space.</description>
+    </item>
+    
+    <item>
+      <title>SUPER-Lab undergrad intern featured in Stanford EE Spotligh</title>
+      <link>/blog/2017sabera/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2017sabera/</guid>
+      <description>Figure 1: Sabera J. Talukder  How did you become interested in your research area? There are two research avenues that I am extremely interested in: one is neuroengineering and the second is creating systems to help people in third world countries. For as long as I can remember I have been interested in the brain, and experiences like interning for Medtronic’s Deep Brain Stimulation division cemented my desire to pursue neuroengineering.</description>
+    </item>
+    
+    <item>
+      <title>2018 COMPEL Best Paper Award.</title>
+      <link>/blog/2018compel_lei/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018compel_lei/</guid>
+      <description>L. Gu, K. Surakitbovorn, G. Zulauf, S. Chakraborty and J. Rivas-Davila, &amp;ldquo;High-Frequency Bidirectional Resonant Converter for High Conversion Ratio and Variable Load Operation,&amp;rdquo; 2018 IEEE 19th Workshop on Control and Modeling for Power Electronics (COMPEL), 2018, pp. 1-8, doi: 10.1109/COMPEL.2018.8459962.
+Summary:     Applying RF circuit design techniques to dc-dc resonant converters has enabled the switching frequency to be pushed well beyond 10 MHz, resulting in higher power densities and faster transient response.</description>
+    </item>
+    
+    <item>
+      <title>2018 Student Paper Award</title>
+      <link>/blog/2018ecceasia/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018ecceasia/</guid>
+      <description>Figure 1: Kawin (North) Surakitbovorn at the award ceremony  K. Surakitbovorn and J. Rivas-Davilla, “Design of a GaN-Based Wireless Power Transfer System at 13.56 MHz to Replace Conventional Wired Connection in a Vehicle,” 2018 International Power Electronics Conference (IPEC-Niigata 2018 -ECCE Asia), 2018, pp. 3848-3854, doi: 10.23919/IPEC.2018.8507473.
+Abstract Wired connections running through the doors, hatchbacks, and trunks of a vehicle are subjected to extensive mechanical wear from repeated bending caused by the open-and-close motion.</description>
     </item>
     
   </channel>

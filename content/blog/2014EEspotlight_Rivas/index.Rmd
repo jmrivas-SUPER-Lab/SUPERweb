@@ -1,0 +1,35 @@
+---
+author: Juan Rivas
+categories:
+- News
+date: "2014-12-01"
+draft: false
+excerpt: At the SUPER-Lab (Stanford University Power Electronics Research Laboratory), my students are currently working on the design of switching power converters at frequencies above 10 MHz. As switching frequency increases, the size of energy storage devices (which can dominate the size of a converter) can be miniaturized
+layout: single
+subtitle: Prof. Rivas talks about his Research and the SUPER-Lab
+title: Prof. Rivas featured in Stanford EE spotlight
+---
+
+
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="Electrical Engineering Professor Juan Rivas-Davila loves being in the midst of top-notch Stanford students, world-class research facilities and within a community brimming with entrepreneurial attitudes."}
+knitr::include_graphics("JuanRivasDavila.jpg")
+```
+
+# [EE spotlight](https://ee.stanford.edu/spotlight/juan-rivas-davila)
+
+## What made you decide to be a professor, and what made you want to be at Stanford?
+After grad school, I spent a few years working at GE Global Research. There I learned electrical engineering research can change (and has changed) the world. I experienced research that is practical, relevant and can become an important economic driver (look around -- engineering is everywhere!). Over time, I came to realize the incentives, attention span, and interest of companies engaging in brilliant research are sometime eclipsed by the apparent comfort of short-term profits and near term goals. Large companies have a low threshold for high-risk research, as a potentially negative result may disappoint investors. Smaller companies are more willing to take risks, but may have a short fuse to deliver bombastic results before their next round of funding. In contrast to both of these, Universities are perfectly positioned to undertake more exciting research, involving higher risk projects, with potentially higher-payoffs. Within these projects, learning opportunities -- and fun! -- are unlimited. Stanford -- having top notch students, world-class research facilities, and being at the center of the entrepreneurial world -- is particularly well-positioned to change the world, and I want to play a role.
+
+## How did you choose your field of research?
+I have always been interested in circuits. Early in my professional education I became fascinated by my power electronics classes. I found the material intellectually appealing and the learning experience engrossing. I was taken by the fact that in every practical power electronics system, the techniques and knowledge from a broad range of engineering disciplines converge: thermal design, semiconductor physics, circuits, electro-magnetics, control, etc.
+
+Power electronics operates semiconductors in their non-linear regime. There was something about dealing with nonlinearities that seemed to lead to an open field of immense engineering possibilities.
+
+## Who has influenced your work and why.
+Prof. David Perreault, my research adviser during grad school at MIT, has had the most influence on my work. He always offered useful insight, and direction. He is a fantastic adviser. Dr. Joshua Phinney and Dr. Anthony Sagneri, students at the time, were also very important in forging the scope of my interest in the Power Electronics field. Everyone in the Laboratory for Electromagnetic and Electronic Systems (LEES) at MIT was part of an intellectual network that guided me through my early years in academic research. Some of my colleagues at GE have also greatly influenced the direction of my work, particularly Dr. John Glaser (now at EPC), Dr. Juan Sabate, Dr. Bill Burdick and Dr. Randall Buchwald. They all very graciously shared their vast experience. They introduced me to the magic world of Magnetic Resonance Imaging systems. These are folks who know how to challenge in a very positive way.
+
+## Briefly explain a project you are currently working on.
+At the SUPER-Lab (Stanford University Power Electronics Research Laboratory), my students are currently working on the design of switching power converters at frequencies above 10 MHz. As switching frequency increases, the size of energy storage devices (which can dominate the size of a converter) can be miniaturized. We want to reduce the size of the inductors and capacitors to the point that we can simply implement them using small surfaces on a printed circuit board. We are also exploring the use of 3D printers to design passive circuit components, with the goal of 3D printing fully functional power converters. Some of my students are designing power supplies for plasma generation. We are also designing ultra-compact high voltage power supplies for portable X-Ray machines and other medical devices.
+
+## What advice do you have for new EE students?
+While in EE, go full Nerd. Nowhere else will you be surrounded with a bigger blob of intellectual energy and the drive to learn and create. Ask questions, challenge your professors, make and design circuits that change the world.

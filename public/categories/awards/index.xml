@@ -19,7 +19,7 @@
     </item>
     
     <item>
-      <title>Zikang Tong received Outstanding Presentation Award.</title>
+      <title>APEC 2019 Outstanding Presentation Award.</title>
       <link>/blog/19apeczk/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -33,8 +33,36 @@
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/2018nasaitech/</guid>
-      <description>knitr::include_graphics(&amp;quot;GraysonZulauf-SUPERLab.jpg&amp;quot;) Congratulations to professors Jon Fan and Juan Rivas-Davila! Two of their researchers won the 2018 NASA iTech Forum. The event is a collaborative effort between NASA and the U.S. Department (DOE) of Energy&amp;rsquo;s Advanced Research Projects Agency-Energy (ARPA-E) to find and foster innovative solutions for critical energy challenges on Earth and in space.
-The winning project was presented by Grayson Zulauf and Thaibao (Peter) Phan. Both are PhD candidates. Their collaborative project is developing technology for wireless charging of electric vehicles on Earth, and eventually, Mars.</description>
+      <description>Figure 1: Grayson Zulauf (third from left) is an EE PhD candidate. He is a researcher in the SUPERLab, directed by Professor Juan Rivas-Davila. the Fan Lab is directed by professor Jonathan Fan.  Congratulations to professors Jon Fan and Juan Rivas-Davila! Two of their researchers won the 2018 NASA iTech Forum. The event is a collaborative effort between NASA and the U.S. Department (DOE) of Energy’s Advanced Research Projects Agency-Energy (ARPA-E) to find and foster innovative solutions for critical energy challenges on Earth and in space.</description>
+    </item>
+    
+    <item>
+      <title>SUPER-Lab undergrad intern featured in Stanford EE Spotligh</title>
+      <link>/blog/2017sabera/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2017sabera/</guid>
+      <description>Figure 1: Sabera J. Talukder  How did you become interested in your research area? There are two research avenues that I am extremely interested in: one is neuroengineering and the second is creating systems to help people in third world countries. For as long as I can remember I have been interested in the brain, and experiences like interning for Medtronic’s Deep Brain Stimulation division cemented my desire to pursue neuroengineering.</description>
+    </item>
+    
+    <item>
+      <title>2018 COMPEL Best Paper Award.</title>
+      <link>/blog/2018compel_lei/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018compel_lei/</guid>
+      <description>L. Gu, K. Surakitbovorn, G. Zulauf, S. Chakraborty and J. Rivas-Davila, &amp;ldquo;High-Frequency Bidirectional Resonant Converter for High Conversion Ratio and Variable Load Operation,&amp;rdquo; 2018 IEEE 19th Workshop on Control and Modeling for Power Electronics (COMPEL), 2018, pp. 1-8, doi: 10.1109/COMPEL.2018.8459962.
+Summary:     Applying RF circuit design techniques to dc-dc resonant converters has enabled the switching frequency to be pushed well beyond 10 MHz, resulting in higher power densities and faster transient response.</description>
+    </item>
+    
+    <item>
+      <title>2018 Student Paper Award</title>
+      <link>/blog/2018ecceasia/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018ecceasia/</guid>
+      <description>Figure 1: Kawin (North) Surakitbovorn at the award ceremony  K. Surakitbovorn and J. Rivas-Davilla, “Design of a GaN-Based Wireless Power Transfer System at 13.56 MHz to Replace Conventional Wired Connection in a Vehicle,” 2018 International Power Electronics Conference (IPEC-Niigata 2018 -ECCE Asia), 2018, pp. 3848-3854, doi: 10.23919/IPEC.2018.8507473.
+Abstract Wired connections running through the doors, hatchbacks, and trunks of a vehicle are subjected to extensive mechanical wear from repeated bending caused by the open-and-close motion.</description>
     </item>
     
   </channel>

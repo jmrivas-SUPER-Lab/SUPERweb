@@ -1,0 +1,39 @@
+---
+author: Juan Rivas
+categories:
+- News
+date: "2017-06-01"
+draft: false
+excerpt: The winning project was presented by Grayson Zulauf and Thaibao (Peter) Phan. Both are PhD candidates. Their collaborative project is developing technology for wireless charging of electric vehicles on Earth, and eventually, Mars. The researchers received invaluable feedback from NASA and DOE's ARPA-E leaders, as well as experts in the field of advanced energy technology.
+layout: single
+subtitle: Sabera J. Talukder on her research an academic experience
+title: SUPER-Lab undergrad intern featured in Stanford EE Spotligh
+---
+
+
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="Sabera J. Talukder"}
+knitr::include_graphics("SaberaTalukder.jpg")
+```
+## How did you become interested in your research area?
+There are two research avenues that I am extremely interested in: one is neuroengineering and the second is creating systems to help people in third world countries. For as long as I can remember I have been interested in the brain, and experiences like interning for Medtronic's Deep Brain Stimulation division cemented my desire to pursue neuroengineering. The motivation to help people in third world countries arose when I visited Dhaka, Bangladesh (my dad's home country) when I was 15 years old. The extreme inequities borne out of circumstance made me want to help those that did not have the same opportunities that I had, and so I created, built and deployed a water purification system called Pani Purification in daycares for street children in Dhaka.
+
+Coming into Stanford I wanted to further my experience in both of these areas while bringing my unique perspective from being the daughter of an immigrant, researching clean water solutions in third world countries, participating in Google Science Fair, and interning at Medtronic. The summer between my freshman and sophomore years I was doing an EE REU and was building the largest hardware model of the neocortex using neurogrid. It was incredibly interesting work and I loved it. During one of the EE REU seminars, Professor Rivas presented his lab's milk purifier which could purify an inordinate amount of milk off of a 9V battery. I went up to talk to him after the seminar because it reminded me of the water purification system that I had designed, built and deployed in daycares for street children in Dhaka. I was reminded of how much I missed creating systems to help people, and so the next summer I did an REU with Professor Rivas with the goal of building an electrostatic precipitator to help reduce respiratory death in rural environments.
+
+What drew me to power electronics was the breadth of applications and the ability to create projects that can make tangible differences in the world. Despite the wide applicability of power electronics, I can say with confidence that there are three reason why I stuck with my project:
+
+I believe the electrostatic precipitator has the capability of helping the 4.3 million people a year that die from respiratory diseases,
+Professor Rivas is the most encouraging and supportive professor, and has always supported me even when he did not necessarily believe that something I was doing was possible
+The Ph.D students in Professor Rivas' lab are all incredibly kind, helpful and believed in what I was doing even when I was doubtful.
+Explain a project you're currently working on.
+According to the World Health Organization, roughly 4.3 million people a year die from illnesses attributable to household air pollution, caused by cooking fumes. Although electrostatic precipitators (ESPs) have primarily been used to reduce pollution emissions for industrial factories, I am currently working on how ESPs can be modified to address the problem of household air pollution in developing countries. An ESP is a device with a large voltage differential between its electrode and discharge surface. Particles that flow through the device are negatively charged on the electrode, and then via electrostatic forces, collect on the discharge surface.
+
+I created a miniaturized, affordable, and portable electrostatic precipitator (ESP) that can reduce respiratory diseases in households suffering from indoor air pollution, and can withstand rural environments via a novel electrode design that facilitates precipitation at lower voltages, and two circuit topologies that offer a low and high power solution.
+
+## Why did you choose Stanford EE?
+I am double majoring in EE and Biochemistry because I am extremely interested in neuroengineering, specifically how one could put information into the brain. I think EE is incredibly important for what I want to do because of the mathematical rigor required in the coursework. In addition, my focus in EE is control systems, and exploring how electrical systems incorporate various types of feedback to regulate output. This approach helps when trying to understand how the brain relies on various types of electrical and chemical feedback to generate our thoughts, moods, and behaviors. Stanford EE offers so much, but arguably the most important aspect of the major to me is the versatility to apply the methodologies and rigor I have learned in EE classes to other disciplines, namely neurobiology.
+
+## What other activities are you involved with on campus?
+I am currently getting involved in neurobiology research under Professor Tom Clandinin's guidance, where I am hoping to explore the mechanisms by which visual memory is learned in fruit flies. Although it's not as grandiose as implanting memories, I think researching the mechanism of how memory and learning occurs is a first step towards my goals of inserting information into the brain. In addition to research, I enjoy singing and dancing, and played the role of Nina in the musical production of In The Heights at Stanford during my sophomore spring, and am part of Los Salseros de Stanford, the Stanford salsa dancing group.
+
+## What are your career plans?
+I am hoping to start a Ph.D in neuroscience once I graduate from Stanford in the spring of 2018. I plan to continue memory research and how scientists might insert memories into the brain. After my Ph.D I hope to go to medical school and be trained as a neurosurgeon. Throughout this time I hope to continue the work I have done on designing systems to improve the lives of those in third world countries, by either creating and deploying new systems or focusing on deploying the water purification system and electrostatic precipitator that I have already built in more places than just Dhaka, Bangladesh.
