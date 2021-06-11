@@ -1,22 +1,15 @@
 ---
 title: "Eric Stolt"
 subtitle: "Ph.D Student Electrical Engineering"
-excerpt: "stolt@stanford.edu"
-weight: 2
-author: "Juan Rivas"
+excerpt: "Ph.D Student Electrical Engineering"
+weight: 3
+author: ""
 draft: false
-categories:
-  - example
 # layout options: single or single-sidebar
 layout: single-sidebar
 links:
-- icon: link
+- icon: envelope
   icon_pack: fas
   name: Eric Stolt
-  url: https://github.com/
-- icon: github
-  icon_pack: fab
-  name: source
-  url: https://github.com/
+  url: mailto:stolt@stanford.edu
 ---
-

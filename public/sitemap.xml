@@ -11,7 +11,7 @@
     <loc>/collection/prework/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/labpeople/zhechi/</loc>
+    <loc>/labpeople/zhechiye/</loc>
   </url><url>
     <loc>/collection/day01/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
@@ -21,6 +21,8 @@
   </url><url>
     <loc>/collection/day02/02-blogdown/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/alumni/sanghyeon/</loc>
   </url><url>
     <loc>/labpeople/ericstolt/</loc>
   </url><url>
@@ -32,6 +34,18 @@
   </url><url>
     <loc>/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/labpeople/weston/</loc>
+  </url><url>
+    <loc>/labpeople/zikangtong/</loc>
+  </url><url>
+    <loc>/labpeople/jiazhuang/</loc>
+  </url><url>
+    <loc>/labpeople/jialexu/</loc>
+  </url><url>
+    <loc>/labpeople/jasonpoon/</loc>
+  </url><url>
+    <loc>/labpeople/kawin/</loc>
   </url><url>
     <loc>/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
@@ -137,9 +151,9 @@
   </url><url>
     <loc>/contributors/</loc>
   </url><url>
-    <loc>/categories/example/</loc>
-  </url><url>
     <loc>/license/</loc>
+  </url><url>
+    <loc>/alumni/</loc>
   </url><url>
     <loc>/labpeople/</loc>
   </url><url>

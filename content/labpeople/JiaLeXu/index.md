@@ -1,22 +1,20 @@
 ---
 title: "JiaLe Xu"
-subtitle: "Ph.D Student Electrical Engineering"
-excerpt: "jialexu@stanford.edu"
-weight: 6
-author: "Juan Rivas"
+subtitle: "Ph.D. Student Electrical Engineering"
+excerpt: "Ph.D. Student Electrical Engineering"
+weight: 7
+author: ""
 draft: false
-categories:
-  - example
 # layout options: single or single-sidebar
 layout: single-sidebar
 links:
-- icon: link
+- icon: envelope
   icon_pack: fas
   name: JiaLe Xu
-  url: https://github.com/
-- icon: github
-  icon_pack: fab
-  name: source
-  url: https://github.com/
+  url: mailto:jialexu@stanford.edu
+- icon: google-scholar
+  icon_pack: ai
+  name: JiaLe Xu
+  url: https://scholar.google.com/citations?hl=en&user=8boV8BUAAAAJ
 ---
 

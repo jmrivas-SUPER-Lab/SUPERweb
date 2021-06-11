@@ -8,10 +8,10 @@
     <language>en</language><atom:link href="/categories/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zhechi Ye</title>
-      <link>/labpeople/zhechi/</link>
+      <link>/labpeople/zhechiye/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/labpeople/zhechi/</guid>
+      <guid>/labpeople/zhechiye/</guid>
       <description></description>
     </item>
     
@@ -21,6 +21,60 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labpeople/ericstolt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weston Braun</title>
+      <link>/labpeople/weston/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/weston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zikang Tong</title>
+      <link>/labpeople/zikangtong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/zikangtong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia Zhuang</title>
+      <link>/labpeople/jiazhuang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/jiazhuang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JiaLe Xu</title>
+      <link>/labpeople/jialexu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/jialexu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Jason Poon</title>
+      <link>/labpeople/jasonpoon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/jasonpoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Kawin Surakitbovorn</title>
+      <link>/labpeople/kawin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/kawin/</guid>
       <description></description>
     </item>
     

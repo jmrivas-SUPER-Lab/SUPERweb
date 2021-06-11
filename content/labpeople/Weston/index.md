@@ -1,22 +1,20 @@
 ---
 title: "Weston Braun"
 subtitle: "Ph.D Student Electrical Engineering"
-excerpt: "wdb@stanford.edu"
-weight: 3
-author: "Juan Rivas"
+excerpt: "Ph.D Student Electrical Engineering"
+weight: 4
+author: ""
 draft: false
-categories:
-  - example
 # layout options: single or single-sidebar
 layout: single-sidebar
 links:
-- icon: link
+- icon: envelope
   icon_pack: fas
   name: Weston Braun
-  url: https://github.com/
-- icon: github
+  url: mailto:wdb@stanford.edu
+- icon: twitter
   icon_pack: fab
-  name: source
-  url: https://github.com/
+  name: Weston
+  url: WestonBraun
 ---
 

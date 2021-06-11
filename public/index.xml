@@ -41,11 +41,11 @@ Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rst
     
     <item>
       <title>Zhechi Ye</title>
-      <link>/labpeople/zhechi/</link>
+      <link>/labpeople/zhechiye/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/labpeople/zhechi/</guid>
-      <description></description>
+      <guid>/labpeople/zhechiye/</guid>
+      <description>yezc15@stanford.edu</description>
     </item>
     
     <item>
@@ -72,11 +72,20 @@ install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you u
     
     <item>
       <title>Eric Stolt</title>
+      <link>/alumni/sanghyeon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/sanghyeon/</guid>
+      <description>stolt@stanford.edu</description>
+    </item>
+    
+    <item>
+      <title>Eric Stolt</title>
       <link>/labpeople/ericstolt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labpeople/ericstolt/</guid>
-      <description></description>
+      <description>stolt@stanford.edu</description>
     </item>
     
     <item>
@@ -99,6 +108,60 @@ install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you us
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>Weston Braun</title>
+      <link>/labpeople/weston/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/weston/</guid>
+      <description>wdb@stanford.edu</description>
+    </item>
+    
+    <item>
+      <title>Zikang Tong</title>
+      <link>/labpeople/zikangtong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/zikangtong/</guid>
+      <description>ztong@stanford.edu</description>
+    </item>
+    
+    <item>
+      <title>Jia Zhuang</title>
+      <link>/labpeople/jiazhuang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/jiazhuang/</guid>
+      <description>jzhuang7@stanford.edu</description>
+    </item>
+    
+    <item>
+      <title>JiaLe Xu</title>
+      <link>/labpeople/jialexu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/jialexu/</guid>
+      <description>jialexu@stanford.edu</description>
+    </item>
+    
+    <item>
+      <title>Dr. Jason Poon</title>
+      <link>/labpeople/jasonpoon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/jasonpoon/</guid>
+      <description>jason.poon@stanford.edu</description>
+    </item>
+    
+    <item>
+      <title>Dr. Kawin Surakitbovorn</title>
+      <link>/labpeople/kawin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/kawin/</guid>
+      <description>north@stanford.edu</description>
     </item>
     
     <item>

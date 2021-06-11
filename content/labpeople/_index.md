@@ -1,33 +1,27 @@
 ---
-title: People at the SUPER-Lab
-description: "SUPER-Lab members"
-author: "Juan Rivas"
-show_post_thumbnail: true
+author: Prof. Juan Rivas @SUPER-Lab
+cascade:
+  type: project
+  show_author_byline: true
+  show_comments: false
+  show_post_date: false
+  sidebar:
+    show_sidebar_adunit: true
+    text_link_label: View all lab members
+    text_link_url: /labpeople/
+description: SUPER-Lab members
+layout: list-grid
 show_author_byline: false
 show_post_date: false
-# for listing page layout
-layout: list-grid # list, list-sidebar, list-grid
-
-# for list-sidebar layout
-sidebar: 
-  title: People at the SUPER-Lab
-  description: |
-    SUPER-Lab members
-  author: "Juan Rivas"
+show_post_thumbnail: true
+sidebar:
+  author: Prof. Juan Rivas @SUPER-Lab
+  description: "Current lab members"
+  show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  show_sidebar_adunit: false # show ad container
-
-# set up common front matter for all individual pages inside project/
-cascade:    
-  show_author_byline: false
-  show_post_date: false
-  show_comments: false # see site config to choose Disqus or Utterances
-  # for single-sidebar layout only
-  sidebar:
-    text_link_label: View all examples
-    text_link_url: /labpeople/
-    show_sidebar_adunit: true # show ad container
+  title: People at the SUPER-Lab
+title: People at the SUPER-Lab
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **

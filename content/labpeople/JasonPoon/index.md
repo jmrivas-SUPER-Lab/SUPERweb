@@ -1,22 +1,20 @@
 ---
 title: "Dr. Jason Poon"
-subtitle: "Postdoctoral Researcher"
-excerpt: "jason.poon@stanford.edu"
-weight: 7
-author: "Juan Rivas"
+subtitle: "Visiting Postdoctoral scholar"
+excerpt: "Visiting Postdoctoral scholar"
+weight: 9
+author: ""
 draft: false
-categories:
-  - example
 # layout options: single or single-sidebar
 layout: single-sidebar
 links:
-- icon: link
+- icon: envelope
   icon_pack: fas
-  name: Eric Stolt
-  url: https://github.com/
-- icon: github
-  icon_pack: fab
-  name: source
-  url: https://github.com/
+  name: Dr. Jason Poon
+  url: mailto:jason.poon@stanford.edu
+- icon: google-scholar
+  icon_pack: ai
+  name: Jason Poon
+  url: https://scholar.google.com/citations?hl=en&user=tQuv3DoAAAAJ
 ---
 
