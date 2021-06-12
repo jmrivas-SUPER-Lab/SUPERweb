@@ -6,7 +6,7 @@
     <description>Recent content in Prof. Juan M. Rivas Davila on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>/collection/day02/01-netlify/</link>
@@ -40,12 +40,21 @@ Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rst
     </item>
     
     <item>
-      <title>Zhechi Ye</title>
-      <link>/labpeople/zhechiye/</link>
+      <title>Douglas Chaffee</title>
+      <link>/labpeople/doug/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/labpeople/zhechiye/</guid>
-      <description>yezc15@stanford.edu</description>
+      <guid>/labpeople/doug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Max Pranglin, M.S.</title>
+      <link>/alumni/maxpraglin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/maxpraglin/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -71,21 +80,21 @@ install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you u
     </item>
     
     <item>
-      <title>Eric Stolt</title>
-      <link>/alumni/sanghyeon/</link>
+      <title>Emily Hernandez, M.S.</title>
+      <link>/alumni/emilyhernandez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/alumni/sanghyeon/</guid>
-      <description>stolt@stanford.edu</description>
+      <guid>/alumni/emilyhernandez/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Eric Stolt</title>
-      <link>/labpeople/ericstolt/</link>
+      <title>Zhechi Ye</title>
+      <link>/labpeople/zhechiye/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/labpeople/ericstolt/</guid>
-      <description>stolt@stanford.edu</description>
+      <guid>/labpeople/zhechiye/</guid>
+      <description>yezc15@stanford.edu</description>
     </item>
     
     <item>
@@ -111,12 +120,48 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
+      <title>Eric Stolt</title>
+      <link>/labpeople/ericstolt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/ericstolt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Liang, Ph.D.</title>
+      <link>/alumni/weiliang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/weiliang/</guid>
+      <description>Doctoral Dissertation   * Compact high frequency power conversion for high voltage applications *      Presented in 2018 Manuscript available here.  Summary     Performance of high-voltage power converters has lagged their low-voltage counterparts on many metrics including power density, efficiency, transient response, and cost. This research presents newly developed circuit techniques and design strategies that allow high-voltage power supplies to be many times smaller and more efficient than the traditional high-voltage supplies on the market today.</description>
+    </item>
+    
+    <item>
+      <title>Luke Raymond, Ph.D.</title>
+      <link>/alumni/lukeraymond/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/lukeraymond/</guid>
+      <description>Doctoral Dissertation   * Compact high frequency power conversion for high voltage applications *      Presented in 2018 Manuscript available here.  Summary     Performance of high-voltage power converters has lagged their low-voltage counterparts on many metrics including power density, efficiency, transient response, and cost. This research presents newly developed circuit techniques and design strategies that allow high-voltage power supplies to be many times smaller and more efficient than the traditional high-voltage supplies on the market today.</description>
+    </item>
+    
+    <item>
       <title>Weston Braun</title>
       <link>/labpeople/weston/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labpeople/weston/</guid>
-      <description>wdb@stanford.edu</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jungwon Choi, Ph.D.</title>
+      <link>/alumni/jungwonchoi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/jungwonchoi/</guid>
+      <description>Doctoral Dissertation   High-frequency, high-power resonant converter with wide bandgap devices for wireless power transfer systems      Presented in 2018 Manuscript availabe here.  Summary     As demand for electric vehicles (EVs) grows, wireless power transfer (WPT) technology becomes beneficial by removing the need for manual intervention to charge EV batteries. These high-power applications require power electronics systems that not only efficiently deliver sufficient power, but are also small enough to be embedded in the EV.</description>
     </item>
     
     <item>
@@ -125,7 +170,7 @@ My content section is: collection  My layout is: single-series   part 2!     doe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labpeople/zikangtong/</guid>
-      <description>ztong@stanford.edu</description>
+      <description></description>
     </item>
     
     <item>
@@ -134,7 +179,25 @@ My content section is: collection  My layout is: single-series   part 2!     doe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labpeople/jiazhuang/</guid>
-      <description>jzhuang7@stanford.edu</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lei Gu, Ph.D.</title>
+      <link>/alumni/leigu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/leigu/</guid>
+      <description>Doctoral Dissertation   Design considerations for radio frequency power converters      Presented in 2019 Manuscript available here.  Summary     Compact and efficient high-frequency power converters and amplifiers are needed in a variety of applications, including base stations, mobile devices, and medical equipment. The ever-growing need for a smaller size, longer battery life, and lower cost introduces challenging design considerations for radio-frequency power converters.</description>
+    </item>
+    
+    <item>
+      <title>Grayson Zulauf, Ph.D.</title>
+      <link>/alumni/graysonzulauf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/graysonzulauf/</guid>
+      <description>Doctoral Dissertation   Wide-bandgap semiconductors for next-generation power electronics systems      Presented on May 19, 2020 Availabe for download here.  Summary     Wide-bandgap power semiconductors promise to reshape the power electronics landscape, opening completely new use cases and increasing efficiency and power density in existing ones. Most notably, gallium nitride (GaN) and silicon carbide (SiC) were successfully commercialized in the past decades, with theoretical benefits over silicon of multiple orders-of-magnitude.</description>
     </item>
     
     <item>
@@ -143,16 +206,7 @@ My content section is: collection  My layout is: single-series   part 2!     doe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labpeople/jialexu/</guid>
-      <description>jialexu@stanford.edu</description>
-    </item>
-    
-    <item>
-      <title>Dr. Jason Poon</title>
-      <link>/labpeople/jasonpoon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/labpeople/jasonpoon/</guid>
-      <description>jason.poon@stanford.edu</description>
+      <description></description>
     </item>
     
     <item>
@@ -161,7 +215,52 @@ My content section is: collection  My layout is: single-series   part 2!     doe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labpeople/kawin/</guid>
-      <description>north@stanford.edu</description>
+      <description>Doctoral Dissertation   On the design and optimization of RF power amplifiers using wide bandgap devices      Presented March 2021 Manuscript available here.  Summary     Compact radio-frequency (RF) power amplifiers are essential building blocks in various applications, including radio transmission, medical imaging, wireless power transfer, industrial plasma generation, and micro-satellite propulsion. Over the past decades, new wide bandgap (WBG) semiconductor devices, particularly gallium nitride (GaN) and silicon carbide (SiC), were successfully commercialized.</description>
+    </item>
+    
+    <item>
+      <title>Sanghyeon Park, Ph.D.</title>
+      <link>/alumni/sanghyeon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/sanghyeon/</guid>
+      <description> Doctoral Dissertation   Circuit techniques for compact and lightweight high-voltage dc power supplies      Presented on April 13, 2021  </description>
+    </item>
+    
+    <item>
+      <title>Dr. Jason Poon</title>
+      <link>/labpeople/jasonpoon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/jasonpoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual-Level and Neighborhood-Level Risk Factors for Severe Maternal Morbidity</title>
+      <link>/publication/smm-individual-neighborhood/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/smm-individual-neighborhood/</guid>
+      <description>Study showing that neighborhood-level risk factors are independent predictors of Severe Maternal Morbidity, providing further evidence that racial disparities in maternal outcomes are symptoms of historical and structural racism.</description>
+    </item>
+    
+    <item>
+      <title>Optimized Resonators for Piezoelectric Power Conversion</title>
+      <link>/publication/optimized-resonators-piezoelectric_braun/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/optimized-resonators-piezoelectric_braun/</guid>
+      <description>The performance of inductors at high frequencies and small sizes is one of the largest limiting factors in the continued miniaturization of dc-dc converters. Piezoelectric resonators can have a very high quality factor and provide an inductive impedance between their series and parallel resonant frequencies, making them a promising technology for further miniaturizing dc-dc converters.</description>
+    </item>
+    
+    <item>
+      <title>Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs</title>
+      <link>/publication/dynamic-capacitance-gan_zhuang/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dynamic-capacitance-gan_zhuang/</guid>
+      <description>The performance of inductors at high frequencies and small sizes is one of the largest limiting factors in the continued miniaturization of dc-dc converters. Piezoelectric resonators can have a very high quality factor and provide an inductive impedance between their series and parallel resonant frequencies, making them a promising technology for further miniaturizing dc-dc converters.</description>
     </item>
     
     <item>

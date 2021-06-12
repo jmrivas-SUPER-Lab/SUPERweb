@@ -1,18 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>People at the SUPER-Lab on SUPER-Lab</title>
+    <title>Former SUPER-Lab members on SUPER-Lab</title>
     <link>/alumni/</link>
-    <description>Recent content in People at the SUPER-Lab on SUPER-Lab</description>
+    <description>Recent content in Former SUPER-Lab members on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="/alumni/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Eric Stolt</title>
+      <title>Max Pranglin, M.S.</title>
+      <link>/alumni/maxpraglin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/maxpraglin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily Hernandez, M.S.</title>
+      <link>/alumni/emilyhernandez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/emilyhernandez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Liang, Ph.D.</title>
+      <link>/alumni/weiliang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/weiliang/</guid>
+      <description>Doctoral Dissertation   * Compact high frequency power conversion for high voltage applications *      Presented in 2018 Manuscript available here.  Summary     Performance of high-voltage power converters has lagged their low-voltage counterparts on many metrics including power density, efficiency, transient response, and cost. This research presents newly developed circuit techniques and design strategies that allow high-voltage power supplies to be many times smaller and more efficient than the traditional high-voltage supplies on the market today.</description>
+    </item>
+    
+    <item>
+      <title>Luke Raymond, Ph.D.</title>
+      <link>/alumni/lukeraymond/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/lukeraymond/</guid>
+      <description>Doctoral Dissertation   * Compact high frequency power conversion for high voltage applications *      Presented in 2018 Manuscript available here.  Summary     Performance of high-voltage power converters has lagged their low-voltage counterparts on many metrics including power density, efficiency, transient response, and cost. This research presents newly developed circuit techniques and design strategies that allow high-voltage power supplies to be many times smaller and more efficient than the traditional high-voltage supplies on the market today.</description>
+    </item>
+    
+    <item>
+      <title>Jungwon Choi, Ph.D.</title>
+      <link>/alumni/jungwonchoi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/jungwonchoi/</guid>
+      <description>Doctoral Dissertation   High-frequency, high-power resonant converter with wide bandgap devices for wireless power transfer systems      Presented in 2018 Manuscript availabe here.  Summary     As demand for electric vehicles (EVs) grows, wireless power transfer (WPT) technology becomes beneficial by removing the need for manual intervention to charge EV batteries. These high-power applications require power electronics systems that not only efficiently deliver sufficient power, but are also small enough to be embedded in the EV.</description>
+    </item>
+    
+    <item>
+      <title>Lei Gu, Ph.D.</title>
+      <link>/alumni/leigu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/leigu/</guid>
+      <description>Doctoral Dissertation   Design considerations for radio frequency power converters      Presented in 2019 Manuscript available here.  Summary     Compact and efficient high-frequency power converters and amplifiers are needed in a variety of applications, including base stations, mobile devices, and medical equipment. The ever-growing need for a smaller size, longer battery life, and lower cost introduces challenging design considerations for radio-frequency power converters.</description>
+    </item>
+    
+    <item>
+      <title>Grayson Zulauf, Ph.D.</title>
+      <link>/alumni/graysonzulauf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/graysonzulauf/</guid>
+      <description>Doctoral Dissertation   Wide-bandgap semiconductors for next-generation power electronics systems      Presented on May 19, 2020 Availabe for download here.  Summary     Wide-bandgap power semiconductors promise to reshape the power electronics landscape, opening completely new use cases and increasing efficiency and power density in existing ones. Most notably, gallium nitride (GaN) and silicon carbide (SiC) were successfully commercialized in the past decades, with theoretical benefits over silicon of multiple orders-of-magnitude.</description>
+    </item>
+    
+    <item>
+      <title>Sanghyeon Park, Ph.D.</title>
       <link>/alumni/sanghyeon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/alumni/sanghyeon/</guid>
-      <description>stolt@stanford.edu</description>
+      <description> Doctoral Dissertation   Circuit techniques for compact and lightweight high-voltage dc power supplies      Presented on April 13, 2021  </description>
     </item>
     
   </channel>

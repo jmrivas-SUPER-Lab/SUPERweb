@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on SUPER-Lab</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Individual-Level and Neighborhood-Level Risk Factors for Severe Maternal Morbidity</title>
+      <link>/publication/smm-individual-neighborhood/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/smm-individual-neighborhood/</guid>
+      <description>Study showing that neighborhood-level risk factors are independent predictors of Severe Maternal Morbidity, providing further evidence that racial disparities in maternal outcomes are symptoms of historical and structural racism.</description>
+    </item>
+    
+    <item>
+      <title>Optimized Resonators for Piezoelectric Power Conversion</title>
+      <link>/publication/optimized-resonators-piezoelectric_braun/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/optimized-resonators-piezoelectric_braun/</guid>
+      <description>The performance of inductors at high frequencies and small sizes is one of the largest limiting factors in the continued miniaturization of dc-dc converters. Piezoelectric resonators can have a very high quality factor and provide an inductive impedance between their series and parallel resonant frequencies, making them a promising technology for further miniaturizing dc-dc converters.</description>
+    </item>
+    
+    <item>
+      <title>Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs</title>
+      <link>/publication/dynamic-capacitance-gan_zhuang/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dynamic-capacitance-gan_zhuang/</guid>
+      <description>The performance of inductors at high frequencies and small sizes is one of the largest limiting factors in the continued miniaturization of dc-dc converters. Piezoelectric resonators can have a very high quality factor and provide an inductive impedance between their series and parallel resonant frequencies, making them a promising technology for further miniaturizing dc-dc converters.</description>
+    </item>
+    
+  </channel>
+</rss>

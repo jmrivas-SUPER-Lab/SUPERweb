@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coss on SUPER-Lab</title>
+    <link>/tags/coss/</link>
+    <description>Recent content in Coss on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/coss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs</title>
+      <link>/publication/dynamic-capacitance-gan_zhuang/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dynamic-capacitance-gan_zhuang/</guid>
+      <description>The performance of inductors at high frequencies and small sizes is one of the largest limiting factors in the continued miniaturization of dc-dc converters. Piezoelectric resonators can have a very high quality factor and provide an inductive impedance between their series and parallel resonant frequencies, making them a promising technology for further miniaturizing dc-dc converters.</description>
+    </item>
+    
+  </channel>
+</rss>

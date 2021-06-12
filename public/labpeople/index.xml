@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="/labpeople/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Douglas Chaffee</title>
+      <link>/labpeople/doug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/doug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Zhechi Ye</title>
       <link>/labpeople/zhechiye/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -21,7 +30,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labpeople/ericstolt/</guid>
-      <description>stolt@stanford.edu</description>
+      <description></description>
     </item>
     
     <item>
@@ -30,7 +39,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labpeople/weston/</guid>
-      <description>wdb@stanford.edu</description>
+      <description></description>
     </item>
     
     <item>
@@ -39,7 +48,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labpeople/zikangtong/</guid>
-      <description>ztong@stanford.edu</description>
+      <description></description>
     </item>
     
     <item>
@@ -48,7 +57,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labpeople/jiazhuang/</guid>
-      <description>jzhuang7@stanford.edu</description>
+      <description></description>
     </item>
     
     <item>
@@ -57,16 +66,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labpeople/jialexu/</guid>
-      <description>jialexu@stanford.edu</description>
-    </item>
-    
-    <item>
-      <title>Dr. Jason Poon</title>
-      <link>/labpeople/jasonpoon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/labpeople/jasonpoon/</guid>
-      <description>jason.poon@stanford.edu</description>
+      <description></description>
     </item>
     
     <item>
@@ -75,7 +75,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/labpeople/kawin/</guid>
-      <description>north@stanford.edu</description>
+      <description>Doctoral Dissertation   On the design and optimization of RF power amplifiers using wide bandgap devices      Presented March 2021 Manuscript available here.  Summary     Compact radio-frequency (RF) power amplifiers are essential building blocks in various applications, including radio transmission, medical imaging, wireless power transfer, industrial plasma generation, and micro-satellite propulsion. Over the past decades, new wide bandgap (WBG) semiconductor devices, particularly gallium nitride (GaN) and silicon carbide (SiC), were successfully commercialized.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Jason Poon</title>
+      <link>/labpeople/jasonpoon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/labpeople/jasonpoon/</guid>
+      <description></description>
     </item>
     
   </channel>
