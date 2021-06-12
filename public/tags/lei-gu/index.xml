@@ -5,7 +5,8 @@
     <link>/tags/lei-gu/</link>
     <description>Recent content in Lei Gu on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/lei-gu/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/lei-gu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lei Gu, Ph.D.</title>
       <link>/alumni/leigu/</link>
@@ -13,6 +14,15 @@
       
       <guid>/alumni/leigu/</guid>
       <description>Doctoral Dissertation   Design considerations for radio frequency power converters      Presented in 2019 Manuscript available here.  Summary     Compact and efficient high-frequency power converters and amplifiers are needed in a variety of applications, including base stations, mobile devices, and medical equipment. The ever-growing need for a smaller size, longer battery life, and lower cost introduces challenging design considerations for radio-frequency power converters.</description>
+    </item>
+    
+    <item>
+      <title>6.78-MHz Wireless Power Transfer With Self-Resonant Coils at 95% DC–DC Efficiency</title>
+      <link>/publication/6m78-wpt-src-dcdc_gu/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/6m78-wpt-src-dcdc_gu/</guid>
+      <description>This letter describes the design considerations for inductive wireless power transfer systems operating at 6.78 MHz. With a novel high-frequency resonant amplifier topology, a high-Q self-resonant coil structure, and a better understanding of C oss losses in wide-bandgap power semiconductors, we demonstrate 6.78- MHz wireless power transfer systems that achieve 95% dc-dc efficiency at power levels up to and beyond 1 kW.</description>
     </item>
     
   </channel>

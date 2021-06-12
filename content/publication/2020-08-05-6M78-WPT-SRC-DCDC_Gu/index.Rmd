@@ -1,0 +1,53 @@
+---
+title: "6.78-MHz Wireless Power Transfer With Self-Resonant Coils at 95% DC–DC Efficiency"
+author: "L. Gu, G. Zulauf, A. Stein, P. A. Kyaw, T. Chen and J. M. R. Davila"
+date: '2020-08-05'
+slug: 6M78-WPT-SRC-DCDC_Gu
+categories:
+  - Journal
+tags: 
+  - Coupling Circuits
+  - Electromagnetic Coupling
+  - Inductive Charging
+  - Power Amplifiers
+  - Tuning
+  - Wireless Power Transmission
+  - Zero Voltage Switching
+  - Lei Gu
+  - Grayson Zulauf
+  - Tuofei Chen
+doi: 'https://ieeexplore-ieee-org.stanford.idm.oclc.org/document/9159915'
+publishDate: '2020-08-05T00:00:00-01:00'
+publication_types:
+  - '1'
+publication: ' IEEE Transactions on Power Electronics'
+publication_short: 'IEEE TPELS'
+abstract: 'Megahertz-frequency inductive wireless power transfer holds the promise of compact and efficient wireless power transfer. Unfortunately, due to high-frequency losses in wide-bandgap semiconductors and low-Q high-frequency coil designs, these systems are universally less efficient, on a dc-dc basis, than wireless power systems operating at conventional frequency regimes. This letter describes the design considerations for inductive wireless power transfer systems operating at 6.78 MHz. With a novel high-frequency resonant amplifier topology, a high-Q self-resonant coil structure, and a better understanding of C oss losses in wide-bandgap power semiconductors, we demonstrate 6.78- MHz wireless power transfer systems that achieve 95% dc-dc efficiency at power levels up to and beyond 1 kW.'
+summary: 'This letter describes the design considerations for inductive wireless power transfer systems operating at 6.78 MHz. With a novel high-frequency resonant amplifier topology, a high-Q self-resonant coil structure, and a better understanding of C oss losses in wide-bandgap power semiconductors, we demonstrate 6.78- MHz wireless power transfer systems that achieve 95% dc-dc efficiency at power levels up to and beyond 1 kW.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore-ieee-org.stanford.idm.oclc.org/document/9159915
+- icon: file-pdf
+  icon_pack: fas
+  name: Pre-print
+  url: files2download/TPEL2020_paper_Lei.pdf
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="Photograph of the PPT Φ2 wireless dc–dc converter. Coil diameter is 66.2 mm and the separation between the closest part of the coils is 19 mm. Implemented inverter dimensions are 7 cm × 7 cm × 1 cm. Diodes are integrated on coil output terminal for low parasitic inductance"}
+knitr::include_graphics("gu6-3014042-small.gif")
+```
+
+## Abstract 
+
+Megahertz-frequency inductive wireless power transfer holds the promise of compact and efficient wireless power transfer. Unfortunately, due to high-frequency losses in wide-bandgap semiconductors and low-Q high-frequency coil designs, these systems are universally less efficient, on a dc-dc basis, than wireless power systems operating at conventional frequency regimes. This letter describes the design considerations for inductive wireless power transfer systems operating at 6.78 MHz. With a novel high-frequency resonant amplifier topology, a high-Q self-resonant coil structure, and a better understanding of C oss losses in wide-bandgap power semiconductors, we demonstrate 6.78- MHz wireless power transfer systems that achieve 95% dc-dc efficiency at power levels up to and beyond 1 kW.

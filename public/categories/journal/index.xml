@@ -61,5 +61,14 @@
       <description>Developments in simulation and distributed control of distributed energy resources require increasingly granular characterization and modeling of load behavior. Previous work has demonstrated the viability of voltage-based power control of residential appliances to enable load flexibility without service interruption. However, conventional static and dynamic load models fail to capture the coupled voltage and state dynamics relevant for this type of control.</description>
     </item>
     
+    <item>
+      <title>6.78-MHz Wireless Power Transfer With Self-Resonant Coils at 95% DC–DC Efficiency</title>
+      <link>/publication/6m78-wpt-src-dcdc_gu/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/6m78-wpt-src-dcdc_gu/</guid>
+      <description>This letter describes the design considerations for inductive wireless power transfer systems operating at 6.78 MHz. With a novel high-frequency resonant amplifier topology, a high-Q self-resonant coil structure, and a better understanding of C oss losses in wide-bandgap power semiconductors, we demonstrate 6.78- MHz wireless power transfer systems that achieve 95% dc-dc efficiency at power levels up to and beyond 1 kW.</description>
+    </item>
+    
   </channel>
 </rss>

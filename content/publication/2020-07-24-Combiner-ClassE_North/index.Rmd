@@ -1,0 +1,49 @@
+---
+title: "A Simple Method to Combine the Output Power from Multiple Class-E Power Amplifiers"
+author: "K. Surakitbovorn and J. M. Rivas-Davila"
+date: '2020-07-24'
+slug: Combiner-ClassE_North
+categories:
+  - Journal
+tags: 
+  - Power Combining
+  - Class-E Amplifier
+  - RF Power Amplifier
+  - RF Generator
+  - GaN
+  - Kawing Surakitbovorn
+doi: '10.1109/JESTPE.2020.3011658'
+publishDate: '2020-07-24T00:00:00-01:00'
+publication_types:
+  - '1'
+publication: 'IEEE Journal of Emerging and Selected Topics in Power Electronics'
+publication_short: 'IEEE JESTPE'
+abstract: 'Radio frequency (RF) power amplifiers are an integral part of many academic, medical, and industrial applications. For many of these applications, the required power level is high enough such that a single amplifier circuit cannot provide enough power, and multiple amplifiers are needed. Conventionally, a power combiner network is used to isolate any mismatch between the multiple power amplifiers combining their output powers. However, these power combiner networks have their disadvantages, including additional loss and an increase in overall system size. In this paper, we present an alternative approach to designing a high-efficiency high power RF amplifier system. Here, we offer a simple tuning method that allows output powers from multiple power amplifiers to be combined directly without the need for an extra combiner network, given that the mismatches between the amplifiers are sufficiently small. The method is specifically developed for class-E power amplifiers at kilowatts power level and is demonstrated with a 1500 W 40.68 MHz power amplifier design utilizing six sub-circuits directly combining power.'
+summary: 'In this paper, we present an alternative approach to designing a high-efficiency high power RF amplifier system. Here, we offer a simple tuning method that allows output powers from multiple power amplifiers to be combined directly without the need for an extra combiner network, given that the mismatches between the amplifiers are sufficiently small.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore-ieee-org.stanford.idm.oclc.org/document/9146859
+- icon: file-pdf
+  icon_pack: fas
+  name: Pre-print
+  url: files2download/JESTPE2020_paper_North.pdf
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="The modified board used for the power sharing verification experiment."}
+knitr::include_graphics("Northcombiner.jpg")
+```
+
+## Abstract 
+
+Radio frequency (RF) power amplifiers are an integral part of many academic, medical, and industrial applications. For many of these applications, the required power level is high enough such that a single amplifier circuit cannot provide enough power, and multiple amplifiers are needed. Conventionally, a power combiner network is used to isolate any mismatch between the multiple power amplifiers combining their output powers. However, these power combiner networks have their disadvantages, including additional loss and an increase in overall system size. In this paper, we present an alternative approach to designing a high-efficiency high power RF amplifier system. Here, we offer a simple tuning method that allows output powers from multiple power amplifiers to be combined directly without the need for an extra combiner network, given that the mismatches between the amplifiers are sufficiently small. The method is specifically developed for class-E power amplifiers at kilowatts power level and is demonstrated with a 1500 W 40.68 MHz power amplifier design utilizing six sub-circuits directly combining power.

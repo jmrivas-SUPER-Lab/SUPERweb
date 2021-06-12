@@ -25,5 +25,14 @@
       <description>The origin of ${C}_{{\mathrm {oss}}}$ and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of gallium nitride (GaN) buffer layers and Si-substrate.</description>
     </item>
     
+    <item>
+      <title>6.78-MHz Wireless Power Transfer With Self-Resonant Coils at 95% DC–DC Efficiency</title>
+      <link>/publication/6m78-wpt-src-dcdc_gu/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/6m78-wpt-src-dcdc_gu/</guid>
+      <description>This letter describes the design considerations for inductive wireless power transfer systems operating at 6.78 MHz. With a novel high-frequency resonant amplifier topology, a high-Q self-resonant coil structure, and a better understanding of C oss losses in wide-bandgap power semiconductors, we demonstrate 6.78- MHz wireless power transfer systems that achieve 95% dc-dc efficiency at power levels up to and beyond 1 kW.</description>
+    </item>
+    
   </channel>
 </rss>

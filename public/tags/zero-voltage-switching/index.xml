@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zero Voltage Switching on SUPER-Lab</title>
+    <link>/tags/zero-voltage-switching/</link>
+    <description>Recent content in Zero Voltage Switching on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/zero-voltage-switching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6.78-MHz Wireless Power Transfer With Self-Resonant Coils at 95% DC–DC Efficiency</title>
+      <link>/publication/6m78-wpt-src-dcdc_gu/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/6m78-wpt-src-dcdc_gu/</guid>
+      <description>This letter describes the design considerations for inductive wireless power transfer systems operating at 6.78 MHz. With a novel high-frequency resonant amplifier topology, a high-Q self-resonant coil structure, and a better understanding of C oss losses in wide-bandgap power semiconductors, we demonstrate 6.78- MHz wireless power transfer systems that achieve 95% dc-dc efficiency at power levels up to and beyond 1 kW.</description>
+    </item>
+    
+  </channel>
+</rss>
