@@ -2,6 +2,8 @@
 title: "Zikang Tong"
 subtitle: "Ph.D. Student Electrical Engineering"
 excerpt: "Ph.D. Student Electrical Engineering"
+tags:
+  - Zikang Tong
 weight: 5
 author: ""
 draft: false
