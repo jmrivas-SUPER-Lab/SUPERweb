@@ -6,36 +6,9 @@
     <description>Recent content in Tags on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>EHR</title>
-      <link>/tags/ehr/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ehr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>health disparities</title>
-      <link>/tags/health-disparities/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/health-disparities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pregnancy</title>
-      <link>/tags/pregnancy/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pregnancy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>piezoelectric</title>
+      <title>Piezoelectric</title>
       <link>/tags/piezoelectric/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       
@@ -44,7 +17,7 @@
     </item>
     
     <item>
-      <title>resonator</title>
+      <title>Resonator</title>
       <link>/tags/resonator/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       
@@ -67,6 +40,33 @@
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmonic Minimization</title>
+      <link>/tags/harmonic-minimization/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/harmonic-minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverters</title>
+      <link>/tags/inverters/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/inverters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel</title>
+      <link>/tags/parallel/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/parallel/</guid>
       <description></description>
     </item>
     
