@@ -26,12 +26,30 @@
     </item>
     
     <item>
+      <title>Origins of Soft-switching Coss Losses in SiC Power MOSFETs and Diodes for Resonant Converter Applications</title>
+      <link>/publication/ss-coss-sic-resonant_tong/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ss-coss-sic-resonant_tong/</guid>
+      <description>The recent development and commercialization of wide bandgap (WBG) power semiconductors, specifically gallium nitride (GaN) and silicon carbide (SiC), has driven the increase in switching frequency for soft-switching power converters like the Class E, Class Φ2, and Class DE resonant inverters and rectifiers. However, prior literature has characterized numerous commercial GaN and SiC devices using the Sawyer-Tower circuit and discovered significant large-signal charge-voltage hysteresis of the Coss.</description>
+    </item>
+    
+    <item>
       <title>Decentralized Carrier Phase Shifting for Optimal Harmonic Minimization in Asymmetric Parallel-Connected Inverters</title>
       <link>/publication/decentralized-harmonic-minimization-parallel-inverters_poon/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/publication/decentralized-harmonic-minimization-parallel-inverters_poon/</guid>
       <description>This article presents a carrier phase shifting technique for minimizing the aggregate harmonics in networks of asymmetric parallel-connected inverters for distributed power generation system applications.</description>
+    </item>
+    
+    <item>
+      <title>Time and voltage domain load models for appliance-level grid edge simulation and control</title>
+      <link>/publication/tandv-load-models-grid_goldin/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tandv-load-models-grid_goldin/</guid>
+      <description>Developments in simulation and distributed control of distributed energy resources require increasingly granular characterization and modeling of load behavior. Previous work has demonstrated the viability of voltage-based power control of residential appliances to enable load flexibility without service interruption. However, conventional static and dynamic load models fail to capture the coupled voltage and state dynamics relevant for this type of control.</description>
     </item>
     
   </channel>

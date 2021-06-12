@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grid on SUPER-Lab</title>
+    <link>/tags/grid/</link>
+    <description>Recent content in Grid on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/grid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time and voltage domain load models for appliance-level grid edge simulation and control</title>
+      <link>/publication/tandv-load-models-grid_goldin/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tandv-load-models-grid_goldin/</guid>
+      <description>Developments in simulation and distributed control of distributed energy resources require increasingly granular characterization and modeling of load behavior. Previous work has demonstrated the viability of voltage-based power control of residential appliances to enable load flexibility without service interruption. However, conventional static and dynamic load models fail to capture the coupled voltage and state dynamics relevant for this type of control.</description>
+    </item>
+    
+  </channel>
+</rss>

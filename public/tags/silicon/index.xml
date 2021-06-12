@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silicon on SUPER-Lab</title>
+    <link>/tags/silicon/</link>
+    <description>Recent content in Silicon on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/silicon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Origins of Soft-switching Coss Losses in SiC Power MOSFETs and Diodes for Resonant Converter Applications</title>
+      <link>/publication/ss-coss-sic-resonant_tong/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ss-coss-sic-resonant_tong/</guid>
+      <description>The recent development and commercialization of wide bandgap (WBG) power semiconductors, specifically gallium nitride (GaN) and silicon carbide (SiC), has driven the increase in switching frequency for soft-switching power converters like the Class E, Class Φ2, and Class DE resonant inverters and rectifiers. However, prior literature has characterized numerous commercial GaN and SiC devices using the Sawyer-Tower circuit and discovered significant large-signal charge-voltage hysteresis of the Coss.</description>
+    </item>
+    
+  </channel>
+</rss>
