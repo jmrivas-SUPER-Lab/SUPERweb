@@ -2,6 +2,8 @@
 title: "Wei Liang, Ph.D."
 subtitle: "Stanford Ph.D. 2018"
 excerpt: "Stanford Ph.D. 2018"
+tags:
+  - Wei Liang
 weight: 3
 author: ""
 draft: false

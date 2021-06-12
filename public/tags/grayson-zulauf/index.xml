@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grayson Zulauf on SUPER-Lab</title>
+    <link>/tags/grayson-zulauf/</link>
+    <description>Recent content in Grayson Zulauf on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/grayson-zulauf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grayson Zulauf, Ph.D.</title>
+      <link>/alumni/graysonzulauf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/graysonzulauf/</guid>
+      <description>Doctoral Dissertation   Wide-bandgap semiconductors for next-generation power electronics systems      Presented on May 19, 2020 Availabe for download here.  Summary     Wide-bandgap power semiconductors promise to reshape the power electronics landscape, opening completely new use cases and increasing efficiency and power density in existing ones. Most notably, gallium nitride (GaN) and silicon carbide (SiC) were successfully commercialized in the past decades, with theoretical benefits over silicon of multiple orders-of-magnitude.</description>
+    </item>
+    
+    <item>
+      <title>Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs</title>
+      <link>/publication/dynamic-capacitance-gan_zhuang/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dynamic-capacitance-gan_zhuang/</guid>
+      <description>The origin of ${C}_{{\mathrm {oss}}}$ and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of gallium nitride (GaN) buffer layers and Si-substrate.</description>
+    </item>
+    
+  </channel>
+</rss>

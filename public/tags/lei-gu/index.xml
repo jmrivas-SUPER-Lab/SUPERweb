@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lei Gu on SUPER-Lab</title>
+    <link>/tags/lei-gu/</link>
+    <description>Recent content in Lei Gu on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/tags/lei-gu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lei Gu, Ph.D.</title>
+      <link>/alumni/leigu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/alumni/leigu/</guid>
+      <description>Doctoral Dissertation   Design considerations for radio frequency power converters      Presented in 2019 Manuscript available here.  Summary     Compact and efficient high-frequency power converters and amplifiers are needed in a variety of applications, including base stations, mobile devices, and medical equipment. The ever-growing need for a smaller size, longer battery life, and lower cost introduces challenging design considerations for radio-frequency power converters.</description>
+    </item>
+    
+  </channel>
+</rss>

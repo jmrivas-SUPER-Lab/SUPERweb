@@ -2,6 +2,8 @@
 title: "Sanghyeon Park, Ph.D."
 subtitle: "Stanford Ph.D. 2021"
 excerpt: "Stanford Ph.D. 2021"
+tags:
+  - Sanghyeon Park
 weight: 8
 author: ""
 draft: false

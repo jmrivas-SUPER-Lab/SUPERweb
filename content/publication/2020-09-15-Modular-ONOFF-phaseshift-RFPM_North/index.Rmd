@@ -5,7 +5,6 @@ date: '2020-09-15'
 slug: Modular-ONOFF-phaseshift-RFPM_North
 categories:
   - Journal
-  - North
 tags:
   - Power Combining
   - RF Power Control
@@ -13,6 +12,7 @@ tags:
   - RF Power Amplifier
   - Plasmas
   - Multi-level
+  - Kawin Surakitbovorn
 doi: '10.1109/OJPEL.2020.3024030'
 publishDate: '2020-09-15T00:00:00-01:00'
 publication_types:

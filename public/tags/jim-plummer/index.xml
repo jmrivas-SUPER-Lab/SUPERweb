@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jim Plummer on SUPER-Lab</title>
+    <link>/tags/jim-plummer/</link>
+    <description>Recent content in Jim Plummer on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/jim-plummer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs</title>
+      <link>/publication/dynamic-capacitance-gan_zhuang/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dynamic-capacitance-gan_zhuang/</guid>
+      <description>The origin of ${C}_{{\mathrm {oss}}}$ and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of gallium nitride (GaN) buffer layers and Si-substrate.</description>
+    </item>
+    
+    <item>
+      <title>Origins of Soft-switching Coss Losses in SiC Power MOSFETs and Diodes for Resonant Converter Applications</title>
+      <link>/publication/ss-coss-sic-resonant_tong/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ss-coss-sic-resonant_tong/</guid>
+      <description>The recent development and commercialization of wide bandgap (WBG) power semiconductors, specifically gallium nitride (GaN) and silicon carbide (SiC), has driven the increase in switching frequency for soft-switching power converters like the Class E, Class Φ2, and Class DE resonant inverters and rectifiers. However, prior literature has characterized numerous commercial GaN and SiC devices using the Sawyer-Tower circuit and discovered significant large-signal charge-voltage hysteresis of the Coss.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -66,6 +66,9 @@
     <loc>/categories/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/eric-stolt/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/journal/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -87,10 +90,22 @@
     <loc>/tags/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/weston-braun/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/coss/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/gan/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/grayson-zulauf/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/jia-zhuang/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/jim-plummer/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/dynamic-capacitance-gan_zhuang/</loc>
@@ -150,16 +165,19 @@
     <loc>/tags/inverters/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/jason-poon/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/parallel/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/kawin-surakitbovorn/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/modular-onoff-phaseshift-rfpm_north/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/multi-level/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/north/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/out-phasing/</loc>
@@ -177,6 +195,9 @@
     <loc>/tags/rf-power-control/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/aaron-goldin/</loc>
+    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/demand-flexibility/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -187,6 +208,9 @@
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/power-systems/</loc>
+    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/ram-rajagopal/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/system-identification/</loc>
@@ -272,14 +296,32 @@
   </url><url>
     <loc>/contributors/</loc>
   </url><url>
+    <loc>/tags/emily-hernandez/</loc>
+  </url><url>
     <loc>/alumni/</loc>
+  </url><url>
+    <loc>/tags/jiale-xu/</loc>
+  </url><url>
+    <loc>/tags/jungwon-choi/</loc>
+  </url><url>
+    <loc>/tags/lei-gu/</loc>
   </url><url>
     <loc>/license/</loc>
   </url><url>
+    <loc>/tags/luke-raymond/</loc>
+  </url><url>
+    <loc>/tags/max-pranglin/</loc>
+  </url><url>
     <loc>/labpeople/</loc>
+  </url><url>
+    <loc>/tags/sanghyeon-park/</loc>
   </url><url>
     <loc>/series/</loc>
   </url><url>
     <loc>/about/</loc>
+  </url><url>
+    <loc>/tags/wei-liang/</loc>
+  </url><url>
+    <loc>/tags/zhechi-ye/</loc>
   </url>
 </urlset>

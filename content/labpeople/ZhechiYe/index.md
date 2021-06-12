@@ -1,6 +1,8 @@
 ---
 title: "Zhechi Ye"
 subtitle: "Ph.D Student Electrical Engineering"
+tags:
+  - Zhechi Ye
 excerpt: "Ph.D Student Electrical Engineering"
 weight: 2
 author: ""

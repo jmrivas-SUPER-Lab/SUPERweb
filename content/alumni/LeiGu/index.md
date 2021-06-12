@@ -2,6 +2,8 @@
 title: "Lei Gu, Ph.D."
 subtitle: "Stanford Ph.D. 2019"
 excerpt: "Stanford Ph.D. 2019"
+tags:
+  - Lei Gu
 weight: 6
 author: ""
 draft: false

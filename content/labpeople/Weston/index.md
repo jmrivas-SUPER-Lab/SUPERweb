@@ -2,6 +2,8 @@
 title: "Weston Braun"
 subtitle: "Ph.D Student Electrical Engineering"
 excerpt: "Ph.D Student Electrical Engineering"
+tags:
+  - Weston Braun
 weight: 4
 author: ""
 draft: false

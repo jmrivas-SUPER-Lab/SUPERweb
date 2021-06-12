@@ -2,6 +2,8 @@
 title: "JiaLe Xu"
 subtitle: "Ph.D. Student Electrical Engineering"
 excerpt: "Ph.D. Student Electrical Engineering"
+tags:
+  - JiaLe Xu
 weight: 7
 author: ""
 draft: false

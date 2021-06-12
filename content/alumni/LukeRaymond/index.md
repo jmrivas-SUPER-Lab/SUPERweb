@@ -2,6 +2,8 @@
 title: "Luke Raymond, Ph.D."
 subtitle: "Stanford Ph.D. 2018"
 excerpt: "Stanford Ph.D. 2018"
+tags:
+  - Luke Raymond
 weight: 4
 author: ""
 draft: false

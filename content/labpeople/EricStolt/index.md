@@ -2,6 +2,8 @@
 title: "Eric Stolt"
 subtitle: "Ph.D Student Electrical Engineering"
 excerpt: "Ph.D Student Electrical Engineering"
+tags:
+  - Eric Stolt
 weight: 3
 author: ""
 draft: false

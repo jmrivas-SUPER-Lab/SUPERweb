@@ -2,6 +2,8 @@
 title: "Jia Zhuang"
 subtitle: "Ph.D. Student Electrical Engineering"
 excerpt: "Ph.D. Student Electrical Engineering"
+tags:
+  - Jia Zhuang
 weight: 6
 author: ""
 draft: false

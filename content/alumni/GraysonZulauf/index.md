@@ -2,6 +2,8 @@
 title: "Grayson Zulauf, Ph.D."
 subtitle: "Stanford Ph.D. 2020"
 excerpt: "Stanford Ph.D. 2020"
+tags:
+  - Grayson Zulauf
 weight: 7
 author: ""
 draft: false
