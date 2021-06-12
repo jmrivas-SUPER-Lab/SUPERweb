@@ -2,6 +2,8 @@
 title: "Dr. Kawin Surakitbovorn"
 subtitle: "Postdoctoral Research fellow"
 excerpt: "Postdoctoral Research fellow"
+categories:
+  - North
 weight: 8
 author: ""
 draft: false

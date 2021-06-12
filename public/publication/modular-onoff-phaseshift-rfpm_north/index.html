@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.83.1" />
-<title>Time and voltage domain load models for appliance-level grid edge simulation and control | SUPER-Lab</title>
+<title>Modular ON/OFF and Phase-Shifting for High-Speed Radio Frequency Power Modulation | SUPER-Lab</title>
 
 
 <meta property="twitter:site" content="@Jmrivasd">
@@ -28,10 +28,10 @@
 
 
 <meta property="og:site_name" content="SUPER-Lab">
-<meta property="og:title" content="Time and voltage domain load models for appliance-level grid edge simulation and control | SUPER-Lab">
+<meta property="og:title" content="Modular ON/OFF and Phase-Shifting for High-Speed Radio Frequency Power Modulation | SUPER-Lab">
 <meta property="og:description" content="Website of the Stanford University Power Electronics Research Laboratory." />
 <meta property="og:type" content="page" />
-<meta property="og:url" content="/publication/tandv-load-models-grid_goldin/" />
+<meta property="og:url" content="/publication/modular-onoff-phaseshift-rfpm_north/" />
 <meta property="og:locale" content="en">
 
 
@@ -42,11 +42,11 @@
         <meta property="twitter:card" content="summary_large_image">
         <meta name="twitter:image" content="/img/superlablogofabiconv3.png" >
     
-  <meta itemprop="name" content="Time and voltage domain load models for appliance-level grid edge simulation and control">
-<meta itemprop="description" content="Developments in simulation and distributed control of distributed energy resources require increasingly granular characterization and modeling of load behavior. Previous work has demonstrated the viability of voltage-based power control of residential appliances to enable load flexibility without service interruption. However, conventional static and dynamic load models fail to capture the coupled voltage and state dynamics relevant for this type of control."><meta itemprop="datePublished" content="2020-08-22T00:00:00-01:00" />
-<meta itemprop="dateModified" content="2020-08-22T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="164">
-<meta itemprop="keywords" content="Grid,Power Systems,Load Modeling,System Identification,Demand Flexibility," />
+  <meta itemprop="name" content="Modular ON/OFF and Phase-Shifting for High-Speed Radio Frequency Power Modulation">
+<meta itemprop="description" content="In this paper, we present an alternative power modulation method to create a high-efficiency high-speed RF amplifier system. This control technique utilizes two mechanisms, modular on/off and phase-shifting. In modular on/off, a different number of sub-circuits are turned “on” or “off” to crudely adjust the output power."><meta itemprop="datePublished" content="2020-09-15T00:00:00-01:00" />
+<meta itemprop="dateModified" content="2020-09-15T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="206">
+<meta itemprop="keywords" content="Power Combining,RF Power Control,Out-phasing,RF Power Amplifier,Plasmas,Multi-level," />
   
   <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
@@ -114,10 +114,10 @@
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
-        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Time and voltage domain load models for appliance-level grid edge simulation and control</h1>
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Modular ON/OFF and Phase-Shifting for High-Speed Radio Frequency Power Modulation</h1>
         
-        <p class="f6 measure lh-copy mv1">By Aaron Goldin, Elizabeth Buechler, Ram Rajagopala, Juan Rivas-Davila in <a href="/categories/journal">Journal</a> </p>
-        <p class="f7 db mv0 ttu">August 22, 2020</p>
+        <p class="f6 measure lh-copy mv1">By K. Surakitbovorn and J. M. Rivas-Davila in <a href="/categories/journal">Journal</a>  <a href="/categories/north">North</a> </p>
+        <p class="f7 db mv0 ttu">September 15, 2020</p>
 
       
       <div class="ph0 pt5">
@@ -131,7 +131,7 @@
     
       
       
-  <a class="btn-links mr2 ba dib" href="https://www-sciencedirect-com.stanford.idm.oclc.org/science/article/pii/S0378779620305538?via%3Dihub" target="_blank" rel="noopener"><i class="ai ai-doi fa-lg fa-fw mr2"></i>Publication</a>
+  <a class="btn-links mr2 ba dib" href="https://ieeexplore-ieee-org.stanford.idm.oclc.org/document/9198141" target="_blank" rel="noopener"><i class="ai ai-doi fa-lg fa-fw mr2"></i>Publication</a>
 
 
       </div>
@@ -140,41 +140,41 @@
       </header>
       <section class="post-body pt5 pb4">
         
-<script src="/publication/tandv-load-models-grid_goldin/index_files/header-attrs/header-attrs.js"></script>
+<script src="/publication/modular-onoff-phaseshift-rfpm_north/index_files/header-attrs/header-attrs.js"></script>
 
 
 <div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-1"></span>
-<img src="Aaronpaperimage.jpg" alt="Refrigerator power vs. time and voltage for model predictions and collected data." width="75%" />
+<img src="surak18-3024030-small.gif" alt="A comparison between the efficiency vs output power of our proposed system (blue), Perreault's (red), and Chireix's (black)." width="75%" />
 <p class="caption">
-Figure 1: Refrigerator power vs. time and voltage for model predictions and collected data.
+Figure 1: A comparison between the efficiency vs output power of our proposed system (blue), Perreault’s (red), and Chireix’s (black).
 </p>
 </div>
 <div id="abstract" class="section level2">
 <h2>Abstract</h2>
-<p>Developments in simulation and distributed control of distributed energy resources require increasingly granular characterization and modeling of load behavior. Previous work has demonstrated the viability of voltage-based power control of residential appliances to enable load flexibility without service interruption. However, conventional static and dynamic load models fail to capture the coupled voltage and state dynamics relevant for this type of control. We develop a new class of dynamic load models for residential appliances. The input-output dynamics are learned by varying input voltage, which is enabled by custom hardware capable of controlling single-phase AC voltage and collecting high-resolution measurements. We estimate model parameters using nonlinear least squares regression and particle swarm optimization. The RMSE of power predictions is significantly reduced for loads with coupled time and voltage dynamics relative to traditional models. Using these models for voltage-based power control can help improve the ability of DERs to provide grid services.</p>
+<p>Radio frequency (RF) power amplifiers are an integral part of many academic, medical, and industrial applications. For many of these applications, the RF power needs to quickly transition from one level to another. For switched-mode amplifiers, one way to achieve this is with an out-phasing modulation technique. This power control technique, however, presents its own disadvantages, including poor light-load efficiency and an increase in overall system size. In this paper, we present an alternative power modulation method to create a high-efficiency high-speed RF amplifier system. This control technique utilizes two mechanisms, modular on/off and phase-shifting. In modular on/off, a different number of sub-circuits are turned “on” or “off” to crudely adjust the output power. In phase-shifting, the smallest sub-circuit of the whole system is phase-shifted away from the rest of the circuit to fine-tune the output power. This system’s performance is first compared with existing out-phasing systems via circuit simulation. Then, an actual circuit implementation with a 13.56-MHz, 1500-W RF amplifier is demonstrated. A 93% dc-to-RF efficiency is achieved at full load, and above 80% efficiency is maintained all the way down to 7% load.</p>
 </div>
 
         
         <details closed class="f6 fw7 input-reset">
   <dl class="f6 lh-copy">
     <dt class="fw7">Posted on:</dt>
-    <dd class="fw5 ml0">August 22, 2020</dd>
+    <dd class="fw5 ml0">September 15, 2020</dd>
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">1 minute read, 164 words</dd>
+    <dd class="fw5 ml0">1 minute read, 206 words</dd>
   </dl>
   
   <dl class="f6 lh-copy">
     <dt class="fw7">Categories:</dt>
-    <dd class="fw5 ml0"> <a href="/categories/journal">Journal</a> </dd>
+    <dd class="fw5 ml0"> <a href="/categories/journal">Journal</a>  <a href="/categories/north">North</a> </dd>
   </dl>
   
   
   
   <dl class="f6 lh-copy">
     <dt class="fw7">Tags:</dt>
-    <dd class="fw5 ml0"> <a href="/tags/grid">Grid</a>  <a href="/tags/power-systems">Power Systems</a>  <a href="/tags/load-modeling">Load Modeling</a>  <a href="/tags/system-identification">System Identification</a>  <a href="/tags/demand-flexibility">Demand Flexibility</a> </dd>
+    <dd class="fw5 ml0"> <a href="/tags/power-combining">Power Combining</a>  <a href="/tags/rf-power-control">RF Power Control</a>  <a href="/tags/out-phasing">Out-phasing</a>  <a href="/tags/rf-power-amplifier">RF Power Amplifier</a>  <a href="/tags/plasmas">Plasmas</a>  <a href="/tags/multi-level">Multi-level</a> </dd>
   </dl>
   
   <dl class="f6 lh-copy">
@@ -189,9 +189,12 @@ Figure 1: Refrigerator power vs. time and voltage for model predictions and col
   
   
     <a class="prev dtc pr2 tl v-top fw6"
-    href="/publication/modular-onoff-phaseshift-rfpm_north/">&larr; Modular ON/OFF and Phase-Shifting for High-Speed Radio Frequency Power Modulation</a>
+    href="/publication/decentralized-harmonic-minimization-parallel-inverters_poon/">&larr; Decentralized Carrier Phase Shifting for Optimal Harmonic Minimization in Asymmetric Parallel-Connected Inverters</a>
   
   
+  
+    <a class="next dtc pl2 tr v-top fw6"
+    href="/publication/tandv-load-models-grid_goldin/">Time and voltage domain load models for appliance-level grid edge simulation and control &rarr;</a>
   
 </div>
 

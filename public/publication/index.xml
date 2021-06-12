@@ -44,6 +44,15 @@
     </item>
     
     <item>
+      <title>Modular ON/OFF and Phase-Shifting for High-Speed Radio Frequency Power Modulation</title>
+      <link>/publication/modular-onoff-phaseshift-rfpm_north/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/modular-onoff-phaseshift-rfpm_north/</guid>
+      <description>In this paper, we present an alternative power modulation method to create a high-efficiency high-speed RF amplifier system. This control technique utilizes two mechanisms, modular on/off and phase-shifting. In modular on/off, a different number of sub-circuits are turned “on” or “off” to crudely adjust the output power.</description>
+    </item>
+    
+    <item>
       <title>Time and voltage domain load models for appliance-level grid edge simulation and control</title>
       <link>/publication/tandv-load-models-grid_goldin/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>

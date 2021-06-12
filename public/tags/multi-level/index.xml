@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-level on SUPER-Lab</title>
+    <link>/tags/multi-level/</link>
+    <description>Recent content in Multi-level on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/multi-level/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modular ON/OFF and Phase-Shifting for High-Speed Radio Frequency Power Modulation</title>
+      <link>/publication/modular-onoff-phaseshift-rfpm_north/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/modular-onoff-phaseshift-rfpm_north/</guid>
+      <description>In this paper, we present an alternative power modulation method to create a high-efficiency high-speed RF amplifier system. This control technique utilizes two mechanisms, modular on/off and phase-shifting. In modular on/off, a different number of sub-circuits are turned “on” or “off” to crudely adjust the output power.</description>
+    </item>
+    
+  </channel>
+</rss>
