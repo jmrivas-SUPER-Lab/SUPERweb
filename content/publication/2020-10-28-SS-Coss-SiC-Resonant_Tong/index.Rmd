@@ -1,0 +1,50 @@
+---
+title: "Origins of Soft-switching Coss Losses in SiC Power MOSFETs and Diodes for Resonant Converter Applications"
+author: "Z. Tong, J. Roig-Guitart, T. Neyer, J. D. Plummer and J. M. Rivas-Davila"
+date: '2020-10-28'
+slug: SS-Coss-SiC-Resonant_Tong
+categories:
+  - Journal
+tags:
+  - Silicon carbide
+  - Ionization
+  - Silicon
+  - Mathematical model
+  - Computational modeling
+  - Junctions
+  - Integrated circuit modeling
+doi: '10.1109/JESTPE.2020.3034345'
+publishDate: '2020-10-28T00:00:00-01:00'
+publication_types:
+  - '1'
+publication: 'IEEE Journal of Emerging and Selected Topics in Power Electronics '
+publication_short: 'IEEE JESTPE'
+abstract: 'The recent development and commercialization of wide bandgap (WBG) power semiconductors, specifically gallium nitride (GaN) and silicon carbide (SiC), has driven the increase in switching frequency for soft-switching power converters like the Class E, Class Φ2, and Class DE resonant inverters and rectifiers. However, prior literature has characterized numerous commercial GaN and SiC devices using the Sawyer-Tower circuit and discovered significant large-signal charge-voltage hysteresis of the Coss. This Coss hysteresis, equivalent to off-state energy loss, is highly dependent on the frequency and voltage across the device, hindering the efficiency and performance of MHz range soft-switched converters. This paper is the first to explain the origin of the Coss loss in SiC power devices as charging and discharging conduction loss at the termination of the device. The loss characteristics relative to operating voltage, frequency, dV=dt, and temperature are dictated by incomplete ionization. Incomplete ionization also highlights a significant inconsistency between the large-signal Coss behavior and small-signal behavior, which is often the model used in manufacturers’ datasheets and SPICE simulations. The large-signal charge-voltage behavior is transient, where the charge in the Coss depends on the rate of the voltage swing across the device. We validate these hypotheses through mixed-mode simulations using Sentaurus® Technology Computer-Aided Design (TCAD) and experimentally using commercial and custom SiC devices.'
+summary: 'The recent development and commercialization of wide bandgap (WBG) power semiconductors, specifically gallium nitride (GaN) and silicon carbide (SiC), has driven the increase in switching frequency for soft-switching power converters like the Class E, Class Φ2, and Class DE resonant inverters and rectifiers. However, prior literature has characterized numerous commercial GaN and SiC devices using the Sawyer-Tower circuit and discovered significant large-signal charge-voltage hysteresis of the Coss.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore-ieee-org.stanford.idm.oclc.org/document/9241751/keywords#keywords
+- icon: file-pdf
+  icon_pack: fas
+  name: Pre-print
+  url: JESTPE2020_paper_Zikang.pdf
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="Photograph of the half-bridge Sawyer-Tower setup."}
+knitr::include_graphics("SawyerTower_halfbridge_Tong.png")
+```
+
+## Abstract 
+
+The recent development and commercialization of wide bandgap (WBG) power semiconductors, specifically gallium nitride (GaN) and silicon carbide (SiC), has driven the increase in switching frequency for soft-switching power converters like the Class E, Class Φ2, and Class DE resonant inverters and rectifiers. However, prior literature has characterized numerous commercial GaN and SiC devices using the Sawyer-Tower circuit and discovered significant large-signal charge-voltage hysteresis of the Coss. This Coss hysteresis, equivalent to off-state energy loss, is highly dependent on the frequency and voltage across the device, hindering the efficiency and performance of MHz range soft-switched converters. This paper is the first to explain the origin of the Coss loss in SiC power devices as charging and discharging conduction loss at the termination of the device. The loss characteristics relative to operating voltage, frequency, dV=dt, and temperature are dictated by incomplete ionization. Incomplete ionization also highlights a significant inconsistency between the large-signal Coss behavior and small-signal behavior, which is often the model used in manufacturers’ datasheets and SPICE simulations. The large-signal charge-voltage behavior is transient, where the charge in the Coss depends on the rate of the voltage swing across the device. We validate these hypotheses through mixed-mode simulations using Sentaurus® Technology Computer-Aided Design (TCAD) and experimentally using commercial and custom SiC devices.

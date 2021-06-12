@@ -251,7 +251,7 @@ My content section is: collection  My layout is: single-series   part 2!     doe
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/dynamic-capacitance-gan_zhuang/</guid>
-      <description>The performance of inductors at high frequencies and small sizes is one of the largest limiting factors in the continued miniaturization of dc-dc converters. Piezoelectric resonators can have a very high quality factor and provide an inductive impedance between their series and parallel resonant frequencies, making them a promising technology for further miniaturizing dc-dc converters.</description>
+      <description>The origin of ${C}_{{\mathrm {oss}}}$ and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of gallium nitride (GaN) buffer layers and Si-substrate.</description>
     </item>
     
     <item>
