@@ -18,12 +18,31 @@
     </item>
     
     <item>
+      <title>SiC, GaN and Si technology comparison for high power RF plasma generators</title>
+      <link>/project/lamresearchsystemx/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/lamresearchsystemx/</guid>
+      <description>   Figure 1: Electrostatic potential contours under large-signal excitation at 1 MHz. (a) Deep buffer traps added at 0.98 eV. (b) Shallow buffer traps added at 0.5 eV.  Summary We are studying the electric properties of SiC and GaN devices to design high power, high frequency RF plasma generators
+ </description>
+    </item>
+    
+    <item>
       <title>The modeling and understanding high frequency losses in SiC and GaN devices</title>
       <link>/project/onsemisystemx/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/project/onsemisystemx/</guid>
-      <description>Figure 1: Simulated Coss loss energy dissipation per soft-switching cycle at 400 V across various trap energy levels (ΔET ) from 0.4 to 0.98 eV. Trap concentration constant at 2e16 cm−3. The dashed lines are measured Coss losses under 400VDS as reference.  Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs The origin of Coss and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss.</description>
+      <description>Figure 1: Electrostatic potential contours under large-signal excitation at 1 MHz. (a) Deep buffer traps added at 0.98 eV. (b) Shallow buffer traps added at 0.5 eV.  Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs The origin of Coss and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of gallium nitride (GaN) buffer layers and Si-substrate.</description>
+    </item>
+    
+    <item>
+      <title>High density power converters with Piezo-electric resonators</title>
+      <link>/project/tisystemx/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/tisystemx/</guid>
+      <description>Figure 1: Electrostatic potential contours under large-signal excitation at 1 MHz. (a) Deep buffer traps added at 0.98 eV. (b) Shallow buffer traps added at 0.5 eV.  The performance of inductors at high frequencies and small sizes is one of the largest limiting factors in the continued miniaturization of dc-dc converters. Piezoelectric resonators can have a very high quality factor and provide an inductive impedance between their series and parallel resonant frequencies, making them a promising technology for further miniaturizing dc-dc converters.</description>
     </item>
     
   </channel>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LAM Research on SUPER-Lab</title>
+    <link>/tags/lam-research/</link>
+    <description>Recent content in LAM Research on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/lam-research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SiC, GaN and Si technology comparison for high power RF plasma generators</title>
+      <link>/project/lamresearchsystemx/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/lamresearchsystemx/</guid>
+      <description>   Figure 1: Electrostatic potential contours under large-signal excitation at 1 MHz. (a) Deep buffer traps added at 0.98 eV. (b) Shallow buffer traps added at 0.5 eV.  Summary We are studying the electric properties of SiC and GaN devices to design high power, high frequency RF plasma generators
+ </description>
+    </item>
+    
+  </channel>
+</rss>

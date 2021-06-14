@@ -27,15 +27,6 @@
     </item>
     
     <item>
-      <title>The modeling and understanding high frequency losses in SiC and GaN devices</title>
-      <link>/project/onsemisystemx/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/project/onsemisystemx/</guid>
-      <description>Figure 1: Simulated Coss loss energy dissipation per soft-switching cycle at 400 V across various trap energy levels (ΔET ) from 0.4 to 0.98 eV. Trap concentration constant at 2e16 cm−3. The dashed lines are measured Coss losses under 400VDS as reference.  Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs The origin of Coss and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss.</description>
-    </item>
-    
-    <item>
       <title>Modular ON/OFF and Phase-Shifting for High-Speed Radio Frequency Power Modulation</title>
       <link>/publication/modular-onoff-phaseshift-rfpm_north/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>

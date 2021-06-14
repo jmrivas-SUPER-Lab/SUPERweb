@@ -1,8 +1,8 @@
 ---
 author: Jia, Zhuang, Zikang Tong, Prof. Jim Plummer, Prof. Juan Rivas
 categories:
-- Plasma
-- RF
+- Semiconductors
+- Device Modeling
 - WBG
 date: "2021-01-01"
 draft: false
@@ -17,13 +17,14 @@ links:
 subtitle: ""
 tags:
 - SystemX
-- Daihen
-- Kawin Surakitbovorn
+- ON Semiconductors
+- Jia Zhuang
+- Zikang Tong
 title: The modeling and understanding high frequency losses in SiC and GaN devices
 ---
 
-```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="Simulated Coss loss energy dissipation per soft-switching cycle at 400 V across various trap energy levels (ΔET ) from 0.4 to 0.98 eV. Trap concentration constant at 2e16 cm−3. The dashed lines are measured Coss losses under 400VDS as reference."}
-knitr::include_graphics("zhuan9-3063062-small.gif")
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="Electrostatic potential contours under large-signal excitation at 1 MHz. (a) Deep buffer traps added at 0.98 eV. (b) Shallow buffer traps added at 0.5 eV."}
+knitr::include_graphics("zhuan8ab-3063062-small.gif")
 ```
 
 # Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs

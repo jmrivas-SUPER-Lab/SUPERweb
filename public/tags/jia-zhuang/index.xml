@@ -25,5 +25,14 @@
       <description>The origin of ${C}_{{\mathrm {oss}}}$ and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of gallium nitride (GaN) buffer layers and Si-substrate.</description>
     </item>
     
+    <item>
+      <title>The modeling and understanding high frequency losses in SiC and GaN devices</title>
+      <link>/project/onsemisystemx/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/onsemisystemx/</guid>
+      <description>Figure 1: Electrostatic potential contours under large-signal excitation at 1 MHz. (a) Deep buffer traps added at 0.98 eV. (b) Shallow buffer traps added at 0.5 eV.  Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs The origin of Coss and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of gallium nitride (GaN) buffer layers and Si-substrate.</description>
+    </item>
+    
   </channel>
 </rss>
