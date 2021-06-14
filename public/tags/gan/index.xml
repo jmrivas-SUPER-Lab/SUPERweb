@@ -16,5 +16,14 @@
       <description>The origin of ${C}_{{\mathrm {oss}}}$ and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of gallium nitride (GaN) buffer layers and Si-substrate.</description>
     </item>
     
+    <item>
+      <title>A Simple Method to Combine the Output Power from Multiple Class-E Power Amplifiers</title>
+      <link>/publication/combiner-classe_north/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/combiner-classe_north/</guid>
+      <description>In this paper, we present an alternative approach to designing a high-efficiency high power RF amplifier system. Here, we offer a simple tuning method that allows output powers from multiple power amplifiers to be combined directly without the need for an extra combiner network, given that the mismatches between the amplifiers are sufficiently small.</description>
+    </item>
+    
   </channel>
 </rss>

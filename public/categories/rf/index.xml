@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RF on SUPER-Lab</title>
+    <link>/categories/rf/</link>
+    <description>Recent content in RF on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/rf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing a high-efficiency RF power amplifier for plasma generation</title>
+      <link>/project/daihensystemx/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/daihensystemx/</guid>
+      <description>   Figure 1: Photograph of a 40.68MHz PA develped for this project  Summary There are two main objectives centering around making the previously proposed technology viable for generating plasma The first goal is to develop the control technology for multilevel pulsing and arbitrary waveform envelope. The second goal is to improve and expand the mismatch load range of the amplifier.
+ </description>
+    </item>
+    
+    <item>
+      <title>The modeling and understanding high frequency losses in SiC and GaN devices</title>
+      <link>/project/onsemisystemx/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/onsemisystemx/</guid>
+      <description>Figure 1: Simulated Coss loss energy dissipation per soft-switching cycle at 400 V across various trap energy levels (ΔET ) from 0.4 to 0.98 eV. Trap concentration constant at 2e16 cm−3. The dashed lines are measured Coss losses under 400VDS as reference.  Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs The origin of Coss and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss.</description>
+    </item>
+    
+  </channel>
+</rss>

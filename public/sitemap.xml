@@ -129,6 +129,33 @@
     <loc>/categories/meetup/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/daihen/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/daihensystemx/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/kawin-surakitbovorn/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/plasma/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/rf/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/systemx/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/onsemisystemx/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/wbg/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/computational-modeling/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -170,9 +197,6 @@
   </url><url>
     <loc>/tags/parallel/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/kawin-surakitbovorn/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/modular-onoff-phaseshift-rfpm_north/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
@@ -249,6 +273,18 @@
     <loc>/tags/zero-voltage-switching/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/combiner-classe_north/</loc>
+    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/class-e-amplifier/</loc>
+    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/kawing-surakitbovorn/</loc>
+    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/rf-generator/</loc>
+    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/awards/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -260,30 +296,6 @@
   </url><url>
     <loc>/talk/seedling/</loc>
     <lastmod>2020-01-13T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/hugo-site/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/package/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/giraffes/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/theme-features/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/penguins/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/bakeoff/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/19apeczk/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>

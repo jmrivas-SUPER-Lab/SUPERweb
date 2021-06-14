@@ -1,0 +1,30 @@
+---
+author: Jia, Zhuang, Zikang Tong, Prof. Jim Plummer, Prof. Juan Rivas
+categories:
+- Plasma
+- RF
+- WBG
+date: "2021-01-01"
+draft: false
+excerpt: We are developing simulations models to accurately predict Coss losses modern GaN and SiC devices
+featured: true
+layout: single-sidebar
+links:
+- icon: door-open
+  icon_pack: fas
+  name: SystemX Alliance FMA
+  url: https://systemx.stanford.edu/research/fma-fellow-mentor-advisor
+subtitle: ""
+tags:
+- SystemX
+- Daihen
+- Kawin Surakitbovorn
+title: The modeling and understanding high frequency losses in SiC and GaN devices
+---
+
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="Simulated Coss loss energy dissipation per soft-switching cycle at 400 V across various trap energy levels (ΔET ) from 0.4 to 0.98 eV. Trap concentration constant at 2e16 cm−3. The dashed lines are measured Coss losses under 400VDS as reference."}
+knitr::include_graphics("zhuan9-3063062-small.gif")
+```
+
+# Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs
+The origin of Coss and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of gallium nitride (GaN) buffer layers and Si-substrate. These loss components can be potentially improved by reengineering the doping concentrations in the buffer stacks and substrate layer. However, the capacitive hysteresis loss that is suspected to be due to trapping dynamics remains largely unexplained. This article presents a physics view of the trapping dynamics related to Coss in the GaN high-electron-mobility transistor (HEMT) under small- and large-signal excitations. It is observed that, under large-signal excitation, traps with shallow energy levels (in the range of 0.5 eV above valence band) are mostly responsible for the charge imbalance and energy dissipation. Under small-signal conditions, deep traps with an energy level of around 0.98 eV from the valence band are the causes for the hysteresis at dc. By identifying dominating types of traps and relevant trap energy levels in GaN HEMT, we can gain important insights on how to optimize the device stack design for high-frequency applications.

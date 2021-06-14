@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RF Generator on SUPER-Lab</title>
+    <link>/tags/rf-generator/</link>
+    <description>Recent content in RF Generator on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/rf-generator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Simple Method to Combine the Output Power from Multiple Class-E Power Amplifiers</title>
+      <link>/publication/combiner-classe_north/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/combiner-classe_north/</guid>
+      <description>In this paper, we present an alternative approach to designing a high-efficiency high power RF amplifier system. Here, we offer a simple tuning method that allows output powers from multiple power amplifiers to be combined directly without the need for an extra combiner network, given that the mismatches between the amplifiers are sufficiently small.</description>
+    </item>
+    
+  </channel>
+</rss>

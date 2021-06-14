@@ -70,5 +70,14 @@
       <description>This letter describes the design considerations for inductive wireless power transfer systems operating at 6.78 MHz. With a novel high-frequency resonant amplifier topology, a high-Q self-resonant coil structure, and a better understanding of C oss losses in wide-bandgap power semiconductors, we demonstrate 6.78- MHz wireless power transfer systems that achieve 95% dc-dc efficiency at power levels up to and beyond 1 kW.</description>
     </item>
     
+    <item>
+      <title>A Simple Method to Combine the Output Power from Multiple Class-E Power Amplifiers</title>
+      <link>/publication/combiner-classe_north/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/combiner-classe_north/</guid>
+      <description>In this paper, we present an alternative approach to designing a high-efficiency high power RF amplifier system. Here, we offer a simple tuning method that allows output powers from multiple power amplifiers to be combined directly without the need for an extra combiner network, given that the mismatches between the amplifiers are sufficiently small.</description>
+    </item>
+    
   </channel>
 </rss>
