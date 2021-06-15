@@ -6,7 +6,7 @@
     <description>Recent content in Prof. Juan M. Rivas Davila on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jun 2021 15:38:41 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>/collection/day02/01-netlify/</link>
@@ -237,6 +237,16 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
+      <title>Contact</title>
+      <link>/formspree.io/f/xpzkrlzy</link>
+      <pubDate>Mon, 14 Jun 2021 15:38:41 -0600</pubDate>
+      
+      <guid>/formspree.io/f/xpzkrlzy</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
       <title>Optimized Resonators for Piezoelectric Power Conversion</title>
       <link>/publication/optimized-resonators-piezoelectric_braun/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
@@ -252,24 +262,6 @@ My content section is: collection  My layout is: single-series   part 2!     doe
       
       <guid>/publication/dynamic-capacitance-gan_zhuang/</guid>
       <description>The origin of ${C}_{{\mathrm {oss}}}$ and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of gallium nitride (GaN) buffer layers and Si-substrate.</description>
-    </item>
-    
-    <item>
-      <title>A campfire</title>
-      <link>/talk/campfire/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/campfire/</guid>
-      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
-    </item>
-    
-    <item>
-      <title>A seedling</title>
-      <link>/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      
-      <guid>/talk/second-seedling/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -329,6 +321,15 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
+      <title>Selecting the Right Power Semiconductor for Multi-MHz Power Converters-Slides</title>
+      <link>/talk/20200902_pels_webinar/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/20200902_pels_webinar/</guid>
+      <description>Abstract:     With the commercialization of wide-bandgap power semiconductors, multi-MHz switching frequencies are more compelling and critical to meet new applications demanding leaps in power density and efficiency. In the past, studies of these converters reported significant gaps between measured and modeled performance, often attributed to dynamic RDS, ON in GaN HEMTs. In particular, the power semiconductors – which often drive thermal constraints – dissipated much more power than expected, rendering designs based on simulated values unusable.</description>
+    </item>
+    
+    <item>
       <title>Time and voltage domain load models for appliance-level grid edge simulation and control</title>
       <link>/publication/tandv-load-models-grid_goldin/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
@@ -367,31 +368,12 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
-      <title>A seedling</title>
-      <link>/talk/seedling/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      
-      <guid>/talk/seedling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>APEC 2019 Outstanding Presentation Award.</title>
       <link>/blog/19apeczk/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/blog/19apeczk/</guid>
       <description>Z. Tong, S. Park and J. Rivas-Davila, &amp;ldquo;Empirical Circuit Model for Output Capacitance Losses in Silicon Carbide Power Devices,&amp;rdquo; 2019 IEEE Applied Power Electronics Conference and Exposition (APEC), 2019, pp. 998-1003, doi: 10.1109/APEC.2019.8721907.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
-Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>
     
     <item>
@@ -492,10 +474,8 @@ Abstract     This paper demonstrates a dc-dc converter that combines resonant re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contributors/</guid>
-      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
-   Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
-   Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
-   Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+      <description>Thank you to all the students, collaborators and company sponsors that have contributed to our research.
+Sponsors      SystemX Texas Instruments LAM-Research Daihen ON-Semiconductors Precourt Institute for Energy TomKat Center Seed Grant: &amp;ldquo;Building the Power Electronics Cell&amp;rdquo; NSF  Collaborators      Prof. Christine Charles, Australian National University Prof. Jonathan Fan, Stanford University (Precourt Seed Grant) Prof. Debbie Senesky, Stanford University (SystemX Seed Grant) Prof.</description>
     </item>
     
     <item>

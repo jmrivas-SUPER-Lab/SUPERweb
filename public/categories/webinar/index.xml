@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks that Last on SUPER-Lab</title>
-    <link>/talk/</link>
-    <description>Recent content in Talks that Last on SUPER-Lab</description>
+    <title>Webinar on SUPER-Lab</title>
+    <link>/categories/webinar/</link>
+    <description>Recent content in Webinar on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/webinar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Selecting the Right Power Semiconductor for Multi-MHz Power Converters-Slides</title>
       <link>/talk/20200902_pels_webinar/</link>
