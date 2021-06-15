@@ -1,8 +1,6 @@
 ---
-date: "2019-02-25T13:38:41-06:00"
-description: This template has a **contact-us** form built right in. All you need
-  to do is add a valid recipient form-id to the front matter of this form page and
-  you're ready to receive submissions.
+date: "2021-06-14T15:38:41-06:00"
+description: Please reach out if you have questions or want to know more abou the SUPER-Lab
 draft: false
 formspree_form_id: id-from-formspree
 layout: split-right
@@ -12,7 +10,7 @@ show_social_links: true
 submit_button_label: Send Message
 title: Contact
 type: form
-url: contact
+url: https://formspree.io/f/xpzkrlzy
 ---
 
 ** Contact page don't contain a body, just the front matter above.

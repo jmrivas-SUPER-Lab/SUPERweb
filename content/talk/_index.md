@@ -1,7 +1,7 @@
 ---
-author: The R Markdown Team @RStudio
+author: Prof. Juan M. Rivas @SUPER-Lab
 cascade:
-  author: The R Markdown Team @RStudio
+  author: Prof. Juan M. Rivas @SUPER-Lab
   show_author_byline: true
   show_comments: false
   show_post_date: true
@@ -11,17 +11,15 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /talk/
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
+  This is a list for of talks, workshops, or other events.
 layout: list
 show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
 show_post_time: true
 sidebar:
-  author: The R Markdown Team @RStudio
-  description: "This is a list for your talks, workshops, or \nother events with a
-    time, date, and place. \nEven this sidebar offers a ton of customizations.\n\nCheck
-    out the _index.md file in the /talk folder \nto edit this content. \n"
+  author: Prof. Juan M. Rivas @SUPER-Lab
+  description: "This is a list for of talks, workshops, or other events."
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
