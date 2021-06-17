@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soft Switching, on SUPER-Lab</title>
+    <link>/tags/soft-switching/</link>
+    <description>Recent content in Soft Switching, on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/soft-switching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Push–Pull Class Φ2  RF Power Amplifier</title>
+      <link>/publication/ppphi2pa_gu/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ppphi2pa_gu/</guid>
+      <description>This work focuses on improving the design and operating characteristics of a push–pull $\Phi _\text2$ amplifier with a $T$ network connected between the switch nodes, or a PPT $\Phi _\text2$ amplifier. The PPT $\Phi _\text2$ amplifier has less circulating energy and achieves higher cutoff frequency &lt;sub&gt;T&lt;/sub&gt; than other $\Phi _\text2$/EF&lt;sub&gt;2&lt;/sub&gt; circuits</description>
+    </item>
+    
+  </channel>
+</rss>

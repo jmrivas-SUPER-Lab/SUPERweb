@@ -79,5 +79,14 @@
       <description>In this paper, we present an alternative approach to designing a high-efficiency high power RF amplifier system. Here, we offer a simple tuning method that allows output powers from multiple power amplifiers to be combined directly without the need for an extra combiner network, given that the mismatches between the amplifiers are sufficiently small.</description>
     </item>
     
+    <item>
+      <title>Push–Pull Class Φ2  RF Power Amplifier</title>
+      <link>/publication/ppphi2pa_gu/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ppphi2pa_gu/</guid>
+      <description>This work focuses on improving the design and operating characteristics of a push–pull $\Phi _\text2$ amplifier with a $T$ network connected between the switch nodes, or a PPT $\Phi _\text2$ amplifier. The PPT $\Phi _\text2$ amplifier has less circulating energy and achieves higher cutoff frequency &lt;sub&gt;T&lt;/sub&gt; than other $\Phi _\text2$/EF&lt;sub&gt;2&lt;/sub&gt; circuits</description>
+    </item>
+    
   </channel>
 </rss>

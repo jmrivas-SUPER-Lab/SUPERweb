@@ -297,7 +297,7 @@
     <loc>/tags/wireless-power-transmission/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/zero-voltage-switching/</loc>
+    <loc>/tags/zero-voltage-switching./</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/combiner-classe_north/</loc>
@@ -320,6 +320,24 @@
   </url><url>
     <loc>/blog/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/harmonic-analysis/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ppphi2pa_gu/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/radiofrequency-amplifiers/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/soft-switching/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/switching-converters/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/zero-current-switching/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/19apeczk/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>

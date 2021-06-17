@@ -25,5 +25,14 @@
       <description>This letter describes the design considerations for inductive wireless power transfer systems operating at 6.78 MHz. With a novel high-frequency resonant amplifier topology, a high-Q self-resonant coil structure, and a better understanding of C oss losses in wide-bandgap power semiconductors, we demonstrate 6.78- MHz wireless power transfer systems that achieve 95% dc-dc efficiency at power levels up to and beyond 1 kW.</description>
     </item>
     
+    <item>
+      <title>Push–Pull Class Φ2  RF Power Amplifier</title>
+      <link>/publication/ppphi2pa_gu/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ppphi2pa_gu/</guid>
+      <description>This work focuses on improving the design and operating characteristics of a push–pull $\Phi _\text2$ amplifier with a $T$ network connected between the switch nodes, or a PPT $\Phi _\text2$ amplifier. The PPT $\Phi _\text2$ amplifier has less circulating energy and achieves higher cutoff frequency &lt;sub&gt;T&lt;/sub&gt; than other $\Phi _\text2$/EF&lt;sub&gt;2&lt;/sub&gt; circuits</description>
+    </item>
+    
   </channel>
 </rss>

@@ -467,11 +467,11 @@
     </item>
     
     <item>
-      <title>Zero Voltage Switching</title>
-      <link>/tags/zero-voltage-switching/</link>
+      <title>Zero Voltage Switching.</title>
+      <link>/tags/zero-voltage-switching./</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/zero-voltage-switching/</guid>
+      <guid>/tags/zero-voltage-switching./</guid>
       <description></description>
     </item>
     
@@ -499,6 +499,51 @@
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/rf-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmonic Analysis</title>
+      <link>/tags/harmonic-analysis/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/harmonic-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiofrequency Amplifiers,</title>
+      <link>/tags/radiofrequency-amplifiers/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/radiofrequency-amplifiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soft Switching,</title>
+      <link>/tags/soft-switching/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/soft-switching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switching Converters,</title>
+      <link>/tags/switching-converters/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/switching-converters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero Current Switching,</title>
+      <link>/tags/zero-current-switching/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/zero-current-switching/</guid>
       <description></description>
     </item>
     
