@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>The Impact of Multi-MHz Switching Frequencies on Dynamic On-Resistance in GaN-on-Si HEMTs</title>
+      <link>/publication/impact-mhz-dynamicrdson_zulauf/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/impact-mhz-dynamicrdson_zulauf/</guid>
+      <description>Dynamic on-resistance (dRon), where the on-resistance immediately after turn-on is higher than the DC resistance, increases the conduction losses in power converters with gallium nitride high-electron-mobility transistors (GaN HEMTs). There exist no direct dR on measurements in the literature above 1 MHz, leaving designers unable to predict conduction losses in emerging multi-MHz applications. We address this literature gap by collecting the first on-state voltage dR on measurements at multi-MHz frequencies, with a focus on the zero-voltage-switching conditions that are predominantly employed at high frequency. On the selected commercially-available HEMT with a breakdown voltage below 200 V, the dynamic contribution asymptotes above ≈ 2 MHz, a finding predicted by the slow time constants of the traps that cause dR on</description>
+    </item>
+    
+    <item>
       <title>Push–Pull Class Φ2  RF Power Amplifier</title>
       <link>/publication/ppphi2pa_gu/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>

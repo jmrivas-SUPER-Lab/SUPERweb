@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gate drivers, on SUPER-Lab</title>
+    <link>/tags/gate-drivers/</link>
+    <description>Recent content in Gate drivers, on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/gate-drivers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimized Design of Multi-MHz Frequency Isolated Auxiliary Power Supply for Gate Drivers in Medium-Voltage Converters</title>
+      <link>/publication/mhz-isolated-auxps-gatedrive_spro/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mhz-isolated-auxps-gatedrive_spro/</guid>
+      <description>This article presents the design and optimization of a suitable topology for an isolated dc–dc auxiliary power supply with high isolation voltage and low coupling capacitance. The converter consists of a GaN HEMT inverter operating at 6.78 MHz, an LCC resonance tank, and a class-E low dv/dt rectifier.</description>
+    </item>
+    
+  </channel>
+</rss>

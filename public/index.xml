@@ -368,6 +368,33 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     </item>
     
     <item>
+      <title>The Impact of Multi-MHz Switching Frequencies on Dynamic On-Resistance in GaN-on-Si HEMTs</title>
+      <link>/publication/impact-mhz-dynamicrdson_zulauf/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/impact-mhz-dynamicrdson_zulauf/</guid>
+      <description>Dynamic on-resistance (dRon), where the on-resistance immediately after turn-on is higher than the DC resistance, increases the conduction losses in power converters with gallium nitride high-electron-mobility transistors (GaN HEMTs). There exist no direct dR on measurements in the literature above 1 MHz, leaving designers unable to predict conduction losses in emerging multi-MHz applications. We address this literature gap by collecting the first on-state voltage dR on measurements at multi-MHz frequencies, with a focus on the zero-voltage-switching conditions that are predominantly employed at high frequency. On the selected commercially-available HEMT with a breakdown voltage below 200 V, the dynamic contribution asymptotes above ≈ 2 MHz, a finding predicted by the slow time constants of the traps that cause dR on</description>
+    </item>
+    
+    <item>
+      <title>Lightweight High Voltage Generator for Untethered Electroadhesive Perching of Micro Air Vehicles</title>
+      <link>/publication/hv-untethered-perching_park/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hv-untethered-perching_park/</guid>
+      <description>In this letter, we motivate the need for application-specific power electronics solutions for electroadhesive perching, develop a useful figure of merit (the “specific voltage”) for comparing and guiding efforts, and walk through the design methodology of a system implementation. We conclude by showing that this high voltage power supply enables, for the first time in the literature, tetherless electroadhesive perching of a commercial micro quadrotor.</description>
+    </item>
+    
+    <item>
+      <title>Optimized Design of Multi-MHz Frequency Isolated Auxiliary Power Supply for Gate Drivers in Medium-Voltage Converters</title>
+      <link>/publication/mhz-isolated-auxps-gatedrive_spro/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mhz-isolated-auxps-gatedrive_spro/</guid>
+      <description>This article presents the design and optimization of a suitable topology for an isolated dc–dc auxiliary power supply with high isolation voltage and low coupling capacitance. The converter consists of a GaN HEMT inverter operating at 6.78 MHz, an LCC resonance tank, and a class-E low dv/dt rectifier.</description>
+    </item>
+    
+    <item>
       <title>Push–Pull Class Φ2  RF Power Amplifier</title>
       <link>/publication/ppphi2pa_gu/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>

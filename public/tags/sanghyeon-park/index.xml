@@ -5,7 +5,8 @@
     <link>/tags/sanghyeon-park/</link>
     <description>Recent content in Sanghyeon Park on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/sanghyeon-park/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sanghyeon-park/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sanghyeon Park, Ph.D.</title>
       <link>/alumni/sanghyeon/</link>
@@ -13,6 +14,24 @@
       
       <guid>/alumni/sanghyeon/</guid>
       <description> Doctoral Dissertation   Circuit techniques for compact and lightweight high-voltage dc power supplies      Presented on April 13, 2021  </description>
+    </item>
+    
+    <item>
+      <title>Lightweight High Voltage Generator for Untethered Electroadhesive Perching of Micro Air Vehicles</title>
+      <link>/publication/hv-untethered-perching_park/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hv-untethered-perching_park/</guid>
+      <description>In this letter, we motivate the need for application-specific power electronics solutions for electroadhesive perching, develop a useful figure of merit (the “specific voltage”) for comparing and guiding efforts, and walk through the design methodology of a system implementation. We conclude by showing that this high voltage power supply enables, for the first time in the literature, tetherless electroadhesive perching of a commercial micro quadrotor.</description>
+    </item>
+    
+    <item>
+      <title>Optimized Design of Multi-MHz Frequency Isolated Auxiliary Power Supply for Gate Drivers in Medium-Voltage Converters</title>
+      <link>/publication/mhz-isolated-auxps-gatedrive_spro/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mhz-isolated-auxps-gatedrive_spro/</guid>
+      <description>This article presents the design and optimization of a suitable topology for an isolated dc–dc auxiliary power supply with high isolation voltage and low coupling capacitance. The converter consists of a GaN HEMT inverter operating at 6.78 MHz, an LCC resonance tank, and a class-E low dv/dt rectifier.</description>
     </item>
     
   </channel>
