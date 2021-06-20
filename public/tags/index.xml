@@ -431,7 +431,7 @@
     </item>
     
     <item>
-      <title>Power Amplifiers,</title>
+      <title>Power Amplifiers</title>
       <link>/tags/power-amplifiers/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
@@ -593,7 +593,7 @@
     </item>
     
     <item>
-      <title>Resonant Power Conversion,</title>
+      <title>Resonant Power Conversion</title>
       <link>/tags/resonant-power-conversion/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -661,6 +661,51 @@
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/zero-current-switching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-element Methods (FEM)</title>
+      <link>/tags/finite-element-methods-fem/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/finite-element-methods-fem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic Analysis</title>
+      <link>/tags/magnetic-analysis/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/magnetic-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manufacturing Automation Software</title>
+      <link>/tags/manufacturing-automation-software/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/manufacturing-automation-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformers</title>
+      <link>/tags/transformers/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transformers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SiC</title>
+      <link>/tags/sic/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sic/</guid>
       <description></description>
     </item>
     

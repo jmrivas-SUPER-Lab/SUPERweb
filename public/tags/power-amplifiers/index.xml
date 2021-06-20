@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Power Amplifiers, on SUPER-Lab</title>
+    <title>Power Amplifiers on SUPER-Lab</title>
     <link>/tags/power-amplifiers/</link>
-    <description>Recent content in Power Amplifiers, on SUPER-Lab</description>
+    <description>Recent content in Power Amplifiers on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/power-amplifiers/index.xml" rel="self" type="application/rss+xml" />
@@ -23,6 +23,15 @@
       
       <guid>/publication/ppphi2pa_gu/</guid>
       <description>This work focuses on improving the design and operating characteristics of a push–pull $\Phi _\text2$ amplifier with a $T$ network connected between the switch nodes, or a PPT $\Phi _\text2$ amplifier. The PPT $\Phi _\text2$ amplifier has less circulating energy and achieves higher cutoff frequency &lt;sub&gt;T&lt;/sub&gt; than other $\Phi _\text2$/EF&lt;sub&gt;2&lt;/sub&gt; circuits</description>
+    </item>
+    
+    <item>
+      <title>Cascode GaN/SiC: A Wide-Bandgap Heterogenous Power Device for High-Frequency Applications</title>
+      <link>/publication/cascode-gan-sic_xu/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cascode-gan-sic_xu/</guid>
+      <description>operating at higher frequencies requires faster switching devices in packages with low parasitics. Wide-bandgap (WBG) power devices, such as gallium nitride (GaN) and silicon carbide (SiC) devices, have high-critical fields and high-thermal conductivity that make them good candidates for efficient high-voltage and high-frequency operations. Commercially available GaN and SiC devices have ratings targeting different applications. Lateral GaN devices dominate in lower voltage(&amp;lt;; 650V) and high-frequency applications as they have relatively small device capacitances (C oss , C iss ), which make them easy to drive at high frequencies. This paper presents a cascoded GaN/SiC device that overcome many of these limitations.</description>
     </item>
     
   </channel>

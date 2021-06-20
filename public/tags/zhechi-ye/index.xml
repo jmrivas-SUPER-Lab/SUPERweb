@@ -26,5 +26,14 @@
  </description>
     </item>
     
+    <item>
+      <title>Cascode GaN/SiC: A Wide-Bandgap Heterogenous Power Device for High-Frequency Applications</title>
+      <link>/publication/cascode-gan-sic_xu/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cascode-gan-sic_xu/</guid>
+      <description>operating at higher frequencies requires faster switching devices in packages with low parasitics. Wide-bandgap (WBG) power devices, such as gallium nitride (GaN) and silicon carbide (SiC) devices, have high-critical fields and high-thermal conductivity that make them good candidates for efficient high-voltage and high-frequency operations. Commercially available GaN and SiC devices have ratings targeting different applications. Lateral GaN devices dominate in lower voltage(&amp;lt;; 650V) and high-frequency applications as they have relatively small device capacitances (C oss , C iss ), which make them easy to drive at high frequencies. This paper presents a cascoded GaN/SiC device that overcome many of these limitations.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resonant Power Conversion, on SUPER-Lab</title>
+    <title>Resonant Power Conversion on SUPER-Lab</title>
     <link>/tags/resonant-power-conversion/</link>
-    <description>Recent content in Resonant Power Conversion, on SUPER-Lab</description>
+    <description>Recent content in Resonant Power Conversion on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/resonant-power-conversion/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,15 @@
       
       <guid>/publication/mhz-isolated-auxps-gatedrive_spro/</guid>
       <description>This article presents the design and optimization of a suitable topology for an isolated dc–dc auxiliary power supply with high isolation voltage and low coupling capacitance. The converter consists of a GaN HEMT inverter operating at 6.78 MHz, an LCC resonance tank, and a class-E low dv/dt rectifier.</description>
+    </item>
+    
+    <item>
+      <title>Design and Fabrication of Three-Dimensional Printed Air-Core Transformers for High-Frequency Power Applications</title>
+      <link>/publication/3d-aircore-xfm_tong/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/3d-aircore-xfm_tong/</guid>
+      <description>This article presents various designs of toroidal air-core transformers utilizing a 3-D printing and electroplating fabrication methodology.</description>
     </item>
     
   </channel>

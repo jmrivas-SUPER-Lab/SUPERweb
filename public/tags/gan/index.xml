@@ -34,5 +34,14 @@
       <description>Dynamic on-resistance (dRon), where the on-resistance immediately after turn-on is higher than the DC resistance, increases the conduction losses in power converters with gallium nitride high-electron-mobility transistors (GaN HEMTs). There exist no direct dR on measurements in the literature above 1 MHz, leaving designers unable to predict conduction losses in emerging multi-MHz applications. We address this literature gap by collecting the first on-state voltage dR on measurements at multi-MHz frequencies, with a focus on the zero-voltage-switching conditions that are predominantly employed at high frequency. On the selected commercially-available HEMT with a breakdown voltage below 200 V, the dynamic contribution asymptotes above ≈ 2 MHz, a finding predicted by the slow time constants of the traps that cause dR on</description>
     </item>
     
+    <item>
+      <title>Cascode GaN/SiC: A Wide-Bandgap Heterogenous Power Device for High-Frequency Applications</title>
+      <link>/publication/cascode-gan-sic_xu/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cascode-gan-sic_xu/</guid>
+      <description>operating at higher frequencies requires faster switching devices in packages with low parasitics. Wide-bandgap (WBG) power devices, such as gallium nitride (GaN) and silicon carbide (SiC) devices, have high-critical fields and high-thermal conductivity that make them good candidates for efficient high-voltage and high-frequency operations. Commercially available GaN and SiC devices have ratings targeting different applications. Lateral GaN devices dominate in lower voltage(&amp;lt;; 650V) and high-frequency applications as they have relatively small device capacitances (C oss , C iss ), which make them easy to drive at high frequencies. This paper presents a cascoded GaN/SiC device that overcome many of these limitations.</description>
+    </item>
+    
   </channel>
 </rss>

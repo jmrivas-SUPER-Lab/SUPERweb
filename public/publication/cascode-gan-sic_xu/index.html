@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.83.1" />
-<title>Push–Pull Class Φ2  RF Power Amplifier | SUPER-Lab</title>
+<title>Cascode GaN/SiC: A Wide-Bandgap Heterogenous Power Device for High-Frequency Applications | SUPER-Lab</title>
 
 
 <meta property="twitter:site" content="@Jmrivasd">
@@ -28,10 +28,10 @@
 
 
 <meta property="og:site_name" content="SUPER-Lab">
-<meta property="og:title" content="Push–Pull Class Φ2  RF Power Amplifier | SUPER-Lab">
+<meta property="og:title" content="Cascode GaN/SiC: A Wide-Bandgap Heterogenous Power Device for High-Frequency Applications | SUPER-Lab">
 <meta property="og:description" content="Website of the Stanford University Power Electronics Research Laboratory." />
 <meta property="og:type" content="page" />
-<meta property="og:url" content="/publication/ppphi2pa_gu/" />
+<meta property="og:url" content="/publication/cascode-gan-sic_xu/" />
 <meta property="og:locale" content="en">
 
 
@@ -42,11 +42,11 @@
         <meta property="twitter:card" content="summary_large_image">
         <meta name="twitter:image" content="/img/superlablogofabiconv3.png" >
     
-  <meta itemprop="name" content="Push–Pull Class Φ2  RF Power Amplifier">
-<meta itemprop="description" content="This work focuses on improving the design and operating characteristics of a push–pull $\Phi _\text2$ amplifier with a $T$ network connected between the switch nodes, or a PPT $\Phi _\text2$ amplifier. The PPT $\Phi _\text2$ amplifier has less circulating energy and achieves higher cutoff frequency T than other $\Phi _\text2$/EF2 circuits"><meta itemprop="datePublished" content="2020-03-16T00:00:00-01:00" />
-<meta itemprop="dateModified" content="2020-03-16T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="204">
-<meta itemprop="keywords" content="Harmonic Analysis,Power Amplifiers,,Radiofrequency Amplifiers,,Switching Converters,,Soft Switching,,Tuning,,Zero Current Switching,,Zero Voltage Switching.,Lei Gu,Grayson Zulauf," />
+  <meta itemprop="name" content="Cascode GaN/SiC: A Wide-Bandgap Heterogenous Power Device for High-Frequency Applications">
+<meta itemprop="description" content="operating at higher frequencies requires faster switching devices in packages with low parasitics. Wide-bandgap (WBG) power devices, such as gallium nitride (GaN) and silicon carbide (SiC) devices, have high-critical fields and high-thermal conductivity that make them good candidates for efficient high-voltage and high-frequency operations. Commercially available GaN and SiC devices have ratings targeting different applications. Lateral GaN devices dominate in lower voltage(&lt;; 650V) and high-frequency applications as they have relatively small device capacitances (C oss , C iss ), which make them easy to drive at high frequencies. This paper presents a cascoded GaN/SiC device that overcome many of these limitations."><meta itemprop="datePublished" content="2019-11-19T00:00:00-01:00" />
+<meta itemprop="dateModified" content="2019-11-19T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="398">
+<meta itemprop="keywords" content="GaN,Power Amplifiers,SiC,JiaLe Xu,Zhechi Ye," />
   
   <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
@@ -114,10 +114,10 @@
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
-        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Push–Pull Class Φ2  RF Power Amplifier</h1>
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Cascode GaN/SiC: A Wide-Bandgap Heterogenous Power Device for High-Frequency Applications</h1>
         
-        <p class="f6 measure lh-copy mv1">By L. Gu, G. Zulauf, Z. Zhang, S. Chakraborty, J. Rivas-Davila in <a href="/categories/journal">Journal</a> </p>
-        <p class="f7 db mv0 ttu">March 16, 2020</p>
+        <p class="f6 measure lh-copy mv1">By J. Xu, L. Gu, Z. Ye, S. Kargarrazi and J. M. Rivas-Davila in <a href="/categories/journal">Journal</a> </p>
+        <p class="f7 db mv0 ttu">November 19, 2019</p>
 
       
       <div class="ph0 pt5">
@@ -131,7 +131,20 @@
     
       
       
-  <a class="btn-links mr2 ba dib" href="http://ieeexplore.ieee.org/document/9039741" target="_blank" rel="noopener"><i class="ai ai-doi fa-lg fa-fw mr2"></i>Publication</a>
+  <a class="btn-links mr2 ba dib" href="http://ieeexplore.ieee.org/document/8906160" target="_blank" rel="noopener"><i class="ai ai-doi fa-lg fa-fw mr2"></i>Publication</a>
+
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="/files2download/TPEL2019_paper_Jiale.pdf" ><i class="fas fa-file-pdf fa-lg fa-fw mr2"></i>Pre-print</a>
 
 
       </div>
@@ -140,29 +153,29 @@
       </header>
       <section class="post-body pt5 pb4">
         
-<script src="/publication/ppphi2pa_gu/index_files/header-attrs/header-attrs.js"></script>
+<script src="/publication/cascode-gan-sic_xu/index_files/header-attrs/header-attrs.js"></script>
 
 
 <div class="figure" style="text-align: center"><span id="fig:unnamed-chunk-1"></span>
-<img src="Gu_stackedphi2.jpg" alt="Prototype series-stacked PPT Φ2 amplifier." width="75%" />
+<img src="Xu_cascode.png" alt="Schematic and PCB of the Class-E inverter using the cascode GaN/SiC device. (a) Class-E inverter schematic. (b) Class-E inverter PCB." width="75%" />
 <p class="caption">
-Figure 1: Prototype series-stacked PPT Φ2 amplifier.
+Figure 1: Schematic and PCB of the Class-E inverter using the cascode GaN/SiC device. (a) Class-E inverter schematic. (b) Class-E inverter PCB.
 </p>
 </div>
 <div id="abstract" class="section level2">
 <h2>Abstract</h2>
-<p>The Class Φ2/EF2 amplifier is an attractive topology for high-voltage and high-frequency power conversion because of the high efficiency, reduced device voltage stress, simplicity of gate driving, and load-independent ZVS operation. Due to many degrees of freedom for tuning, previous studies can only solve the single-ended Φ2 circuit using numerical methods. This work focuses on improving the design and operating characteristics of a push–pull Φ2 amplifier with a <span class="math inline">\(T\)</span> network connected between the switch nodes, or a PPT Φ2 amplifier. The PPT Φ2 amplifier has less circulating energy and achieves higher cutoff frequency <sub>T</sub> than other Φ2/EF<sub>2</sub> circuits. We, then, present a series-stacked input configuration to reduce the switch voltage stress and improve the efficiency and power density. A compact 6.78-MHz, 100-V, 300-W prototype converter is demonstrated that uses low-cost Si devices and achieves 96% peak total efficiency and maintains above 94.5% drain efficiency across a wide range of voltage and power. Together with the advances in wide-bandgap semiconductors and magnetic materials, the PPT <span class="math inline">\(\Phi _\text2\)</span> circuit opens more possibilities for the state-of-the-art performance of solid-state RF amplifiers in high-frequency, high-power applications, including wireless charging for electric vehicles, plasma RF drives, and nuclear magnetic resonance spectroscopy.</p>
+<p>Wireless power transfer systems and plasma generators are among the increasing number of applications that use high-frequency power converters. Increasing switching frequency can reduce the energy storage requirements of the passive elements that can lead to higher power densities or even the elimination of magnetic cores. However, operating at higher frequencies requires faster switching devices in packages with low parasitics. Wide-bandgap (WBG) power devices, such as gallium nitride (GaN) and silicon carbide (SiC) devices, have high-critical fields and high-thermal conductivity that make them good candidates for efficient high-voltage and high-frequency operations. Commercially available GaN and SiC devices have ratings targeting different applications. Lateral GaN devices dominate in lower voltage(&lt;; 650V) and high-frequency applications as they have relatively small device capacitances (C oss , C iss ), which make them easy to drive at high frequencies. On the other hand, vertical SiC devices are often used in high-voltage and low-frequency applications since they have higher blocking voltages and larger gate charge than their GaN counterparts. As a result, SiC devices usually require high power and complicated gate drive circuitry. Recent work shows that in both GaN and SiC devices, losses in device C oss can exceed the conduction losses at high-switching frequencies and relatively high voltages under zero-voltage-switching conditions. Moreover, the C oss energy loss (E oss ) per switching cycle increases with frequency in GaN devices but remains roughly independent of frequency in SiC devices. This means that at high frequencies, SiC devices can be preferable due to their smaller C oss energy loss even when taking into consideration the complexity of the gate drive circuit. In this article, we present a WBG high-voltage cascode GaN/SiC power device, combining the advantages of both a GaN and an SiC device-namely, simple gate drive requirements, E oss loss per cycle roughly independent of frequency, and relatively high-voltage blocking capability. Comparing this cascode GaN/SiC device with an SiC MOSFET and a SiC junction gate field-effect transistor of similar voltage ratings and R d8,ON , we find that the inverter using the cascode GaN/SiC device has the highest efficiency and simplest auxiliary gate drive circuitry. Finally, integrating the cascode GaN/SiC device has the potential benefits of achieving lower C oss losses, higher device ratings, and better heat removal capability</p>
 </div>
 
         
         <details closed class="f6 fw7 input-reset">
   <dl class="f6 lh-copy">
     <dt class="fw7">Posted on:</dt>
-    <dd class="fw5 ml0">March 16, 2020</dd>
+    <dd class="fw5 ml0">November 19, 2019</dd>
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">1 minute read, 204 words</dd>
+    <dd class="fw5 ml0">2 minute read, 398 words</dd>
   </dl>
   
   <dl class="f6 lh-copy">
@@ -174,7 +187,7 @@ Figure 1: Prototype series-stacked PPT Φ2 amplifier.
   
   <dl class="f6 lh-copy">
     <dt class="fw7">Tags:</dt>
-    <dd class="fw5 ml0"> <a href="/tags/harmonic-analysis">Harmonic Analysis</a>  <a href="/tags/power-amplifiers">Power Amplifiers,</a>  <a href="/tags/radiofrequency-amplifiers">Radiofrequency Amplifiers,</a>  <a href="/tags/switching-converters">Switching Converters,</a>  <a href="/tags/soft-switching">Soft Switching,</a>  <a href="/tags/tuning">Tuning,</a>  <a href="/tags/zero-current-switching">Zero Current Switching,</a>  <a href="/tags/zero-voltage-switching.">Zero Voltage Switching.</a>  <a href="/tags/lei-gu">Lei Gu</a>  <a href="/tags/grayson-zulauf">Grayson Zulauf</a> </dd>
+    <dd class="fw5 ml0"> <a href="/tags/gan">GaN</a>  <a href="/tags/power-amplifiers">Power Amplifiers</a>  <a href="/tags/sic">SiC</a>  <a href="/tags/jiale-xu">JiaLe Xu</a>  <a href="/tags/zhechi-ye">Zhechi Ye</a> </dd>
   </dl>
   
   <dl class="f6 lh-copy">
@@ -182,9 +195,9 @@ Figure 1: Prototype series-stacked PPT Φ2 amplifier.
     
     <dd class="fw5 ml0"><a href="/publication/dynamic-capacitance-gan_zhuang/">Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs</a></dd>
     
-    <dd class="fw5 ml0"><a href="/publication/6m78-wpt-src-dcdc_gu/">6.78-MHz Wireless Power Transfer With Self-Resonant Coils at 95% DC–DC Efficiency</a></dd>
+    <dd class="fw5 ml0"><a href="/project/lamresearchsystemx/">SiC, GaN and Si technology comparison for high power RF plasma generators</a></dd>
     
-    <dd class="fw5 ml0"><a href="/publication/impact-mhz-dynamicrdson_zulauf/">The Impact of Multi-MHz Switching Frequencies on Dynamic On-Resistance in GaN-on-Si HEMTs</a></dd>
+    <dd class="fw5 ml0"><a href="/publication/6m78-wpt-src-dcdc_gu/">6.78-MHz Wireless Power Transfer With Self-Resonant Coils at 95% DC–DC Efficiency</a></dd>
     
   </dl>
 </details>
@@ -195,12 +208,9 @@ Figure 1: Prototype series-stacked PPT Φ2 amplifier.
   
   
     <a class="prev dtc pr2 tl v-top fw6"
-    href="/publication/mhz-isolated-auxps-gatedrive_spro/">&larr; Optimized Design of Multi-MHz Frequency Isolated Auxiliary Power Supply for Gate Drivers in Medium-Voltage Converters</a>
+    href="/publication/3d-aircore-xfm_tong/">&larr; Design and Fabrication of Three-Dimensional Printed Air-Core Transformers for High-Frequency Power Applications</a>
   
   
-  
-    <a class="next dtc pl2 tr v-top fw6"
-    href="/publication/3d-aircore-xfm_tong/">Design and Fabrication of Three-Dimensional Printed Air-Core Transformers for High-Frequency Power Applications &rarr;</a>
   
 </div>
 
