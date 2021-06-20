@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WPT on SUPER-Lab</title>
+    <link>/tags/wpt/</link>
+    <description>Recent content in WPT on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Method to Eliminate Discrete Inductors in a Class-E Inverter Used in Wireless Power Transfer Applications</title>
+      <link>/publication/eliminate-discrete-inductors-classe-wpt_surakitbovorn/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/eliminate-discrete-inductors-classe-wpt_surakitbovorn/</guid>
+      <description>we demonstrate a printed circuit board (PCB)-based WPT circuit operating at 40.68 MHz, utilizing no discrete inductors other than the WPT coils themselves and weighing only 7 g. This article describes the design methodology as well as the procedure to eliminate the discrete resonant inductors used in the implementation of our designs.</description>
+    </item>
+    
+    <item>
+      <title>On the Optimization of a Class-E Power Amplifier With GaN HEMTs at Megahertz Operation</title>
+      <link>/publication/optimization-classe-gan-mhz_surakitbovorn/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/optimization-classe-gan-mhz_surakitbovorn/</guid>
+      <description>We examine the constraints that dictate when this optimization equations can and cannot be used, as well as propose a distributed loss model for the C oss loss based on a generalized Steinmetz equation (GSE) to allow this new loss term to be easily simulated. To verify our mathematical analysis and to demonstrate the applications of the proposed GSE-based C oss loss model, two design examples are provided.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capacitors on SUPER-Lab</title>
+    <link>/tags/capacitors/</link>
+    <description>Recent content in Capacitors on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/capacitors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effect of Class 2 Ceramic Capacitor Variations on Switched-Capacitor and Resonant Switched-Capacitor Converters,</title>
+      <link>/publication/class2caps-variation-switchedcap_xu/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/class2caps-variation-switchedcap_xu/</guid>
+      <description>Class 2 ceramic capacitors, such as X7R, have relatively high energy density compared to Class 1 ceramic capacitors. However, they experience changes due to aging, temperature, and electric field. The measured X7R capacitance drop is 1%-2% per decade hour due to aging, 18% due to a temperature change from 25 °C to 125 °C, and 75% due to an applied voltage that is 80% of the rated voltage. The measured equivalent series resistance (ESR) of the X7R capacitors shows an increase of 20% to 70% due to aging of 1680 h, and a 50% fluctuation in value when we apply 20% to 80% of the rated voltage</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+---
+title: "A Method to Eliminate Discrete Inductors in a Class-E Inverter Used in Wireless Power Transfer Applications"
+author: "K. Surakitbovorn and J. M. Rivas-Davila"
+date: '2019-10-24'
+slug: Eliminate-Discrete-Inductors-ClassE-WPT_Surakitbovorn
+categories:
+  - Journal
+tags: 
+  - Class-E Amplifier
+  - GaN
+  - Inductor Elimination
+  - PCB-based Circuit
+  - VHF
+  - WPT
+  - Kawin Surakitbovorn
+doi: '10.1109/JESTPE.2019.2949234'
+publishDate: '2019-10-24T00:00:00-01:00'
+publication_types:
+  - '1'
+publication: "IEEE Journal of Emerging and Selected Topics in Power Electronics"
+publication_short: "IEEE JESTPE"
+abstract: "Wireless power transfer (WPT) systems have attracted tremendous attention over the past decade. Most compact, low-power, WPT systems, however, utilize ferrites to shield and redirect the magnetic fields. Using a magnetic material adds the weight and system bulk. In this article, we present a method to design the WPT coils in which the leakage and magnetizing inductances are utilized in other parts of the circuit. This eliminates the need for discrete inductors commonly required in a resonant inverter, which additionally improves overall efficiency. Utilizing this technique, we demonstrate a small and lightweight 300-W 48-to-48-V WPT system with above 90% efficiency. We further propose a method to eliminate the input inductor required by the class-E inverter by utilizing the input power supply wires. Employing this method, we demonstrate a printed circuit board (PCB)-based WPT circuit operating at 40.68 MHz, utilizing no discrete inductors other than the WPT coils themselves and weighing only 7 g. This article describes the design methodology as well as the procedure to eliminate the discrete resonant inductors used in the implementation of our designs."
+summary: ' we demonstrate a printed circuit board (PCB)-based WPT circuit operating at 40.68 MHz, utilizing no discrete inductors other than the WPT coils themselves and weighing only 7 g. This article describes the design methodology as well as the procedure to eliminate the discrete resonant inductors used in the implementation of our designs.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: http://ieeexplore.ieee.org/document/8882287
+- icon: file-pdf
+  icon_pack: fas
+  name: Pre-print
+  url: files2download/JESTPE2019_paper_North.pdf
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="WPT system with the push–pull class-E inverter on the left and the FB rectifier on the right. Note that both C1 and C2 are split into two for symmetry on the board. (a) Side view. (b) Top view."}
+knitr::include_graphics("surak9ab-2949234-small.gif")
+```
+
+## Abstract 
+
+Wireless power transfer (WPT) systems have attracted tremendous attention over the past decade. Most compact, low-power, WPT systems, however, utilize ferrites to shield and redirect the magnetic fields. Using a magnetic material adds the weight and system bulk. In this article, we present a method to design the WPT coils in which the leakage and magnetizing inductances are utilized in other parts of the circuit. This eliminates the need for discrete inductors commonly required in a resonant inverter, which additionally improves overall efficiency. Utilizing this technique, we demonstrate a small and lightweight 300-W 48-to-48-V WPT system with above 90% efficiency. We further propose a method to eliminate the input inductor required by the class-E inverter by utilizing the input power supply wires. Employing this method, we demonstrate a printed circuit board (PCB)-based WPT circuit operating at 40.68 MHz, utilizing no discrete inductors other than the WPT coils themselves and weighing only 7 g. This article describes the design methodology as well as the procedure to eliminate the discrete resonant inductors used in the implementation of our designs.
