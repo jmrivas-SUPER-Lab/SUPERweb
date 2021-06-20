@@ -16,5 +16,14 @@
       <description>operating at higher frequencies requires faster switching devices in packages with low parasitics. Wide-bandgap (WBG) power devices, such as gallium nitride (GaN) and silicon carbide (SiC) devices, have high-critical fields and high-thermal conductivity that make them good candidates for efficient high-voltage and high-frequency operations. Commercially available GaN and SiC devices have ratings targeting different applications. Lateral GaN devices dominate in lower voltage(&amp;lt;; 650V) and high-frequency applications as they have relatively small device capacitances (C oss , C iss ), which make them easy to drive at high frequencies. This paper presents a cascoded GaN/SiC device that overcome many of these limitations.</description>
     </item>
     
+    <item>
+      <title>On the Techniques to Utilize SiC Power Devices in High- and Very High-Frequency Power Converters</title>
+      <link>/publication/singleturn-aircore-hf-wpt_zulauf/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/singleturn-aircore-hf-wpt_zulauf/</guid>
+      <description>n this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high frequency: namely, the issue of high parasitic inductance packages and the ability to drive and enhance the mosfet at these frequencies. Although power circuit designers have many alternative device technologies to choose from, such as silicon and gallium nitride materials, SiC devices have several advantageous attributes especially in high power applications. As a solution, we study the device performance and parasitics of SiC mosfets in different packaging schemes. We further offer a solution to the challenges of driving SiC devices by demonstrating a multiresonant gate driver and use this scheme to drive an SiC mosfet at 30 MHz and a SiC JFET at 13.56 MHz in a class-E inverter, achieving 85.7% drain efficiency for the mosfet and 93.8% for the JFET.</description>
+    </item>
+    
   </channel>
 </rss>

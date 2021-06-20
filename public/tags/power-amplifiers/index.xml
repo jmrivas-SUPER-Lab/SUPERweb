@@ -34,5 +34,14 @@
       <description>operating at higher frequencies requires faster switching devices in packages with low parasitics. Wide-bandgap (WBG) power devices, such as gallium nitride (GaN) and silicon carbide (SiC) devices, have high-critical fields and high-thermal conductivity that make them good candidates for efficient high-voltage and high-frequency operations. Commercially available GaN and SiC devices have ratings targeting different applications. Lateral GaN devices dominate in lower voltage(&amp;lt;; 650V) and high-frequency applications as they have relatively small device capacitances (C oss , C iss ), which make them easy to drive at high frequencies. This paper presents a cascoded GaN/SiC device that overcome many of these limitations.</description>
     </item>
     
+    <item>
+      <title>High-Frequency Bidirectional Resonant Converter for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/hf-bidirec-resonant-high-conversion-ratio-variable-load_gu/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hf-bidirec-resonant-high-conversion-ratio-variable-load_gu/</guid>
+      <description>This article proposes an HF/very HF (VHF) resonant converter structure in which the rectifier and the inverter switches can be driven with the same gate signal. The presented structure enables efficient bidirectional power delivery in the HF/VHF range for applications that require a large voltage conversion ratio. A 64-MHz, 12-W, 36-12-V prototype converter verifies the operation of the structure. This article further explores an interleaved architecture of the same circuit to improve efficiency and transient performance.</description>
+    </item>
+    
   </channel>
 </rss>

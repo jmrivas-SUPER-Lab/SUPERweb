@@ -52,5 +52,23 @@
       <description>This work focuses on improving the design and operating characteristics of a push–pull $\Phi _\text2$ amplifier with a $T$ network connected between the switch nodes, or a PPT $\Phi _\text2$ amplifier. The PPT $\Phi _\text2$ amplifier has less circulating energy and achieves higher cutoff frequency &lt;sub&gt;T&lt;/sub&gt; than other $\Phi _\text2$/EF&lt;sub&gt;2&lt;/sub&gt; circuits</description>
     </item>
     
+    <item>
+      <title>High-Frequency Bidirectional Resonant Converter for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/hf-bidirec-resonant-high-conversion-ratio-variable-load_gu/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hf-bidirec-resonant-high-conversion-ratio-variable-load_gu/</guid>
+      <description>This article proposes an HF/very HF (VHF) resonant converter structure in which the rectifier and the inverter switches can be driven with the same gate signal. The presented structure enables efficient bidirectional power delivery in the HF/VHF range for applications that require a large voltage conversion ratio. A 64-MHz, 12-W, 36-12-V prototype converter verifies the operation of the structure. This article further explores an interleaved architecture of the same circuit to improve efficiency and transient performance.</description>
+    </item>
+    
+    <item>
+      <title>Single-Turn Air-Core Coils for High-Frequency Inductive Wireless Power Transfer</title>
+      <link>/publication/singleturn-aircore-hf-wpt_zulauf/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/singleturn-aircore-hf-wpt_zulauf/</guid>
+      <description>The efficiency of megahertz-frequency inductive wireless power transfer designs is currently limited by the quality factor of the resonant tanks and the coils. In this article, we use two-dimensional finite-element analysis to optimize the cross section of single-turn air-core inductors for this application and demonstrate coils for wireless power at high-frequency and very-high-frequency industrial, scientific, and medical (ISM) bands. Our resonant tanks achieve diameter-normalized quality factors (Q d ) that are 25%-70% better than the state of the art for air-core coils at 6.78 MHz (Q d = 73 cm -1 ) and 13.56 MHz (102), and we show significant improvements at the 27.12 MHz (123) and 40.68 MHz (137) ISM bands.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Passive Circuits on SUPER-Lab</title>
+    <link>/tags/passive-circuits/</link>
+    <description>Recent content in Passive Circuits on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/passive-circuits/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Hybrid Cockcroft–Walton/Dickson Multiplier for High Voltage Generation</title>
+      <link>/publication/hybrid_cockroft-walton-dickson-hv_park/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hybrid_cockroft-walton-dickson-hv_park/</guid>
+      <description>This paper presents a voltage multiplier topology that is a hybrid between a Cockcroft-Walton multiplier and a Dickson charge pump. The Cockcroft-Walton structure exhibits significant output voltage drop under load as the number of multiplier stage increases.</description>
+    </item>
+    
+  </channel>
+</rss>

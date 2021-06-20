@@ -53,5 +53,14 @@
       <description>We examine the constraints that dictate when this optimization equations can and cannot be used, as well as propose a distributed loss model for the C oss loss based on a generalized Steinmetz equation (GSE) to allow this new loss term to be easily simulated. To verify our mathematical analysis and to demonstrate the applications of the proposed GSE-based C oss loss model, two design examples are provided.</description>
     </item>
     
+    <item>
+      <title>High-Frequency Bidirectional Resonant Converter for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/hf-bidirec-resonant-high-conversion-ratio-variable-load_gu/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hf-bidirec-resonant-high-conversion-ratio-variable-load_gu/</guid>
+      <description>This article proposes an HF/very HF (VHF) resonant converter structure in which the rectifier and the inverter switches can be driven with the same gate signal. The presented structure enables efficient bidirectional power delivery in the HF/VHF range for applications that require a large voltage conversion ratio. A 64-MHz, 12-W, 36-12-V prototype converter verifies the operation of the structure. This article further explores an interleaved architecture of the same circuit to improve efficiency and transient performance.</description>
+    </item>
+    
   </channel>
 </rss>

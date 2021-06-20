@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coss Loss on SUPER-Lab</title>
+    <title>Coss loss on SUPER-Lab</title>
     <link>/tags/coss-loss/</link>
-    <description>Recent content in Coss Loss on SUPER-Lab</description>
+    <description>Recent content in Coss loss on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/coss-loss/index.xml" rel="self" type="application/rss+xml" />
@@ -23,6 +23,15 @@
       
       <guid>/publication/optimization-classe-gan-mhz_surakitbovorn/</guid>
       <description>We examine the constraints that dictate when this optimization equations can and cannot be used, as well as propose a distributed loss model for the C oss loss based on a generalized Steinmetz equation (GSE) to allow this new loss term to be easily simulated. To verify our mathematical analysis and to demonstrate the applications of the proposed GSE-based C oss loss model, two design examples are provided.</description>
+    </item>
+    
+    <item>
+      <title>On the Techniques to Utilize SiC Power Devices in High- and Very High-Frequency Power Converters</title>
+      <link>/publication/singleturn-aircore-hf-wpt_zulauf/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/singleturn-aircore-hf-wpt_zulauf/</guid>
+      <description>n this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high frequency: namely, the issue of high parasitic inductance packages and the ability to drive and enhance the mosfet at these frequencies. Although power circuit designers have many alternative device technologies to choose from, such as silicon and gallium nitride materials, SiC devices have several advantageous attributes especially in high power applications. As a solution, we study the device performance and parasitics of SiC mosfets in different packaging schemes. We further offer a solution to the challenges of driving SiC devices by demonstrating a multiresonant gate driver and use this scheme to drive an SiC mosfet at 30 MHz and a SiC JFET at 13.56 MHz in a class-E inverter, achieving 85.7% drain efficiency for the mosfet and 93.8% for the JFET.</description>
     </item>
     
   </channel>

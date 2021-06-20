@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VHF circuits on SUPER-Lab</title>
+    <link>/tags/vhf-circuits/</link>
+    <description>Recent content in VHF circuits on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/vhf-circuits/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Single-Turn Air-Core Coils for High-Frequency Inductive Wireless Power Transfer</title>
+      <link>/publication/singleturn-aircore-hf-wpt_zulauf/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/singleturn-aircore-hf-wpt_zulauf/</guid>
+      <description>The efficiency of megahertz-frequency inductive wireless power transfer designs is currently limited by the quality factor of the resonant tanks and the coils. In this article, we use two-dimensional finite-element analysis to optimize the cross section of single-turn air-core inductors for this application and demonstrate coils for wireless power at high-frequency and very-high-frequency industrial, scientific, and medical (ISM) bands. Our resonant tanks achieve diameter-normalized quality factors (Q d ) that are 25%-70% better than the state of the art for air-core coils at 6.78 MHz (Q d = 73 cm -1 ) and 13.56 MHz (102), and we show significant improvements at the 27.12 MHz (123) and 40.68 MHz (137) ISM bands.</description>
+    </item>
+    
+    <item>
+      <title>On the Techniques to Utilize SiC Power Devices in High- and Very High-Frequency Power Converters</title>
+      <link>/publication/singleturn-aircore-hf-wpt_zulauf/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/singleturn-aircore-hf-wpt_zulauf/</guid>
+      <description>n this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high frequency: namely, the issue of high parasitic inductance packages and the ability to drive and enhance the mosfet at these frequencies. Although power circuit designers have many alternative device technologies to choose from, such as silicon and gallium nitride materials, SiC devices have several advantageous attributes especially in high power applications. As a solution, we study the device performance and parasitics of SiC mosfets in different packaging schemes. We further offer a solution to the challenges of driving SiC devices by demonstrating a multiresonant gate driver and use this scheme to drive an SiC mosfet at 30 MHz and a SiC JFET at 13.56 MHz in a class-E inverter, achieving 85.7% drain efficiency for the mosfet and 93.8% for the JFET.</description>
+    </item>
+    
+  </channel>
+</rss>

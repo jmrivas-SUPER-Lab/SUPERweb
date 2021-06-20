@@ -151,5 +151,41 @@
       <description>We examine the constraints that dictate when this optimization equations can and cannot be used, as well as propose a distributed loss model for the C oss loss based on a generalized Steinmetz equation (GSE) to allow this new loss term to be easily simulated. To verify our mathematical analysis and to demonstrate the applications of the proposed GSE-based C oss loss model, two design examples are provided.</description>
     </item>
     
+    <item>
+      <title>High-Frequency Bidirectional Resonant Converter for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/hf-bidirec-resonant-high-conversion-ratio-variable-load_gu/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hf-bidirec-resonant-high-conversion-ratio-variable-load_gu/</guid>
+      <description>This article proposes an HF/very HF (VHF) resonant converter structure in which the rectifier and the inverter switches can be driven with the same gate signal. The presented structure enables efficient bidirectional power delivery in the HF/VHF range for applications that require a large voltage conversion ratio. A 64-MHz, 12-W, 36-12-V prototype converter verifies the operation of the structure. This article further explores an interleaved architecture of the same circuit to improve efficiency and transient performance.</description>
+    </item>
+    
+    <item>
+      <title>Single-Turn Air-Core Coils for High-Frequency Inductive Wireless Power Transfer</title>
+      <link>/publication/singleturn-aircore-hf-wpt_zulauf/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/singleturn-aircore-hf-wpt_zulauf/</guid>
+      <description>The efficiency of megahertz-frequency inductive wireless power transfer designs is currently limited by the quality factor of the resonant tanks and the coils. In this article, we use two-dimensional finite-element analysis to optimize the cross section of single-turn air-core inductors for this application and demonstrate coils for wireless power at high-frequency and very-high-frequency industrial, scientific, and medical (ISM) bands. Our resonant tanks achieve diameter-normalized quality factors (Q d ) that are 25%-70% better than the state of the art for air-core coils at 6.78 MHz (Q d = 73 cm -1 ) and 13.56 MHz (102), and we show significant improvements at the 27.12 MHz (123) and 40.68 MHz (137) ISM bands.</description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Cockcroft–Walton/Dickson Multiplier for High Voltage Generation</title>
+      <link>/publication/hybrid_cockroft-walton-dickson-hv_park/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hybrid_cockroft-walton-dickson-hv_park/</guid>
+      <description>This paper presents a voltage multiplier topology that is a hybrid between a Cockcroft-Walton multiplier and a Dickson charge pump. The Cockcroft-Walton structure exhibits significant output voltage drop under load as the number of multiplier stage increases.</description>
+    </item>
+    
+    <item>
+      <title>On the Techniques to Utilize SiC Power Devices in High- and Very High-Frequency Power Converters</title>
+      <link>/publication/singleturn-aircore-hf-wpt_zulauf/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/singleturn-aircore-hf-wpt_zulauf/</guid>
+      <description>n this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high frequency: namely, the issue of high parasitic inductance packages and the ability to drive and enhance the mosfet at these frequencies. Although power circuit designers have many alternative device technologies to choose from, such as silicon and gallium nitride materials, SiC devices have several advantageous attributes especially in high power applications. As a solution, we study the device performance and parasitics of SiC mosfets in different packaging schemes. We further offer a solution to the challenges of driving SiC devices by demonstrating a multiresonant gate driver and use this scheme to drive an SiC mosfet at 30 MHz and a SiC JFET at 13.56 MHz in a class-E inverter, achieving 85.7% drain efficiency for the mosfet and 93.8% for the JFET.</description>
+    </item>
+    
   </channel>
 </rss>

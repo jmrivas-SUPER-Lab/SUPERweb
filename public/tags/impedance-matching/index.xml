@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Impedance Matching on SUPER-Lab</title>
+    <link>/tags/impedance-matching/</link>
+    <description>Recent content in Impedance Matching on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/impedance-matching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>High-Frequency Bidirectional Resonant Converter for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/hf-bidirec-resonant-high-conversion-ratio-variable-load_gu/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hf-bidirec-resonant-high-conversion-ratio-variable-load_gu/</guid>
+      <description>This article proposes an HF/very HF (VHF) resonant converter structure in which the rectifier and the inverter switches can be driven with the same gate signal. The presented structure enables efficient bidirectional power delivery in the HF/VHF range for applications that require a large voltage conversion ratio. A 64-MHz, 12-W, 36-12-V prototype converter verifies the operation of the structure. This article further explores an interleaved architecture of the same circuit to improve efficiency and transient performance.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -61,5 +61,14 @@
       <description>We examine the constraints that dictate when this optimization equations can and cannot be used, as well as propose a distributed loss model for the C oss loss based on a generalized Steinmetz equation (GSE) to allow this new loss term to be easily simulated. To verify our mathematical analysis and to demonstrate the applications of the proposed GSE-based C oss loss model, two design examples are provided.</description>
     </item>
     
+    <item>
+      <title>Single-Turn Air-Core Coils for High-Frequency Inductive Wireless Power Transfer</title>
+      <link>/publication/singleturn-aircore-hf-wpt_zulauf/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/singleturn-aircore-hf-wpt_zulauf/</guid>
+      <description>The efficiency of megahertz-frequency inductive wireless power transfer designs is currently limited by the quality factor of the resonant tanks and the coils. In this article, we use two-dimensional finite-element analysis to optimize the cross section of single-turn air-core inductors for this application and demonstrate coils for wireless power at high-frequency and very-high-frequency industrial, scientific, and medical (ISM) bands. Our resonant tanks achieve diameter-normalized quality factors (Q d ) that are 25%-70% better than the state of the art for air-core coils at 6.78 MHz (Q d = 73 cm -1 ) and 13.56 MHz (102), and we show significant improvements at the 27.12 MHz (123) and 40.68 MHz (137) ISM bands.</description>
+    </item>
+    
   </channel>
 </rss>

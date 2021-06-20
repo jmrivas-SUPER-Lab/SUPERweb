@@ -16,5 +16,14 @@
       <description>Class 2 ceramic capacitors, such as X7R, have relatively high energy density compared to Class 1 ceramic capacitors. However, they experience changes due to aging, temperature, and electric field. The measured X7R capacitance drop is 1%-2% per decade hour due to aging, 18% due to a temperature change from 25 °C to 125 °C, and 75% due to an applied voltage that is 80% of the rated voltage. The measured equivalent series resistance (ESR) of the X7R capacitors shows an increase of 20% to 70% due to aging of 1680 h, and a 50% fluctuation in value when we apply 20% to 80% of the rated voltage</description>
     </item>
     
+    <item>
+      <title>A Hybrid Cockcroft–Walton/Dickson Multiplier for High Voltage Generation</title>
+      <link>/publication/hybrid_cockroft-walton-dickson-hv_park/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hybrid_cockroft-walton-dickson-hv_park/</guid>
+      <description>This paper presents a voltage multiplier topology that is a hybrid between a Cockcroft-Walton multiplier and a Dickson charge pump. The Cockcroft-Walton structure exhibits significant output voltage drop under load as the number of multiplier stage increases.</description>
+    </item>
+    
   </channel>
 </rss>
