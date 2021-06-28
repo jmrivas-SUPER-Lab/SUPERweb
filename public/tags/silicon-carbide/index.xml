@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Silicon carbide on SUPER-Lab</title>
+    <title>Silicon Carbide on SUPER-Lab</title>
     <link>/tags/silicon-carbide/</link>
-    <description>Recent content in Silicon carbide on SUPER-Lab</description>
+    <description>Recent content in Silicon Carbide on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/silicon-carbide/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,24 @@
       
       <guid>/publication/ss-coss-sic-resonant_tong/</guid>
       <description>The recent development and commercialization of wide bandgap (WBG) power semiconductors, specifically gallium nitride (GaN) and silicon carbide (SiC), has driven the increase in switching frequency for soft-switching power converters like the Class E, Class Φ2, and Class DE resonant inverters and rectifiers. However, prior literature has characterized numerous commercial GaN and SiC devices using the Sawyer-Tower circuit and discovered significant large-signal charge-voltage hysteresis of the Coss.</description>
+    </item>
+    
+    <item>
+      <title>Output Capacitance Loss Characterization of Silicon Carbide Schottky Diodes</title>
+      <link>/publication/jestpe-coss-loss-sic-diodes_tong/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jestpe-coss-loss-sic-diodes_tong/</guid>
+      <description>In high-frequency (HF) and very-high-frequency (VHF) rectifiers, silicon carbide (SiC) Schottky diodes exhibit higher losses compared to what is reported in manufacturer-provided simulation models, with additional power loss stemming from energy dissipation during the charging and discharging of the junction output capacitance (CJ). Here, we compare measured losses across manufacturers, current rating, generation, voltage rating, and packaging of variouis SiC Schottkey diodes.</description>
+    </item>
+    
+    <item>
+      <title>Active Power Device Selection in High- and Very-High-Frequency Power Converters</title>
+      <link>/publication/tpels-active-power-device-selection_zulauf/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-active-power-device-selection_zulauf/</guid>
+      <description>This paper aims to provide a road map for selecting power devices in soft-switched, megahertz (MHz) frequency power converters. Minimizing $C_{OSS}$ losses, which occur when charging and discharging the parasitic output capacitor of power semiconductors, is critical to efficient operation. These losses are excluded from manufacturer-provided information, and measurements are either sparse or not reported at all in the existing literature.</description>
     </item>
     
   </channel>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capacitance-voltage Characteristics on SUPER-Lab</title>
+    <link>/tags/capacitance-voltage-characteristics/</link>
+    <description>Recent content in Capacitance-voltage Characteristics on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/capacitance-voltage-characteristics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coss Measurements for Superjunction MOSFETs: Limitations and Opportunities</title>
+      <link>/publication/ted-coss-superjunction-zulauf/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ted-coss-superjunction-zulauf/</guid>
+      <description>Small-signal measurements of output capacitance ( $C_{OSS}$ ) are ubiquitous in power semiconductor datasheets and determine critical features of power converters. For silicon superjunction power MOSFETs (SJs), we report $C_{OSS}$  measurements with two key anomalies: variation with ac perturbation frequency and hysteresis with dc sweep direction.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+---
+title: "A Multiresonant Gate Driver for High-Frequency Resonant Converters"
+author: "L. Gu, Z. Tong, W. Liang and J. Rivas-Davila"
+date: '2019-02-21'
+slug: TIE-multiresonant-gatedrive-Gu
+categories:
+  - Journal
+  - IEEE TIE
+tags: 
+  - Power Amplifiers
+  - Resonant Gate-driver Circuits
+  - Resonant Power Conversion
+  - SiC MOSFETs
+  - Lei Gu
+  - Zikang Tong
+  - Wei Liang
+doi: '10.1109/TIE.2019.2899557'
+publishDate: '2019-02-21T00:00:00-01:00'
+publication_types:
+  - '1'
+publication: "IEEE Transactions on Industrial Electronics"
+publication_short: "IEEE TIE"
+abstract: "This paper presents the design and implementation of a high-frequency/very high frequency (VHF) multiresonant gate drive circuit. The design procedure outlined here is greatly simplified compared with other VHF self-oscillating multiresonant gate drivers presented in previous works. The proposed circuit can reduce the long start-up time required in a self-oscillating resonant gate drive circuit and utilize the fast transient capability of VHF converters better. We demonstrate a prototype resonant gate driver, which reduces up to 60% of the gate-driving power in a 20-MHz 32-W Class-E power amplifier using a Si MOSFET. The proposed technique could also drive a high-voltage rated SiC MOSFET at 30 MHz with a slew rate of 2.5 V/ns at the gate, while an integrated hard-switching gate driver only provides a slew rate of 1.8-V/ns and is five times less efficient than the proposed resonant gate driver."
+summary: 'This paper presents the design and implementation of a high-frequency/very high frequency (VHF) multiresonant gate drive circuit. The proposed circuit can reduce the long start-up time required in a self-oscillating resonant gate drive circuit and utilize the fast transient capability of VHF converters better. We demonstrate a prototype resonant gate driver, which reduces up to 60% of the gate-driving power in a 20-MHz 32-W Class-E power amplifier using a Si MOSFET.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: http://ieeexplore.ieee.org/document/8648471
+- icon: file-pdf
+  icon_pack: fas
+  name: Pre-print
+  url: files2download/TIE2019_paper_Lei.pdf
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="Photograph of the two prototype gate drivers of a SiC MOSFET. (a) Proposed multiresonant gate driver. (b) Conventional hard-switching gate driver IXRFD630"}
+knitr::include_graphics("gu21-2899557-small.gif")
+```
+
+## Abstract 
+
+This paper presents the design and implementation of a high-frequency/very high frequency (VHF) multiresonant gate drive circuit. The design procedure outlined here is greatly simplified compared with other VHF self-oscillating multiresonant gate drivers presented in previous works. The proposed circuit can reduce the long start-up time required in a self-oscillating resonant gate drive circuit and utilize the fast transient capability of VHF converters better. We demonstrate a prototype resonant gate driver, which reduces up to 60% of the gate-driving power in a 20-MHz 32-W Class-E power amplifier using a Si MOSFET. The proposed technique could also drive a high-voltage rated SiC MOSFET at 30 MHz with a slew rate of 2.5 V/ns at the gate, while an integrated hard-switching gate driver only provides a slew rate of 1.8-V/ns and is five times less efficient than the proposed resonant gate driver.

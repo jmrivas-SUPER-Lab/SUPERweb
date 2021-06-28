@@ -16,5 +16,14 @@
       <description>We examine the constraints that dictate when this optimization equations can and cannot be used, as well as propose a distributed loss model for the C oss loss based on a generalized Steinmetz equation (GSE) to allow this new loss term to be easily simulated. To verify our mathematical analysis and to demonstrate the applications of the proposed GSE-based C oss loss model, two design examples are provided.</description>
     </item>
     
+    <item>
+      <title>Active Power Device Selection in High- and Very-High-Frequency Power Converters</title>
+      <link>/publication/tpels-active-power-device-selection_zulauf/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-active-power-device-selection_zulauf/</guid>
+      <description>This paper aims to provide a road map for selecting power devices in soft-switched, megahertz (MHz) frequency power converters. Minimizing $C_{OSS}$ losses, which occur when charging and discharging the parasitic output capacitor of power semiconductors, is critical to efficient operation. These losses are excluded from manufacturer-provided information, and measurements are either sparse or not reported at all in the existing literature.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallium Nitride on SUPER-Lab</title>
+    <link>/tags/gallium-nitride/</link>
+    <description>Recent content in Gallium Nitride on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/gallium-nitride/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Active Power Device Selection in High- and Very-High-Frequency Power Converters</title>
+      <link>/publication/tpels-active-power-device-selection_zulauf/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-active-power-device-selection_zulauf/</guid>
+      <description>This paper aims to provide a road map for selecting power devices in soft-switched, megahertz (MHz) frequency power converters. Minimizing $C_{OSS}$ losses, which occur when charging and discharging the parasitic output capacitor of power semiconductors, is critical to efficient operation. These losses are excluded from manufacturer-provided information, and measurements are either sparse or not reported at all in the existing literature.</description>
+    </item>
+    
+  </channel>
+</rss>

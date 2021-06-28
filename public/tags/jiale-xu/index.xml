@@ -44,5 +44,23 @@
       <description>Class 2 ceramic capacitors, such as X7R, have relatively high energy density compared to Class 1 ceramic capacitors. However, they experience changes due to aging, temperature, and electric field. The measured X7R capacitance drop is 1%-2% per decade hour due to aging, 18% due to a temperature change from 25 °C to 125 °C, and 75% due to an applied voltage that is 80% of the rated voltage. The measured equivalent series resistance (ESR) of the X7R capacitors shows an increase of 20% to 70% due to aging of 1680 h, and a 50% fluctuation in value when we apply 20% to 80% of the rated voltage</description>
     </item>
     
+    <item>
+      <title>Output Capacitance Loss Characterization of Silicon Carbide Schottky Diodes</title>
+      <link>/publication/jestpe-coss-loss-sic-diodes_tong/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jestpe-coss-loss-sic-diodes_tong/</guid>
+      <description>In high-frequency (HF) and very-high-frequency (VHF) rectifiers, silicon carbide (SiC) Schottky diodes exhibit higher losses compared to what is reported in manufacturer-provided simulation models, with additional power loss stemming from energy dissipation during the charging and discharging of the junction output capacitance (CJ). Here, we compare measured losses across manufacturers, current rating, generation, voltage rating, and packaging of variouis SiC Schottkey diodes.</description>
+    </item>
+    
+    <item>
+      <title>Implementing an Impedance Compression Network to Compensate for Misalignments in a Wireless Power Transfer System</title>
+      <link>/publication/tpels-icn-wpt-choi/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-icn-wpt-choi/</guid>
+      <description>This paper presents an impedance compression network (ICN) design in a wireless power transfer (WPT) system to compensate for distance or alignment variations between coils. In order to reduce coil impedance variation, we propose an ICN that compresses variations in coil impedance.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magnetic Resonant Coupling on SUPER-Lab</title>
+    <link>/tags/magnetic-resonant-coupling/</link>
+    <description>Recent content in Magnetic Resonant Coupling on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/magnetic-resonant-coupling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementing an Impedance Compression Network to Compensate for Misalignments in a Wireless Power Transfer System</title>
+      <link>/publication/tpels-icn-wpt-choi/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-icn-wpt-choi/</guid>
+      <description>This paper presents an impedance compression network (ICN) design in a wireless power transfer (WPT) system to compensate for distance or alignment variations between coils. In order to reduce coil impedance variation, we propose an ICN that compresses variations in coil impedance.</description>
+    </item>
+    
+  </channel>
+</rss>

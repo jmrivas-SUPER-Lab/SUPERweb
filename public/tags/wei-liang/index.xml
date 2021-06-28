@@ -5,7 +5,8 @@
     <link>/tags/wei-liang/</link>
     <description>Recent content in Wei Liang on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/wei-liang/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wei-liang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wei Liang, Ph.D.</title>
       <link>/alumni/weiliang/</link>
@@ -13,6 +14,15 @@
       
       <guid>/alumni/weiliang/</guid>
       <description>Doctoral Dissertation   * Compact high frequency power conversion for high voltage applications *      Presented in 2018 Manuscript available here.  Summary     Performance of high-voltage power converters has lagged their low-voltage counterparts on many metrics including power density, efficiency, transient response, and cost. This research presents newly developed circuit techniques and design strategies that allow high-voltage power supplies to be many times smaller and more efficient than the traditional high-voltage supplies on the market today.</description>
+    </item>
+    
+    <item>
+      <title>A Multiresonant Gate Driver for High-Frequency Resonant Converters</title>
+      <link>/publication/tie-multiresonant-gatedrive-gu/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tie-multiresonant-gatedrive-gu/</guid>
+      <description>This paper presents the design and implementation of a high-frequency/very high frequency (VHF) multiresonant gate drive circuit. The proposed circuit can reduce the long start-up time required in a self-oscillating resonant gate drive circuit and utilize the fast transient capability of VHF converters better. We demonstrate a prototype resonant gate driver, which reduces up to 60% of the gate-driving power in a 20-MHz 32-W Class-E power amplifier using a Si MOSFET.</description>
     </item>
     
   </channel>

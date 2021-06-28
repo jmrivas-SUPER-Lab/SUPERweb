@@ -495,8 +495,41 @@
     <loc>/tags/semiconductor-modeling/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/ac-dc-power-converters/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/james-d.-plummer/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/loss-measurement/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/jestpe-coss-loss-sic-diodes_tong/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/power-semiconductor-devices/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/schottky-diodes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/blog/19apeczk/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/tie-multiresonant-gatedrive-gu/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/ieee-tie/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/resonant-gate-driver-circuits/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sic-mosfets/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/wei-liang/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
@@ -513,11 +546,53 @@
     <loc>/tags/texas-instruments/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/tpels-active-power-device-selection_zulauf/</loc>
+    <lastmod>2018-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/capacitance-voltage-characteristics/</loc>
+    <lastmod>2018-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ted-coss-superjunction-zulauf/</loc>
+    <lastmod>2018-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/gallium-nitride/</loc>
+    <lastmod>2018-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/ieee-ted/</loc>
+    <lastmod>2018-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/output-capacitance-coss/</loc>
+    <lastmod>2018-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/power-mosfets/</loc>
+    <lastmod>2018-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/resonant-converters/</loc>
+    <lastmod>2018-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/superjunction/</loc>
+    <lastmod>2018-11-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/grants/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/2018nsfhv/</loc>
     <lastmod>2018-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/impedance-compression-network/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/tpels-icn-wpt-choi/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/jungwon-choi/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/magnetic-resonant-coupling/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/resonant-inverter/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/2018nasaitech/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
@@ -546,8 +621,6 @@
   </url><url>
     <loc>/alumni/</loc>
   </url><url>
-    <loc>/tags/jungwon-choi/</loc>
-  </url><url>
     <loc>/license/</loc>
   </url><url>
     <loc>/tags/luke-raymond/</loc>
@@ -559,7 +632,5 @@
     <loc>/series/</loc>
   </url><url>
     <loc>/about/</loc>
-  </url><url>
-    <loc>/tags/wei-liang/</loc>
   </url>
 </urlset>

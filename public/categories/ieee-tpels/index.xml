@@ -34,5 +34,23 @@
       <description>n this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high frequency: namely, the issue of high parasitic inductance packages and the ability to drive and enhance the mosfet at these frequencies. Although power circuit designers have many alternative device technologies to choose from, such as silicon and gallium nitride materials, SiC devices have several advantageous attributes especially in high power applications. As a solution, we study the device performance and parasitics of SiC mosfets in different packaging schemes. We further offer a solution to the challenges of driving SiC devices by demonstrating a multiresonant gate driver and use this scheme to drive an SiC mosfet at 30 MHz and a SiC JFET at 13.56 MHz in a class-E inverter, achieving 85.7% drain efficiency for the mosfet and 93.8% for the JFET.</description>
     </item>
     
+    <item>
+      <title>Active Power Device Selection in High- and Very-High-Frequency Power Converters</title>
+      <link>/publication/tpels-active-power-device-selection_zulauf/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-active-power-device-selection_zulauf/</guid>
+      <description>This paper aims to provide a road map for selecting power devices in soft-switched, megahertz (MHz) frequency power converters. Minimizing $C_{OSS}$ losses, which occur when charging and discharging the parasitic output capacitor of power semiconductors, is critical to efficient operation. These losses are excluded from manufacturer-provided information, and measurements are either sparse or not reported at all in the existing literature.</description>
+    </item>
+    
+    <item>
+      <title>Implementing an Impedance Compression Network to Compensate for Misalignments in a Wireless Power Transfer System</title>
+      <link>/publication/tpels-icn-wpt-choi/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-icn-wpt-choi/</guid>
+      <description>This paper presents an impedance compression network (ICN) design in a wireless power transfer (WPT) system to compensate for distance or alignment variations between coils. In order to reduce coil impedance variation, we propose an ICN that compresses variations in coil impedance.</description>
+    </item>
+    
   </channel>
 </rss>

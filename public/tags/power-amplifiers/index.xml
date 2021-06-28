@@ -43,5 +43,14 @@
       <description>This article proposes an HF/very HF (VHF) resonant converter structure in which the rectifier and the inverter switches can be driven with the same gate signal. The presented structure enables efficient bidirectional power delivery in the HF/VHF range for applications that require a large voltage conversion ratio. A 64-MHz, 12-W, 36-12-V prototype converter verifies the operation of the structure. This article further explores an interleaved architecture of the same circuit to improve efficiency and transient performance.</description>
     </item>
     
+    <item>
+      <title>A Multiresonant Gate Driver for High-Frequency Resonant Converters</title>
+      <link>/publication/tie-multiresonant-gatedrive-gu/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tie-multiresonant-gatedrive-gu/</guid>
+      <description>This paper presents the design and implementation of a high-frequency/very high frequency (VHF) multiresonant gate drive circuit. The proposed circuit can reduce the long start-up time required in a self-oscillating resonant gate drive circuit and utilize the fast transient capability of VHF converters better. We demonstrate a prototype resonant gate driver, which reduces up to 60% of the gate-driving power in a 20-MHz 32-W Class-E power amplifier using a Si MOSFET.</description>
+    </item>
+    
   </channel>
 </rss>
