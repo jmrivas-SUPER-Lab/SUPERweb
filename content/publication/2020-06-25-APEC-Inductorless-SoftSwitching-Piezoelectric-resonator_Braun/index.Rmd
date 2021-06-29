@@ -1,0 +1,42 @@
+---
+title: "Inductorless Soft Switching DC-DC Converter with an Optimized Piezoelectric Resonator"
+author: "W. D. Braun, Z. Tong and J. Rivas-Davila"
+date: '2020-06-25'
+slug: APEC-Inductorless-SoftSwitching-Piezoelectric-resonator_Braun
+categories:
+  - Conference
+  - APEC
+tags: 
+  - Inductorless
+  - Soft Switching
+  - Piezoelectric
+  - Resonator
+  - Lithium Niobate 
+  - Weston Braun
+  - Zikang Tong
+doi: '10.1109/APEC39645.2020.9124606'
+publishDate: '2020-06-25T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: " 2020 IEEE Applied Power Electronics Conference and Exposition (APEC)"
+publication_short: "APEC"
+abstract: "The inductor presents one of the biggest obstacles in miniaturizing power electronics. Inductive circuit elements are required by almost all switch mode converter topologies but inductors are relatively large and lossy. Piezoelectric resonators can provide an inductive impedance around resonance with low loss, offering the possibility of replacing inductors and increasing power density. High frequencies are needed to achieve high power density with piezoelectric resonators, which is now achievable with wide band-gap semiconductors. In this paper we present a piezoelectric resonator for power conversion fabricated out of lithium niobate, a material that has several advantages for high frequency power conversion compared to the more commonly used PZT ceramics. The piezoelectric resonator is used in a step-down dc-dc converter that achieves zero voltage soft switching and a continuously variable conversion ratio without the use of magnetic components. The converter operates at 6.3MHz and has a maximum power output of 30W at an efficiency of 92.7%, achieving a power density of 16.7 W/cm 3"
+summary: 'The inductor presents one of the biggest obstacles in miniaturizing power electronics. In this paper we present a piezoelectric resonator for power conversion fabricated out of lithium niobate, a material that has several advantages for high frequency power conversion compared to the more commonly used PZT ceramics. The piezoelectric resonator is used in a step-down dc-dc converter that achieves zero voltage soft switching and a continuously variable conversion ratio without the use of magnetic components. The converter operates at 6.3MHz and has a maximum power output of 30W at an efficiency of 92.7%, achieving a power density of 16.7 W/cm 3'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/9235707
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+The inductor presents one of the biggest obstacles in miniaturizing power electronics. Inductive circuit elements are required by almost all switch mode converter topologies but inductors are relatively large and lossy. Piezoelectric resonators can provide an inductive impedance around resonance with low loss, offering the possibility of replacing inductors and increasing power density. High frequencies are needed to achieve high power density with piezoelectric resonators, which is now achievable with wide band-gap semiconductors. In this paper we present a piezoelectric resonator for power conversion fabricated out of lithium niobate, a material that has several advantages for high frequency power conversion compared to the more commonly used PZT ceramics. The piezoelectric resonator is used in a step-down dc-dc converter that achieves zero voltage soft switching and a continuously variable conversion ratio without the use of magnetic components. The converter operates at 6.3MHz and has a maximum power output of 30W at an efficiency of 92.7%, achieving a power density of 16.7 W/cm 3

@@ -16,5 +16,14 @@
       <description>Abstract:     With the commercialization of wide-bandgap power semiconductors, multi-MHz switching frequencies are more compelling and critical to meet new applications demanding leaps in power density and efficiency. In the past, studies of these converters reported significant gaps between measured and modeled performance, often attributed to dynamic RDS, ON in GaN HEMTs. In particular, the power semiconductors – which often drive thermal constraints – dissipated much more power than expected, rendering designs based on simulated values unusable.</description>
     </item>
     
+    <item>
+      <title>Demonstration of GaN Impact Ionization Avalanche Transit-Time (IMPATT) Diode</title>
+      <link>/publication/drc-gan-impatt_ji/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/drc-gan-impatt_ji/</guid>
+      <description>The following topics are dealt with: III-V semiconductors; wide band gap semiconductors; gallium compounds; random-access storage; field effect transistors; semiconductor growth; aluminium compounds; indium compounds; semiconductor device breakdown; hafnium compounds.</description>
+    </item>
+    
   </channel>
 </rss>

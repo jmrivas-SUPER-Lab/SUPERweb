@@ -43,5 +43,14 @@
       <description>The origin of Coss and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of GaN buffer layers and Si-substrate. These loss components can be potentially improved by re-engineering the doping concentrations in the buffer stacks and substrate layer. This paper presents a physics view of the trapping dynamics that is related to C oss in the GaN HEMT under large-signal excitations.</description>
     </item>
     
+    <item>
+      <title>Demonstration of GaN Impact Ionization Avalanche Transit-Time (IMPATT) Diode</title>
+      <link>/publication/drc-gan-impatt_ji/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/drc-gan-impatt_ji/</guid>
+      <description>The following topics are dealt with: III-V semiconductors; wide band gap semiconductors; gallium compounds; random-access storage; field effect transistors; semiconductor growth; aluminium compounds; indium compounds; semiconductor device breakdown; hafnium compounds.</description>
+    </item>
+    
   </channel>
 </rss>

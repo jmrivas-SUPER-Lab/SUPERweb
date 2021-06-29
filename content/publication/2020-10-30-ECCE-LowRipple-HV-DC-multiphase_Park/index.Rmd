@@ -10,6 +10,7 @@ tags:
   - Voltage Multiplier
   - HV
   - Multiphase
+  - Sanghyeon Park
 doi: '10.1109/ECCE44975.2020.9235707'
 publishDate: '2020-10-30T00:00:00-01:00'
 publication_types:

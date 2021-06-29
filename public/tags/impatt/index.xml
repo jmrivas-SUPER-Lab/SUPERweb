@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IMPATT on SUPER-Lab</title>
+    <link>/tags/impatt/</link>
+    <description>Recent content in IMPATT on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/impatt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demonstration of GaN Impact Ionization Avalanche Transit-Time (IMPATT) Diode</title>
+      <link>/publication/drc-gan-impatt_ji/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/drc-gan-impatt_ji/</guid>
+      <description>The following topics are dealt with: III-V semiconductors; wide band gap semiconductors; gallium compounds; random-access storage; field effect transistors; semiconductor growth; aluminium compounds; indium compounds; semiconductor device breakdown; hafnium compounds.</description>
+    </item>
+    
+  </channel>
+</rss>

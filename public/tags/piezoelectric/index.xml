@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Inductorless Soft Switching DC-DC Converter with an Optimized Piezoelectric Resonator</title>
+      <link>/publication/apec-inductorless-softswitching-piezoelectric-resonator_braun/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-inductorless-softswitching-piezoelectric-resonator_braun/</guid>
+      <description>The inductor presents one of the biggest obstacles in miniaturizing power electronics. In this paper we present a piezoelectric resonator for power conversion fabricated out of lithium niobate, a material that has several advantages for high frequency power conversion compared to the more commonly used PZT ceramics. The piezoelectric resonator is used in a step-down dc-dc converter that achieves zero voltage soft switching and a continuously variable conversion ratio without the use of magnetic components. The converter operates at 6.3MHz and has a maximum power output of 30W at an efficiency of 92.7%, achieving a power density of 16.7 W/cm 3</description>
+    </item>
+    
+    <item>
       <title>High density power converters with Piezo-electric resonators</title>
       <link>/project/tisystemx/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>

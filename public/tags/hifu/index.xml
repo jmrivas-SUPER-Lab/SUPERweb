@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HIFU on SUPER-Lab</title>
+    <link>/tags/hifu/</link>
+    <description>Recent content in HIFU on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hifu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compact Fast-Switching DC and Resonant RF Drivers for a Dual-Mode Imaging and HIFU 2D CMUT Array</title>
+      <link>/publication/hifu-2d-cmut_stedman/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hifu-2d-cmut_stedman/</guid>
+      <description>We developed previously a 2D CMUT array with capability to both do imaging and generate HIFU for ablation of targeted tissues without collateral damage. This new technology allows a more compact HIFU system, when compared to conventional systems composed of HIFU transducers made of PZT, cooling systems for PZT and additional imaging guidance systems. In this paper we present new dc and RF power electronics that drive our 2D CMUT array. The new electronics are significantly more compact and capable of fast-switching between imaging and HIFU mode.</description>
+    </item>
+    
+  </channel>
+</rss>

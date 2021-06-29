@@ -71,20 +71,29 @@
     </item>
     
     <item>
+      <title>Conference</title>
+      <link>/categories/conference/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IUS</title>
+      <link>/categories/ius/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>COMPEL</title>
       <link>/categories/compel/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/compel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conference</title>
-      <link>/categories/conference/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/conference/</guid>
       <description></description>
     </item>
     
@@ -107,11 +116,29 @@
     </item>
     
     <item>
+      <title>DRC</title>
+      <link>/categories/drc/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/drc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Awards</title>
       <link>/categories/awards/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/awards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APEC</title>
+      <link>/categories/apec/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/apec/</guid>
       <description></description>
     </item>
     

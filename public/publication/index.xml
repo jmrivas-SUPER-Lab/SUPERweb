@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>Compact Fast-Switching DC and Resonant RF Drivers for a Dual-Mode Imaging and HIFU 2D CMUT Array</title>
+      <link>/publication/hifu-2d-cmut_stedman/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hifu-2d-cmut_stedman/</guid>
+      <description>We developed previously a 2D CMUT array with capability to both do imaging and generate HIFU for ablation of targeted tissues without collateral damage. This new technology allows a more compact HIFU system, when compared to conventional systems composed of HIFU transducers made of PZT, cooling systems for PZT and additional imaging guidance systems. In this paper we present new dc and RF power electronics that drive our 2D CMUT array. The new electronics are significantly more compact and capable of fast-switching between imaging and HIFU mode.</description>
+    </item>
+    
+    <item>
       <title>1 kW, Multi-MHz Wireless Charging for Electric Transportation</title>
       <link>/publication/compel-1kw-wpt_phan/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
@@ -125,12 +134,30 @@
     </item>
     
     <item>
+      <title>Demonstration of GaN Impact Ionization Avalanche Transit-Time (IMPATT) Diode</title>
+      <link>/publication/drc-gan-impatt_ji/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/drc-gan-impatt_ji/</guid>
+      <description>The following topics are dealt with: III-V semiconductors; wide band gap semiconductors; gallium compounds; random-access storage; field effect transistors; semiconductor growth; aluminium compounds; indium compounds; semiconductor device breakdown; hafnium compounds.</description>
+    </item>
+    
+    <item>
       <title>The Impact of Multi-MHz Switching Frequencies on Dynamic On-Resistance in GaN-on-Si HEMTs</title>
       <link>/publication/impact-mhz-dynamicrdson_zulauf/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/publication/impact-mhz-dynamicrdson_zulauf/</guid>
       <description>Dynamic on-resistance (dRon), where the on-resistance immediately after turn-on is higher than the DC resistance, increases the conduction losses in power converters with gallium nitride high-electron-mobility transistors (GaN HEMTs). There exist no direct dR on measurements in the literature above 1 MHz, leaving designers unable to predict conduction losses in emerging multi-MHz applications. We address this literature gap by collecting the first on-state voltage dR on measurements at multi-MHz frequencies, with a focus on the zero-voltage-switching conditions that are predominantly employed at high frequency. On the selected commercially-available HEMT with a breakdown voltage below 200 V, the dynamic contribution asymptotes above ≈ 2 MHz, a finding predicted by the slow time constants of the traps that cause dR on</description>
+    </item>
+    
+    <item>
+      <title>Inductorless Soft Switching DC-DC Converter with an Optimized Piezoelectric Resonator</title>
+      <link>/publication/apec-inductorless-softswitching-piezoelectric-resonator_braun/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-inductorless-softswitching-piezoelectric-resonator_braun/</guid>
+      <description>The inductor presents one of the biggest obstacles in miniaturizing power electronics. In this paper we present a piezoelectric resonator for power conversion fabricated out of lithium niobate, a material that has several advantages for high frequency power conversion compared to the more commonly used PZT ceramics. The piezoelectric resonator is used in a step-down dc-dc converter that achieves zero voltage soft switching and a continuously variable conversion ratio without the use of magnetic components. The converter operates at 6.3MHz and has a maximum power output of 30W at an efficiency of 92.7%, achieving a power density of 16.7 W/cm 3</description>
     </item>
     
     <item>
