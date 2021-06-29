@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallium Nitride (GaN) on SUPER-Lab</title>
+    <link>/tags/gallium-nitride-gan/</link>
+    <description>Recent content in Gallium Nitride (GaN) on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/gallium-nitride-gan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A physical investigation of large-signal dynamic output capacitance and energy loss in GaN-on-Si power HEMTs at high-frequency applications</title>
+      <link>/publication/ecce-physical-large-signal-dynamic-output-capacitance-gan_zhuang/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-physical-large-signal-dynamic-output-capacitance-gan_zhuang/</guid>
+      <description>The origin of Coss and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of GaN buffer layers and Si-substrate. These loss components can be potentially improved by re-engineering the doping concentrations in the buffer stacks and substrate layer. This paper presents a physics view of the trapping dynamics that is related to C oss in the GaN HEMT under large-signal excitations.</description>
+    </item>
+    
+  </channel>
+</rss>

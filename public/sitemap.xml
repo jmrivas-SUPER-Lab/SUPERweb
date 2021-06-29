@@ -189,6 +189,75 @@
     <loc>/tags/zhechi-ye/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/compel-1kw-wpt_phan/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/automotive-charging/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/compel/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/conference/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-6m78-wpt-selfresonantcoils_gu/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/electric-vehicles/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/high-q-resonators/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/jonathan-fan/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/matching-networks/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/self-resonant-coils/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/thaibao-phan/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/wireless-power-transfer/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/wpt/</loc>
+    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ecce-physical-large-signal-dynamic-output-capacitance-gan_zhuang/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/ecce/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/gallium-nitride-gan/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hv/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/james-d.-plummer/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ecce-lowripple-hv-dc-multiphase_park/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/multiphase/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/output-capacitance-coss/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/power-semiconductor-devices/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/voltage-multiplier/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/computational-modeling/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -453,9 +522,6 @@
     <loc>/tags/vhf/</loc>
     <lastmod>2019-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/wpt/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/optimization-classe-gan-mhz_surakitbovorn/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -513,16 +579,10 @@
     <loc>/tags/ac-dc-power-converters/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/james-d.-plummer/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/loss-measurement/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/jestpe-coss-loss-sic-diodes_tong/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/power-semiconductor-devices/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/schottky-diodes/</loc>
@@ -571,9 +631,6 @@
     <lastmod>2018-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/ieee-ted/</loc>
-    <lastmod>2018-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/output-capacitance-coss/</loc>
     <lastmod>2018-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/power-mosfets/</loc>
@@ -767,6 +824,8 @@
   </url><url>
     <loc>/blog/2014eespotlight_rivas/</loc>
     <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/algan/gan-high-electron-mobility-transistors-hemts/</loc>
   </url><url>
     <loc>/contributors/</loc>
   </url><url>

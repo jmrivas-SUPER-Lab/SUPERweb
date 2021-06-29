@@ -34,5 +34,14 @@
       <description>Figure 1: Electrostatic potential contours under large-signal excitation at 1 MHz. (a) Deep buffer traps added at 0.98 eV. (b) Shallow buffer traps added at 0.5 eV.  Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs The origin of Coss and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of gallium nitride (GaN) buffer layers and Si-substrate.</description>
     </item>
     
+    <item>
+      <title>A physical investigation of large-signal dynamic output capacitance and energy loss in GaN-on-Si power HEMTs at high-frequency applications</title>
+      <link>/publication/ecce-physical-large-signal-dynamic-output-capacitance-gan_zhuang/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-physical-large-signal-dynamic-output-capacitance-gan_zhuang/</guid>
+      <description>The origin of Coss and the energy dissipation due to output capacitance can be roughly separated into two types: resistive loss and capacitive hysteresis loss. The resistive losses are due to the resistance of GaN buffer layers and Si-substrate. These loss components can be potentially improved by re-engineering the doping concentrations in the buffer stacks and substrate layer. This paper presents a physics view of the trapping dynamics that is related to C oss in the GaN HEMT under large-signal excitations.</description>
+    </item>
+    
   </channel>
 </rss>

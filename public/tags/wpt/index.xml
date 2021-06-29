@@ -6,7 +6,16 @@
     <description>Recent content in WPT on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wpt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design and Optimization of 6.78 MHz Wireless Power Transfer with Self-Resonant Coils</title>
+      <link>/publication/compel-6m78-wpt-selfresonantcoils_gu/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-6m78-wpt-selfresonantcoils_gu/</guid>
+      <description>MHz-frequency inductive wireless power transfer holds the promise of increased power density and high- efficiency wireless power transfer. Unfortunately, due to high- frequency losses in wide-bandgap semiconductors and low-Q high-frequency coil designs, these systems are universally less efficient, on a dc-dc basis, than wireless power systems operating at conventional frequency regimes. This letter describes the design considerations for inductive wireless power transfer systems operating at 6.78 MHz. Particularly, we present the optimal compensation strategy for parallel compensated coils, which is a topic less frequently discussed in literature than the series compensated coils. With a novel high-frequency resonant amplifier topology, a high-Q self-resonant coil structure, and an optimal design strategy, we demonstrate a 6.78 MHz, 300 W wireless power transfer system that achieves 95 % dc-dc efficiency.</description>
+    </item>
+    
     <item>
       <title>A Method to Eliminate Discrete Inductors in a Class-E Inverter Used in Wireless Power Transfer Applications</title>
       <link>/publication/eliminate-discrete-inductors-classe-wpt_surakitbovorn/</link>

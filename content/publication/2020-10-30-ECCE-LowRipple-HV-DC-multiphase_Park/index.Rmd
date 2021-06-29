@@ -1,0 +1,38 @@
+---
+title: "Low-Ripple High-Voltage DC Generation Using a Serially Segmented Multiphase Voltage Multiplier"
+author: "S. Park and J. Rivas-Davila"
+date: '2020-10-30'
+slug: ECCE-LowRipple-HV-DC-multiphase_Park
+categories:
+  - Conference
+  - ECCE
+tags: 
+  - Voltage Multiplier
+  - HV
+  - Multiphase
+doi: '10.1109/ECCE44975.2020.9235707'
+publishDate: '2020-10-30T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2020 IEEE Energy Conversion Congress and Exposition (ECCE)"
+publication_short: "ECCE"
+abstract: "This paper presents a voltage multiplier topology that is suitable for a low-ripple high-voltage dc generation. The topology has a number of voltage multipliers connected in series and driven at different phases. Compared to a single-phase multiplier, an n-phase voltage multiplier has an output ripple that is smaller by n times. Since the ripple frequency is simultaneously increased by n times, a simple RC lowpass filter further reduces the ripple amplitude by n times, resulting in ripple reduction of n 2 times. We demonstrate the ripple reduction of the proposed topology using a 6 V-to-800 V power supply with a 16-stage four-phase bipolar voltage multiplier. The output ripple frequency is eight times the converter's switching frequency and the ripple amplitude is significantly smaller than the conventional single-phase voltage multiplier"
+summary: 'This paper presents a voltage multiplier topology that is suitable for a low-ripple high-voltage dc generation. The topology has a number of voltage multipliers connected in series and driven at different phases. Compared to a single-phase multiplier, an n-phase voltage multiplier has an output ripple that is smaller by n times. We demonstrate the ripple reduction of the proposed topology using a 6 V-to-800 V power supply with a 16-stage four-phase bipolar voltage multiplier. The output ripple frequency is eight times the converter''s switching frequency and the ripple amplitude is significantly smaller than the conventional single-phase voltage multiplier'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/9235707
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+This paper presents a voltage multiplier topology that is suitable for a low-ripple high-voltage dc generation. The topology has a number of voltage multipliers connected in series and driven at different phases. Compared to a single-phase multiplier, an n-phase voltage multiplier has an output ripple that is smaller by n times. Since the ripple frequency is simultaneously increased by n times, a simple RC lowpass filter further reduces the ripple amplitude by n times, resulting in ripple reduction of n 2 times. We demonstrate the ripple reduction of the proposed topology using a 6 V-to-800 V power supply with a 16-stage four-phase bipolar voltage multiplier. The output ripple frequency is eight times the converter's switching frequency and the ripple amplitude is significantly smaller than the conventional single-phase voltage multiplier

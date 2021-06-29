@@ -1,0 +1,42 @@
+---
+title: "1 kW, Multi-MHz Wireless Charging for Electric Transportation"
+author: "T. Phan, G. Zulauf, J. A. Fan and J. M. Rivas-Davila,"
+date: '2020-11-30'
+slug: COMPEL-1kW-WPT_Phan
+categories:
+  - Conference
+  - COMPEL
+tags: 
+  - Wireless power transfer
+  - Automotive Charging
+  - Electric vehicles
+  - Matching Networks
+  - Thaibao Phan
+  - Grayson Zulauf
+  - Jonathan Fan
+doi: '10.1109/COMPEL49091.2020.9265788'
+publishDate: '2020-11-30T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: " 2020 IEEE 21st Workshop on Control and Modeling for Power Electronics (COMPEL)"
+publication_short: "COMPEL"
+abstract: "We design and build a DC-DC wireless power system for electric vehicles charging at 6.78 MHz. With a gap of 34 cm, the air-core system can transfer up to 1 kW with 82% efficiency. It can operate continuously without failure even when the gap varies from 26 to 38 cm, and though the output power changes with distance, the efficiency does not vary appreciably. Due to the high operating frequency, the transfer coils are lightweight, inexpensive, and mechanically robust, even with a gap much larger than in previous literature. The system's low cost and resilience across coupling makes it amenable to mass deployment in commercial systems."
+summary: 'We design and build a DC-DC wireless power system for electric vehicles charging at 6.78 MHz. With a gap of 34 cm, the air-core system can transfer up to 1 kW with 82% efficiency. It can operate continuously without failure even when the gap varies from 26 to 38 cm, and though the output power changes with distance, the efficiency does not vary appreciably. Due to the high operating frequency, the transfer coils are lightweight, inexpensive, and mechanically robust, even with a gap much larger than in previous literature. The systems low cost and resilience across coupling makes it amenable to mass deployment in commercial systems.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/9265788
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+We design and build a DC-DC wireless power system for electric vehicles charging at 6.78 MHz. With a gap of 34 cm, the air-core system can transfer up to 1 kW with 82% efficiency. It can operate continuously without failure even when the gap varies from 26 to 38 cm, and though the output power changes with distance, the efficiency does not vary appreciably. Due to the high operating frequency, the transfer coils are lightweight, inexpensive, and mechanically robust, even with a gap much larger than in previous literature. The system's low cost and resilience across coupling makes it amenable to mass deployment in commercial systems.

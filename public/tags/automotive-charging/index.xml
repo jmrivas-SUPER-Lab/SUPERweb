@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automotive Charging on SUPER-Lab</title>
+    <link>/tags/automotive-charging/</link>
+    <description>Recent content in Automotive Charging on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/automotive-charging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 kW, Multi-MHz Wireless Charging for Electric Transportation</title>
+      <link>/publication/compel-1kw-wpt_phan/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-1kw-wpt_phan/</guid>
+      <description>We design and build a DC-DC wireless power system for electric vehicles charging at 6.78 MHz. With a gap of 34 cm, the air-core system can transfer up to 1 kW with 82% efficiency. It can operate continuously without failure even when the gap varies from 26 to 38 cm, and though the output power changes with distance, the efficiency does not vary appreciably. Due to the high operating frequency, the transfer coils are lightweight, inexpensive, and mechanically robust, even with a gap much larger than in previous literature. The systems low cost and resilience across coupling makes it amenable to mass deployment in commercial systems.</description>
+    </item>
+    
+  </channel>
+</rss>
