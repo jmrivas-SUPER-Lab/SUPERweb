@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Power Conversion on SUPER-Lab</title>
+    <link>/tags/power-conversion/</link>
+    <description>Recent content in Power Conversion on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/power-conversion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Duty Cycle and Frequency Modulations in Class-E DC–DC Converters for a Wide Range of Input and Output Voltages</title>
+      <link>/publication/duty-cycle-fm-classe-dcdc-park/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/duty-cycle-fm-classe-dcdc-park/</guid>
+      <description>We present an operation scheme for a dc-dc converter consisting of a class-E inverter and a class-E rectifier to always achieve zero-voltage zero-dv/dt switching at a wide range of input and output voltages. Experiments demonstrate the prototype converter maintaining the desired soft-switching condition under 80-200-V input voltage and 5-20-V output voltage variations. In an additional prototype, we implemented a similar design with synchronous rectification that achieves a peak efficiency of 92.3% at an input voltage of 80 V, an output voltage of 12 V, and an output power of 26.9 W.</description>
+    </item>
+    
+  </channel>
+</rss>

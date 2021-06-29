@@ -34,5 +34,23 @@
       <description>This paper presents the design and implementation of a high-frequency/very high frequency (VHF) multiresonant gate drive circuit. The proposed circuit can reduce the long start-up time required in a self-oscillating resonant gate drive circuit and utilize the fast transient capability of VHF converters better. We demonstrate a prototype resonant gate driver, which reduces up to 60% of the gate-driving power in a 20-MHz 32-W Class-E power amplifier using a Si MOSFET.</description>
     </item>
     
+    <item>
+      <title>COSS Losses in 600 V GaN Power Semiconductors in Soft-Switched, High- and Very-High-Frequency Power Converters</title>
+      <link>/publication/tpels-coss-gan_zulauf/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-coss-gan_zulauf/</guid>
+      <description>We report losses from charging and discharging the parasitic output capacitor, COSS , in Gallium Nitride (GaN) power devices with voltage ratings over 600 VDS. These losses are of particular importance in soft-switched circuits used at MHz switching frequencies, where the output capacitance of the device is charged and discharged once per switching cycle during the device off-time.</description>
+    </item>
+    
+    <item>
+      <title>Design of a Class-DE Rectifier with Shunt Inductance and Nonlinear Capacitance for High-Voltage Conversion</title>
+      <link>/publication/tpels-de-rectifier-hv_park/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-de-rectifier-hv_park/</guid>
+      <description>This paper presents a design method for a resonant class-DE rectifier with a shunt inductance input network. In this paper, we propose a design procedure that begins with universal design curves that are applicable regardless of the capacitance nonlinearity. This is followed by parameter selection and a convergence check to ensure the rectifier operates at the desired output voltage. Based on the outlined procedure, we design and experimentally verify a 27-MHz 350-V current-driven rectifier, a 25-MHz 500-V voltage-driven rectifier, and a 27.12-MHz 2-kV four-stage rectifier, all of which the resonant capacitor is nonlinear and the input impedance is resistive at the switching frequency.</description>
+    </item>
+    
   </channel>
 </rss>

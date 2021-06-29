@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ac-dc Power Converters on SUPER-Lab</title>
+    <title>AC-DC Power Converters on SUPER-Lab</title>
     <link>/tags/ac-dc-power-converters/</link>
-    <description>Recent content in Ac-dc Power Converters on SUPER-Lab</description>
+    <description>Recent content in AC-DC Power Converters on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ac-dc-power-converters/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,15 @@
       
       <guid>/publication/jestpe-coss-loss-sic-diodes_tong/</guid>
       <description>In high-frequency (HF) and very-high-frequency (VHF) rectifiers, silicon carbide (SiC) Schottky diodes exhibit higher losses compared to what is reported in manufacturer-provided simulation models, with additional power loss stemming from energy dissipation during the charging and discharging of the junction output capacitance (CJ). Here, we compare measured losses across manufacturers, current rating, generation, voltage rating, and packaging of variouis SiC Schottkey diodes.</description>
+    </item>
+    
+    <item>
+      <title>A Wide-Input-Range High-Efficiency Step-Down Power Factor Correction Converter Using a Variable Frequency Multiplier Technique,</title>
+      <link>/publication/tpels-wide-input-step-down-pfc-variable-freq_gu/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-wide-input-step-down-pfc-variable-freq_gu/</guid>
+      <description>This paper demonstrates a two-stage implementation of a step-down power factor preregulator design that achieves a high efficiency across the entire universal input voltage range (85-265 V rms ) for an offline power supply application. The proposed circuit allows MOSFETs with lower voltage ratings and better conduction/switching characteristics to be used in both converter stages. A scaling law of power losses versus breakdown voltage requirement for boost circuit under the condition of the same output power is presented. Experimental results demonstrated a flatter high efficiency performance across a wide input range.</description>
     </item>
     
   </channel>

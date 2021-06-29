@@ -1,0 +1,48 @@
+---
+title: "Design of a Class-DE Rectifier with Shunt Inductance and Nonlinear Capacitance for High-Voltage Conversion"
+author: "S. Park and J. Rivas-Davila"
+date: '2017-04-12'
+slug: TPELS-DE-Rectifier-HV_Park
+categories:
+  - Journal
+  - IEEE TPELS
+tags: 
+  - AC–DC power conversion
+  - Rectifiers
+  - Resonant Power Conversion
+  - Sanghyeon Park
+doi: '10.1109/TPEL.2017.2693271'
+publishDate: '2017-04-12T00:00:00-01:00'
+publication_types:
+  - '1'
+publication: "IEEE Transactions on Power Electronics"
+publication_short: "IEEE TPELS"
+abstract: "This paper presents a design method for a resonant class-DE rectifier with a shunt inductance input network. The cass-DE resonant rectifier offers numerous advantages at high operating frequencies and high output voltages. For a high-voltage design, the limiting factor has been the absence of a design process incorporating shunt inductance for low-to-high impedance matching as well as nonlinear capacitance from semiconductor devices. To design a rectifier with a specific input impedance at the fundamental frequency of operation, designers have been relying on either parametric variation in iterative simulations that often takes a long time to complete, or simple equations without considering nonlinear capacitances that renders the analysis inaccurate at high frequencies. In this paper, we propose a design procedure that begins with universal design curves that are applicable regardless of the capacitance nonlinearity. This is followed by parameter selection and a convergence check to ensure the rectifier operates at the desired output voltage. Based on the outlined procedure, we design and experimentally verify a 27-MHz 350-V current-driven rectifier, a 25-MHz 500-V voltage-driven rectifier, and a 27.12-MHz 2-kV four-stage rectifier, all of which the resonant capacitor is nonlinear and the input impedance is resistive at the switching frequency."
+summary: 'This paper presents a design method for a resonant class-DE rectifier with a shunt inductance input network. In this paper, we propose a design procedure that begins with universal design curves that are applicable regardless of the capacitance nonlinearity. This is followed by parameter selection and a convergence check to ensure the rectifier operates at the desired output voltage. Based on the outlined procedure, we design and experimentally verify a 27-MHz 350-V current-driven rectifier, a 25-MHz 500-V voltage-driven rectifier, and a 27.12-MHz 2-kV four-stage rectifier, all of which the resonant capacitor is nonlinear and the input impedance is resistive at the switching frequency.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: http://ieeexplore.ieee.org/document/7896644
+- icon: file-pdf
+  icon_pack: fas
+  name: Pre-print
+  url: files2download/TPEL2017_paper_Sanghyeon.pdf
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="Output current supplied by the 27-MHz rectifier (orange solid line) designed in Section IV-A1, and the current drawn by the 5-kΩ resistive load (black dotted line). Three intersections of two curves are marked by blue dots, from left to right: the undesired convergence point, divergence point, and the desired convergence point. Blue arrows indicate the direction to which the operating point moves."}
+knitr::include_graphics("park12-2693271-small.gif")
+```
+
+## Abstract 
+
+This paper presents a design method for a resonant class-DE rectifier with a shunt inductance input network. The cass-DE resonant rectifier offers numerous advantages at high operating frequencies and high output voltages. For a high-voltage design, the limiting factor has been the absence of a design process incorporating shunt inductance for low-to-high impedance matching as well as nonlinear capacitance from semiconductor devices. To design a rectifier with a specific input impedance at the fundamental frequency of operation, designers have been relying on either parametric variation in iterative simulations that often takes a long time to complete, or simple equations without considering nonlinear capacitances that renders the analysis inaccurate at high frequencies. In this paper, we propose a design procedure that begins with universal design curves that are applicable regardless of the capacitance nonlinearity. This is followed by parameter selection and a convergence check to ensure the rectifier operates at the desired output voltage. Based on the outlined procedure, we design and experimentally verify a 27-MHz 350-V current-driven rectifier, a 25-MHz 500-V voltage-driven rectifier, and a 27.12-MHz 2-kV four-stage rectifier, all of which the resonant capacitor is nonlinear and the input impedance is resistive at the switching frequency.

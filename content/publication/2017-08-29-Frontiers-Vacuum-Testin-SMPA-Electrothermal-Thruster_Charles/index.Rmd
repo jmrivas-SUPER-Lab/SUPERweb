@@ -1,0 +1,49 @@
+---
+title: "Vacuum Testing of a Miniaturized Switch Mode Amplifier Powering an Electrothermal Plasma Micro-Thruster"
+author: "C. charles, W. Liang, L. Raymond, J. Rivas-Davila, R. Boswell"
+date: '2017-04-12'
+slug: Frontiers-Vacuum-Testin-SMPA-Electrothermal-Thruster_Charles
+categories:
+  - Journal
+  - Frontiers in Physics
+tags: 
+  - Thrusters
+  - Amplifiers
+  - Electronic
+  - Radiofrequency Plasmas
+  - Switch Mode Amplifier 
+  - Mano-satellite
+  - CubeSats
+  - Wei Liang
+  - Luke Raymond
+doi: '10.3389/fphy.2017.00036'
+publishDate: '2017-08-29T00:00:00-01:00'
+publication_types:
+  - '1'
+publication: "Frontiers in Physics"
+publication_short: "Frontiers"
+abstract: "A structurally supportive miniaturized low-weight (≤150 g) radiofrequency switch mode amplifier developed to power the small diameter Pocket Rocket electrothermal plasma micro-thruster called MiniPR is tested in vacuum conditions representative of space to demonstrate its suitability for use on nano-satellites such as “CubeSats.” Argon plasma characterization is carried out by measuring the optical emission signal seen through the plenum window vs. frequency (12.8–13.8 MHz) and the plenum cavity pressure increase (indicative of thrust generation from volumetric gas heating in the plasma cavity) vs. power (1–15 Watts) with the amplifier operating at atmospheric pressure and a constant flow rate of 20 sccm. Vacuum testing is subsequently performed by measuring the operational frequency range of the amplifier as a function of gas flow rate. The switch mode amplifier design is finely tuned to the input impedance of the thruster (~16 pF) to provide a power efficiency of 88% at the resonant frequency and a direct feed to a low-loss (~10 %) impedance matching network. This system provides successful plasma coupling at 1.54 Watts for all investigated flow rates (10–130 sccm) for cryogenic pumping speeds of the order of 6,000 l.s−1 and a vacuum pressure of the order of ~2 × 10−5 Torr during operation. Interestingly, the frequency bandwidth for which a plasma can be coupled increases from 0.04 to 0.4 MHz when the gas flow rate is increased, probably as a result of changes in the plasma impedance."
+summary: 'A structurally supportive miniaturized low-weight (≤150 g) radiofrequency switch mode amplifier developed to power the small diameter Pocket Rocket electrothermal plasma micro-thruster called MiniPR is tested in vacuum conditions representative of space to demonstrate its suitability for use on nano-satellites such as “CubeSats.” The switch mode amplifier design is finely tuned to the input impedance of the thruster (~16 pF) to provide a power efficiency of 88% at the resonant frequency and a direct feed to a low-loss (~10 %) impedance matching network.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://doi.org/10.3389/fphy.2017.00036
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="Plasma testing in WOMBAT of the MiniPR thruster powered by the Converter PCB, both in vacuum."}
+knitr::include_graphics("fphy-05-00036-g003.jpg")
+```
+
+## Abstract 
+
+A structurally supportive miniaturized low-weight (≤150 g) radiofrequency switch mode amplifier developed to power the small diameter Pocket Rocket electrothermal plasma micro-thruster called MiniPR is tested in vacuum conditions representative of space to demonstrate its suitability for use on nano-satellites such as “CubeSats.” Argon plasma characterization is carried out by measuring the optical emission signal seen through the plenum window vs. frequency (12.8–13.8 MHz) and the plenum cavity pressure increase (indicative of thrust generation from volumetric gas heating in the plasma cavity) vs. power (1–15 Watts) with the amplifier operating at atmospheric pressure and a constant flow rate of 20 sccm. Vacuum testing is subsequently performed by measuring the operational frequency range of the amplifier as a function of gas flow rate. The switch mode amplifier design is finely tuned to the input impedance of the thruster (~16 pF) to provide a power efficiency of 88% at the resonant frequency and a direct feed to a low-loss (~10 %) impedance matching network. This system provides successful plasma coupling at 1.54 Watts for all investigated flow rates (10–130 sccm) for cryogenic pumping speeds of the order of 6,000 l.s−1 and a vacuum pressure of the order of ~2 × 10−5 Torr during operation. Interestingly, the frequency bandwidth for which a plasma can be coupled increases from 0.04 to 0.4 MHz when the gas flow rate is increased, probably as a result of changes in the plasma impedance.

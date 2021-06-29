@@ -16,5 +16,14 @@
       <description>In this letter, we motivate the need for application-specific power electronics solutions for electroadhesive perching, develop a useful figure of merit (the “specific voltage”) for comparing and guiding efforts, and walk through the design methodology of a system implementation. We conclude by showing that this high voltage power supply enables, for the first time in the literature, tetherless electroadhesive perching of a commercial micro quadrotor.</description>
     </item>
     
+    <item>
+      <title>High-Frequency, High-Power Resonant Inverter With eGaN FET for Wireless Power Transfer</title>
+      <link>/publication/tpels-high-freq-resonant-inverer-gan-wpt_choi/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-high-freq-resonant-inverer-gan-wpt_choi/</guid>
+      <description>This letter presents a high-power resonant inverter using an enhancement mode gallium nitride (eGaN) device with magnetic resonant coupling (MRC) coils at 13.56 MHz for wireless power transfer (WPT). The power inverter driving the transmitting coils is based on a class Φ2 inverter, a single-switch topology with low switch-voltage stress, and fast transient response.</description>
+    </item>
+    
   </channel>
 </rss>

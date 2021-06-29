@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AC–DC power conversion on SUPER-Lab</title>
+    <link>/tags/acdc-power-conversion/</link>
+    <description>Recent content in AC–DC power conversion on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/acdc-power-conversion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design of a Class-DE Rectifier with Shunt Inductance and Nonlinear Capacitance for High-Voltage Conversion</title>
+      <link>/publication/tpels-de-rectifier-hv_park/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-de-rectifier-hv_park/</guid>
+      <description>This paper presents a design method for a resonant class-DE rectifier with a shunt inductance input network. In this paper, we propose a design procedure that begins with universal design curves that are applicable regardless of the capacitance nonlinearity. This is followed by parameter selection and a convergence check to ensure the rectifier operates at the desired output voltage. Based on the outlined procedure, we design and experimentally verify a 27-MHz 350-V current-driven rectifier, a 25-MHz 500-V voltage-driven rectifier, and a 27.12-MHz 2-kV four-stage rectifier, all of which the resonant capacitor is nonlinear and the input impedance is resistive at the switching frequency.</description>
+    </item>
+    
+  </channel>
+</rss>

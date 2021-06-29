@@ -25,5 +25,14 @@
       <description>This paper presents a voltage multiplier topology that is a hybrid between a Cockcroft-Walton multiplier and a Dickson charge pump. The Cockcroft-Walton structure exhibits significant output voltage drop under load as the number of multiplier stage increases.</description>
     </item>
     
+    <item>
+      <title>Design of a Class-DE Rectifier with Shunt Inductance and Nonlinear Capacitance for High-Voltage Conversion</title>
+      <link>/publication/tpels-de-rectifier-hv_park/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-de-rectifier-hv_park/</guid>
+      <description>This paper presents a design method for a resonant class-DE rectifier with a shunt inductance input network. In this paper, we propose a design procedure that begins with universal design curves that are applicable regardless of the capacitance nonlinearity. This is followed by parameter selection and a convergence check to ensure the rectifier operates at the desired output voltage. Based on the outlined procedure, we design and experimentally verify a 27-MHz 350-V current-driven rectifier, a 25-MHz 500-V voltage-driven rectifier, and a 27.12-MHz 2-kV four-stage rectifier, all of which the resonant capacitor is nonlinear and the input impedance is resistive at the switching frequency.</description>
+    </item>
+    
   </channel>
 </rss>

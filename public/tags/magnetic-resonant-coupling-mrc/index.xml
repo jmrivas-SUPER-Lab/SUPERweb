@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magnetic Resonant Coupling (MRC) on SUPER-Lab</title>
+    <link>/tags/magnetic-resonant-coupling-mrc/</link>
+    <description>Recent content in Magnetic Resonant Coupling (MRC) on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/magnetic-resonant-coupling-mrc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>High-Frequency, High-Power Resonant Inverter With eGaN FET for Wireless Power Transfer</title>
+      <link>/publication/tpels-high-freq-resonant-inverer-gan-wpt_choi/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-high-freq-resonant-inverer-gan-wpt_choi/</guid>
+      <description>This letter presents a high-power resonant inverter using an enhancement mode gallium nitride (eGaN) device with magnetic resonant coupling (MRC) coils at 13.56 MHz for wireless power transfer (WPT). The power inverter driving the transmitting coils is based on a class Φ2 inverter, a single-switch topology with low switch-voltage stress, and fast transient response.</description>
+    </item>
+    
+  </channel>
+</rss>

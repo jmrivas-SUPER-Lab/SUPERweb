@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Praglin on SUPER-Lab</title>
+    <link>/tags/max-praglin/</link>
+    <description>Recent content in Max Praglin on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/max-praglin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Wide-Input-Range High-Efficiency Step-Down Power Factor Correction Converter Using a Variable Frequency Multiplier Technique,</title>
+      <link>/publication/tpels-wide-input-step-down-pfc-variable-freq_gu/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-wide-input-step-down-pfc-variable-freq_gu/</guid>
+      <description>This paper demonstrates a two-stage implementation of a step-down power factor preregulator design that achieves a high efficiency across the entire universal input voltage range (85-265 V rms ) for an offline power supply application. The proposed circuit allows MOSFETs with lower voltage ratings and better conduction/switching characteristics to be used in both converter stages. A scaling law of power losses versus breakdown voltage requirement for boost circuit under the condition of the same output power is presented. Experimental results demonstrated a flatter high efficiency performance across a wide input range.</description>
+    </item>
+    
+  </channel>
+</rss>

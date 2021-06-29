@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DC–AC ower Conversion on SUPER-Lab</title>
+    <link>/tags/dcac-ower-conversion/</link>
+    <description>Recent content in DC–AC ower Conversion on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/dcac-ower-conversion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COSS Losses in 600 V GaN Power Semiconductors in Soft-Switched, High- and Very-High-Frequency Power Converters</title>
+      <link>/publication/tpels-coss-gan_zulauf/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-coss-gan_zulauf/</guid>
+      <description>We report losses from charging and discharging the parasitic output capacitor, COSS , in Gallium Nitride (GaN) power devices with voltage ratings over 600 VDS. These losses are of particular importance in soft-switched circuits used at MHz switching frequencies, where the output capacitance of the device is charged and discharged once per switching cycle during the device off-time.</description>
+    </item>
+    
+  </channel>
+</rss>

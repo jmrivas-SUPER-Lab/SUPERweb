@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Space Exploration on SUPER-Lab</title>
+    <link>/tags/space-exploration/</link>
+    <description>Recent content in Space Exploration on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/space-exploration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Integrated RF Power Delivery and Plasma Micro-Thruster System for Nano-Satellites</title>
+      <link>/publication/frontiers-integrated-rf-plasma-thruster_liang/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/frontiers-integrated-rf-plasma-thruster_liang/</guid>
+      <description>Progress in satellite technologies is ongoing and eventually finds applications back on Earth. Electric propulsion systems have been proven effective on large scale satellites (NASA DAWN) with better propellant efficiency than chemical or cold gas propulsion, and if miniaturized can be promising for long term operation of nano-satellites (e.g., CubeSats) in low Earth orbit or in deep space (NASA MarCO). Here we present a compact and efficient switched mode dc-RF power inverter integrated with an electro-thermal plasma micro-thruster for nano-satellite (e.g., Cubesats) propulsion. The integrated system can serve as side panels and structural support of CubeSats, saving precious on-board volume for propellant and/or payloads.</description>
+    </item>
+    
+  </channel>
+</rss>

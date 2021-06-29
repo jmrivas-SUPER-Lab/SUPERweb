@@ -233,12 +233,75 @@
     </item>
     
     <item>
+      <title>An Integrated RF Power Delivery and Plasma Micro-Thruster System for Nano-Satellites</title>
+      <link>/publication/frontiers-integrated-rf-plasma-thruster_liang/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/frontiers-integrated-rf-plasma-thruster_liang/</guid>
+      <description>Progress in satellite technologies is ongoing and eventually finds applications back on Earth. Electric propulsion systems have been proven effective on large scale satellites (NASA DAWN) with better propellant efficiency than chemical or cold gas propulsion, and if miniaturized can be promising for long term operation of nano-satellites (e.g., CubeSats) in low Earth orbit or in deep space (NASA MarCO). Here we present a compact and efficient switched mode dc-RF power inverter integrated with an electro-thermal plasma micro-thruster for nano-satellite (e.g., Cubesats) propulsion. The integrated system can serve as side panels and structural support of CubeSats, saving precious on-board volume for propellant and/or payloads.</description>
+    </item>
+    
+    <item>
       <title>Implementing an Impedance Compression Network to Compensate for Misalignments in a Wireless Power Transfer System</title>
       <link>/publication/tpels-icn-wpt-choi/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/tpels-icn-wpt-choi/</guid>
       <description>This paper presents an impedance compression network (ICN) design in a wireless power transfer (WPT) system to compensate for distance or alignment variations between coils. In order to reduce coil impedance variation, we propose an ICN that compresses variations in coil impedance.</description>
+    </item>
+    
+    <item>
+      <title>Duty Cycle and Frequency Modulations in Class-E DC–DC Converters for a Wide Range of Input and Output Voltages</title>
+      <link>/publication/duty-cycle-fm-classe-dcdc-park/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/duty-cycle-fm-classe-dcdc-park/</guid>
+      <description>We present an operation scheme for a dc-dc converter consisting of a class-E inverter and a class-E rectifier to always achieve zero-voltage zero-dv/dt switching at a wide range of input and output voltages. Experiments demonstrate the prototype converter maintaining the desired soft-switching condition under 80-200-V input voltage and 5-20-V output voltage variations. In an additional prototype, we implemented a similar design with synchronous rectification that achieves a peak efficiency of 92.3% at an input voltage of 80 V, an output voltage of 12 V, and an output power of 26.9 W.</description>
+    </item>
+    
+    <item>
+      <title>COSS Losses in 600 V GaN Power Semiconductors in Soft-Switched, High- and Very-High-Frequency Power Converters</title>
+      <link>/publication/tpels-coss-gan_zulauf/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-coss-gan_zulauf/</guid>
+      <description>We report losses from charging and discharging the parasitic output capacitor, COSS , in Gallium Nitride (GaN) power devices with voltage ratings over 600 VDS. These losses are of particular importance in soft-switched circuits used at MHz switching frequencies, where the output capacitance of the device is charged and discharged once per switching cycle during the device off-time.</description>
+    </item>
+    
+    <item>
+      <title>A Wide-Input-Range High-Efficiency Step-Down Power Factor Correction Converter Using a Variable Frequency Multiplier Technique,</title>
+      <link>/publication/tpels-wide-input-step-down-pfc-variable-freq_gu/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-wide-input-step-down-pfc-variable-freq_gu/</guid>
+      <description>This paper demonstrates a two-stage implementation of a step-down power factor preregulator design that achieves a high efficiency across the entire universal input voltage range (85-265 V rms ) for an offline power supply application. The proposed circuit allows MOSFETs with lower voltage ratings and better conduction/switching characteristics to be used in both converter stages. A scaling law of power losses versus breakdown voltage requirement for boost circuit under the condition of the same output power is presented. Experimental results demonstrated a flatter high efficiency performance across a wide input range.</description>
+    </item>
+    
+    <item>
+      <title>High-Frequency, High-Power Resonant Inverter With eGaN FET for Wireless Power Transfer</title>
+      <link>/publication/tpels-high-freq-resonant-inverer-gan-wpt_choi/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-high-freq-resonant-inverer-gan-wpt_choi/</guid>
+      <description>This letter presents a high-power resonant inverter using an enhancement mode gallium nitride (eGaN) device with magnetic resonant coupling (MRC) coils at 13.56 MHz for wireless power transfer (WPT). The power inverter driving the transmitting coils is based on a class Φ2 inverter, a single-switch topology with low switch-voltage stress, and fast transient response.</description>
+    </item>
+    
+    <item>
+      <title>Design of a Class-DE Rectifier with Shunt Inductance and Nonlinear Capacitance for High-Voltage Conversion</title>
+      <link>/publication/tpels-de-rectifier-hv_park/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-de-rectifier-hv_park/</guid>
+      <description>This paper presents a design method for a resonant class-DE rectifier with a shunt inductance input network. In this paper, we propose a design procedure that begins with universal design curves that are applicable regardless of the capacitance nonlinearity. This is followed by parameter selection and a convergence check to ensure the rectifier operates at the desired output voltage. Based on the outlined procedure, we design and experimentally verify a 27-MHz 350-V current-driven rectifier, a 25-MHz 500-V voltage-driven rectifier, and a 27.12-MHz 2-kV four-stage rectifier, all of which the resonant capacitor is nonlinear and the input impedance is resistive at the switching frequency.</description>
+    </item>
+    
+    <item>
+      <title>Vacuum Testing of a Miniaturized Switch Mode Amplifier Powering an Electrothermal Plasma Micro-Thruster</title>
+      <link>/publication/frontiers-vacuum-testin-smpa-electrothermal-thruster_charles/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/frontiers-vacuum-testin-smpa-electrothermal-thruster_charles/</guid>
+      <description>A structurally supportive miniaturized low-weight (≤150 g) radiofrequency switch mode amplifier developed to power the small diameter Pocket Rocket electrothermal plasma micro-thruster called MiniPR is tested in vacuum conditions representative of space to demonstrate its suitability for use on nano-satellites such as “CubeSats.” The switch mode amplifier design is finely tuned to the input impedance of the thruster (~16 pF) to provide a power efficiency of 88% at the resonant frequency and a direct feed to a low-loss (~10 %) impedance matching network.</description>
     </item>
     
   </channel>
