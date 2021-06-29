@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3-D Printed Air Core Inductors on SUPER-Lab</title>
+    <link>/tags/3-d-printed-air-core-inductors/</link>
+    <description>Recent content in 3-D Printed Air Core Inductors on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/3-d-printed-air-core-inductors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Low-Mass RF Power Inverter for CubeSat Applications Using 3-D Printed Inductors</title>
+      <link>/publication/jestpe-lowmass-rp-inverter-cubesat-3dprinted-inductors_liang/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jestpe-lowmass-rp-inverter-cubesat-3dprinted-inductors_liang/</guid>
+      <description>This paper presents the design of a low-mass RF power inverter at moderate to high power levels (e.g., tens of watts and above) for weight critical applications such as CubeSat plasma thrusters. Our approach for mass reduction includes resonant switching operation at tens of MHz, and the 3-D printing of lightweight scaffolds that form air core inductors after plating with a thin layer of copper. Specifically, we present a 14.2-MHz 50-W resonant dc-RF power inverter implemented with 3-D printed and copper plated air core toroidal inductors.</description>
+    </item>
+    
+  </channel>
+</rss>

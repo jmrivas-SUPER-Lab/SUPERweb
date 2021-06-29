@@ -1016,7 +1016,7 @@
     </item>
     
     <item>
-      <title>Cubesat</title>
+      <title>CubeSat</title>
       <link>/tags/cubesat/</link>
       <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -1205,6 +1205,15 @@
     </item>
     
     <item>
+      <title>3-D Printed Air Core Inductors</title>
+      <link>/tags/3-d-printed-air-core-inductors/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/3-d-printed-air-core-inductors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AC–DC power conversion</title>
       <link>/tags/acdc-power-conversion/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
@@ -1259,6 +1268,15 @@
     </item>
     
     <item>
+      <title>RF Power Inverter</title>
+      <link>/tags/rf-power-inverter/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rf-power-inverter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Switch Mode Amplifier</title>
       <link>/tags/switch-mode-amplifier/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
@@ -1273,6 +1291,69 @@
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/thrusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Printed Air Core Inductor</title>
+      <link>/tags/3d-printed-air-core-inductor/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/3d-printed-air-core-inductor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class EF</title>
+      <link>/tags/class-ef/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/class-ef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class Φ</title>
+      <link>/tags/class-%CF%86/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/class-%CF%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hard-switched Gate Drive</title>
+      <link>/tags/hard-switched-gate-drive/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hard-switched-gate-drive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Frequency Power Converters</title>
+      <link>/tags/high-frequency-power-converters/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/high-frequency-power-converters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-density Dc–Dc Converter</title>
+      <link>/tags/high-density-dcdc-converter/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/high-density-dcdc-converter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Printed Circuit Board (PCB) Inductors</title>
+      <link>/tags/printed-circuit-board-pcb-inductors/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/printed-circuit-board-pcb-inductors/</guid>
       <description></description>
     </item>
     

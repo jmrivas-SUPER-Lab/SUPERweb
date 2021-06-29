@@ -681,6 +681,9 @@
     <loc>/blog/2017sabera/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/3-d-printed-air-core-inductors/</loc>
+    <lastmod>2017-04-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/acdc-power-conversion/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -696,10 +699,19 @@
     <loc>/tags/electronic/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/jestpe/</loc>
+    <lastmod>2017-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/jestpe-lowmass-rp-inverter-cubesat-3dprinted-inductors_liang/</loc>
+    <lastmod>2017-04-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/mano-satellite/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/radiofrequency-plasmas/</loc>
+    <lastmod>2017-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/rf-power-inverter/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/switch-mode-amplifier/</loc>
@@ -710,6 +722,33 @@
   </url><url>
     <loc>/publication/frontiers-vacuum-testin-smpa-electrothermal-thruster_charles/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/tpels-13m56-dcdc-pcb-inductors_liang/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/tpels-3dprinted-inductors_liang/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/3d-printed-air-core-inductor/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/class-ef/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/class-%CF%86/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hard-switched-gate-drive/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/high-frequency-power-converters/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/high-density-dcdc-converter/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/printed-circuit-board-pcb-inductors/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/2015compel_luke/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>

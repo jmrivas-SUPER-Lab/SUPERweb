@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cubesat on SUPER-Lab</title>
+    <title>CubeSat on SUPER-Lab</title>
     <link>/tags/cubesat/</link>
-    <description>Recent content in Cubesat on SUPER-Lab</description>
+    <description>Recent content in CubeSat on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cubesat/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,15 @@
       
       <guid>/publication/frontiers-integrated-rf-plasma-thruster_liang/</guid>
       <description>Progress in satellite technologies is ongoing and eventually finds applications back on Earth. Electric propulsion systems have been proven effective on large scale satellites (NASA DAWN) with better propellant efficiency than chemical or cold gas propulsion, and if miniaturized can be promising for long term operation of nano-satellites (e.g., CubeSats) in low Earth orbit or in deep space (NASA MarCO). Here we present a compact and efficient switched mode dc-RF power inverter integrated with an electro-thermal plasma micro-thruster for nano-satellite (e.g., Cubesats) propulsion. The integrated system can serve as side panels and structural support of CubeSats, saving precious on-board volume for propellant and/or payloads.</description>
+    </item>
+    
+    <item>
+      <title>Low-Mass RF Power Inverter for CubeSat Applications Using 3-D Printed Inductors</title>
+      <link>/publication/jestpe-lowmass-rp-inverter-cubesat-3dprinted-inductors_liang/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jestpe-lowmass-rp-inverter-cubesat-3dprinted-inductors_liang/</guid>
+      <description>This paper presents the design of a low-mass RF power inverter at moderate to high power levels (e.g., tens of watts and above) for weight critical applications such as CubeSat plasma thrusters. Our approach for mass reduction includes resonant switching operation at tens of MHz, and the 3-D printing of lightweight scaffolds that form air core inductors after plating with a thin layer of copper. Specifically, we present a 14.2-MHz 50-W resonant dc-RF power inverter implemented with 3-D printed and copper plated air core toroidal inductors.</description>
     </item>
     
   </channel>

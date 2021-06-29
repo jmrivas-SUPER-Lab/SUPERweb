@@ -296,12 +296,39 @@
     </item>
     
     <item>
+      <title>Low-Mass RF Power Inverter for CubeSat Applications Using 3-D Printed Inductors</title>
+      <link>/publication/jestpe-lowmass-rp-inverter-cubesat-3dprinted-inductors_liang/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jestpe-lowmass-rp-inverter-cubesat-3dprinted-inductors_liang/</guid>
+      <description>This paper presents the design of a low-mass RF power inverter at moderate to high power levels (e.g., tens of watts and above) for weight critical applications such as CubeSat plasma thrusters. Our approach for mass reduction includes resonant switching operation at tens of MHz, and the 3-D printing of lightweight scaffolds that form air core inductors after plating with a thin layer of copper. Specifically, we present a 14.2-MHz 50-W resonant dc-RF power inverter implemented with 3-D printed and copper plated air core toroidal inductors.</description>
+    </item>
+    
+    <item>
       <title>Vacuum Testing of a Miniaturized Switch Mode Amplifier Powering an Electrothermal Plasma Micro-Thruster</title>
       <link>/publication/frontiers-vacuum-testin-smpa-electrothermal-thruster_charles/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/frontiers-vacuum-testin-smpa-electrothermal-thruster_charles/</guid>
       <description>A structurally supportive miniaturized low-weight (≤150 g) radiofrequency switch mode amplifier developed to power the small diameter Pocket Rocket electrothermal plasma micro-thruster called MiniPR is tested in vacuum conditions representative of space to demonstrate its suitability for use on nano-satellites such as “CubeSats.” The switch mode amplifier design is finely tuned to the input impedance of the thruster (~16 pF) to provide a power efficiency of 88% at the resonant frequency and a direct feed to a low-loss (~10 %) impedance matching network.</description>
+    </item>
+    
+    <item>
+      <title>13.56 MHz High Density DC–DC Converter With PCB Inductors</title>
+      <link>/publication/tpels-13m56-dcdc-pcb-inductors_liang/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-13m56-dcdc-pcb-inductors_liang/</guid>
+      <description>This paper presents the design and implementation of a high density 150-200 V to 28 V, 200-400 W resonant dc-dc converter with embedded inductors. The converter has a switching frequency of 13.56 MHz and uses air-core toroidal inductors fabricated with printed circuit board (PCB) technology.</description>
+    </item>
+    
+    <item>
+      <title>3-D-Printed Air-Core Inductors for High-Frequency Power Converters</title>
+      <link>/publication/tpels-3dprinted-inductors_liang/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-3dprinted-inductors_liang/</guid>
+      <description>This paper presents the design, modeling, and characterization of 3-D-printed air-core inductors for high-frequency power electronics circuits. The use of 3-D modeling techniques to make passive components extends the design flexibility and addresses some of the fabrication limitations of traditional processes. In this paper, we present several examples of air-core inductors realized using 3-D printing and casting/plating techniques to give an idea of the geometries that are possible to design. Toward this goal, we present a 70-W prototype 27.12-MHz resonant inverter that incorporates some of the 3-D-printed components developed for this paper.</description>
     </item>
     
   </channel>

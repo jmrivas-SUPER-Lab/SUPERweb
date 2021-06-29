@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>High Frequency Power Converters on SUPER-Lab</title>
+    <link>/tags/high-frequency-power-converters/</link>
+    <description>Recent content in High Frequency Power Converters on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="/tags/high-frequency-power-converters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3-D-Printed Air-Core Inductors for High-Frequency Power Converters</title>
+      <link>/publication/tpels-3dprinted-inductors_liang/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-3dprinted-inductors_liang/</guid>
+      <description>This paper presents the design, modeling, and characterization of 3-D-printed air-core inductors for high-frequency power electronics circuits. The use of 3-D modeling techniques to make passive components extends the design flexibility and addresses some of the fabrication limitations of traditional processes. In this paper, we present several examples of air-core inductors realized using 3-D printing and casting/plating techniques to give an idea of the geometries that are possible to design. Toward this goal, we present a 70-W prototype 27.12-MHz resonant inverter that incorporates some of the 3-D-printed components developed for this paper.</description>
+    </item>
+    
+  </channel>
+</rss>

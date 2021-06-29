@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>High-density Dc–Dc Converter on SUPER-Lab</title>
+    <link>/tags/high-density-dcdc-converter/</link>
+    <description>Recent content in High-density Dc–Dc Converter on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="/tags/high-density-dcdc-converter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>13.56 MHz High Density DC–DC Converter With PCB Inductors</title>
+      <link>/publication/tpels-13m56-dcdc-pcb-inductors_liang/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-13m56-dcdc-pcb-inductors_liang/</guid>
+      <description>This paper presents the design and implementation of a high density 150-200 V to 28 V, 200-400 W resonant dc-dc converter with embedded inductors. The converter has a switching frequency of 13.56 MHz and uses air-core toroidal inductors fabricated with printed circuit board (PCB) technology.</description>
+    </item>
+    
+  </channel>
+</rss>

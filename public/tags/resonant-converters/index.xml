@@ -34,5 +34,14 @@
       <description>This paper demonstrates a two-stage implementation of a step-down power factor preregulator design that achieves a high efficiency across the entire universal input voltage range (85-265 V rms ) for an offline power supply application. The proposed circuit allows MOSFETs with lower voltage ratings and better conduction/switching characteristics to be used in both converter stages. A scaling law of power losses versus breakdown voltage requirement for boost circuit under the condition of the same output power is presented. Experimental results demonstrated a flatter high efficiency performance across a wide input range.</description>
     </item>
     
+    <item>
+      <title>3-D-Printed Air-Core Inductors for High-Frequency Power Converters</title>
+      <link>/publication/tpels-3dprinted-inductors_liang/</link>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-3dprinted-inductors_liang/</guid>
+      <description>This paper presents the design, modeling, and characterization of 3-D-printed air-core inductors for high-frequency power electronics circuits. The use of 3-D modeling techniques to make passive components extends the design flexibility and addresses some of the fabrication limitations of traditional processes. In this paper, we present several examples of air-core inductors realized using 3-D printing and casting/plating techniques to give an idea of the geometries that are possible to design. Toward this goal, we present a 70-W prototype 27.12-MHz resonant inverter that incorporates some of the 3-D-printed components developed for this paper.</description>
+    </item>
+    
   </channel>
 </rss>
