@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>High-frequency broadband power amplifiers on SUPER-Lab</title>
+    <link>/tags/high-frequency-broadband-power-amplifiers/</link>
+    <description>Recent content in High-frequency broadband power amplifiers on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/high-frequency-broadband-power-amplifiers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wideband PPT Class Φ2 Inverter using Phase-Switched Impedance Modulation and Reactance Compensation</title>
+      <link>/publication/tie-wideband-pp2-phi2-reactance-compensatoin_tong/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tie-wideband-pp2-phi2-reactance-compensatoin_tong/</guid>
+      <description>In this paper we experimentally demonstrate a 300 W PA for a 50 Ω load impedance using silicon (Si) devices. The PA achieves above 90% efficiency over approximately a 30% fractional bandwidth. In addition, the PA can also operate across broadband with light loads, where above 80% efficiency is maintained for up to 5 times higher load resistances. This switch-mode PA is one of the first to demonstrate such performance under load variation across a wide bandwidth.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,11 +6,20 @@
     <description>Recent content in Categories on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IEEE TIE</title>
+      <link>/categories/ieee-tie/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ieee-tie/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Journal</title>
       <link>/categories/journal/</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/journal/</guid>
       <description></description>
@@ -103,15 +112,6 @@
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ieee-tpels/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IEEE TIE</title>
-      <link>/categories/ieee-tie/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/ieee-tie/</guid>
       <description></description>
     </item>
     

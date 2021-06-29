@@ -1,0 +1,45 @@
+---
+title: "Wideband PPT Class Φ2 Inverter using Phase-Switched Impedance Modulation and Reactance Compensation"
+author: "Z. Tong, L. Gu and J. Rivas-Davila"
+date: '2021-06-24'
+slug: TIE-Wideband-PP2-phi2-Reactance-Compensatoin_Tong
+categories:
+  - Journal
+  - IEEE TIE
+tags: 
+  - High-frequency broadband power amplifiers
+  - Phase-switched Impedance Modulation
+  - Reactance Compensation
+  - Zikang Tong
+  - Lei Gu
+doi: '10.1109/TIE.2021.3090710'
+publishDate: '2021-06-24T00:00:00-01:00'
+publication_types:
+  - '1'
+publication: "IEEE Transactions on Industrial Electronics"
+publication_short: "IEEE TIE"
+abstract: "The Class Φ2 is a suitable power amplifier (PA) topology for applications that demand low device voltage stress and simple gate driving. The push-pull with T network (PPT) version of this architecture can be advantageous over a conventional single-ended Φ2 due to higher power capabilities through interleaving and simple closed-form design equations. The downside with this and many other switch-mode PAs is that they perform efficiently only at a single frequency with the power degrading outside the nominal point of operation. To solve this issue, we incorporate a phase-switched impedance modulation (PSIM) variable capacitor and a reactance compensation network so that the PPT Φ2 can function across broadband. We experimentally demonstrate a 300 W PA for a 50 Ω load impedance using silicon (Si) devices. The PA achieves above 90% efficiency over approximately a 30% fractional bandwidth. In addition, the PA can also operate across broadband with light loads, where above 80% efficiency is maintained for up to 5 times higher load resistances. This switch-mode PA is one of the first to demonstrate such performance under load variation across a wide bandwidth."
+summary: 'In this paper we experimentally demonstrate a 300 W PA for a 50 Ω load impedance using silicon (Si) devices. The PA achieves above 90% efficiency over approximately a 30% fractional bandwidth. In addition, the PA can also operate across broadband with light loads, where above 80% efficiency is maintained for up to 5 times higher load resistances. This switch-mode PA is one of the first to demonstrate such performance under load variation across a wide bandwidth.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/9464735
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="Photograph of the 300 W wideband PA showing the (a) top-view and (b) bottom-view of the system."}
+knitr::include_graphics("Tong_widbandphoto.jpg")
+```
+
+## Abstract 
+
+The Class Φ2 is a suitable power amplifier (PA) topology for applications that demand low device voltage stress and simple gate driving. The push-pull with T network (PPT) version of this architecture can be advantageous over a conventional single-ended Φ2 due to higher power capabilities through interleaving and simple closed-form design equations. The downside with this and many other switch-mode PAs is that they perform efficiently only at a single frequency with the power degrading outside the nominal point of operation. To solve this issue, we incorporate a phase-switched impedance modulation (PSIM) variable capacitor and a reactance compensation network so that the PPT Φ2 can function across broadband. We experimentally demonstrate a 300 W PA for a 50 Ω load impedance using silicon (Si) devices. The PA achieves above 90% efficiency over approximately a 30% fractional bandwidth. In addition, the PA can also operate across broadband with light loads, where above 80% efficiency is maintained for up to 5 times higher load resistances. This switch-mode PA is one of the first to demonstrate such performance under load variation across a wide bandwidth.
