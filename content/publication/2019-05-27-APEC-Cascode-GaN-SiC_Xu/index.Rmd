@@ -1,0 +1,41 @@
+---
+title: "Cascode GaN/SiC Power Device for MHz Switching"
+author: "J. Xu, L. Gu, Z. Ye, S. Kargarrazi and J. Rivas-Davila"
+date: '2019-05-27'
+slug: -APEC-Cascode-GaN-SiC_Xu
+categories:
+  - Conference
+  - APEC
+tags: 
+  - Cascode
+  - GaN
+  - SiC
+  - Gate Drive
+  - JiaLe Xu
+  - Zhechi Ye
+doi: '10.1109/APEC.2019.8721931'
+publishDate: '2019-05-27T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2019 IEEE Applied Power Electronics Conference and Exposition (APEC)"
+publication_short: "APEC"
+abstract: "Wide Bandgap (WBG) power semiconductors are being incorporated in an ever widening range of applications. Available Gallium Nitride (GaN) devices have lower voltage ratings than those made of Silicon Carbide (SiC) because commercially available GaN devices are lateral while SiC devices are vertical. However, the size and construction of GaN devices result in smaller device capacitance (C oss ,C iss ) that make them easier to drive at higher frequencies. These characteristics are segmenting the WBG market in two: SiC being the preferred device in higher voltage and lower frequency applications, while GaN is used in lower voltage and higher frequency applications. However, recent work shows that in both GaN and SiC, losses in C oss can exceed the conduction losses at high switching frequencies (>10 MHz), even under Zero-Voltage-Switching (ZVS) conditions. Moreover, [1], [2] and [3] show that the C oss energy loss (E oss ) per switching cycle increases with frequency in GaN devices but remains roughly independent of frequency in SiC. In this paper, we present a WBG high-voltage GaN/SiC cascode device, combining the advantages of both a GaN and a SiC device: simple gate drive requirements, E oss loss per cycle roughly independent of frequency, and relatively high voltage blocking capability. This cascode device is capable of blocking 1.2 kV, while consuming 558 mW at the gate when operating at 13.56 MHz. A 700 W Class E inverter implemented with the proposed cascoded device achieves 91 % efficiency at 13.56 MHz."
+summary: 'In this paper, we present a WBG high-voltage GaN/SiC cascode device, combining the advantages of both a GaN and a SiC device: simple gate drive requirements, E oss loss per cycle roughly independent of frequency, and relatively high voltage blocking capability. This cascode device is capable of blocking 1.2 kV, while consuming 558 mW at the gate when operating at 13.56 MHz. A 700 W Class E inverter implemented with the proposed cascoded device achieves 91 % efficiency at 13.56 MHz.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/8721931
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+Wide Bandgap (WBG) power semiconductors are being incorporated in an ever widening range of applications. Available Gallium Nitride (GaN) devices have lower voltage ratings than those made of Silicon Carbide (SiC) because commercially available GaN devices are lateral while SiC devices are vertical. However, the size and construction of GaN devices result in smaller device capacitance (C oss ,C iss ) that make them easier to drive at higher frequencies. These characteristics are segmenting the WBG market in two: SiC being the preferred device in higher voltage and lower frequency applications, while GaN is used in lower voltage and higher frequency applications. However, recent work shows that in both GaN and SiC, losses in C oss can exceed the conduction losses at high switching frequencies (>10 MHz), even under Zero-Voltage-Switching (ZVS) conditions. Moreover, [1], [2] and [3] show that the C oss energy loss (E oss ) per switching cycle increases with frequency in GaN devices but remains roughly independent of frequency in SiC. In this paper, we present a WBG high-voltage GaN/SiC cascode device, combining the advantages of both a GaN and a SiC device: simple gate drive requirements, E oss loss per cycle roughly independent of frequency, and relatively high voltage blocking capability. This cascode device is capable of blocking 1.2 kV, while consuming 558 mW at the gate when operating at 13.56 MHz. A 700 W Class E inverter implemented with the proposed cascoded device achieves 91 % efficiency at 13.56 MHz

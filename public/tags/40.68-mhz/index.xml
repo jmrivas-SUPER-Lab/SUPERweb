@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>40.68 MHz on SUPER-Lab</title>
+    <link>/tags/40.68-mhz/</link>
+    <description>Recent content in 40.68 MHz on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/40.68-mhz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing a 40.68 MHz power-combining resonant inverter with eGaN FETs for plasma generation</title>
+      <link>/publication/ecce-40m68-gan_choi/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-40m68-gan_choi/</guid>
+      <description>This paper presents the design of a 40.68 MHz, 1.2 kW power-combining resonant inverter using eGaN FETs for plasma generation. To provide high power at 40.68 MHz switching frequency, a class Φ2 inverter topology with wide band gap (WBG) devices such as eGaN FETs was selected. The proposed inverter topology reduces the power loss in each switching device, which can decrease the size of the heat sink. This study demonstrates that power-combining resonant inverters using eGaN FETs can increase efficiency and power density while operating at 40.68 MHz.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -44,6 +44,24 @@
     </item>
     
     <item>
+      <title>Cascode GaN/SiC Power Device for MHz Switching</title>
+      <link>/publication/apec-cascode-gan-sic_xu/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-cascode-gan-sic_xu/</guid>
+      <description>In this paper, we present a WBG high-voltage GaN/SiC cascode device, combining the advantages of both a GaN and a SiC device: simple gate drive requirements, E oss loss per cycle roughly independent of frequency, and relatively high voltage blocking capability. This cascode device is capable of blocking 1.2 kV, while consuming 558 mW at the gate when operating at 13.56 MHz. A 700 W Class E inverter implemented with the proposed cascoded device achieves 91 % efficiency at 13.56 MHz.</description>
+    </item>
+    
+    <item>
+      <title>Empirical Circuit Model for Output Capacitance Losses in Silicon Carbide Power Devices</title>
+      <link>/publication/apec-coss-sic_tong/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-coss-sic_tong/</guid>
+      <description>In recent reports, a variety of power devices, including wide-bandgap transistors, SiC diodes, and Si superjuction MOSFETs, exhibit losses occurring from hysteretic charging and discharging of their output capacitance (COSS for MOSFETs and CJ for Schottky diodes). Manufacturer SPICE models and datasheets do not report these losses, and are why device power dissipation in simulation significantly contrasts with that in actual converters. However, we propose a viable empirical circuit model that incorporates these losses, with capabilities to integrate into circuit simulation tools such as SPICE.</description>
+    </item>
+    
+    <item>
       <title>On the Techniques to Utilize SiC Power Devices in High- and Very High-Frequency Power Converters</title>
       <link>/publication/singleturn-aircore-hf-wpt_zulauf/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>

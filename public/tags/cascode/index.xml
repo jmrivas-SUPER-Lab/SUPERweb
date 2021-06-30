@@ -16,5 +16,14 @@
       <description>Cascoding a GaN HEMT and a SiC JFET best utilizes the advantages of both of these WBG power devices. Like GaN devices, the cascode GaN/SiC device is easy to drive at high frequencies and has low gate loss; like SiC devices, it also has relatively high voltage rating and low Coss energy loss at high frequencies. In this paper, we present our investigation of the gate loss mechanism of the SiC JFET in the cascode structure and our finding that the loss can be greatly reduced by minimizing the gate resistance of the SiC JFET (R g,Jfet ).</description>
     </item>
     
+    <item>
+      <title>Cascode GaN/SiC Power Device for MHz Switching</title>
+      <link>/publication/apec-cascode-gan-sic_xu/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-cascode-gan-sic_xu/</guid>
+      <description>In this paper, we present a WBG high-voltage GaN/SiC cascode device, combining the advantages of both a GaN and a SiC device: simple gate drive requirements, E oss loss per cycle roughly independent of frequency, and relatively high voltage blocking capability. This cascode device is capable of blocking 1.2 kV, while consuming 558 mW at the gate when operating at 13.56 MHz. A 700 W Class E inverter implemented with the proposed cascoded device achieves 91 % efficiency at 13.56 MHz.</description>
+    </item>
+    
   </channel>
 </rss>

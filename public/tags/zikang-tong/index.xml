@@ -99,6 +99,15 @@
     </item>
     
     <item>
+      <title>Empirical Circuit Model for Output Capacitance Losses in Silicon Carbide Power Devices</title>
+      <link>/publication/apec-coss-sic_tong/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-coss-sic_tong/</guid>
+      <description>In recent reports, a variety of power devices, including wide-bandgap transistors, SiC diodes, and Si superjuction MOSFETs, exhibit losses occurring from hysteretic charging and discharging of their output capacitance (COSS for MOSFETs and CJ for Schottky diodes). Manufacturer SPICE models and datasheets do not report these losses, and are why device power dissipation in simulation significantly contrasts with that in actual converters. However, we propose a viable empirical circuit model that incorporates these losses, with capabilities to integrate into circuit simulation tools such as SPICE.</description>
+    </item>
+    
+    <item>
       <title>On the Techniques to Utilize SiC Power Devices in High- and Very High-Frequency Power Converters</title>
       <link>/publication/singleturn-aircore-hf-wpt_zulauf/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>

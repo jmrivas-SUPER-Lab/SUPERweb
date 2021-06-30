@@ -52,5 +52,14 @@
       <description>We develop a small and lightweight high-voltage high-gain power converter for applications where weight and size are premium. By driving a Dickson and Cockcroft-Walton voltage multiplier with a megahertz-frequency class-E inverter, we implement two converters, one that achieves 40 V-to-2 kV conversion with 16 cm 3 box volume and the other that achieves 3.7 V-to-2.9 kV conversion with 0.2 cm 3 box volume and 0.49 g weight. Presented converters achieve comparable or better power density and specific power to those of commercial high-voltage power supplies.</description>
     </item>
     
+    <item>
+      <title>Designing a 40.68 MHz power-combining resonant inverter with eGaN FETs for plasma generation</title>
+      <link>/publication/ecce-40m68-gan_choi/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-40m68-gan_choi/</guid>
+      <description>This paper presents the design of a 40.68 MHz, 1.2 kW power-combining resonant inverter using eGaN FETs for plasma generation. To provide high power at 40.68 MHz switching frequency, a class Φ2 inverter topology with wide band gap (WBG) devices such as eGaN FETs was selected. The proposed inverter topology reduces the power loss in each switching device, which can decrease the size of the heat sink. This study demonstrates that power-combining resonant inverters using eGaN FETs can increase efficiency and power density while operating at 40.68 MHz.</description>
+    </item>
+    
   </channel>
 </rss>

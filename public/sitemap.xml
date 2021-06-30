@@ -711,6 +711,15 @@
     <loc>/tags/passive-circuits/</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/apec-cascode-gan-sic_xu/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/apec-coss-sic_tong/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/modeling/</loc>
+    <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/singleturn-aircore-hf-wpt_zulauf/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -758,6 +767,27 @@
   </url><url>
     <loc>/tags/texas-instruments/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/substrate-bias/</loc>
+    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/wipda-substrate-gan_zhuang/</loc>
+    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/wipda/</loc>
+    <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/40.68-mhz/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ecce-40m68-gan_choi/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/jungwon-choi/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/plasma-generation/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/tpels-active-power-device-selection_zulauf/</loc>
     <lastmod>2018-11-28T00:00:00+00:00</lastmod>
@@ -817,9 +847,6 @@
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/tpels-icn-wpt-choi/</loc>
-    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/jungwon-choi/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/magnetic-resonant-coupling/</loc>

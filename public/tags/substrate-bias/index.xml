@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Substrate Bias on SUPER-Lab</title>
+    <link>/tags/substrate-bias/</link>
+    <description>Recent content in Substrate Bias on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/substrate-bias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Substrate Bias Effect on E-Mode GaN-on-Si HEMT Coss Losses</title>
+      <link>/publication/wipda-substrate-gan_zhuang/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wipda-substrate-gan_zhuang/</guid>
+      <description>Here, we use a back-gate bias between the source and Si substrate to investigate the capacitance characteristics of commercially-available GaN HEMTs. The small-signal capacitance is reduced significantly - up to 2 × for a 650 V HEMT and 4× for a 100 V HEMT - indicating that the drain-substrate capacitance is a significant portion of the total output capacitance. Our findings indicate that the buffer-substrate stack is likely an important driver of Coss losses in GaN-on-Si HEMTs, and its optimization must be considered to efficiently use GaN HEMTs at high-frequencies. Traditional C oss measurements with the DC bias swept in both directions may give an indication of the relative level of trapping in this stack.</description>
+    </item>
+    
+  </channel>
+</rss>

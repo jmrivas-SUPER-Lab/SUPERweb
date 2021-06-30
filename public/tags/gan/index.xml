@@ -97,5 +97,32 @@
       <description>We mathematically analyze the operation of a Class-E amplifier when facing with this Coss loss term. We have found that the conventional wisdom of using the highest input voltage to get the best efficiency no longer holds above a certain frequency. Furthermore, to allow this new loss term to be easily simulated, we propose a distributed loss model for the Coss loss based on a generalized Steinmetz equation (GSE).</description>
     </item>
     
+    <item>
+      <title>Cascode GaN/SiC Power Device for MHz Switching</title>
+      <link>/publication/apec-cascode-gan-sic_xu/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-cascode-gan-sic_xu/</guid>
+      <description>In this paper, we present a WBG high-voltage GaN/SiC cascode device, combining the advantages of both a GaN and a SiC device: simple gate drive requirements, E oss loss per cycle roughly independent of frequency, and relatively high voltage blocking capability. This cascode device is capable of blocking 1.2 kV, while consuming 558 mW at the gate when operating at 13.56 MHz. A 700 W Class E inverter implemented with the proposed cascoded device achieves 91 % efficiency at 13.56 MHz.</description>
+    </item>
+    
+    <item>
+      <title>Substrate Bias Effect on E-Mode GaN-on-Si HEMT Coss Losses</title>
+      <link>/publication/wipda-substrate-gan_zhuang/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wipda-substrate-gan_zhuang/</guid>
+      <description>Here, we use a back-gate bias between the source and Si substrate to investigate the capacitance characteristics of commercially-available GaN HEMTs. The small-signal capacitance is reduced significantly - up to 2 × for a 650 V HEMT and 4× for a 100 V HEMT - indicating that the drain-substrate capacitance is a significant portion of the total output capacitance. Our findings indicate that the buffer-substrate stack is likely an important driver of Coss losses in GaN-on-Si HEMTs, and its optimization must be considered to efficiently use GaN HEMTs at high-frequencies. Traditional C oss measurements with the DC bias swept in both directions may give an indication of the relative level of trapping in this stack.</description>
+    </item>
+    
+    <item>
+      <title>Designing a 40.68 MHz power-combining resonant inverter with eGaN FETs for plasma generation</title>
+      <link>/publication/ecce-40m68-gan_choi/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-40m68-gan_choi/</guid>
+      <description>This paper presents the design of a 40.68 MHz, 1.2 kW power-combining resonant inverter using eGaN FETs for plasma generation. To provide high power at 40.68 MHz switching frequency, a class Φ2 inverter topology with wide band gap (WBG) devices such as eGaN FETs was selected. The proposed inverter topology reduces the power loss in each switching device, which can decrease the size of the heat sink. This study demonstrates that power-combining resonant inverters using eGaN FETs can increase efficiency and power density while operating at 40.68 MHz.</description>
+    </item>
+    
   </channel>
 </rss>

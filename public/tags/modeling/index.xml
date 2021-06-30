@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modeling on SUPER-Lab</title>
+    <link>/tags/modeling/</link>
+    <description>Recent content in Modeling on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empirical Circuit Model for Output Capacitance Losses in Silicon Carbide Power Devices</title>
+      <link>/publication/apec-coss-sic_tong/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-coss-sic_tong/</guid>
+      <description>In recent reports, a variety of power devices, including wide-bandgap transistors, SiC diodes, and Si superjuction MOSFETs, exhibit losses occurring from hysteretic charging and discharging of their output capacitance (COSS for MOSFETs and CJ for Schottky diodes). Manufacturer SPICE models and datasheets do not report these losses, and are why device power dissipation in simulation significantly contrasts with that in actual converters. However, we propose a viable empirical circuit model that incorporates these losses, with capabilities to integrate into circuit simulation tools such as SPICE.</description>
+    </item>
+    
+  </channel>
+</rss>
