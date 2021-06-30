@@ -25,5 +25,14 @@
       <description>In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency.</description>
     </item>
     
+    <item>
+      <title>A multi-resonant gate driver for Very-High-Frequency (VHF) resonant converters</title>
+      <link>/publication/compel-multiresonant-gatedrive_gu/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-multiresonant-gatedrive_gu/</guid>
+      <description>This paper presents the design and implementation of a Very-High-Frequency (VHF) multi-resonant gate drive circuit. The design procedure is greatly simplified compared with some VHF self-oscillating multi-resonant gate drivers presented in previous works. The proposed circuit has the potential to reduce long start-up time required in a self-oscillating resonant gate drive circuit and to better utilize fast transient capability of VHF converters. A prototype resonant gate driver is demonstrated and able to reduce 60 % of the gate driving loss of a 20 MHz 32 W Class-E power amplifier with Si MOSFET.</description>
+    </item>
+    
   </channel>
 </rss>

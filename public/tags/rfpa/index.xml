@@ -16,5 +16,14 @@
       <description>This paper proposes a bidirectional resonant converter design in which the rectifier and the inverter switches can be driven with the same gate signal at frequencies above 10 MHz. The proposed design enables efficient operation at &amp;gt; 10 MHz for applications which require high conversion-ratio bidirectional power delivery. We demonstrate a 200 W 13.56 MHz 210 V-to-30 V bidirectional converter with a peak efficiency of 90%.</description>
     </item>
     
+    <item>
+      <title>A compact RF power inverter with reduced EMI for a CubeSat electrothermal micro-thruster</title>
+      <link>/publication/compel-pocketrocket_liang/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-pocketrocket_liang/</guid>
+      <description>TThis paper presents a compact RF power inverter implemented with a PCB multi-resonant input filter for driving an electrothermal plasma micro-thruster, mini Pocket Rocket 3.0 (miniPR 3.0). This miniPR 3.0 and its driving electronics are part of an investigation seeking to add micro propulsion systems to low cost CubeSats. The proposed RF power inverter and multi-resonant input filter use only air core inductors. All inductors are toroidal and formed by PCB traces and vias allowing a planar and compact design. The PCB structure serves as structural support to save space and volume for propulsion propellant and other payloads.</description>
+    </item>
+    
   </channel>
 </rss>

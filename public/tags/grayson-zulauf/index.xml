@@ -179,12 +179,39 @@
     </item>
     
     <item>
+      <title>Coss losses in silicon superjunction MOSFETs across constructions and generations</title>
+      <link>/publication/ispsd-coss-superjunction_zulauf/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ispsd-coss-superjunction_zulauf/</guid>
+      <description>The superjunction (SJ) structure breaks the unipolar material limit of silicon power MOSFETs, and has achieved widespread adoption in commercial power converters. In resonant applications, these SJ devices experience losses due to charging and discharging the parasitic output capacitor, Coss, resulting in losses that increase with switching frequency. We document C OSS losses in commercially-available 600 V superjunction devices, showing that even devices grown with the trench-filling epitaxial method have non-negligible losses in MHz converters. Further, progressing in generations within a manufacturer appears to correspond to higher C OSS losses as the cell pitch is reduced and doping is increased. The C OSS losses may exceed conduction losses in many applications for the devices tested here.</description>
+    </item>
+    
+    <item>
       <title>COSS Losses in 600 V GaN Power Semiconductors in Soft-Switched, High- and Very-High-Frequency Power Converters</title>
       <link>/publication/tpels-coss-gan_zulauf/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/tpels-coss-gan_zulauf/</guid>
       <description>We report losses from charging and discharging the parasitic output capacitor, COSS , in Gallium Nitride (GaN) power devices with voltage ratings over 600 VDS. These losses are of particular importance in soft-switched circuits used at MHz switching frequencies, where the output capacitance of the device is charged and discharged once per switching cycle during the device off-time.</description>
+    </item>
+    
+    <item>
+      <title>Output capacitance losses in 600 V GaN power semiconductors with large voltage swings at high- and very-high-frequencies</title>
+      <link>/publication/wipda-coss-gan-zulauf/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wipda-coss-gan-zulauf/</guid>
+      <description>In this paper, we construct three Class-Φ 2 resonant converters with GaN HEMT power devices, 1 kW output power, and switching frequencies of 10 MHz, 30 MHz, and 54.24 MHz. The GaN HEMTs in these converters exhibit losses, approximated thermally, that are significantly higher (up to an order of magnitude) than those predicted by simulation. To investigate, we use a Sawyer-Tower circuit to evaluate the losses in the output capacitance, C OSS , of GaN devices from each manufacturer with commercially-available power devices with voltage ratings over 600 VDS .</description>
+    </item>
+    
+    <item>
+      <title>A unified model for high-power, air-core toroidal PCB inductors</title>
+      <link>/publication/compel-aircore_zulauf/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-aircore_zulauf/</guid>
+      <description>We present the first unified electrical model for high-power, air-core toroidal inductors implemented as PCB traces, which includes closed-form calculations for the lumped capacitance, resistance, and inductance of the structure. In this regime, the self-resonant frequency (SRF) of the inductor may be of the same order of magnitude as the circuit operating frequency, so the capacitance must be carefully modeled and tightly controlled.</description>
     </item>
     
   </channel>

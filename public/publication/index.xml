@@ -431,6 +431,24 @@
     </item>
     
     <item>
+      <title>Design of a GaN-Based Wireless Power Transfer System at 13.56 MHz to Replace Conventional Wired Connection in a Vehicle</title>
+      <link>/publication/ipec-gan-wpt-surakitbovorn/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ipec-gan-wpt-surakitbovorn/</guid>
+      <description>Wired connections running through the doors, hatchbacks, and trunks of a vehicle are subjected to extensive mechanical wear from repeated bending caused by the open-and-close motion. By employing wireless power transfer, this failure mode can be completely eliminated. In this paper, a 300 W 48-to-48 V WPT system with above 90% efficiency designed for such application is demonstrated. To achieve a system that is small, light-weight, and highly efficient as desired by the automotive industry, a novel inductor elimination technique is developed. The following paper shows the system design methodology, the inductor elimination technique, and the control scheme used in this work.</description>
+    </item>
+    
+    <item>
+      <title>High-Frequency Resonant Converter with Synchronous Rectification for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/ipec-syncrec-variable-load-gu/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ipec-syncrec-variable-load-gu/</guid>
+      <description>Applying RF circuit design techniques to dc-dc power conversion has pushed the switching frequency of power converters using discrete components well beyond 10 MHz. This paper proposes a simple solution to implement synchronous rectification for resonant dc-dc power converters operating at above 10 MHz, by using a symmetric bandpass matching network between the inverter and rectifier. The bandpass matching network enables the synchronous switch to be driven by the same clock signal as the inverter switch. Furthermore, this family of high frequency converter is able to maintain zero-voltage-switching operation over a wide load range. A 200 W 13.56 MHz 210 V-to-30 V bidirectional converter with a peak efficiency of 90% is demonstrated.</description>
+    </item>
+    
+    <item>
       <title>An Integrated RF Power Delivery and Plasma Micro-Thruster System for Nano-Satellites</title>
       <link>/publication/frontiers-integrated-rf-plasma-thruster_liang/</link>
       <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
@@ -521,6 +539,24 @@
     </item>
     
     <item>
+      <title>Coss losses in silicon superjunction MOSFETs across constructions and generations</title>
+      <link>/publication/ispsd-coss-superjunction_zulauf/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ispsd-coss-superjunction_zulauf/</guid>
+      <description>The superjunction (SJ) structure breaks the unipolar material limit of silicon power MOSFETs, and has achieved widespread adoption in commercial power converters. In resonant applications, these SJ devices experience losses due to charging and discharging the parasitic output capacitor, Coss, resulting in losses that increase with switching frequency. We document C OSS losses in commercially-available 600 V superjunction devices, showing that even devices grown with the trench-filling epitaxial method have non-negligible losses in MHz converters. Further, progressing in generations within a manufacturer appears to correspond to higher C OSS losses as the cell pitch is reduced and doping is increased. The C OSS losses may exceed conduction losses in many applications for the devices tested here.</description>
+    </item>
+    
+    <item>
+      <title>60 V-to-35 kV input-parallel output-series DC-DC converter using multi-level class-DE rectifiers</title>
+      <link>/publication/apec-35kv-park/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-35kv-park/</guid>
+      <description>This paper presents a high-voltage dc-dc converter that includes inductively-isolated rectifiers. Previous work on multi-stage class-DE rectifiers only included capacitive dc isolation, limiting the output voltage to twice of the capacitor voltage rating. By adding an air-core transformer before the rectifier for inductive isolation, the maximum output voltage can be twice the breakdown voltage of the insulation between the transformer&amp;rsquo;s primary and secondary windings, thus allowing the implementation of a small, lightweight, and fast transient high-voltage dc-dc converter. We experimentally demonstrate a multi-modular converter design with 60 V input voltage and 35 kV output voltage with 73 % efficiency.</description>
+    </item>
+    
+    <item>
       <title>Duty Cycle and Frequency Modulations in Class-E DC–DC Converters for a Wide Range of Input and Output Voltages</title>
       <link>/publication/duty-cycle-fm-classe-dcdc-park/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
@@ -545,6 +581,96 @@
       
       <guid>/publication/tpels-wide-input-step-down-pfc-variable-freq_gu/</guid>
       <description>This paper demonstrates a two-stage implementation of a step-down power factor preregulator design that achieves a high efficiency across the entire universal input voltage range (85-265 V rms ) for an offline power supply application. The proposed circuit allows MOSFETs with lower voltage ratings and better conduction/switching characteristics to be used in both converter stages. A scaling law of power losses versus breakdown voltage requirement for boost circuit under the condition of the same output power is presented. Experimental results demonstrated a flatter high efficiency performance across a wide input range.</description>
+    </item>
+    
+    <item>
+      <title>Output capacitance losses in 600 V GaN power semiconductors with large voltage swings at high- and very-high-frequencies</title>
+      <link>/publication/wipda-coss-gan-zulauf/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wipda-coss-gan-zulauf/</guid>
+      <description>In this paper, we construct three Class-Φ 2 resonant converters with GaN HEMT power devices, 1 kW output power, and switching frequencies of 10 MHz, 30 MHz, and 54.24 MHz. The GaN HEMTs in these converters exhibit losses, approximated thermally, that are significantly higher (up to an order of magnitude) than those predicted by simulation. To investigate, we use a Sawyer-Tower circuit to evaluate the losses in the output capacitance, C OSS , of GaN devices from each manufacturer with commercially-available power devices with voltage ratings over 600 VDS .</description>
+    </item>
+    
+    <item>
+      <title>Design of very-high-frequency synchronous resonant DC-DC converter for variable load operation</title>
+      <link>/publication/ecce-syncrec-variable-load_gu/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-syncrec-variable-load_gu/</guid>
+      <description>This paper proposes a simple solution to implement synchronous rectification for resonant dc-dc power converters operating in the Very-High-Frequency (VHF) range, by using a symmetric bandpass matching network between the inverter and rectifier. A bandpass matching network maintains a close-to-zero phase shift between the inverter and rectifier voltage, enabling the synchronous switch to be driven by the same clock signal as the inverter switch.</description>
+    </item>
+    
+    <item>
+      <title>A compact RF power inverter with reduced EMI for a CubeSat electrothermal micro-thruster</title>
+      <link>/publication/compel-pocketrocket_liang/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-pocketrocket_liang/</guid>
+      <description>TThis paper presents a compact RF power inverter implemented with a PCB multi-resonant input filter for driving an electrothermal plasma micro-thruster, mini Pocket Rocket 3.0 (miniPR 3.0). This miniPR 3.0 and its driving electronics are part of an investigation seeking to add micro propulsion systems to low cost CubeSats. The proposed RF power inverter and multi-resonant input filter use only air core inductors. All inductors are toroidal and formed by PCB traces and vias allowing a planar and compact design. The PCB structure serves as structural support to save space and volume for propulsion propellant and other payloads.</description>
+    </item>
+    
+    <item>
+      <title>A multi-resonant gate driver for Very-High-Frequency (VHF) resonant converters</title>
+      <link>/publication/compel-multiresonant-gatedrive_gu/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-multiresonant-gatedrive_gu/</guid>
+      <description>This paper presents the design and implementation of a Very-High-Frequency (VHF) multi-resonant gate drive circuit. The design procedure is greatly simplified compared with some VHF self-oscillating multi-resonant gate drivers presented in previous works. The proposed circuit has the potential to reduce long start-up time required in a self-oscillating resonant gate drive circuit and to better utilize fast transient capability of VHF converters. A prototype resonant gate driver is demonstrated and able to reduce 60 % of the gate driving loss of a 20 MHz 32 W Class-E power amplifier with Si MOSFET.</description>
+    </item>
+    
+    <item>
+      <title>A portable electrostatic precipitator to reduce respiratory death in rural environments</title>
+      <link>/publication/compel-precipitator-talukder/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-precipitator-talukder/</guid>
+      <description>This paper presents the design methodology of a miniaturized, portable, and low power electrostatic precipitator (ESP) to reduce indoor air pollution (IAP) from rural cookstoves. Decreasing the concentration of aerosol particles helps reduce the incidence of respiratory tract infections that can lead to disease and even death. We trace existing technologies and standards to combat IAP in cookstoves, design an ESP that allows precipitation at lower voltages via an electrode design that utilizes sub 5 kV voltages, and explore how rapidly pulsed converters decrease the power consumption of the circuit.</description>
+    </item>
+    
+    <item>
+      <title>A unified model for high-power, air-core toroidal PCB inductors</title>
+      <link>/publication/compel-aircore_zulauf/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-aircore_zulauf/</guid>
+      <description>We present the first unified electrical model for high-power, air-core toroidal inductors implemented as PCB traces, which includes closed-form calculations for the lumped capacitance, resistance, and inductance of the structure. In this regime, the self-resonant frequency (SRF) of the inductor may be of the same order of magnitude as the circuit operating frequency, so the capacitance must be carefully modeled and tightly controlled.</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of GaN transistor losses at MHz frequencies in soft switching converters</title>
+      <link>/publication/compel-gan-coss_surakitbovorn/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gan-coss_surakitbovorn/</guid>
+      <description>On paper, Gallium nitride (GaN) transistor promises exceptional performance when used in converters operating at high switching frequency; nonetheless, reduction in their performance when used in real circuits have been observed. Previous experiments show that tested GaN transistors can display excessive loss of up to three times their predicted values under certain test conditions. This paper evaluates power losses in GaN transistors when used in class Φ 2 resonant soft-switching inverter topologies at MHz frequencies. Thermometric loss calibration technique is used to calculate the power losses.</description>
+    </item>
+    
+    <item>
+      <title>Implementing an impedance compression network to correct misalignment in a wireless power transfer system</title>
+      <link>/publication/compel-icn-wpt_choi/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-icn-wpt_choi/</guid>
+      <description>This paper presents the design and implementation of an impedance compression network (ICN) to correct distance variation or misalignment between coils in wireless power transfer (WPT) systems. Magnetic resonant coupling (MRC) coils provide high efficiency for charging mid-range WPT applications. However, a distance variation or misalignment between coils causes a coil-impedance change and significantly affects performances of WPT systems. In order to mitigate a coil-impedance variation, we propose an ICN simultaneously compressing changes in magnitude and phase of impedance. The ICN consists of a resistance compression network (RCN) and phase compression network (PCN). While the RCN effectively compresses the variation in the magnitude of impedance by using one pair consisting of an inductor and a capacitor, the PCN is designed using a Smith chart to reduce a phase variation.</description>
+    </item>
+    
+    <item>
+      <title>Isolated resonant DC-DC converters with a loosely coupled transformer</title>
+      <link>/publication/compel-isolated-dcdc_park/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-isolated-dcdc_park/</guid>
+      <description>We present a dc-dc resonant converter structure that has a pair of loosely coupled inductors in place of one filter inductor and two resonant inductors. Not only the number of inductors is reduced by one, but in this arrangment the transformer provides galvanic isolation and requires a sub-unity coupling coefficient which eases the implementation, especially at high switching frequencies. Various topologies, including class-E, DE, and Φ 2 , benefit from this structure.</description>
+    </item>
+    
+    <item>
+      <title>The “Smart Dim Fuse”: A new approach to load control as a distributed energy resource</title>
+      <link>/publication/compel-smart-fuse_goldin/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-smart-fuse_goldin/</guid>
+      <description>Aggregation of behind-the-meter distributed energy resources holds promise to provide valuable services to the grid, enabling greater penetration of intermittent renewable energy sources. We propose the Smart Dim Fuse system as an approach to utilize loads for aggregation services. The Smart Dim Fuse, installed on individual circuits at the breaker panel, enables load power control without service interruption via direct AC to AC voltage modulation, while reporting load measurement, identification, and resource a vailability forecasting to the aggregator. Using data from 131 homes, we evaluate the aggregate resource availability, and demonstrate a proof-of-concept prototype of the power electronics needed for this functionality.</description>
     </item>
     
     <item>

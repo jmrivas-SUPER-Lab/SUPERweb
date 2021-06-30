@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aircore Inductor on SUPER-Lab</title>
+    <link>/tags/aircore-inductor/</link>
+    <description>Recent content in Aircore Inductor on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/aircore-inductor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A unified model for high-power, air-core toroidal PCB inductors</title>
+      <link>/publication/compel-aircore_zulauf/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-aircore_zulauf/</guid>
+      <description>We present the first unified electrical model for high-power, air-core toroidal inductors implemented as PCB traces, which includes closed-form calculations for the lumped capacitance, resistance, and inductance of the structure. In this regime, the self-resonant frequency (SRF) of the inductor may be of the same order of magnitude as the circuit operating frequency, so the capacitance must be carefully modeled and tightly controlled.</description>
+    </item>
+    
+  </channel>
+</rss>

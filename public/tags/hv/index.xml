@@ -25,5 +25,14 @@
       <description>This paper presents the design of a compact 45 V-to-54 kV dc-dc converter for high-energy beam applications with the focus on X-ray generation. We describe key design choices for a high power density including a modular structure, high-frequency switching, planar transformers and Dickson topology. High-voltage insulation and thermal management are also described in detail. The experimental data with with a 5 kV single module and a 10-module 54 kV converter indicate that the proposed structure can generate high dc voltage while achieving a several times higher power density compared to commercial high-voltage power supplies.</description>
     </item>
     
+    <item>
+      <title>60 V-to-35 kV input-parallel output-series DC-DC converter using multi-level class-DE rectifiers</title>
+      <link>/publication/apec-35kv-park/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-35kv-park/</guid>
+      <description>This paper presents a high-voltage dc-dc converter that includes inductively-isolated rectifiers. Previous work on multi-stage class-DE rectifiers only included capacitive dc isolation, limiting the output voltage to twice of the capacitor voltage rating. By adding an air-core transformer before the rectifier for inductive isolation, the maximum output voltage can be twice the breakdown voltage of the insulation between the transformer&amp;rsquo;s primary and secondary windings, thus allowing the implementation of a small, lightweight, and fast transient high-voltage dc-dc converter. We experimentally demonstrate a multi-modular converter design with 60 V input voltage and 35 kV output voltage with 73 % efficiency.</description>
+    </item>
+    
   </channel>
 </rss>

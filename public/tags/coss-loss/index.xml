@@ -88,5 +88,32 @@
       <description>In this paper, we extend recent work on COSS losses, which have a significant impact on high- and very-high-frequency resonant converters, from GaN HEMTs to the remainder of the core active power devices used in medium- and highvoltage power conversion. Here, we characterize COSS losses in Silicon MOSFETs - including superjunctions and traditional constructions - and Silicon Carbide MOSFETs. The measured COSS losses in SiC MOSFETs do not increase with dV/dt at frequencies from 1-35 MHz and applied voltages up to 900 V. Across the tested SiC MOSFETs, 3-10% of the energy stored in the output capacitor is dissipated.</description>
     </item>
     
+    <item>
+      <title>Coss losses in silicon superjunction MOSFETs across constructions and generations</title>
+      <link>/publication/ispsd-coss-superjunction_zulauf/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ispsd-coss-superjunction_zulauf/</guid>
+      <description>The superjunction (SJ) structure breaks the unipolar material limit of silicon power MOSFETs, and has achieved widespread adoption in commercial power converters. In resonant applications, these SJ devices experience losses due to charging and discharging the parasitic output capacitor, Coss, resulting in losses that increase with switching frequency. We document C OSS losses in commercially-available 600 V superjunction devices, showing that even devices grown with the trench-filling epitaxial method have non-negligible losses in MHz converters. Further, progressing in generations within a manufacturer appears to correspond to higher C OSS losses as the cell pitch is reduced and doping is increased. The C OSS losses may exceed conduction losses in many applications for the devices tested here.</description>
+    </item>
+    
+    <item>
+      <title>Output capacitance losses in 600 V GaN power semiconductors with large voltage swings at high- and very-high-frequencies</title>
+      <link>/publication/wipda-coss-gan-zulauf/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wipda-coss-gan-zulauf/</guid>
+      <description>In this paper, we construct three Class-Φ 2 resonant converters with GaN HEMT power devices, 1 kW output power, and switching frequencies of 10 MHz, 30 MHz, and 54.24 MHz. The GaN HEMTs in these converters exhibit losses, approximated thermally, that are significantly higher (up to an order of magnitude) than those predicted by simulation. To investigate, we use a Sawyer-Tower circuit to evaluate the losses in the output capacitance, C OSS , of GaN devices from each manufacturer with commercially-available power devices with voltage ratings over 600 VDS .</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of GaN transistor losses at MHz frequencies in soft switching converters</title>
+      <link>/publication/compel-gan-coss_surakitbovorn/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gan-coss_surakitbovorn/</guid>
+      <description>On paper, Gallium nitride (GaN) transistor promises exceptional performance when used in converters operating at high switching frequency; nonetheless, reduction in their performance when used in real circuits have been observed. Previous experiments show that tested GaN transistors can display excessive loss of up to three times their predicted values under certain test conditions. This paper evaluates power losses in GaN transistors when used in class Φ 2 resonant soft-switching inverter topologies at MHz frequencies. Thermometric loss calibration technique is used to calculate the power losses.</description>
+    </item>
+    
   </channel>
 </rss>

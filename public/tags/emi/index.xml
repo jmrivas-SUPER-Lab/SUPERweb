@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EMI on SUPER-Lab</title>
+    <link>/tags/emi/</link>
+    <description>Recent content in EMI on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/emi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A compact RF power inverter with reduced EMI for a CubeSat electrothermal micro-thruster</title>
+      <link>/publication/compel-pocketrocket_liang/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-pocketrocket_liang/</guid>
+      <description>TThis paper presents a compact RF power inverter implemented with a PCB multi-resonant input filter for driving an electrothermal plasma micro-thruster, mini Pocket Rocket 3.0 (miniPR 3.0). This miniPR 3.0 and its driving electronics are part of an investigation seeking to add micro propulsion systems to low cost CubeSats. The proposed RF power inverter and multi-resonant input filter use only air core inductors. All inductors are toroidal and formed by PCB traces and vias allowing a planar and compact design. The PCB structure serves as structural support to save space and volume for propulsion propellant and other payloads.</description>
+    </item>
+    
+  </channel>
+</rss>

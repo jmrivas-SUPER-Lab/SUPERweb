@@ -16,5 +16,14 @@
       <description>Small-signal measurements of output capacitance ( $C_{OSS}$ ) are ubiquitous in power semiconductor datasheets and determine critical features of power converters. For silicon superjunction power MOSFETs (SJs), we report $C_{OSS}$  measurements with two key anomalies: variation with ac perturbation frequency and hysteresis with dc sweep direction.</description>
     </item>
     
+    <item>
+      <title>Coss losses in silicon superjunction MOSFETs across constructions and generations</title>
+      <link>/publication/ispsd-coss-superjunction_zulauf/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ispsd-coss-superjunction_zulauf/</guid>
+      <description>The superjunction (SJ) structure breaks the unipolar material limit of silicon power MOSFETs, and has achieved widespread adoption in commercial power converters. In resonant applications, these SJ devices experience losses due to charging and discharging the parasitic output capacitor, Coss, resulting in losses that increase with switching frequency. We document C OSS losses in commercially-available 600 V superjunction devices, showing that even devices grown with the trench-filling epitaxial method have non-negligible losses in MHz converters. Further, progressing in generations within a manufacturer appears to correspond to higher C OSS losses as the cell pitch is reduced and doping is increased. The C OSS losses may exceed conduction losses in many applications for the devices tested here.</description>
+    </item>
+    
   </channel>
 </rss>

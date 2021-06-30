@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automotive on SUPER-Lab</title>
+    <link>/tags/automotive/</link>
+    <description>Recent content in Automotive on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/automotive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design of a GaN-Based Wireless Power Transfer System at 13.56 MHz to Replace Conventional Wired Connection in a Vehicle</title>
+      <link>/publication/ipec-gan-wpt-surakitbovorn/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ipec-gan-wpt-surakitbovorn/</guid>
+      <description>Wired connections running through the doors, hatchbacks, and trunks of a vehicle are subjected to extensive mechanical wear from repeated bending caused by the open-and-close motion. By employing wireless power transfer, this failure mode can be completely eliminated. In this paper, a 300 W 48-to-48 V WPT system with above 90% efficiency designed for such application is demonstrated. To achieve a system that is small, light-weight, and highly efficient as desired by the automotive industry, a novel inductor elimination technique is developed. The following paper shows the system design methodology, the inductor elimination technique, and the control scheme used in this work.</description>
+    </item>
+    
+  </channel>
+</rss>

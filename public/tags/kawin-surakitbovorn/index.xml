@@ -90,6 +90,24 @@
     </item>
     
     <item>
+      <title>Design of a GaN-Based Wireless Power Transfer System at 13.56 MHz to Replace Conventional Wired Connection in a Vehicle</title>
+      <link>/publication/ipec-gan-wpt-surakitbovorn/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ipec-gan-wpt-surakitbovorn/</guid>
+      <description>Wired connections running through the doors, hatchbacks, and trunks of a vehicle are subjected to extensive mechanical wear from repeated bending caused by the open-and-close motion. By employing wireless power transfer, this failure mode can be completely eliminated. In this paper, a 300 W 48-to-48 V WPT system with above 90% efficiency designed for such application is demonstrated. To achieve a system that is small, light-weight, and highly efficient as desired by the automotive industry, a novel inductor elimination technique is developed. The following paper shows the system design methodology, the inductor elimination technique, and the control scheme used in this work.</description>
+    </item>
+    
+    <item>
+      <title>High-Frequency Resonant Converter with Synchronous Rectification for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/ipec-syncrec-variable-load-gu/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ipec-syncrec-variable-load-gu/</guid>
+      <description>Applying RF circuit design techniques to dc-dc power conversion has pushed the switching frequency of power converters using discrete components well beyond 10 MHz. This paper proposes a simple solution to implement synchronous rectification for resonant dc-dc power converters operating at above 10 MHz, by using a symmetric bandpass matching network between the inverter and rectifier. The bandpass matching network enables the synchronous switch to be driven by the same clock signal as the inverter switch. Furthermore, this family of high frequency converter is able to maintain zero-voltage-switching operation over a wide load range. A 200 W 13.56 MHz 210 V-to-30 V bidirectional converter with a peak efficiency of 90% is demonstrated.</description>
+    </item>
+    
+    <item>
       <title>An Integrated RF Power Delivery and Plasma Micro-Thruster System for Nano-Satellites</title>
       <link>/publication/frontiers-integrated-rf-plasma-thruster_liang/</link>
       <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
@@ -123,6 +141,24 @@
       
       <guid>/publication/tpels-coss-gan_zulauf/</guid>
       <description>We report losses from charging and discharging the parasitic output capacitor, COSS , in Gallium Nitride (GaN) power devices with voltage ratings over 600 VDS. These losses are of particular importance in soft-switched circuits used at MHz switching frequencies, where the output capacitance of the device is charged and discharged once per switching cycle during the device off-time.</description>
+    </item>
+    
+    <item>
+      <title>Output capacitance losses in 600 V GaN power semiconductors with large voltage swings at high- and very-high-frequencies</title>
+      <link>/publication/wipda-coss-gan-zulauf/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wipda-coss-gan-zulauf/</guid>
+      <description>In this paper, we construct three Class-Φ 2 resonant converters with GaN HEMT power devices, 1 kW output power, and switching frequencies of 10 MHz, 30 MHz, and 54.24 MHz. The GaN HEMTs in these converters exhibit losses, approximated thermally, that are significantly higher (up to an order of magnitude) than those predicted by simulation. To investigate, we use a Sawyer-Tower circuit to evaluate the losses in the output capacitance, C OSS , of GaN devices from each manufacturer with commercially-available power devices with voltage ratings over 600 VDS .</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of GaN transistor losses at MHz frequencies in soft switching converters</title>
+      <link>/publication/compel-gan-coss_surakitbovorn/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gan-coss_surakitbovorn/</guid>
+      <description>On paper, Gallium nitride (GaN) transistor promises exceptional performance when used in converters operating at high switching frequency; nonetheless, reduction in their performance when used in real circuits have been observed. Previous experiments show that tested GaN transistors can display excessive loss of up to three times their predicted values under certain test conditions. This paper evaluates power losses in GaN transistors when used in class Φ 2 resonant soft-switching inverter topologies at MHz frequencies. Thermometric loss calibration technique is used to calculate the power losses.</description>
     </item>
     
   </channel>

@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>Design of a GaN-Based Wireless Power Transfer System at 13.56 MHz to Replace Conventional Wired Connection in a Vehicle</title>
+      <link>/publication/ipec-gan-wpt-surakitbovorn/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ipec-gan-wpt-surakitbovorn/</guid>
+      <description>Wired connections running through the doors, hatchbacks, and trunks of a vehicle are subjected to extensive mechanical wear from repeated bending caused by the open-and-close motion. By employing wireless power transfer, this failure mode can be completely eliminated. In this paper, a 300 W 48-to-48 V WPT system with above 90% efficiency designed for such application is demonstrated. To achieve a system that is small, light-weight, and highly efficient as desired by the automotive industry, a novel inductor elimination technique is developed. The following paper shows the system design methodology, the inductor elimination technique, and the control scheme used in this work.</description>
+    </item>
+    
+    <item>
       <title>Design of a 13.56 MHz dc-to-dc resonant converter using an impedance compression network to mitigate misalignments in a wireless power transfer system</title>
       <link>/publication/compel-icn-wpt_choi/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
@@ -59,6 +68,15 @@
       
       <guid>/publication/tpels-icn-wpt-choi/</guid>
       <description>This paper presents an impedance compression network (ICN) design in a wireless power transfer (WPT) system to compensate for distance or alignment variations between coils. In order to reduce coil impedance variation, we propose an ICN that compresses variations in coil impedance.</description>
+    </item>
+    
+    <item>
+      <title>Implementing an impedance compression network to correct misalignment in a wireless power transfer system</title>
+      <link>/publication/compel-icn-wpt_choi/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-icn-wpt_choi/</guid>
+      <description>This paper presents the design and implementation of an impedance compression network (ICN) to correct distance variation or misalignment between coils in wireless power transfer (WPT) systems. Magnetic resonant coupling (MRC) coils provide high efficiency for charging mid-range WPT applications. However, a distance variation or misalignment between coils causes a coil-impedance change and significantly affects performances of WPT systems. In order to mitigate a coil-impedance variation, we propose an ICN simultaneously compressing changes in magnitude and phase of impedance. The ICN consists of a resistance compression network (RCN) and phase compression network (PCN). While the RCN effectively compresses the variation in the magnitude of impedance by using one pair consisting of an inductor and a capacitor, the PCN is designed using a Smith chart to reduce a phase variation.</description>
     </item>
     
   </channel>

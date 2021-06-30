@@ -25,5 +25,14 @@
       <description>We develop a small and lightweight high-voltage high-gain power converter for applications where weight and size are premium. By driving a Dickson and Cockcroft-Walton voltage multiplier with a megahertz-frequency class-E inverter, we implement two converters, one that achieves 40 V-to-2 kV conversion with 16 cm 3 box volume and the other that achieves 3.7 V-to-2.9 kV conversion with 0.2 cm 3 box volume and 0.49 g weight. Presented converters achieve comparable or better power density and specific power to those of commercial high-voltage power supplies.</description>
     </item>
     
+    <item>
+      <title>The “Smart Dim Fuse”: A new approach to load control as a distributed energy resource</title>
+      <link>/publication/compel-smart-fuse_goldin/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-smart-fuse_goldin/</guid>
+      <description>Aggregation of behind-the-meter distributed energy resources holds promise to provide valuable services to the grid, enabling greater penetration of intermittent renewable energy sources. We propose the Smart Dim Fuse system as an approach to utilize loads for aggregation services. The Smart Dim Fuse, installed on individual circuits at the breaker panel, enables load power control without service interruption via direct AC to AC voltage modulation, while reporting load measurement, identification, and resource a vailability forecasting to the aggregator. Using data from 131 homes, we evaluate the aggregate resource availability, and demonstrate a proof-of-concept prototype of the power electronics needed for this functionality.</description>
+    </item>
+    
   </channel>
 </rss>

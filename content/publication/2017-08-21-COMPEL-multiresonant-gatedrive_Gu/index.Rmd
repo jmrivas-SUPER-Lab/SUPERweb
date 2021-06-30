@@ -1,0 +1,39 @@
+---
+title: "A multi-resonant gate driver for Very-High-Frequency (VHF) resonant converters"
+author: "L. Gu, W. Liang and J. Rivas-Davila"
+date: '2017-08-21'
+slug: -COMPEL-multiresonant-gatedrive_Gu
+categories:
+  - Conference
+  - COMPEL
+tags: 
+  - Gatedrive
+  - Multiresonant
+  - Wei Liang
+  - Lei Gu
+doi: '10.1109/COMPEL.2017.8013358'
+publishDate: '2017-08-21T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2017 IEEE 18th Workshop on Control and Modeling for Power Electronics (COMPEL)"
+publication_short: "COMPEL"
+abstract: "This paper presents the design and implementation of a Very-High-Frequency (VHF) multi-resonant gate drive circuit. The design procedure is greatly simplified compared with some VHF self-oscillating multi-resonant gate drivers presented in previous works. The proposed circuit has the potential to reduce long start-up time required in a self-oscillating resonant gate drive circuit and to better utilize fast transient capability of VHF converters. A prototype resonant gate driver is demonstrated and able to reduce 60 % of the gate driving loss of a 20 MHz 32 W Class-E power amplifier with Si MOSFET."
+summary: 'This paper presents the design and implementation of a Very-High-Frequency (VHF) multi-resonant gate drive circuit. The design procedure is greatly simplified compared with some VHF self-oscillating multi-resonant gate drivers presented in previous works. The proposed circuit has the potential to reduce long start-up time required in a self-oscillating resonant gate drive circuit and to better utilize fast transient capability of VHF converters. A prototype resonant gate driver is demonstrated and able to reduce 60 % of the gate driving loss of a 20 MHz 32 W Class-E power amplifier with Si MOSFET.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/8013358
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+This paper presents the design and implementation of a Very-High-Frequency (VHF) multi-resonant gate drive circuit. The design procedure is greatly simplified compared with some VHF self-oscillating multi-resonant gate drivers presented in previous works. The proposed circuit has the potential to reduce long start-up time required in a self-oscillating resonant gate drive circuit and to better utilize fast transient capability of VHF converters. A prototype resonant gate driver is demonstrated and able to reduce 60 % of the gate driving loss of a 20 MHz 32 W Class-E power amplifier with Si MOSFET.

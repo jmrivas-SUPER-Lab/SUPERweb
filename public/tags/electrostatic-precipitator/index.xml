@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electrostatic Precipitator on SUPER-Lab</title>
+    <link>/tags/electrostatic-precipitator/</link>
+    <description>Recent content in Electrostatic Precipitator on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/electrostatic-precipitator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A portable electrostatic precipitator to reduce respiratory death in rural environments</title>
+      <link>/publication/compel-precipitator-talukder/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-precipitator-talukder/</guid>
+      <description>This paper presents the design methodology of a miniaturized, portable, and low power electrostatic precipitator (ESP) to reduce indoor air pollution (IAP) from rural cookstoves. Decreasing the concentration of aerosol particles helps reduce the incidence of respiratory tract infections that can lead to disease and even death. We trace existing technologies and standards to combat IAP in cookstoves, design an ESP that allows precipitation at lower voltages via an electrode design that utilizes sub 5 kV voltages, and explore how rapidly pulsed converters decrease the power consumption of the circuit.</description>
+    </item>
+    
+  </channel>
+</rss>

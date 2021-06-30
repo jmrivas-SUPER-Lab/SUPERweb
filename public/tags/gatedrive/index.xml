@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gatedrive on SUPER-Lab</title>
+    <link>/tags/gatedrive/</link>
+    <description>Recent content in Gatedrive on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/gatedrive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A multi-resonant gate driver for Very-High-Frequency (VHF) resonant converters</title>
+      <link>/publication/compel-multiresonant-gatedrive_gu/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-multiresonant-gatedrive_gu/</guid>
+      <description>This paper presents the design and implementation of a Very-High-Frequency (VHF) multi-resonant gate drive circuit. The design procedure is greatly simplified compared with some VHF self-oscillating multi-resonant gate drivers presented in previous works. The proposed circuit has the potential to reduce long start-up time required in a self-oscillating resonant gate drive circuit and to better utilize fast transient capability of VHF converters. A prototype resonant gate driver is demonstrated and able to reduce 60 % of the gate driving loss of a 20 MHz 32 W Class-E power amplifier with Si MOSFET.</description>
+    </item>
+    
+  </channel>
+</rss>

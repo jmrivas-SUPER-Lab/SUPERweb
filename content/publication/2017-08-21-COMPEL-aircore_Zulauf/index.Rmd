@@ -1,0 +1,40 @@
+---
+title: "A unified model for high-power, air-core toroidal PCB inductors"
+author: "G. Zulauf, W. Liang and J. Rivas-Davila,"
+date: '2017-08-21'
+slug: -COMPEL-aircore_Zulauf
+categories:
+  - Conference
+  - COMPEL
+tags: 
+  - Aircore Inductor
+  - Toroidal Inductor
+  - Modeling 
+  - Grayson Zulauf
+  - Wei Liang
+doi: '10.1109/COMPEL.2017.8013401'
+publishDate: '2017-08-21T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2017 IEEE 18th Workshop on Control and Modeling for Power Electronics (COMPEL)"
+publication_short: "COMPEL"
+abstract: "In high-frequency and very-high-frequency power converters, which operate with switching frequencies between 3 and 300 MHz, efficient power inductors cannot be constructed with commercially available core materials. In this regime, air-core inductors are preferred, and the toroidal geometry best constrains the magnetic field. These inductors have been implemented as printed circuit board (PCB) traces. Here, we present the first unified electrical model for high-power, air-core toroidal inductors implemented as PCB traces, which includes closed-form calculations for the lumped capacitance, resistance, and inductance of the structure. In this regime, the self-resonant frequency (SRF) of the inductor may be of the same order of magnitude as the circuit operating frequency, so the capacitance must be carefully modeled and tightly controlled. The lumped capacitance is calculated by assuming that the impedance between two turns is well approximated by the characteristic impedance of a microstrip geometry. We fabricate inductors with inductances ranging from 44 nH to 10 μH and PCB heights of 1 mm, 1.6 mm, 2 mm, 3.2 mm, and 6.4 mm. For all inductors from 44 nH to 2 μH, the SRF is predicted within 10% and the modeled capacitance is within 1 pF of the measured value."
+summary: 'We present the first unified electrical model for high-power, air-core toroidal inductors implemented as PCB traces, which includes closed-form calculations for the lumped capacitance, resistance, and inductance of the structure. In this regime, the self-resonant frequency (SRF) of the inductor may be of the same order of magnitude as the circuit operating frequency, so the capacitance must be carefully modeled and tightly controlled.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/8013401
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+In high-frequency and very-high-frequency power converters, which operate with switching frequencies between 3 and 300 MHz, efficient power inductors cannot be constructed with commercially available core materials. In this regime, air-core inductors are preferred, and the toroidal geometry best constrains the magnetic field. These inductors have been implemented as printed circuit board (PCB) traces. Here, we present the first unified electrical model for high-power, air-core toroidal inductors implemented as PCB traces, which includes closed-form calculations for the lumped capacitance, resistance, and inductance of the structure. In this regime, the self-resonant frequency (SRF) of the inductor may be of the same order of magnitude as the circuit operating frequency, so the capacitance must be carefully modeled and tightly controlled. The lumped capacitance is calculated by assuming that the impedance between two turns is well approximated by the characteristic impedance of a microstrip geometry. We fabricate inductors with inductances ranging from 44 nH to 10 μH and PCB heights of 1 mm, 1.6 mm, 2 mm, 3.2 mm, and 6.4 mm. For all inductors from 44 nH to 2 μH, the SRF is predicted within 10% and the modeled capacitance is within 1 pF of the measured value.

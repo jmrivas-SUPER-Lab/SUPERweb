@@ -89,6 +89,15 @@
     </item>
     
     <item>
+      <title>60 V-to-35 kV input-parallel output-series DC-DC converter using multi-level class-DE rectifiers</title>
+      <link>/publication/apec-35kv-park/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-35kv-park/</guid>
+      <description>This paper presents a high-voltage dc-dc converter that includes inductively-isolated rectifiers. Previous work on multi-stage class-DE rectifiers only included capacitive dc isolation, limiting the output voltage to twice of the capacitor voltage rating. By adding an air-core transformer before the rectifier for inductive isolation, the maximum output voltage can be twice the breakdown voltage of the insulation between the transformer&amp;rsquo;s primary and secondary windings, thus allowing the implementation of a small, lightweight, and fast transient high-voltage dc-dc converter. We experimentally demonstrate a multi-modular converter design with 60 V input voltage and 35 kV output voltage with 73 % efficiency.</description>
+    </item>
+    
+    <item>
       <title>Duty Cycle and Frequency Modulations in Class-E DC–DC Converters for a Wide Range of Input and Output Voltages</title>
       <link>/publication/duty-cycle-fm-classe-dcdc-park/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
@@ -104,6 +113,24 @@
       
       <guid>/publication/tpels-coss-gan_zulauf/</guid>
       <description>We report losses from charging and discharging the parasitic output capacitor, COSS , in Gallium Nitride (GaN) power devices with voltage ratings over 600 VDS. These losses are of particular importance in soft-switched circuits used at MHz switching frequencies, where the output capacitance of the device is charged and discharged once per switching cycle during the device off-time.</description>
+    </item>
+    
+    <item>
+      <title>A portable electrostatic precipitator to reduce respiratory death in rural environments</title>
+      <link>/publication/compel-precipitator-talukder/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-precipitator-talukder/</guid>
+      <description>This paper presents the design methodology of a miniaturized, portable, and low power electrostatic precipitator (ESP) to reduce indoor air pollution (IAP) from rural cookstoves. Decreasing the concentration of aerosol particles helps reduce the incidence of respiratory tract infections that can lead to disease and even death. We trace existing technologies and standards to combat IAP in cookstoves, design an ESP that allows precipitation at lower voltages via an electrode design that utilizes sub 5 kV voltages, and explore how rapidly pulsed converters decrease the power consumption of the circuit.</description>
+    </item>
+    
+    <item>
+      <title>Isolated resonant DC-DC converters with a loosely coupled transformer</title>
+      <link>/publication/compel-isolated-dcdc_park/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-isolated-dcdc_park/</guid>
+      <description>We present a dc-dc resonant converter structure that has a pair of loosely coupled inductors in place of one filter inductor and two resonant inductors. Not only the number of inductors is reduced by one, but in this arrangment the transformer provides galvanic isolation and requires a sub-unity coupling coefficient which eases the implementation, especially at high switching frequencies. Various topologies, including class-E, DE, and Φ 2 , benefit from this structure.</description>
     </item>
     
     <item>

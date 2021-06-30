@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lossely coupled transformer on SUPER-Lab</title>
+    <link>/tags/lossely-coupled-transformer/</link>
+    <description>Recent content in Lossely coupled transformer on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/lossely-coupled-transformer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Isolated resonant DC-DC converters with a loosely coupled transformer</title>
+      <link>/publication/compel-isolated-dcdc_park/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-isolated-dcdc_park/</guid>
+      <description>We present a dc-dc resonant converter structure that has a pair of loosely coupled inductors in place of one filter inductor and two resonant inductors. Not only the number of inductors is reduced by one, but in this arrangment the transformer provides galvanic isolation and requires a sub-unity coupling coefficient which eases the implementation, especially at high switching frequencies. Various topologies, including class-E, DE, and Φ 2 , benefit from this structure.</description>
+    </item>
+    
+  </channel>
+</rss>

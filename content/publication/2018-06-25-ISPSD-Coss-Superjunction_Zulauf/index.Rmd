@@ -1,0 +1,39 @@
+---
+title: "Coss losses in silicon superjunction MOSFETs across constructions and generations"
+author: "G. Zulauf and J. Rivas-Davila"
+date: '2018-06-25'
+slug: -ISPSD-Coss-Superjunction_Zulauf
+categories:
+  - Conference
+  - ISPSD
+tags: 
+  - WBG
+  - Coss Loss 
+  - Superjunction
+  - Grayson Zulauf
+doi: '10.1109/ISPSD.2018.8393621'
+publishDate: '2018-06-25T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2018 IEEE 30th International Symposium on Power Semiconductor Devices and ICs (ISPSD)"
+publication_short: "ISPSD"
+abstract: "The superjunction (SJ) structure breaks the unipolar material limit of silicon power MOSFETs, and has achieved widespread adoption in commercial power converters. In resonant applications, these SJ devices experience losses due to charging and discharging the parasitic output capacitor, Coss, resulting in losses that increase with switching frequency. We document C OSS losses in commercially-available 600 V superjunction devices, showing that even devices grown with the trench-filling epitaxial method have non-negligible losses in MHz converters. Further, progressing in generations within a manufacturer appears to correspond to higher C OSS losses as the cell pitch is reduced and doping is increased. The C OSS losses may exceed conduction losses in many applications for the devices tested here."
+summary: 'The superjunction (SJ) structure breaks the unipolar material limit of silicon power MOSFETs, and has achieved widespread adoption in commercial power converters. In resonant applications, these SJ devices experience losses due to charging and discharging the parasitic output capacitor, Coss, resulting in losses that increase with switching frequency. We document C OSS losses in commercially-available 600 V superjunction devices, showing that even devices grown with the trench-filling epitaxial method have non-negligible losses in MHz converters. Further, progressing in generations within a manufacturer appears to correspond to higher C OSS losses as the cell pitch is reduced and doping is increased. The C OSS losses may exceed conduction losses in many applications for the devices tested here.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/8393621
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+The superjunction (SJ) structure breaks the unipolar material limit of silicon power MOSFETs, and has achieved widespread adoption in commercial power converters. In resonant applications, these SJ devices experience losses due to charging and discharging the parasitic output capacitor, Coss, resulting in losses that increase with switching frequency. We document C OSS losses in commercially-available 600 V superjunction devices, showing that even devices grown with the trench-filling epitaxial method have non-negligible losses in MHz converters. Further, progressing in generations within a manufacturer appears to correspond to higher C OSS losses as the cell pitch is reduced and doping is increased. The C OSS losses may exceed conduction losses in many applications for the devices tested here.

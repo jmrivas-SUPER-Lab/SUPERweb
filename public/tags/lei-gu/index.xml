@@ -161,6 +161,15 @@
     </item>
     
     <item>
+      <title>High-Frequency Resonant Converter with Synchronous Rectification for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/ipec-syncrec-variable-load-gu/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ipec-syncrec-variable-load-gu/</guid>
+      <description>Applying RF circuit design techniques to dc-dc power conversion has pushed the switching frequency of power converters using discrete components well beyond 10 MHz. This paper proposes a simple solution to implement synchronous rectification for resonant dc-dc power converters operating at above 10 MHz, by using a symmetric bandpass matching network between the inverter and rectifier. The bandpass matching network enables the synchronous switch to be driven by the same clock signal as the inverter switch. Furthermore, this family of high frequency converter is able to maintain zero-voltage-switching operation over a wide load range. A 200 W 13.56 MHz 210 V-to-30 V bidirectional converter with a peak efficiency of 90% is demonstrated.</description>
+    </item>
+    
+    <item>
       <title>An Integrated RF Power Delivery and Plasma Micro-Thruster System for Nano-Satellites</title>
       <link>/publication/frontiers-integrated-rf-plasma-thruster_liang/</link>
       <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
@@ -197,12 +206,48 @@
     </item>
     
     <item>
+      <title>60 V-to-35 kV input-parallel output-series DC-DC converter using multi-level class-DE rectifiers</title>
+      <link>/publication/apec-35kv-park/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-35kv-park/</guid>
+      <description>This paper presents a high-voltage dc-dc converter that includes inductively-isolated rectifiers. Previous work on multi-stage class-DE rectifiers only included capacitive dc isolation, limiting the output voltage to twice of the capacitor voltage rating. By adding an air-core transformer before the rectifier for inductive isolation, the maximum output voltage can be twice the breakdown voltage of the insulation between the transformer&amp;rsquo;s primary and secondary windings, thus allowing the implementation of a small, lightweight, and fast transient high-voltage dc-dc converter. We experimentally demonstrate a multi-modular converter design with 60 V input voltage and 35 kV output voltage with 73 % efficiency.</description>
+    </item>
+    
+    <item>
       <title>A Wide-Input-Range High-Efficiency Step-Down Power Factor Correction Converter Using a Variable Frequency Multiplier Technique,</title>
       <link>/publication/tpels-wide-input-step-down-pfc-variable-freq_gu/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/tpels-wide-input-step-down-pfc-variable-freq_gu/</guid>
       <description>This paper demonstrates a two-stage implementation of a step-down power factor preregulator design that achieves a high efficiency across the entire universal input voltage range (85-265 V rms ) for an offline power supply application. The proposed circuit allows MOSFETs with lower voltage ratings and better conduction/switching characteristics to be used in both converter stages. A scaling law of power losses versus breakdown voltage requirement for boost circuit under the condition of the same output power is presented. Experimental results demonstrated a flatter high efficiency performance across a wide input range.</description>
+    </item>
+    
+    <item>
+      <title>Design of very-high-frequency synchronous resonant DC-DC converter for variable load operation</title>
+      <link>/publication/ecce-syncrec-variable-load_gu/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-syncrec-variable-load_gu/</guid>
+      <description>This paper proposes a simple solution to implement synchronous rectification for resonant dc-dc power converters operating in the Very-High-Frequency (VHF) range, by using a symmetric bandpass matching network between the inverter and rectifier. A bandpass matching network maintains a close-to-zero phase shift between the inverter and rectifier voltage, enabling the synchronous switch to be driven by the same clock signal as the inverter switch.</description>
+    </item>
+    
+    <item>
+      <title>A compact RF power inverter with reduced EMI for a CubeSat electrothermal micro-thruster</title>
+      <link>/publication/compel-pocketrocket_liang/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-pocketrocket_liang/</guid>
+      <description>TThis paper presents a compact RF power inverter implemented with a PCB multi-resonant input filter for driving an electrothermal plasma micro-thruster, mini Pocket Rocket 3.0 (miniPR 3.0). This miniPR 3.0 and its driving electronics are part of an investigation seeking to add micro propulsion systems to low cost CubeSats. The proposed RF power inverter and multi-resonant input filter use only air core inductors. All inductors are toroidal and formed by PCB traces and vias allowing a planar and compact design. The PCB structure serves as structural support to save space and volume for propulsion propellant and other payloads.</description>
+    </item>
+    
+    <item>
+      <title>A multi-resonant gate driver for Very-High-Frequency (VHF) resonant converters</title>
+      <link>/publication/compel-multiresonant-gatedrive_gu/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-multiresonant-gatedrive_gu/</guid>
+      <description>This paper presents the design and implementation of a Very-High-Frequency (VHF) multi-resonant gate drive circuit. The design procedure is greatly simplified compared with some VHF self-oscillating multi-resonant gate drivers presented in previous works. The proposed circuit has the potential to reduce long start-up time required in a self-oscillating resonant gate drive circuit and to better utilize fast transient capability of VHF converters. A prototype resonant gate driver is demonstrated and able to reduce 60 % of the gate driving loss of a 20 MHz 32 W Class-E power amplifier with Si MOSFET.</description>
     </item>
     
   </channel>

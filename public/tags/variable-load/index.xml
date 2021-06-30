@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Variable Load on SUPER-Lab</title>
+    <link>/tags/variable-load/</link>
+    <description>Recent content in Variable Load on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/variable-load/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>High-Frequency Resonant Converter with Synchronous Rectification for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/ipec-syncrec-variable-load-gu/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ipec-syncrec-variable-load-gu/</guid>
+      <description>Applying RF circuit design techniques to dc-dc power conversion has pushed the switching frequency of power converters using discrete components well beyond 10 MHz. This paper proposes a simple solution to implement synchronous rectification for resonant dc-dc power converters operating at above 10 MHz, by using a symmetric bandpass matching network between the inverter and rectifier. The bandpass matching network enables the synchronous switch to be driven by the same clock signal as the inverter switch. Furthermore, this family of high frequency converter is able to maintain zero-voltage-switching operation over a wide load range. A 200 W 13.56 MHz 210 V-to-30 V bidirectional converter with a peak efficiency of 90% is demonstrated.</description>
+    </item>
+    
+    <item>
+      <title>Design of very-high-frequency synchronous resonant DC-DC converter for variable load operation</title>
+      <link>/publication/ecce-syncrec-variable-load_gu/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-syncrec-variable-load_gu/</guid>
+      <description>This paper proposes a simple solution to implement synchronous rectification for resonant dc-dc power converters operating in the Very-High-Frequency (VHF) range, by using a symmetric bandpass matching network between the inverter and rectifier. A bandpass matching network maintains a close-to-zero phase shift between the inverter and rectifier voltage, enabling the synchronous switch to be driven by the same clock signal as the inverter switch.</description>
+    </item>
+    
+  </channel>
+</rss>

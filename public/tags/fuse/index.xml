@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuse on SUPER-Lab</title>
+    <link>/tags/fuse/</link>
+    <description>Recent content in Fuse on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/fuse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The “Smart Dim Fuse”: A new approach to load control as a distributed energy resource</title>
+      <link>/publication/compel-smart-fuse_goldin/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-smart-fuse_goldin/</guid>
+      <description>Aggregation of behind-the-meter distributed energy resources holds promise to provide valuable services to the grid, enabling greater penetration of intermittent renewable energy sources. We propose the Smart Dim Fuse system as an approach to utilize loads for aggregation services. The Smart Dim Fuse, installed on individual circuits at the breaker panel, enables load power control without service interruption via direct AC to AC voltage modulation, while reporting load measurement, identification, and resource a vailability forecasting to the aggregator. Using data from 131 homes, we evaluate the aggregate resource availability, and demonstrate a proof-of-concept prototype of the power electronics needed for this functionality.</description>
+    </item>
+    
+  </channel>
+</rss>

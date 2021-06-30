@@ -34,5 +34,23 @@
       <description>In recent reports, a variety of power devices, including wide-bandgap transistors, SiC diodes, and Si superjuction MOSFETs, exhibit losses occurring from hysteretic charging and discharging of their output capacitance (COSS for MOSFETs and CJ for Schottky diodes). Manufacturer SPICE models and datasheets do not report these losses, and are why device power dissipation in simulation significantly contrasts with that in actual converters. However, we propose a viable empirical circuit model that incorporates these losses, with capabilities to integrate into circuit simulation tools such as SPICE.</description>
     </item>
     
+    <item>
+      <title>60 V-to-35 kV input-parallel output-series DC-DC converter using multi-level class-DE rectifiers</title>
+      <link>/publication/apec-35kv-park/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-35kv-park/</guid>
+      <description>This paper presents a high-voltage dc-dc converter that includes inductively-isolated rectifiers. Previous work on multi-stage class-DE rectifiers only included capacitive dc isolation, limiting the output voltage to twice of the capacitor voltage rating. By adding an air-core transformer before the rectifier for inductive isolation, the maximum output voltage can be twice the breakdown voltage of the insulation between the transformer&amp;rsquo;s primary and secondary windings, thus allowing the implementation of a small, lightweight, and fast transient high-voltage dc-dc converter. We experimentally demonstrate a multi-modular converter design with 60 V input voltage and 35 kV output voltage with 73 % efficiency.</description>
+    </item>
+    
+    <item>
+      <title>Output capacitance losses in 600 V GaN power semiconductors with large voltage swings at high- and very-high-frequencies</title>
+      <link>/publication/wipda-coss-gan-zulauf/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wipda-coss-gan-zulauf/</guid>
+      <description>In this paper, we construct three Class-Φ 2 resonant converters with GaN HEMT power devices, 1 kW output power, and switching frequencies of 10 MHz, 30 MHz, and 54.24 MHz. The GaN HEMTs in these converters exhibit losses, approximated thermally, that are significantly higher (up to an order of magnitude) than those predicted by simulation. To investigate, we use a Sawyer-Tower circuit to evaluate the losses in the output capacitance, C OSS , of GaN devices from each manufacturer with commercially-available power devices with voltage ratings over 600 VDS .</description>
+    </item>
+    
   </channel>
 </rss>

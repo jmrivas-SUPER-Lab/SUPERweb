@@ -142,5 +142,32 @@
       <description>Wireless power transfer systems have attracted tremendous attention over the past decade. The design of most small size, low power, WPT systems; however, utilizes ferrite to shield and redirect the magnetic fields. This add to the weight and bulk of the system. In this paper, a small and extremely lightweight, PCB based, proof-of-concept WPT system is demonstrated. The circuit operates at 40.68 MHz and is capable of 20 W of output power. It utilizes no discrete inductors other than the WPT coils themselves and weights only 7 grams. The following paper shows the design methodology and the inductor elimination technique used to achieve such design.</description>
     </item>
     
+    <item>
+      <title>Output capacitance losses in 600 V GaN power semiconductors with large voltage swings at high- and very-high-frequencies</title>
+      <link>/publication/wipda-coss-gan-zulauf/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wipda-coss-gan-zulauf/</guid>
+      <description>In this paper, we construct three Class-Φ 2 resonant converters with GaN HEMT power devices, 1 kW output power, and switching frequencies of 10 MHz, 30 MHz, and 54.24 MHz. The GaN HEMTs in these converters exhibit losses, approximated thermally, that are significantly higher (up to an order of magnitude) than those predicted by simulation. To investigate, we use a Sawyer-Tower circuit to evaluate the losses in the output capacitance, C OSS , of GaN devices from each manufacturer with commercially-available power devices with voltage ratings over 600 VDS .</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of GaN transistor losses at MHz frequencies in soft switching converters</title>
+      <link>/publication/compel-gan-coss_surakitbovorn/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gan-coss_surakitbovorn/</guid>
+      <description>On paper, Gallium nitride (GaN) transistor promises exceptional performance when used in converters operating at high switching frequency; nonetheless, reduction in their performance when used in real circuits have been observed. Previous experiments show that tested GaN transistors can display excessive loss of up to three times their predicted values under certain test conditions. This paper evaluates power losses in GaN transistors when used in class Φ 2 resonant soft-switching inverter topologies at MHz frequencies. Thermometric loss calibration technique is used to calculate the power losses.</description>
+    </item>
+    
+    <item>
+      <title>Implementing an impedance compression network to correct misalignment in a wireless power transfer system</title>
+      <link>/publication/compel-icn-wpt_choi/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-icn-wpt_choi/</guid>
+      <description>This paper presents the design and implementation of an impedance compression network (ICN) to correct distance variation or misalignment between coils in wireless power transfer (WPT) systems. Magnetic resonant coupling (MRC) coils provide high efficiency for charging mid-range WPT applications. However, a distance variation or misalignment between coils causes a coil-impedance change and significantly affects performances of WPT systems. In order to mitigate a coil-impedance variation, we propose an ICN simultaneously compressing changes in magnitude and phase of impedance. The ICN consists of a resistance compression network (RCN) and phase compression network (PCN). While the RCN effectively compresses the variation in the magnitude of impedance by using one pair consisting of an inductor and a capacitor, the PCN is designed using a Smith chart to reduce a phase variation.</description>
+    </item>
+    
   </channel>
 </rss>

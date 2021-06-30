@@ -16,5 +16,14 @@
       <description>Developments in simulation and distributed control of distributed energy resources require increasingly granular characterization and modeling of load behavior. Previous work has demonstrated the viability of voltage-based power control of residential appliances to enable load flexibility without service interruption. However, conventional static and dynamic load models fail to capture the coupled voltage and state dynamics relevant for this type of control.</description>
     </item>
     
+    <item>
+      <title>The “Smart Dim Fuse”: A new approach to load control as a distributed energy resource</title>
+      <link>/publication/compel-smart-fuse_goldin/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-smart-fuse_goldin/</guid>
+      <description>Aggregation of behind-the-meter distributed energy resources holds promise to provide valuable services to the grid, enabling greater penetration of intermittent renewable energy sources. We propose the Smart Dim Fuse system as an approach to utilize loads for aggregation services. The Smart Dim Fuse, installed on individual circuits at the breaker panel, enables load power control without service interruption via direct AC to AC voltage modulation, while reporting load measurement, identification, and resource a vailability forecasting to the aggregator. Using data from 131 homes, we evaluate the aggregate resource availability, and demonstrate a proof-of-concept prototype of the power electronics needed for this functionality.</description>
+    </item>
+    
   </channel>
 </rss>

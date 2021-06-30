@@ -16,5 +16,14 @@
       <description>In recent reports, a variety of power devices, including wide-bandgap transistors, SiC diodes, and Si superjuction MOSFETs, exhibit losses occurring from hysteretic charging and discharging of their output capacitance (COSS for MOSFETs and CJ for Schottky diodes). Manufacturer SPICE models and datasheets do not report these losses, and are why device power dissipation in simulation significantly contrasts with that in actual converters. However, we propose a viable empirical circuit model that incorporates these losses, with capabilities to integrate into circuit simulation tools such as SPICE.</description>
     </item>
     
+    <item>
+      <title>A unified model for high-power, air-core toroidal PCB inductors</title>
+      <link>/publication/compel-aircore_zulauf/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-aircore_zulauf/</guid>
+      <description>We present the first unified electrical model for high-power, air-core toroidal inductors implemented as PCB traces, which includes closed-form calculations for the lumped capacitance, resistance, and inductance of the structure. In this regime, the self-resonant frequency (SRF) of the inductor may be of the same order of magnitude as the circuit operating frequency, so the capacitance must be carefully modeled and tightly controlled.</description>
+    </item>
+    
   </channel>
 </rss>

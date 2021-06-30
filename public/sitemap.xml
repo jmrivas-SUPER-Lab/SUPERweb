@@ -813,6 +813,27 @@
     <loc>/tags/superjunction/</loc>
     <lastmod>2018-11-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/automotive/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ipec-gan-wpt-surakitbovorn/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/high-conversion-ratio/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ipec-syncrec-variable-load-gu/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/ipec/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/synchronous-rectification/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/variable-load/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/frontiers-integrated-rf-plasma-thruster_liang/</loc>
     <lastmod>2018-10-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -924,11 +945,23 @@
     <loc>/blog/2018nasaitech/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/ispsd-coss-superjunction_zulauf/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/ispsd/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/blog/2018compel_lei/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/2018ecceasia/</loc>
     <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/apec-35kv-park/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/class-de/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/dc-dc-power-converters/</loc>
     <lastmod>2018-02-27T00:00:00+00:00</lastmod>
@@ -962,6 +995,75 @@
   </url><url>
     <loc>/tags/power-mosfet/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/wipda-coss-gan-zulauf/</loc>
+    <lastmod>2017-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ecce-syncrec-variable-load_gu/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/resonant-conversion/</loc>
+    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-pocketrocket_liang/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-multiresonant-gatedrive_gu/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-precipitator-talukder/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-aircore_zulauf/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/aircore-inductor/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/electrostatic-precipitator/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/emi/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-gan-coss_surakitbovorn/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/fuse/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/gatedrive/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-icn-wpt_choi/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/isolated/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-isolated-dcdc_park/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/load-control/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/lossely-coupled-transformer/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/resonant-converter/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sabera-talukder/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sattelite-propulsion/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-smart-fuse_goldin/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/toroidal-inductor/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/enhancement-mode-gallium-nitride-egan-fet/</loc>
     <lastmod>2017-08-15T00:00:00+00:00</lastmod>

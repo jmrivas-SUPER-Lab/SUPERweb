@@ -35,12 +35,39 @@
     </item>
     
     <item>
+      <title>Design of a GaN-Based Wireless Power Transfer System at 13.56 MHz to Replace Conventional Wired Connection in a Vehicle</title>
+      <link>/publication/ipec-gan-wpt-surakitbovorn/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ipec-gan-wpt-surakitbovorn/</guid>
+      <description>Wired connections running through the doors, hatchbacks, and trunks of a vehicle are subjected to extensive mechanical wear from repeated bending caused by the open-and-close motion. By employing wireless power transfer, this failure mode can be completely eliminated. In this paper, a 300 W 48-to-48 V WPT system with above 90% efficiency designed for such application is demonstrated. To achieve a system that is small, light-weight, and highly efficient as desired by the automotive industry, a novel inductor elimination technique is developed. The following paper shows the system design methodology, the inductor elimination technique, and the control scheme used in this work.</description>
+    </item>
+    
+    <item>
+      <title>High-Frequency Resonant Converter with Synchronous Rectification for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/ipec-syncrec-variable-load-gu/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ipec-syncrec-variable-load-gu/</guid>
+      <description>Applying RF circuit design techniques to dc-dc power conversion has pushed the switching frequency of power converters using discrete components well beyond 10 MHz. This paper proposes a simple solution to implement synchronous rectification for resonant dc-dc power converters operating at above 10 MHz, by using a symmetric bandpass matching network between the inverter and rectifier. The bandpass matching network enables the synchronous switch to be driven by the same clock signal as the inverter switch. Furthermore, this family of high frequency converter is able to maintain zero-voltage-switching operation over a wide load range. A 200 W 13.56 MHz 210 V-to-30 V bidirectional converter with a peak efficiency of 90% is demonstrated.</description>
+    </item>
+    
+    <item>
       <title>Considerations for Active Power Device Selection in High- and Very-High-Frequency Power Converters</title>
       <link>/publication/compel-powerdevice-selection_zulauf/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/compel-powerdevice-selection_zulauf/</guid>
       <description>In this paper, we extend recent work on COSS losses, which have a significant impact on high- and very-high-frequency resonant converters, from GaN HEMTs to the remainder of the core active power devices used in medium- and highvoltage power conversion. Here, we characterize COSS losses in Silicon MOSFETs - including superjunctions and traditional constructions - and Silicon Carbide MOSFETs. The measured COSS losses in SiC MOSFETs do not increase with dV/dt at frequencies from 1-35 MHz and applied voltages up to 900 V. Across the tested SiC MOSFETs, 3-10% of the energy stored in the output capacitor is dissipated.</description>
+    </item>
+    
+    <item>
+      <title>Coss losses in silicon superjunction MOSFETs across constructions and generations</title>
+      <link>/publication/ispsd-coss-superjunction_zulauf/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ispsd-coss-superjunction_zulauf/</guid>
+      <description>The superjunction (SJ) structure breaks the unipolar material limit of silicon power MOSFETs, and has achieved widespread adoption in commercial power converters. In resonant applications, these SJ devices experience losses due to charging and discharging the parasitic output capacitor, Coss, resulting in losses that increase with switching frequency. We document C OSS losses in commercially-available 600 V superjunction devices, showing that even devices grown with the trench-filling epitaxial method have non-negligible losses in MHz converters. Further, progressing in generations within a manufacturer appears to correspond to higher C OSS losses as the cell pitch is reduced and doping is increased. The C OSS losses may exceed conduction losses in many applications for the devices tested here.</description>
     </item>
     
   </channel>

@@ -61,5 +61,14 @@
       <description>This paper presents the design of a 40.68 MHz, 1.2 kW power-combining resonant inverter using eGaN FETs for plasma generation. To provide high power at 40.68 MHz switching frequency, a class Φ2 inverter topology with wide band gap (WBG) devices such as eGaN FETs was selected. The proposed inverter topology reduces the power loss in each switching device, which can decrease the size of the heat sink. This study demonstrates that power-combining resonant inverters using eGaN FETs can increase efficiency and power density while operating at 40.68 MHz.</description>
     </item>
     
+    <item>
+      <title>Design of very-high-frequency synchronous resonant DC-DC converter for variable load operation</title>
+      <link>/publication/ecce-syncrec-variable-load_gu/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-syncrec-variable-load_gu/</guid>
+      <description>This paper proposes a simple solution to implement synchronous rectification for resonant dc-dc power converters operating in the Very-High-Frequency (VHF) range, by using a symmetric bandpass matching network between the inverter and rectifier. A bandpass matching network maintains a close-to-zero phase shift between the inverter and rectifier voltage, enabling the synchronous switch to be driven by the same clock signal as the inverter switch.</description>
+    </item>
+    
   </channel>
 </rss>

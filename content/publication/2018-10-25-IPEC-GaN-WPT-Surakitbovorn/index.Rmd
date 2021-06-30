@@ -1,0 +1,39 @@
+---
+title: "Design of a GaN-Based Wireless Power Transfer System at 13.56 MHz to Replace Conventional Wired Connection in a Vehicle"
+author: "K. Surakitbovorn and J. Rivas-Davila"
+date: '2018-10-25'
+slug: -IPEC-GaN-WPT-Surakitbovorn
+categories:
+  - Conference
+  - IPEC
+tags: 
+  - WBG
+  - WPT
+  - Automotive
+  - Kawin Surakitbovorn
+doi: '10.23919/IPEC.2018.8507473'
+publishDate: '2018-10-25T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2018 International Power Electronics Conference (IPEC-Niigata 2018 -ECCE Asia)"
+publication_short: "IPEC"
+abstract: "Wired connections running through the doors, hatchbacks, and trunks of a vehicle are subjected to extensive mechanical wear from repeated bending caused by the open-and-close motion. By employing wireless power transfer, this failure mode can be completely eliminated. In this paper, a 300 W 48-to-48 V WPT system with above 90% efficiency designed for such application is demonstrated. To achieve a system that is small, light-weight, and highly efficient as desired by the automotive industry, a novel inductor elimination technique is developed. The following paper shows the system design methodology, the inductor elimination technique, and the control scheme used in this work."
+summary: 'Wired connections running through the doors, hatchbacks, and trunks of a vehicle are subjected to extensive mechanical wear from repeated bending caused by the open-and-close motion. By employing wireless power transfer, this failure mode can be completely eliminated. In this paper, a 300 W 48-to-48 V WPT system with above 90% efficiency designed for such application is demonstrated. To achieve a system that is small, light-weight, and highly efficient as desired by the automotive industry, a novel inductor elimination technique is developed. The following paper shows the system design methodology, the inductor elimination technique, and the control scheme used in this work.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/8507473
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+Wired connections running through the doors, hatchbacks, and trunks of a vehicle are subjected to extensive mechanical wear from repeated bending caused by the open-and-close motion. By employing wireless power transfer, this failure mode can be completely eliminated. In this paper, a 300 W 48-to-48 V WPT system with above 90% efficiency designed for such application is demonstrated. To achieve a system that is small, light-weight, and highly efficient as desired by the automotive industry, a novel inductor elimination technique is developed. The following paper shows the system design methodology, the inductor elimination technique, and the control scheme used in this work.
