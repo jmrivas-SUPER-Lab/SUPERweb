@@ -16,5 +16,23 @@
       <description>This paper proposes a simple solution to implement synchronous rectification for resonant dc-dc power converters operating in the Very-High-Frequency (VHF) range, by using a symmetric bandpass matching network between the inverter and rectifier. A bandpass matching network maintains a close-to-zero phase shift between the inverter and rectifier voltage, enabling the synchronous switch to be driven by the same clock signal as the inverter switch.</description>
     </item>
     
+    <item>
+      <title>Inductance cancellation in RF resonant power converters</title>
+      <link>/publication/ecce-inductance-cancellation_praglin/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-inductance-cancellation_praglin/</guid>
+      <description>Parasitic inductance cancellation is employed in order to operate a resonant power inverter at 27.12 MHz using a TO-220 through-hole package.The elimination of parasitic inductances allows for system cost reduction, increased power handling, and/or relaxation of PCB layout constraints. The inductance cancellation technique is demonstrated through two prototypes (based upon the same silicon MOSFET die) providing 60 W of RF power to a 50 Ω load from a 48 V DC input.</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of a 900 V SiC MOSFET in a 13.56 MHz 2 kW resonant inverter for wireless power transfer</title>
+      <link>/publication/compel-sic-13m56-wpt_choi/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-sic-13m56-wpt_choi/</guid>
+      <description>This paper demonstrates the performance of a 900 V silicon carbide (SiC) power MOSFET operating at 13.56 MHz in a 2 kW resonant inverter targeted for wireless power transfer (WPT) systems. Operating at multi-MHz switching frequency leads to smaller passive components and has the potential to improve power density and reduce weight for weight-sensitive applications. In this work, we study and evaluate the electrical characteristics of a 900 V, 7L D2PAK SiC MOSFET and demonstrate the design of a 2 kW single-ended resonant inverter operating at 13.56 MHz.</description>
+    </item>
+    
   </channel>
 </rss>

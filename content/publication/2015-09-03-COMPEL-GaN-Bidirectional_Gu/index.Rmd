@@ -1,0 +1,40 @@
+---
+title: "27.12MHz GaN Bi-directional resonant power converter"
+author: "L. Gu, W. Liang, L. C. Raymond and J. Rivas-Davila"
+date: '2015-09-03'
+slug: -COMPEL-GaN-Bidirectional_Gu
+categories:
+  - Conference
+  - COMPEL
+tags: 
+  - Bidirectional
+  - Resonant Converter
+  - Luke Raymond
+  - Lei Gu
+  - Wei Liang
+doi: '10.1109/COMPEL.2015.7236440'
+publishDate: '2015-09-03T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2015 IEEE 16th Workshop on Control and Modeling for Power Electronics (COMPEL)"
+publication_short: "COMPEL"
+abstract: "Resonant dc-dc converter regularly use Schottky diodes for high frequency rectification. Si Schottky diodes have relatively low voltage ratings and present reverse-recovery type losses when driven hard enough. SiC Schottky diodes can operate at high frequencies, but incur higher conduction losses. This paper presents a bidirectional dc-dc resonant converter having two ground referenced switches. The prototype converter delivers 400 W between a source of 170 V and a load of 50 V while delivering 250 W in the opposite direction. The converter presented herein can potentially be used in applications such as wireless power transfer, fuel cell and battery applications, bus converters, etc."
+summary: 'Resonant dc-dc converter regularly use Schottky diodes for high frequency rectification. Si Schottky diodes have relatively low voltage ratings and present reverse-recovery type losses when driven hard enough. SiC Schottky diodes can operate at high frequencies, but incur higher conduction losses. This paper presents a bidirectional dc-dc resonant converter having two ground referenced switches. The prototype converter delivers 400 W between a source of 170 V and a load of 50 V while delivering 250 W in the opposite direction. The converter presented herein can potentially be used in applications such as wireless power transfer, fuel cell and battery applications, bus converters, etc.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/7236440
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+Resonant dc-dc converter regularly use Schottky diodes for high frequency rectification. Si Schottky diodes have relatively low voltage ratings and present reverse-recovery type losses when driven hard enough. SiC Schottky diodes can operate at high frequencies, but incur higher conduction losses. This paper presents a bidirectional dc-dc resonant converter having two ground referenced switches. The prototype converter delivers 400 W between a source of 170 V and a load of 50 V while delivering 250 W in the opposite direction. The converter presented herein can potentially be used in applications such as wireless power transfer, fuel cell and battery applications, bus converters, etc.

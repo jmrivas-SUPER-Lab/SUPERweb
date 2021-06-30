@@ -503,7 +503,7 @@
     </item>
     
     <item>
-      <title>Multi-level</title>
+      <title>Multi-Level</title>
       <link>/tags/multi-level/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
@@ -1943,6 +1943,51 @@
     </item>
     
     <item>
+      <title>Cubesat Thruster</title>
+      <link>/tags/cubesat-thruster/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cubesat-thruster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCB Converter</title>
+      <link>/tags/pcb-converter/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pcb-converter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PFC</title>
+      <link>/tags/pfc/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Recovery</title>
+      <link>/tags/reverse-recovery/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/reverse-recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VFX</title>
+      <link>/tags/vfx/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vfx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>3-D Printed Air Core Inductors</title>
       <link>/tags/3-d-printed-air-core-inductors/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
@@ -2029,6 +2074,105 @@
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/thrusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inductance Cancellation</title>
+      <link>/tags/inductance-cancellation/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/inductance-cancellation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Printed Converter</title>
+      <link>/tags/3d-printed-converter/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/3d-printed-converter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aircore Inductors</title>
+      <link>/tags/aircore-inductors/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/aircore-inductors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electroporation</title>
+      <link>/tags/electroporation/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/electroporation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Capelli</title>
+      <link>/tags/mark-capelli/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mark-capelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propulsion</title>
+      <link>/tags/propulsion/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/propulsion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pulsed Power</title>
+      <link>/tags/pulsed-power/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pulsed-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonant Rectifier</title>
+      <link>/tags/resonant-rectifier/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/resonant-rectifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sattelite Thruster</title>
+      <link>/tags/sattelite-thruster/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sattelite-thruster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-level converter</title>
+      <link>/tags/multi-level-converter/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multi-level-converter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCB Capacitors</title>
+      <link>/tags/pcb-capacitors/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pcb-capacitors/</guid>
       <description></description>
     </item>
     

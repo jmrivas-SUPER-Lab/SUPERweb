@@ -1,0 +1,39 @@
+---
+title: "Inductance cancellation in RF resonant power converters"
+author: "M. Praglin, L. Raymond and J. R. Davila,"
+date: '2017-02-16'
+slug: -ECCE-Inductance-Cancellation_Praglin
+categories:
+  - Conference
+  - ECCE
+tags: 
+  - Inductance Cancellation
+  - Resonant Conversion
+  - Max Praglin
+  - Luke Raymond
+doi: '10.1109/ECCE.2016.7855197'
+publishDate: '2017-02-16T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2016 IEEE Energy Conversion Congress and Exposition (ECCE)"
+publication_short: "ECCE"
+abstract: "Parasitic inductance cancellation is employed in order to operate a resonant power inverter at 27.12 MHz using a TO-220 through-hole package. A Cauer-type 1 LC network permits the coupling of inductors to achieve cancellation of multiple parasitic inductances and reduces semiconductor device stress in the same way as the Φ 2 inverter topology. The elimination of parasitic inductances allows for system cost reduction, increased power handling, and/or relaxation of PCB layout constraints. The inductance cancellation technique is demonstrated through two prototypes (based upon the same silicon MOSFET die) providing 60 W of RF power to a 50 Ω load from a 48 V DC input: one prototype utilizes a small surface-mount package, and another a larger through-hole TO-220 package. (Without inductance cancellation, the lead inductance of the TO-220 is too large and cannot be used in a 27.12 MHz resonant application.) Inductance cancellation was verified through comparing impedances, operating waveforms, and efficiencies between the prototypes with different MOSFET packages."
+summary: 'Parasitic inductance cancellation is employed in order to operate a resonant power inverter at 27.12 MHz using a TO-220 through-hole package.The elimination of parasitic inductances allows for system cost reduction, increased power handling, and/or relaxation of PCB layout constraints. The inductance cancellation technique is demonstrated through two prototypes (based upon the same silicon MOSFET die) providing 60 W of RF power to a 50 Ω load from a 48 V DC input.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/7855197
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+Parasitic inductance cancellation is employed in order to operate a resonant power inverter at 27.12 MHz using a TO-220 through-hole package. A Cauer-type 1 LC network permits the coupling of inductors to achieve cancellation of multiple parasitic inductances and reduces semiconductor device stress in the same way as the Φ 2 inverter topology. The elimination of parasitic inductances allows for system cost reduction, increased power handling, and/or relaxation of PCB layout constraints. The inductance cancellation technique is demonstrated through two prototypes (based upon the same silicon MOSFET die) providing 60 W of RF power to a 50 Ω load from a 48 V DC input: one prototype utilizes a small surface-mount package, and another a larger through-hole TO-220 package. (Without inductance cancellation, the lead inductance of the TO-220 is too large and cannot be used in a 27.12 MHz resonant application.) Inductance cancellation was verified through comparing impedances, operating waveforms, and efficiencies between the prototypes with different MOSFET packages.

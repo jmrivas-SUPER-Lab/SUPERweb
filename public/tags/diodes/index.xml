@@ -16,5 +16,14 @@
       <description>This paper presents a method to predict the overvoltage failure rate of diodes connected in series under high-frequency reverse bias. Conventional approaches use balancing capacitors to ensure the reliability of series-connected diodes at high frequency. Instead, we investigate the viability of achieving voltage balance between devices solely by the match between their junction capacitances. Serializing diodes without extra balancing components increases the blocking voltage and decreases the capacitance, allowing high-voltage conversion at high frequencies for applications such as X-ray. We measure statistical properties of junction capacitances to estimate the reverse voltage limit of 2, 3, and 4 diodes in series. The predicted failure rate shows a good agreement with experimental results.</description>
     </item>
     
+    <item>
+      <title>Power loss of GaN transistor reverse diodes in a high frequency high voltage resonant rectifier</title>
+      <link>/publication/apec-gan-rectifier_park/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-gan-rectifier_park/</guid>
+      <description>This paper presents power loss measurements of GaN transistor reverse diodes in high frequency high voltage conditions. To evaluate their performance, we use GaN transistor reverse diodes as rectifying devices in a class-DE resonant rectifier and operate the circuit at switching frequencies of 10s of MHz and with output voltages reaching 100s of volts.</description>
+    </item>
+    
   </channel>
 </rss>

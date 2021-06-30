@@ -79,5 +79,23 @@
       <description>Among HF/VHF rectifiers, SiC Schottky diodes exhibit larger losses compared to those captured in simulation, with additional off-state losses stemming from energy dissipation during the charging and discharging of the CJ. Because these losses are not included in manufacturer simulation models nor have they been well-studied for SiC Schottky diodes, we experimentally measured them using the Sawyer-Tower circuit and compared the losses across manufacturer, current rating, generation, voltage rating, and packaging. Furthermore, we analyzed the performances of these devices on a class-DE rectifier and compared their power dissipation from the simulation and experimental measurements.</description>
     </item>
     
+    <item>
+      <title>Comparison of SiC and eGaN devices in a 6.78 MHz 2.2 kW resonant inverter for wireless power transfer</title>
+      <link>/publication/ecce-sic-gan-comparison_choi/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-sic-gan-comparison_choi/</guid>
+      <description>This paper presents a performance comparison of two wide band gap (WBG) devices, a silicon carbide (SiC) MOSFET and an enhancement mode gallium nitride (eGaN) FET in a resonant inverter operating at 6.78 MHz for wireless power transfer (WPT) applications. While SiC MOSFETs provide high breakdown voltage and good thermal characteristics, eGaN FETs can reduce gate losses due to small gate resistance and input capacitance. In this work, we compare a 1200 V SiC MOSFET in a single-ended class Φ 2 inverter to two 650 V eGaN FETs in a push-pull class Φ 2 inverter.</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of a 900 V SiC MOSFET in a 13.56 MHz 2 kW resonant inverter for wireless power transfer</title>
+      <link>/publication/compel-sic-13m56-wpt_choi/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-sic-13m56-wpt_choi/</guid>
+      <description>This paper demonstrates the performance of a 900 V silicon carbide (SiC) power MOSFET operating at 13.56 MHz in a 2 kW resonant inverter targeted for wireless power transfer (WPT) systems. Operating at multi-MHz switching frequency leads to smaller passive components and has the potential to improve power density and reduce weight for weight-sensitive applications. In this work, we study and evaluate the electrical characteristics of a 900 V, 7L D2PAK SiC MOSFET and demonstrate the design of a 2 kW single-ended resonant inverter operating at 13.56 MHz.</description>
+    </item>
+    
   </channel>
 </rss>

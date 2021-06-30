@@ -1,0 +1,39 @@
+---
+title: "Comparison of SiC and eGaN devices in a 6.78 MHz 2.2 kW resonant inverter for wireless power transfer"
+author: "J. Choi, D. Tsukiyama and J. Rivas"
+date: '2017-02-16'
+slug: -ECCE-SiC-GaN-comparison_Choi
+categories:
+  - Conference
+  - ECCE
+tags: 
+  - SiC
+  - GaN
+  - WPT
+  - Jungwon Choi
+doi: '10.1109/ECCE.2016.7854938'
+publishDate: '2017-02-16T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2016 IEEE Energy Conversion Congress and Exposition (ECCE)"
+publication_short: "ECCE"
+abstract: "This paper presents a performance comparison of two wide band gap (WBG) devices, a silicon carbide (SiC) MOSFET and an enhancement mode gallium nitride (eGaN) FET in a resonant inverter operating at 6.78 MHz for wireless power transfer (WPT) applications. While SiC MOSFETs provide high breakdown voltage and good thermal characteristics, eGaN FETs can reduce gate losses due to small gate resistance and input capacitance. In this work, we compare a 1200 V SiC MOSFET in a single-ended class Φ 2 inverter to two 650 V eGaN FETs in a push-pull class Φ 2 inverter. We designed and implemented a 6.78 MHz 2.2 kW single-ended class Φ 2 inverter using a 1200 V customized SiC MOSFET with low-inductance package. In our experiments, the inverter has a 93% efficiency and 2.2 kW output power with input voltage of 440 V. We also implemented a push-pull class Φ 2 inverter using two 650 V eGaN FETs at 6.78 MHz. The push-pull class Φ 2 inverter reduces the input current ripple because of interleaving operation. At 200 V input voltage, the push-pull inverter with two eGaN FETs provides output power of 2 kW with 96% efficiency. In order to reduce a volume and weight of the inverter, we implemented a class Φ 2 inverter with 3D printed inductors."
+summary: 'This paper presents a performance comparison of two wide band gap (WBG) devices, a silicon carbide (SiC) MOSFET and an enhancement mode gallium nitride (eGaN) FET in a resonant inverter operating at 6.78 MHz for wireless power transfer (WPT) applications. While SiC MOSFETs provide high breakdown voltage and good thermal characteristics, eGaN FETs can reduce gate losses due to small gate resistance and input capacitance. In this work, we compare a 1200 V SiC MOSFET in a single-ended class Φ 2 inverter to two 650 V eGaN FETs in a push-pull class Φ 2 inverter.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/7854938
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+This paper presents a performance comparison of two wide band gap (WBG) devices, a silicon carbide (SiC) MOSFET and an enhancement mode gallium nitride (eGaN) FET in a resonant inverter operating at 6.78 MHz for wireless power transfer (WPT) applications. While SiC MOSFETs provide high breakdown voltage and good thermal characteristics, eGaN FETs can reduce gate losses due to small gate resistance and input capacitance. In this work, we compare a 1200 V SiC MOSFET in a single-ended class Φ 2 inverter to two 650 V eGaN FETs in a push-pull class Φ 2 inverter. We designed and implemented a 6.78 MHz 2.2 kW single-ended class Φ 2 inverter using a 1200 V customized SiC MOSFET with low-inductance package. In our experiments, the inverter has a 93% efficiency and 2.2 kW output power with input voltage of 440 V. We also implemented a push-pull class Φ 2 inverter using two 650 V eGaN FETs at 6.78 MHz. The push-pull class Φ 2 inverter reduces the input current ripple because of interleaving operation. At 200 V input voltage, the push-pull inverter with two eGaN FETs provides output power of 2 kW with 96% efficiency. In order to reduce a volume and weight of the inverter, we implemented a class Φ 2 inverter with 3D printed inductors.

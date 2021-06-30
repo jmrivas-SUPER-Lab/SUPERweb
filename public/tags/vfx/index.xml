@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VFX on SUPER-Lab</title>
+    <link>/tags/vfx/</link>
+    <description>Recent content in VFX on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/vfx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Universal line input power factor preregulator using VFX technique</title>
+      <link>/publication/apec-vfx-gu/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-vfx-gu/</guid>
+      <description>This paper demonstrates a two-stage implementation of a power factor preregulator design in which the energy buffer capacitor is placed at the output of the converter. In this implementation, a resonant LLC converter supplies power to a boost converter operating in continuous conduction mode. Here, a variable frequency (VFX) technique is used in the resonant LLC converter stage to achieve a lower variation in the overall efficiency across the universal input voltage range (85 - 265V rms ).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -16,5 +16,23 @@
       <description>We present a dc-dc resonant converter structure that has a pair of loosely coupled inductors in place of one filter inductor and two resonant inductors. Not only the number of inductors is reduced by one, but in this arrangment the transformer provides galvanic isolation and requires a sub-unity coupling coefficient which eases the implementation, especially at high switching frequencies. Various topologies, including class-E, DE, and Φ 2 , benefit from this structure.</description>
     </item>
     
+    <item>
+      <title>27.12MHz GaN Bi-directional resonant power converter</title>
+      <link>/publication/compel-gan-bidirectional_gu/</link>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gan-bidirectional_gu/</guid>
+      <description>Resonant dc-dc converter regularly use Schottky diodes for high frequency rectification. Si Schottky diodes have relatively low voltage ratings and present reverse-recovery type losses when driven hard enough. SiC Schottky diodes can operate at high frequencies, but incur higher conduction losses. This paper presents a bidirectional dc-dc resonant converter having two ground referenced switches. The prototype converter delivers 400 W between a source of 170 V and a load of 50 V while delivering 250 W in the opposite direction. The converter presented herein can potentially be used in applications such as wireless power transfer, fuel cell and battery applications, bus converters, etc.</description>
+    </item>
+    
+    <item>
+      <title>13.56 MHz 1.3 kW resonant converter with GaN FET for wireless power transfer</title>
+      <link>/publication/gan-wpt-choi/</link>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gan-wpt-choi/</guid>
+      <description>This paper presents a 1.3 kW resonant power amplifier using a Gallium Nitride (GaN) device at 13.56 MHz for wireless power transfer (WPT). The power amplifier driving the power transmitting coils is based on a Class Φ 2 inverter, a single switch topology with low switch voltage stress and fast transient response. This implementation utilizes a recently available GaN device in a low inductance package that is compatible with operation in the 10&amp;rsquo;s of MHz switching frequency. These power GaN switching devices have low gate resistance RG and low capacitance C GS which greatly reduces the power requirements of the gate drive circuitry. This paper shows experimental measurements of the inverter in a WPT application and characterization of the system performance over various distances and operating conditions.</description>
+    </item>
+    
   </channel>
 </rss>

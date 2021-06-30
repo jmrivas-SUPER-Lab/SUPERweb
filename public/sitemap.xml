@@ -1086,6 +1086,30 @@
     <loc>/blog/2017sabera/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/cubesat-thruster/</loc>
+    <lastmod>2017-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pcb-converter/</loc>
+    <lastmod>2017-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pfc/</loc>
+    <lastmod>2017-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/apec-gan-rectifier_park/</loc>
+    <lastmod>2017-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/reverse-recovery/</loc>
+    <lastmod>2017-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/apec-pocketrocket_liang/</loc>
+    <lastmod>2017-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/apec-vfx-gu/</loc>
+    <lastmod>2017-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/vfx/</loc>
+    <lastmod>2017-05-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/3-d-printed-air-core-inductors/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -1127,6 +1151,75 @@
   </url><url>
     <loc>/publication/frontiers-vacuum-testin-smpa-electrothermal-thruster_charles/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ecce-sic-gan-comparison_choi/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/inductance-cancellation/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ecce-inductance-cancellation_praglin/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/3d-printed-converter/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-classd-rectifier_park/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/aircore-inductors/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/electroporation/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-sic-13m56-wpt_choi/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-thurster_liang/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mark-capelli/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/propulsion/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pulsed-power/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-electroporation_raymond/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/resonant-rectifier/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sattelite-thruster/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ecce-hv_raymond/</loc>
+    <lastmod>2015-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ecce-gan-pcb_liang/</loc>
+    <lastmod>2015-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/multi-level-converter/</loc>
+    <lastmod>2015-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pcb-capacitors/</loc>
+    <lastmod>2015-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-hv_raymond/</loc>
+    <lastmod>2015-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-gan-bidirectional_gu/</loc>
+    <lastmod>2015-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/gan-wpt-choi/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/wptc/</loc>
+    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/tpels-13m56-dcdc-pcb-inductors_liang/</loc>
     <lastmod>2015-06-02T00:00:00+00:00</lastmod>

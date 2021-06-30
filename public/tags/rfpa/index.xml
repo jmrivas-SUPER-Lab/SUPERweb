@@ -25,5 +25,14 @@
       <description>TThis paper presents a compact RF power inverter implemented with a PCB multi-resonant input filter for driving an electrothermal plasma micro-thruster, mini Pocket Rocket 3.0 (miniPR 3.0). This miniPR 3.0 and its driving electronics are part of an investigation seeking to add micro propulsion systems to low cost CubeSats. The proposed RF power inverter and multi-resonant input filter use only air core inductors. All inductors are toroidal and formed by PCB traces and vias allowing a planar and compact design. The PCB structure serves as structural support to save space and volume for propulsion propellant and other payloads.</description>
     </item>
     
+    <item>
+      <title>Structurally supportive RF power inverter for a CubeSat electrothermal plasma micro-thruster with PCB inductors</title>
+      <link>/publication/apec-pocketrocket_liang/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-pocketrocket_liang/</guid>
+      <description>This paper presents a compact RF power inverter implemented with air core inductors for driving an electrothermal plasma micro-thruster, mini Pocket Rocket 3.0 (miniPR 3.0). This miniPR 3.0 and its driving electronics are low volume and are part of an investigation seeking to add propulsion to low cost CubeSats. The air core inductors used in the proposed RF power inverter are formed with PCB traces allowing for a planar and compact design. Advantages of air core inductors include not being subject to saturation or variations from changing material properties of a magnetic core.</description>
+    </item>
+    
   </channel>
 </rss>

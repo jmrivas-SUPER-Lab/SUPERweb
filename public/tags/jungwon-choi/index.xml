@@ -61,5 +61,32 @@
       <description>This letter presents a high-power resonant inverter using an enhancement mode gallium nitride (eGaN) device with magnetic resonant coupling (MRC) coils at 13.56 MHz for wireless power transfer (WPT). The power inverter driving the transmitting coils is based on a class Φ2 inverter, a single-switch topology with low switch-voltage stress, and fast transient response.</description>
     </item>
     
+    <item>
+      <title>Comparison of SiC and eGaN devices in a 6.78 MHz 2.2 kW resonant inverter for wireless power transfer</title>
+      <link>/publication/ecce-sic-gan-comparison_choi/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-sic-gan-comparison_choi/</guid>
+      <description>This paper presents a performance comparison of two wide band gap (WBG) devices, a silicon carbide (SiC) MOSFET and an enhancement mode gallium nitride (eGaN) FET in a resonant inverter operating at 6.78 MHz for wireless power transfer (WPT) applications. While SiC MOSFETs provide high breakdown voltage and good thermal characteristics, eGaN FETs can reduce gate losses due to small gate resistance and input capacitance. In this work, we compare a 1200 V SiC MOSFET in a single-ended class Φ 2 inverter to two 650 V eGaN FETs in a push-pull class Φ 2 inverter.</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of a 900 V SiC MOSFET in a 13.56 MHz 2 kW resonant inverter for wireless power transfer</title>
+      <link>/publication/compel-sic-13m56-wpt_choi/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-sic-13m56-wpt_choi/</guid>
+      <description>This paper demonstrates the performance of a 900 V silicon carbide (SiC) power MOSFET operating at 13.56 MHz in a 2 kW resonant inverter targeted for wireless power transfer (WPT) systems. Operating at multi-MHz switching frequency leads to smaller passive components and has the potential to improve power density and reduce weight for weight-sensitive applications. In this work, we study and evaluate the electrical characteristics of a 900 V, 7L D2PAK SiC MOSFET and demonstrate the design of a 2 kW single-ended resonant inverter operating at 13.56 MHz.</description>
+    </item>
+    
+    <item>
+      <title>13.56 MHz 1.3 kW resonant converter with GaN FET for wireless power transfer</title>
+      <link>/publication/gan-wpt-choi/</link>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gan-wpt-choi/</guid>
+      <description>This paper presents a 1.3 kW resonant power amplifier using a Gallium Nitride (GaN) device at 13.56 MHz for wireless power transfer (WPT). The power amplifier driving the power transmitting coils is based on a Class Φ 2 inverter, a single switch topology with low switch voltage stress and fast transient response. This implementation utilizes a recently available GaN device in a low inductance package that is compatible with operation in the 10&amp;rsquo;s of MHz switching frequency. These power GaN switching devices have low gate resistance RG and low capacitance C GS which greatly reduces the power requirements of the gate drive circuitry. This paper shows experimental measurements of the inverter in a WPT application and characterization of the system performance over various distances and operating conditions.</description>
+    </item>
+    
   </channel>
 </rss>

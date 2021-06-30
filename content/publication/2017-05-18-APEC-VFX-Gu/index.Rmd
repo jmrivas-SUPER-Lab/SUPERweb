@@ -1,0 +1,40 @@
+---
+title: "Universal line input power factor preregulator using VFX technique"
+author: "L. Gu, W. Liang, M. Praglin, S. Chakraborty and J. Rivas-Davila"
+date: '2017-05-18'
+slug: -APEC-VFX-Gu
+categories:
+  - Conference
+  - APEC
+tags: 
+  - VFX
+  - PFC
+  - Lei Gu
+  - Max Praglin
+  - Wei Liang
+doi: '10.1109/APEC.2017.7930944'
+publishDate: '2017-05-18T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2017 IEEE Applied Power Electronics Conference and Exposition (APEC)"
+publication_short: "APEC"
+abstract: "This paper demonstrates a two-stage implementation of a power factor preregulator design in which the energy buffer capacitor is placed at the output of the converter. In this implementation, a resonant LLC converter supplies power to a boost converter operating in continuous conduction mode. Here, a variable frequency (VFX) technique is used in the resonant LLC converter stage to achieve a lower variation in the overall efficiency across the universal input voltage range (85 - 265V rms ). The efficiency performance achieved is flatter than other single-stage boost-based power factor correction circuits, whose efficiency tends to drop significantly at low input voltages. The VFX technique not only compresses the effective operating range required of the resonant converter stage, but also allows MOSFETs with lower voltage ratings and better conduction/switching characteristics to be used in both converter stages"
+summary: 'This paper demonstrates a two-stage implementation of a power factor preregulator design in which the energy buffer capacitor is placed at the output of the converter. In this implementation, a resonant LLC converter supplies power to a boost converter operating in continuous conduction mode. Here, a variable frequency (VFX) technique is used in the resonant LLC converter stage to achieve a lower variation in the overall efficiency across the universal input voltage range (85 - 265V rms ).'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/7930944
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+This paper demonstrates a two-stage implementation of a power factor preregulator design in which the energy buffer capacitor is placed at the output of the converter. In this implementation, a resonant LLC converter supplies power to a boost converter operating in continuous conduction mode. Here, a variable frequency (VFX) technique is used in the resonant LLC converter stage to achieve a lower variation in the overall efficiency across the universal input voltage range (85 - 265V rms ). The efficiency performance achieved is flatter than other single-stage boost-based power factor correction circuits, whose efficiency tends to drop significantly at low input voltages. The VFX technique not only compresses the effective operating range required of the resonant converter stage, but also allows MOSFETs with lower voltage ratings and better conduction/switching characteristics to be used in both converter stages

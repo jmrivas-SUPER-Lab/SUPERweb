@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.83.1" />
-<title>Design of a 13.56 MHz dc-to-dc resonant converter using an impedance compression network to mitigate misalignments in a wireless power transfer system | SUPER-Lab</title>
+<title>Design of a GaN-Based, Inductor-less, Wireless Power Transfer System at 40.68 MHz | SUPER-Lab</title>
 
 
 <meta property="twitter:site" content="@Jmrivasd">
@@ -28,7 +28,7 @@
 
 
 <meta property="og:site_name" content="SUPER-Lab">
-<meta property="og:title" content="Design of a 13.56 MHz dc-to-dc resonant converter using an impedance compression network to mitigate misalignments in a wireless power transfer system | SUPER-Lab">
+<meta property="og:title" content="Design of a GaN-Based, Inductor-less, Wireless Power Transfer System at 40.68 MHz | SUPER-Lab">
 <meta property="og:description" content="Website of the Stanford University Power Electronics Research Laboratory." />
 <meta property="og:type" content="page" />
 <meta property="og:url" content="/publication/compel-icn-wpt_choi/" />
@@ -42,11 +42,11 @@
         <meta property="twitter:card" content="summary_large_image">
         <meta name="twitter:image" content="/img/superlablogofabiconv3.png" >
     
-  <meta itemprop="name" content="Design of a 13.56 MHz dc-to-dc resonant converter using an impedance compression network to mitigate misalignments in a wireless power transfer system">
-<meta itemprop="description" content="This paper presents the design and implementation of a high-frequency resonant converter with an impedance compression network (ICN) to correct horizontal alignment variations between coils in a wireless power transfer (WPT) system. In order to mitigate variations in coil impedance, we propose an ICN that simultaneously compresses magnitude and phase changes of coil impedance."><meta itemprop="datePublished" content="2018-09-13T00:00:00-01:00" />
+  <meta itemprop="name" content="Design of a GaN-Based, Inductor-less, Wireless Power Transfer System at 40.68 MHz">
+<meta itemprop="description" content="Wireless power transfer systems have attracted tremendous attention over the past decade. The design of most small size, low power, WPT systems; however, utilizes ferrite to shield and redirect the magnetic fields. This add to the weight and bulk of the system. In this paper, a small and extremely lightweight, PCB based, proof-of-concept WPT system is demonstrated. The circuit operates at 40.68 MHz and is capable of 20 W of output power. It utilizes no discrete inductors other than the WPT coils themselves and weights only 7 grams. The following paper shows the design methodology and the inductor elimination technique used to achieve such design."><meta itemprop="datePublished" content="2018-09-13T00:00:00-01:00" />
 <meta itemprop="dateModified" content="2018-09-13T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="213">
-<meta itemprop="keywords" content="GaN,WPT,ICN,Jungwon Choi,JiaLe Xu," />
+<meta itemprop="wordCount" content="106">
+<meta itemprop="keywords" content="GaN,Inductor-Less,WPT,Kawin Surakitbovorn," />
   
   <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
@@ -114,9 +114,9 @@
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
-        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Design of a 13.56 MHz dc-to-dc resonant converter using an impedance compression network to mitigate misalignments in a wireless power transfer system</h1>
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Design of a GaN-Based, Inductor-less, Wireless Power Transfer System at 40.68 MHz</h1>
         
-        <p class="f6 measure lh-copy mv1">By J. Choi, J. Xu, R. Makhoul and J. Rivas in <a href="/categories/conference">Conference</a>  <a href="/categories/compel">COMPEL</a> </p>
+        <p class="f6 measure lh-copy mv1">By K. Surakitbovorn and J. Rivas-Davila in <a href="/categories/conference">Conference</a>  <a href="/categories/compel">COMPEL</a> </p>
         <p class="f7 db mv0 ttu">September 13, 2018</p>
 
       
@@ -131,7 +131,7 @@
     
       
       
-  <a class="btn-links mr2 ba dib" href="https://ieeexplore.ieee.org/document/8460144" target="_blank" rel="noopener"><i class="ai ai-doi fa-lg fa-fw mr2"></i>Publication</a>
+  <a class="btn-links mr2 ba dib" href="https://ieeexplore.ieee.org/document/8459953" target="_blank" rel="noopener"><i class="ai ai-doi fa-lg fa-fw mr2"></i>Publication</a>
 
 
       </div>
@@ -145,7 +145,7 @@
 
 <div id="summary" class="section level2">
 <h2>Summary</h2>
-<p>This paper presents the design and implementation of a high-frequency resonant converter with an impedance compression network (ICN) to correct horizontal alignment variations between coils in a wireless power transfer (WPT) system. Although magnetic resonant coupling (MRC) coils provide high efficiency for charging mid-range WPT applications, any misalignment between them causes a coil-impedance change and significantly affects performance of the resonant inverters. In order to mitigate variations in coil impedance, we propose an ICN that simultaneously compresses magnitude and phase changes of coil impedance. An ICN consists of a resistance compression network (RCN) to compress magnitude variations, and phase compression network (PCN) to remove phase shifts. The main advantage of an ICN is that it requires only lossless components such as inductors or capacitors. Also, by using Smith chart, which is generally used in RF circuit design to easily calculate load variations, we can effectively reduce phase shifts in power electronics circuits with load variations. We connected the ICN between a class Φ2 inverter and MRC coils and then added a class DE rectifier to provide dc-to-dc operation. As a result, we maintained not only zero voltage switching (ZVS) and zero dv/dt operation in a class Φ2 inverter, but also constant efficiency of the whole system when the alignment between coils varied.</p>
+<p>Wireless power transfer systems have attracted tremendous attention over the past decade. The design of most small size, low power, WPT systems; however, utilizes ferrite to shield and redirect the magnetic fields. This add to the weight and bulk of the system. In this paper, a small and extremely lightweight, PCB based, proof-of-concept WPT system is demonstrated. The circuit operates at 40.68 MHz and is capable of 20 W of output power. It utilizes no discrete inductors other than the WPT coils themselves and weights only 7 grams. The following paper shows the design methodology and the inductor elimination technique used to achieve such design.</p>
 </div>
 
         
@@ -156,7 +156,7 @@
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">1 minute read, 213 words</dd>
+    <dd class="fw5 ml0">1 minute read, 106 words</dd>
   </dl>
   
   <dl class="f6 lh-copy">
@@ -168,7 +168,7 @@
   
   <dl class="f6 lh-copy">
     <dt class="fw7">Tags:</dt>
-    <dd class="fw5 ml0"> <a href="/tags/gan">GaN</a>  <a href="/tags/wpt">WPT</a>  <a href="/tags/icn">ICN</a>  <a href="/tags/jungwon-choi">Jungwon Choi</a>  <a href="/tags/jiale-xu">JiaLe Xu</a> </dd>
+    <dd class="fw5 ml0"> <a href="/tags/gan">GaN</a>  <a href="/tags/inductor-less">Inductor-Less</a>  <a href="/tags/wpt">WPT</a>  <a href="/tags/kawin-surakitbovorn">Kawin Surakitbovorn</a> </dd>
   </dl>
   
   <dl class="f6 lh-copy">
@@ -176,7 +176,7 @@
     
     <dd class="fw5 ml0"><a href="/publication/dynamic-capacitance-gan_zhuang/">Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs</a></dd>
     
-    <dd class="fw5 ml0"><a href="/project/lamresearchsystemx/">SiC, GaN and Si technology comparison for high power RF plasma generators</a></dd>
+    <dd class="fw5 ml0"><a href="/project/daihensystemx/">Designing a high-efficiency RF power amplifier for plasma generation</a></dd>
     
     <dd class="fw5 ml0"><a href="/publication/compel-6m78-wpt-selfresonantcoils_gu/">Design and Optimization of 6.78 MHz Wireless Power Transfer with Self-Resonant Coils</a></dd>
     
@@ -189,12 +189,12 @@
   
   
     <a class="prev dtc pr2 tl v-top fw6"
-    href="/publication/compel-powerdevice-selection_zulauf/">&larr; Considerations for Active Power Device Selection in High- and Very-High-Frequency Power Converters</a>
+    href="/publication/compel-icn-wpt_choi/">&larr; Design of a 13.56 MHz dc-to-dc resonant converter using an impedance compression network to mitigate misalignments in a wireless power transfer system</a>
   
   
   
     <a class="next dtc pl2 tr v-top fw6"
-    href="/publication/compel-icn-wpt_choi/">Design of a GaN-Based, Inductor-less, Wireless Power Transfer System at 40.68 MHz &rarr;</a>
+    href="/publication/compel-capacitor_xu/">Effect of Class 2 Ceramic Capacitance Variations on Switched Capacitor and Resonant Switched Capacitor Converters &rarr;</a>
   
 </div>
 

@@ -16,5 +16,14 @@
       <description>Focused ultrasound treats tissue deep in the body without damaging surrounding structures. Driven by large-amplitude RF electrical signals, ultrasonic transducers can generate large pressure acoustic wave. Wide-bandgap semiconductors, e.g., Gallium Nitride (GaN), greatly simplify the design and reduce the requisite size and weight of RF amplifiers, and so improves the portability of focused ultrasound device. Here, we demonstrate a compact 8-phase 5 MHz Class-D resonant amplifier for a focused ultrasound cancer therapy application.</description>
     </item>
     
+    <item>
+      <title>A design methodology for class-D resonant rectifier with parallel LC tank</title>
+      <link>/publication/compel-classd-rectifier_park/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-classd-rectifier_park/</guid>
+      <description>This paper presents a design methodology for the tuning of a class-D half-wave resonant rectifier with a parallel LC resonant tank input network. We propose a systematic design procedure that begins with universal design curves applicable to any rectifier design of this topology. This is followed by parameter selection and a convergence check that ensures the rectifier operates with the desired output voltage. Experimental results confirm the validity of the design method for both linear and nonlinear resonant capacitances. Based on the outlined procedure, a 25 MHz 500 V rectifier with resistive input impedance is designed and experimentally verified.</description>
+    </item>
+    
   </channel>
 </rss>

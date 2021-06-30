@@ -70,5 +70,41 @@
       <description>This paper proposes a simple solution to implement synchronous rectification for resonant dc-dc power converters operating in the Very-High-Frequency (VHF) range, by using a symmetric bandpass matching network between the inverter and rectifier. A bandpass matching network maintains a close-to-zero phase shift between the inverter and rectifier voltage, enabling the synchronous switch to be driven by the same clock signal as the inverter switch.</description>
     </item>
     
+    <item>
+      <title>Comparison of SiC and eGaN devices in a 6.78 MHz 2.2 kW resonant inverter for wireless power transfer</title>
+      <link>/publication/ecce-sic-gan-comparison_choi/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-sic-gan-comparison_choi/</guid>
+      <description>This paper presents a performance comparison of two wide band gap (WBG) devices, a silicon carbide (SiC) MOSFET and an enhancement mode gallium nitride (eGaN) FET in a resonant inverter operating at 6.78 MHz for wireless power transfer (WPT) applications. While SiC MOSFETs provide high breakdown voltage and good thermal characteristics, eGaN FETs can reduce gate losses due to small gate resistance and input capacitance. In this work, we compare a 1200 V SiC MOSFET in a single-ended class Φ 2 inverter to two 650 V eGaN FETs in a push-pull class Φ 2 inverter.</description>
+    </item>
+    
+    <item>
+      <title>Inductance cancellation in RF resonant power converters</title>
+      <link>/publication/ecce-inductance-cancellation_praglin/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-inductance-cancellation_praglin/</guid>
+      <description>Parasitic inductance cancellation is employed in order to operate a resonant power inverter at 27.12 MHz using a TO-220 through-hole package.The elimination of parasitic inductances allows for system cost reduction, increased power handling, and/or relaxation of PCB layout constraints. The inductance cancellation technique is demonstrated through two prototypes (based upon the same silicon MOSFET die) providing 60 W of RF power to a 50 Ω load from a 48 V DC input.</description>
+    </item>
+    
+    <item>
+      <title>27.12 MHz isolated high voltage gain multi-level resonant DC-DC converter</title>
+      <link>/publication/ecce-hv_raymond/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-hv_raymond/</guid>
+      <description>This paper demonstrates a high efficiency, high power density, and fast transient response dc-dc converter design capable of providing a high-voltage isolated output from a low-voltage input. Specifically, we demonstrate two 100 W, 2000 Vdc proof of concept prototype dc-dc converters operating at a switching frequency of 27.12 MHz with input voltages of 40 V and 100 V respectively. Capacitive isolation provides an efficient means of allowing for multiple rectified outputs to be combined serially without exceeding semi-conductor device limits. Further, it can provide a more efficient means of impedance matching at frequencies of 10s of MHz than traditional methods such as passive matching networks or transformers by the reduction of or elimination of those stages altogether.</description>
+    </item>
+    
+    <item>
+      <title>27.12MHz GaN resonant power converter with PCB embedded resonant air core inductors and capacitors</title>
+      <link>/publication/ecce-gan-pcb_liang/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gan-pcb_liang/</guid>
+      <description>This paper presents the design and implementation of a 27.12 MHz, 320 W, 170 V to 28 V dc-dc resonant power converter with resonant inductors and capacitors embedded into the Printed Circuit Board (PCB). Operating at 27.12 MHz allows for small value and size resonant passive components to be implemented using traces on or within a PCB. A prototype dc-dc converter was built to verify the concept and it reaches an efficiency of 73.6%. A simulated loss analysis is also presented.</description>
+    </item>
+    
   </channel>
 </rss>

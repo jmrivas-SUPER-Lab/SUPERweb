@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inductance Cancellation on SUPER-Lab</title>
+    <link>/tags/inductance-cancellation/</link>
+    <description>Recent content in Inductance Cancellation on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/inductance-cancellation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inductance cancellation in RF resonant power converters</title>
+      <link>/publication/ecce-inductance-cancellation_praglin/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-inductance-cancellation_praglin/</guid>
+      <description>Parasitic inductance cancellation is employed in order to operate a resonant power inverter at 27.12 MHz using a TO-220 through-hole package.The elimination of parasitic inductances allows for system cost reduction, increased power handling, and/or relaxation of PCB layout constraints. The inductance cancellation technique is demonstrated through two prototypes (based upon the same silicon MOSFET die) providing 60 W of RF power to a 50 Ω load from a 48 V DC input.</description>
+    </item>
+    
+  </channel>
+</rss>

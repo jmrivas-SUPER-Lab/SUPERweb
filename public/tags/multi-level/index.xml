@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multi-level on SUPER-Lab</title>
+    <title>Multi-Level on SUPER-Lab</title>
     <link>/tags/multi-level/</link>
-    <description>Recent content in Multi-level on SUPER-Lab</description>
+    <description>Recent content in Multi-Level on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/multi-level/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,15 @@
       
       <guid>/publication/modular-onoff-phaseshift-rfpm_north/</guid>
       <description>In this paper, we present an alternative power modulation method to create a high-efficiency high-speed RF amplifier system. This control technique utilizes two mechanisms, modular on/off and phase-shifting. In modular on/off, a different number of sub-circuits are turned “on” or “off” to crudely adjust the output power.</description>
+    </item>
+    
+    <item>
+      <title>13.56 MHz high voltage multi-level resonant DC-DC converter</title>
+      <link>/publication/compel-hv_raymond/</link>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-hv_raymond/</guid>
+      <description>This paper demonstrates a dc-dc converter that combines resonant rectifiers in a way to achieve impedance matching and significant voltage gains without the need for a high quality factor (Q) impedance matching network. Multiple stages are stacked in a way that allows for higher output voltages without suffering efficiency penalties common to traditional serial type high-voltage converter topologies such as the Crockroft-Walton Multiplier. Application of this design results in an isolated resonant dc-dc converter design that promises high efficiency, fast transient response, and high power density while providing a high-voltage isolated output from a lower-voltage input.</description>
     </item>
     
   </channel>

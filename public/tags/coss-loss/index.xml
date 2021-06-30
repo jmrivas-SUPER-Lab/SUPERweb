@@ -115,5 +115,14 @@
       <description>On paper, Gallium nitride (GaN) transistor promises exceptional performance when used in converters operating at high switching frequency; nonetheless, reduction in their performance when used in real circuits have been observed. Previous experiments show that tested GaN transistors can display excessive loss of up to three times their predicted values under certain test conditions. This paper evaluates power losses in GaN transistors when used in class Φ 2 resonant soft-switching inverter topologies at MHz frequencies. Thermometric loss calibration technique is used to calculate the power losses.</description>
     </item>
     
+    <item>
+      <title>Power loss of GaN transistor reverse diodes in a high frequency high voltage resonant rectifier</title>
+      <link>/publication/apec-gan-rectifier_park/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-gan-rectifier_park/</guid>
+      <description>This paper presents power loss measurements of GaN transistor reverse diodes in high frequency high voltage conditions. To evaluate their performance, we use GaN transistor reverse diodes as rectifying devices in a class-DE resonant rectifier and operate the circuit at switching frequencies of 10s of MHz and with output voltages reaching 100s of volts.</description>
+    </item>
+    
   </channel>
 </rss>

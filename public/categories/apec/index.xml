@@ -52,5 +52,32 @@
       <description>In this paper, we construct three Class-Φ 2 resonant converters with GaN HEMT power devices, 1 kW output power, and switching frequencies of 10 MHz, 30 MHz, and 54.24 MHz. The GaN HEMTs in these converters exhibit losses, approximated thermally, that are significantly higher (up to an order of magnitude) than those predicted by simulation. To investigate, we use a Sawyer-Tower circuit to evaluate the losses in the output capacitance, C OSS , of GaN devices from each manufacturer with commercially-available power devices with voltage ratings over 600 VDS .</description>
     </item>
     
+    <item>
+      <title>Power loss of GaN transistor reverse diodes in a high frequency high voltage resonant rectifier</title>
+      <link>/publication/apec-gan-rectifier_park/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-gan-rectifier_park/</guid>
+      <description>This paper presents power loss measurements of GaN transistor reverse diodes in high frequency high voltage conditions. To evaluate their performance, we use GaN transistor reverse diodes as rectifying devices in a class-DE resonant rectifier and operate the circuit at switching frequencies of 10s of MHz and with output voltages reaching 100s of volts.</description>
+    </item>
+    
+    <item>
+      <title>Structurally supportive RF power inverter for a CubeSat electrothermal plasma micro-thruster with PCB inductors</title>
+      <link>/publication/apec-pocketrocket_liang/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-pocketrocket_liang/</guid>
+      <description>This paper presents a compact RF power inverter implemented with air core inductors for driving an electrothermal plasma micro-thruster, mini Pocket Rocket 3.0 (miniPR 3.0). This miniPR 3.0 and its driving electronics are low volume and are part of an investigation seeking to add propulsion to low cost CubeSats. The air core inductors used in the proposed RF power inverter are formed with PCB traces allowing for a planar and compact design. Advantages of air core inductors include not being subject to saturation or variations from changing material properties of a magnetic core.</description>
+    </item>
+    
+    <item>
+      <title>Universal line input power factor preregulator using VFX technique</title>
+      <link>/publication/apec-vfx-gu/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-vfx-gu/</guid>
+      <description>This paper demonstrates a two-stage implementation of a power factor preregulator design in which the energy buffer capacitor is placed at the output of the converter. In this implementation, a resonant LLC converter supplies power to a boost converter operating in continuous conduction mode. Here, a variable frequency (VFX) technique is used in the resonant LLC converter stage to achieve a lower variation in the overall efficiency across the universal input voltage range (85 - 265V rms ).</description>
+    </item>
+    
   </channel>
 </rss>

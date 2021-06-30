@@ -169,5 +169,41 @@
       <description>This paper presents the design and implementation of an impedance compression network (ICN) to correct distance variation or misalignment between coils in wireless power transfer (WPT) systems. Magnetic resonant coupling (MRC) coils provide high efficiency for charging mid-range WPT applications. However, a distance variation or misalignment between coils causes a coil-impedance change and significantly affects performances of WPT systems. In order to mitigate a coil-impedance variation, we propose an ICN simultaneously compressing changes in magnitude and phase of impedance. The ICN consists of a resistance compression network (RCN) and phase compression network (PCN). While the RCN effectively compresses the variation in the magnitude of impedance by using one pair consisting of an inductor and a capacitor, the PCN is designed using a Smith chart to reduce a phase variation.</description>
     </item>
     
+    <item>
+      <title>Power loss of GaN transistor reverse diodes in a high frequency high voltage resonant rectifier</title>
+      <link>/publication/apec-gan-rectifier_park/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-gan-rectifier_park/</guid>
+      <description>This paper presents power loss measurements of GaN transistor reverse diodes in high frequency high voltage conditions. To evaluate their performance, we use GaN transistor reverse diodes as rectifying devices in a class-DE resonant rectifier and operate the circuit at switching frequencies of 10s of MHz and with output voltages reaching 100s of volts.</description>
+    </item>
+    
+    <item>
+      <title>Comparison of SiC and eGaN devices in a 6.78 MHz 2.2 kW resonant inverter for wireless power transfer</title>
+      <link>/publication/ecce-sic-gan-comparison_choi/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-sic-gan-comparison_choi/</guid>
+      <description>This paper presents a performance comparison of two wide band gap (WBG) devices, a silicon carbide (SiC) MOSFET and an enhancement mode gallium nitride (eGaN) FET in a resonant inverter operating at 6.78 MHz for wireless power transfer (WPT) applications. While SiC MOSFETs provide high breakdown voltage and good thermal characteristics, eGaN FETs can reduce gate losses due to small gate resistance and input capacitance. In this work, we compare a 1200 V SiC MOSFET in a single-ended class Φ 2 inverter to two 650 V eGaN FETs in a push-pull class Φ 2 inverter.</description>
+    </item>
+    
+    <item>
+      <title>27.12MHz GaN resonant power converter with PCB embedded resonant air core inductors and capacitors</title>
+      <link>/publication/ecce-gan-pcb_liang/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gan-pcb_liang/</guid>
+      <description>This paper presents the design and implementation of a 27.12 MHz, 320 W, 170 V to 28 V dc-dc resonant power converter with resonant inductors and capacitors embedded into the Printed Circuit Board (PCB). Operating at 27.12 MHz allows for small value and size resonant passive components to be implemented using traces on or within a PCB. A prototype dc-dc converter was built to verify the concept and it reaches an efficiency of 73.6%. A simulated loss analysis is also presented.</description>
+    </item>
+    
+    <item>
+      <title>13.56 MHz 1.3 kW resonant converter with GaN FET for wireless power transfer</title>
+      <link>/publication/gan-wpt-choi/</link>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gan-wpt-choi/</guid>
+      <description>This paper presents a 1.3 kW resonant power amplifier using a Gallium Nitride (GaN) device at 13.56 MHz for wireless power transfer (WPT). The power amplifier driving the power transmitting coils is based on a Class Φ 2 inverter, a single switch topology with low switch voltage stress and fast transient response. This implementation utilizes a recently available GaN device in a low inductance package that is compatible with operation in the 10&amp;rsquo;s of MHz switching frequency. These power GaN switching devices have low gate resistance RG and low capacitance C GS which greatly reduces the power requirements of the gate drive circuitry. This paper shows experimental measurements of the inverter in a WPT application and characterization of the system performance over various distances and operating conditions.</description>
+    </item>
+    
   </channel>
 </rss>

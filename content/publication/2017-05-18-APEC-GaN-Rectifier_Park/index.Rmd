@@ -1,0 +1,40 @@
+---
+title: "Power loss of GaN transistor reverse diodes in a high frequency high voltage resonant rectifier"
+author: "S. Park and J. Rivas-Davila"
+date: '2017-05-18'
+slug: -APEC-GaN-Rectifier_Park
+categories:
+  - Conference
+  - APEC
+tags: 
+  - GaN
+  - Coss Loss
+  - Reverse Recovery
+  - Diodes
+  - Sanghyeon Park
+doi: '10.1109/APEC.2017.7930963'
+publishDate: '2017-05-18T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2017 IEEE Applied Power Electronics Conference and Exposition (APEC)"
+publication_short: "APEC"
+abstract: "This paper presents power loss measurements of GaN transistor reverse diodes in high frequency high voltage conditions. To evaluate their performance, we use GaN transistor reverse diodes as rectifying devices in a class-DE resonant rectifier and operate the circuit at switching frequencies of 10s of MHz and with output voltages reaching 100s of volts. We use a thermometric calibration method to quantify the power loss in all GaN transistor reverse diodes and finds that the losses increase with both switching frequency and output voltage. Further, our experiments show that the device power loss is neither hard switching loss by a faulty design of resonant rectifiers nor traditional conduction loss from the forward voltage drop and static on-resistance of the diode. The comparison between power dissipation and GaN transistor output capacitances suggests that the device capacitance might be correlated with the observed device power loss."
+summary: 'This paper presents power loss measurements of GaN transistor reverse diodes in high frequency high voltage conditions. To evaluate their performance, we use GaN transistor reverse diodes as rectifying devices in a class-DE resonant rectifier and operate the circuit at switching frequencies of 10s of MHz and with output voltages reaching 100s of volts.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/7930963
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+This paper presents power loss measurements of GaN transistor reverse diodes in high frequency high voltage conditions. To evaluate their performance, we use GaN transistor reverse diodes as rectifying devices in a class-DE resonant rectifier and operate the circuit at switching frequencies of 10s of MHz and with output voltages reaching 100s of volts. We use a thermometric calibration method to quantify the power loss in all GaN transistor reverse diodes and finds that the losses increase with both switching frequency and output voltage. Further, our experiments show that the device power loss is neither hard switching loss by a faulty design of resonant rectifiers nor traditional conduction loss from the forward voltage drop and static on-resistance of the diode. The comparison between power dissipation and GaN transistor output capacitances suggests that the device capacitance might be correlated with the observed device power loss.

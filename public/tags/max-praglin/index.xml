@@ -17,12 +17,30 @@
     </item>
     
     <item>
+      <title>Universal line input power factor preregulator using VFX technique</title>
+      <link>/publication/apec-vfx-gu/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-vfx-gu/</guid>
+      <description>This paper demonstrates a two-stage implementation of a power factor preregulator design in which the energy buffer capacitor is placed at the output of the converter. In this implementation, a resonant LLC converter supplies power to a boost converter operating in continuous conduction mode. Here, a variable frequency (VFX) technique is used in the resonant LLC converter stage to achieve a lower variation in the overall efficiency across the universal input voltage range (85 - 265V rms ).</description>
+    </item>
+    
+    <item>
       <title>Low-Mass RF Power Inverter for CubeSat Applications Using 3-D Printed Inductors</title>
       <link>/publication/jestpe-lowmass-rp-inverter-cubesat-3dprinted-inductors_liang/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/jestpe-lowmass-rp-inverter-cubesat-3dprinted-inductors_liang/</guid>
       <description>This paper presents the design of a low-mass RF power inverter at moderate to high power levels (e.g., tens of watts and above) for weight critical applications such as CubeSat plasma thrusters. Our approach for mass reduction includes resonant switching operation at tens of MHz, and the 3-D printing of lightweight scaffolds that form air core inductors after plating with a thin layer of copper. Specifically, we present a 14.2-MHz 50-W resonant dc-RF power inverter implemented with 3-D printed and copper plated air core toroidal inductors.</description>
+    </item>
+    
+    <item>
+      <title>Inductance cancellation in RF resonant power converters</title>
+      <link>/publication/ecce-inductance-cancellation_praglin/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-inductance-cancellation_praglin/</guid>
+      <description>Parasitic inductance cancellation is employed in order to operate a resonant power inverter at 27.12 MHz using a TO-220 through-hole package.The elimination of parasitic inductances allows for system cost reduction, increased power handling, and/or relaxation of PCB layout constraints. The inductance cancellation technique is demonstrated through two prototypes (based upon the same silicon MOSFET die) providing 60 W of RF power to a 50 Ω load from a 48 V DC input.</description>
     </item>
     
   </channel>

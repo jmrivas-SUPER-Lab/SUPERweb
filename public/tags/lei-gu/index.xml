@@ -250,5 +250,41 @@
       <description>This paper presents the design and implementation of a Very-High-Frequency (VHF) multi-resonant gate drive circuit. The design procedure is greatly simplified compared with some VHF self-oscillating multi-resonant gate drivers presented in previous works. The proposed circuit has the potential to reduce long start-up time required in a self-oscillating resonant gate drive circuit and to better utilize fast transient capability of VHF converters. A prototype resonant gate driver is demonstrated and able to reduce 60 % of the gate driving loss of a 20 MHz 32 W Class-E power amplifier with Si MOSFET.</description>
     </item>
     
+    <item>
+      <title>Universal line input power factor preregulator using VFX technique</title>
+      <link>/publication/apec-vfx-gu/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-vfx-gu/</guid>
+      <description>This paper demonstrates a two-stage implementation of a power factor preregulator design in which the energy buffer capacitor is placed at the output of the converter. In this implementation, a resonant LLC converter supplies power to a boost converter operating in continuous conduction mode. Here, a variable frequency (VFX) technique is used in the resonant LLC converter stage to achieve a lower variation in the overall efficiency across the universal input voltage range (85 - 265V rms ).</description>
+    </item>
+    
+    <item>
+      <title>27.12MHz GaN resonant power converter with PCB embedded resonant air core inductors and capacitors</title>
+      <link>/publication/ecce-gan-pcb_liang/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gan-pcb_liang/</guid>
+      <description>This paper presents the design and implementation of a 27.12 MHz, 320 W, 170 V to 28 V dc-dc resonant power converter with resonant inductors and capacitors embedded into the Printed Circuit Board (PCB). Operating at 27.12 MHz allows for small value and size resonant passive components to be implemented using traces on or within a PCB. A prototype dc-dc converter was built to verify the concept and it reaches an efficiency of 73.6%. A simulated loss analysis is also presented.</description>
+    </item>
+    
+    <item>
+      <title>13.56 MHz high voltage multi-level resonant DC-DC converter</title>
+      <link>/publication/compel-hv_raymond/</link>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-hv_raymond/</guid>
+      <description>This paper demonstrates a dc-dc converter that combines resonant rectifiers in a way to achieve impedance matching and significant voltage gains without the need for a high quality factor (Q) impedance matching network. Multiple stages are stacked in a way that allows for higher output voltages without suffering efficiency penalties common to traditional serial type high-voltage converter topologies such as the Crockroft-Walton Multiplier. Application of this design results in an isolated resonant dc-dc converter design that promises high efficiency, fast transient response, and high power density while providing a high-voltage isolated output from a lower-voltage input.</description>
+    </item>
+    
+    <item>
+      <title>27.12MHz GaN Bi-directional resonant power converter</title>
+      <link>/publication/compel-gan-bidirectional_gu/</link>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gan-bidirectional_gu/</guid>
+      <description>Resonant dc-dc converter regularly use Schottky diodes for high frequency rectification. Si Schottky diodes have relatively low voltage ratings and present reverse-recovery type losses when driven hard enough. SiC Schottky diodes can operate at high frequencies, but incur higher conduction losses. This paper presents a bidirectional dc-dc resonant converter having two ground referenced switches. The prototype converter delivers 400 W between a source of 170 V and a load of 50 V while delivering 250 W in the opposite direction. The converter presented herein can potentially be used in applications such as wireless power transfer, fuel cell and battery applications, bus converters, etc.</description>
+    </item>
+    
   </channel>
 </rss>

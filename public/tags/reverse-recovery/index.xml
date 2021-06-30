@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reverse Recovery on SUPER-Lab</title>
+    <link>/tags/reverse-recovery/</link>
+    <description>Recent content in Reverse Recovery on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/reverse-recovery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power loss of GaN transistor reverse diodes in a high frequency high voltage resonant rectifier</title>
+      <link>/publication/apec-gan-rectifier_park/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-gan-rectifier_park/</guid>
+      <description>This paper presents power loss measurements of GaN transistor reverse diodes in high frequency high voltage conditions. To evaluate their performance, we use GaN transistor reverse diodes as rectifying devices in a class-DE resonant rectifier and operate the circuit at switching frequencies of 10s of MHz and with output voltages reaching 100s of volts.</description>
+    </item>
+    
+  </channel>
+</rss>

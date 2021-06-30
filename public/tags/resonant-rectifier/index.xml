@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resonant Rectifier on SUPER-Lab</title>
+    <link>/tags/resonant-rectifier/</link>
+    <description>Recent content in Resonant Rectifier on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate><atom:link href="/tags/resonant-rectifier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A design methodology for class-D resonant rectifier with parallel LC tank</title>
+      <link>/publication/compel-classd-rectifier_park/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-classd-rectifier_park/</guid>
+      <description>This paper presents a design methodology for the tuning of a class-D half-wave resonant rectifier with a parallel LC resonant tank input network. We propose a systematic design procedure that begins with universal design curves applicable to any rectifier design of this topology. This is followed by parameter selection and a convergence check that ensures the rectifier operates with the desired output voltage. Experimental results confirm the validity of the design method for both linear and nonlinear resonant capacitances. Based on the outlined procedure, a 25 MHz 500 V rectifier with resistive input impedance is designed and experimentally verified.</description>
+    </item>
+    
+  </channel>
+</rss>

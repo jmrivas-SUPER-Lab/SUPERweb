@@ -16,5 +16,14 @@
       <description>This paper proposes a bidirectional resonant converter design in which the rectifier and the inverter switches can be driven with the same gate signal at frequencies above 10 MHz. The proposed design enables efficient operation at &amp;gt; 10 MHz for applications which require high conversion-ratio bidirectional power delivery. We demonstrate a 200 W 13.56 MHz 210 V-to-30 V bidirectional converter with a peak efficiency of 90%.</description>
     </item>
     
+    <item>
+      <title>27.12MHz GaN Bi-directional resonant power converter</title>
+      <link>/publication/compel-gan-bidirectional_gu/</link>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gan-bidirectional_gu/</guid>
+      <description>Resonant dc-dc converter regularly use Schottky diodes for high frequency rectification. Si Schottky diodes have relatively low voltage ratings and present reverse-recovery type losses when driven hard enough. SiC Schottky diodes can operate at high frequencies, but incur higher conduction losses. This paper presents a bidirectional dc-dc resonant converter having two ground referenced switches. The prototype converter delivers 400 W between a source of 170 V and a load of 50 V while delivering 250 W in the opposite direction. The converter presented herein can potentially be used in applications such as wireless power transfer, fuel cell and battery applications, bus converters, etc.</description>
+    </item>
+    
   </channel>
 </rss>

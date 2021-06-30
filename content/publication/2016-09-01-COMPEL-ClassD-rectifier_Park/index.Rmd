@@ -1,0 +1,38 @@
+---
+title: "A design methodology for class-D resonant rectifier with parallel LC tank"
+author: "S. Park and J. Rivas-Davila"
+date: '2016-09-01'
+slug: -COMPEL-ClassD-rectifier_Park
+categories:
+  - Conference
+  - COMPEL
+tags: 
+  - Class D
+  - Resonant Rectifier
+  - Sanghyeon Park
+doi: '10.1109/COMPEL.2016.7556751'
+publishDate: '2016-09-01T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2016 IEEE 17th Workshop on Control and Modeling for Power Electronics (COMPEL)"
+publication_short: "COMPEL"
+abstract: "This paper presents a design methodology for the tuning of a class-D half-wave resonant rectifier with a parallel LC resonant tank input network. Class-D resonant rectifiers offer numerous advantages at high operating frequencies that are leveraged here in the design of a high-voltage rectifier. The absence of a systematic design process, however, has been a limiting factor. Designers have been relying largely on parametric variation during transient simulation to design a rectifier with resistive input impedance at the fundamental frequency of operation. In this paper, we propose a systematic design procedure that begins with universal design curves applicable to any rectifier design of this topology. This is followed by parameter selection and a convergence check that ensures the rectifier operates with the desired output voltage. Experimental results confirm the validity of the design method for both linear and nonlinear resonant capacitances. Based on the outlined procedure, a 25 MHz 500 V rectifier with resistive input impedance is designed and experimentally verified."
+summary: 'This paper presents a design methodology for the tuning of a class-D half-wave resonant rectifier with a parallel LC resonant tank input network. We propose a systematic design procedure that begins with universal design curves applicable to any rectifier design of this topology. This is followed by parameter selection and a convergence check that ensures the rectifier operates with the desired output voltage. Experimental results confirm the validity of the design method for both linear and nonlinear resonant capacitances. Based on the outlined procedure, a 25 MHz 500 V rectifier with resistive input impedance is designed and experimentally verified.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/7556751
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+This paper presents a design methodology for the tuning of a class-D half-wave resonant rectifier with a parallel LC resonant tank input network. Class-D resonant rectifiers offer numerous advantages at high operating frequencies that are leveraged here in the design of a high-voltage rectifier. The absence of a systematic design process, however, has been a limiting factor. Designers have been relying largely on parametric variation during transient simulation to design a rectifier with resistive input impedance at the fundamental frequency of operation. In this paper, we propose a systematic design procedure that begins with universal design curves applicable to any rectifier design of this topology. This is followed by parameter selection and a convergence check that ensures the rectifier operates with the desired output voltage. Experimental results confirm the validity of the design method for both linear and nonlinear resonant capacitances. Based on the outlined procedure, a 25 MHz 500 V rectifier with resistive input impedance is designed and experimentally verified.

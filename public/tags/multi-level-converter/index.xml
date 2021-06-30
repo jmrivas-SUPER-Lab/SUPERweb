@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-level converter on SUPER-Lab</title>
+    <link>/tags/multi-level-converter/</link>
+    <description>Recent content in Multi-level converter on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Oct 2015 00:00:00 +0000</lastBuildDate><atom:link href="/tags/multi-level-converter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>27.12 MHz isolated high voltage gain multi-level resonant DC-DC converter</title>
+      <link>/publication/ecce-hv_raymond/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-hv_raymond/</guid>
+      <description>This paper demonstrates a high efficiency, high power density, and fast transient response dc-dc converter design capable of providing a high-voltage isolated output from a low-voltage input. Specifically, we demonstrate two 100 W, 2000 Vdc proof of concept prototype dc-dc converters operating at a switching frequency of 27.12 MHz with input voltages of 40 V and 100 V respectively. Capacitive isolation provides an efficient means of allowing for multiple rectified outputs to be combined serially without exceeding semi-conductor device limits. Further, it can provide a more efficient means of impedance matching at frequencies of 10s of MHz than traditional methods such as passive matching networks or transformers by the reduction of or elimination of those stages altogether.</description>
+    </item>
+    
+  </channel>
+</rss>

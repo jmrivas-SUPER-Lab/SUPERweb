@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PCB Converter on SUPER-Lab</title>
+    <link>/tags/pcb-converter/</link>
+    <description>Recent content in PCB Converter on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/pcb-converter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structurally supportive RF power inverter for a CubeSat electrothermal plasma micro-thruster with PCB inductors</title>
+      <link>/publication/apec-pocketrocket_liang/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-pocketrocket_liang/</guid>
+      <description>This paper presents a compact RF power inverter implemented with air core inductors for driving an electrothermal plasma micro-thruster, mini Pocket Rocket 3.0 (miniPR 3.0). This miniPR 3.0 and its driving electronics are low volume and are part of an investigation seeking to add propulsion to low cost CubeSats. The air core inductors used in the proposed RF power inverter are formed with PCB traces allowing for a planar and compact design. Advantages of air core inductors include not being subject to saturation or variations from changing material properties of a magnetic core.</description>
+    </item>
+    
+    <item>
+      <title>27.12MHz GaN resonant power converter with PCB embedded resonant air core inductors and capacitors</title>
+      <link>/publication/ecce-gan-pcb_liang/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gan-pcb_liang/</guid>
+      <description>This paper presents the design and implementation of a 27.12 MHz, 320 W, 170 V to 28 V dc-dc resonant power converter with resonant inductors and capacitors embedded into the Printed Circuit Board (PCB). Operating at 27.12 MHz allows for small value and size resonant passive components to be implemented using traces on or within a PCB. A prototype dc-dc converter was built to verify the concept and it reaches an efficiency of 73.6%. A simulated loss analysis is also presented.</description>
+    </item>
+    
+  </channel>
+</rss>
