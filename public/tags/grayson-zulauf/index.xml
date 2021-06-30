@@ -143,6 +143,42 @@
     </item>
     
     <item>
+      <title>A Study on Off-State Losses in Silicon-Carbide Schottky Diodes</title>
+      <link>/publication/coss-sic-diodes_tong/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/coss-sic-diodes_tong/</guid>
+      <description>Among HF/VHF rectifiers, SiC Schottky diodes exhibit larger losses compared to those captured in simulation, with additional off-state losses stemming from energy dissipation during the charging and discharging of the CJ. Because these losses are not included in manufacturer simulation models nor have they been well-studied for SiC Schottky diodes, we experimentally measured them using the Sawyer-Tower circuit and compared the losses across manufacturer, current rating, generation, voltage rating, and packaging. Furthermore, we analyzed the performances of these devices on a class-DE rectifier and compared their power dissipation from the simulation and experimental measurements.</description>
+    </item>
+    
+    <item>
+      <title>Considerations for Active Power Device Selection in High- and Very-High-Frequency Power Converters</title>
+      <link>/publication/compel-powerdevice-selection_zulauf/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-powerdevice-selection_zulauf/</guid>
+      <description>In this paper, we extend recent work on COSS losses, which have a significant impact on high- and very-high-frequency resonant converters, from GaN HEMTs to the remainder of the core active power devices used in medium- and highvoltage power conversion. Here, we characterize COSS losses in Silicon MOSFETs - including superjunctions and traditional constructions - and Silicon Carbide MOSFETs. The measured COSS losses in SiC MOSFETs do not increase with dV/dt at frequencies from 1-35 MHz and applied voltages up to 900 V. Across the tested SiC MOSFETs, 3-10% of the energy stored in the output capacitor is dissipated.</description>
+    </item>
+    
+    <item>
+      <title>Estimating the Reliability of Series-Connected Schottky Diodes for High-Frequency Rectification</title>
+      <link>/publication/compel-series-diodes_park/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-series-diodes_park/</guid>
+      <description>This paper presents a method to predict the overvoltage failure rate of diodes connected in series under high-frequency reverse bias. Conventional approaches use balancing capacitors to ensure the reliability of series-connected diodes at high frequency. Instead, we investigate the viability of achieving voltage balance between devices solely by the match between their junction capacitances. Serializing diodes without extra balancing components increases the blocking voltage and decreases the capacitance, allowing high-voltage conversion at high frequencies for applications such as X-ray. We measure statistical properties of junction capacitances to estimate the reverse voltage limit of 2, 3, and 4 diodes in series. The predicted failure rate shows a good agreement with experimental results.</description>
+    </item>
+    
+    <item>
+      <title>High-Frequency Bidirectional Resonant Converter for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/compel-bidirectional_gu/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-bidirectional_gu/</guid>
+      <description>This paper proposes a bidirectional resonant converter design in which the rectifier and the inverter switches can be driven with the same gate signal at frequencies above 10 MHz. The proposed design enables efficient operation at &amp;gt; 10 MHz for applications which require high conversion-ratio bidirectional power delivery. We demonstrate a 200 W 13.56 MHz 210 V-to-30 V bidirectional converter with a peak efficiency of 90%.</description>
+    </item>
+    
+    <item>
       <title>COSS Losses in 600 V GaN Power Semiconductors in Soft-Switched, High- and Very-High-Frequency Power Converters</title>
       <link>/publication/tpels-coss-gan_zulauf/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>

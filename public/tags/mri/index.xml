@@ -16,5 +16,14 @@
       <description>Typical MRI power amplifiers are characterized by the requirement for high linearity and a high peak-to-average power ratio. Here we present a MRI compatible DC modulator for envelope tracking applications based on a 4-phase interleaved buck converter using air core magnetics and utilizing a FPGA based digital controller. The modulator is capable of delivering 500 W into a 2.5 Ω load at an efficiency of 95.6%, has a 3 dB modulation bandwidth of 50 kHz, and has been tested with a Class-AB linear amplifier operating at 64 MHz to produce a modulated RF envelope with a peak power of 320 W.</description>
     </item>
     
+    <item>
+      <title>High-Frequency Bidirectional Resonant Converter for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/compel-bidirectional_gu/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-bidirectional_gu/</guid>
+      <description>This paper proposes a bidirectional resonant converter design in which the rectifier and the inverter switches can be driven with the same gate signal at frequencies above 10 MHz. The proposed design enables efficient operation at &amp;gt; 10 MHz for applications which require high conversion-ratio bidirectional power delivery. We demonstrate a 200 W 13.56 MHz 210 V-to-30 V bidirectional converter with a peak efficiency of 90%.</description>
+    </item>
+    
   </channel>
 </rss>

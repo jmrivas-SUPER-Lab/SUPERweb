@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inductor-Less on SUPER-Lab</title>
+    <link>/tags/inductor-less/</link>
+    <description>Recent content in Inductor-Less on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/inductor-less/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design of a GaN-Based, Inductor-less, Wireless Power Transfer System at 40.68 MHz</title>
+      <link>/publication/compel-icn-wpt_choi/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-icn-wpt_choi/</guid>
+      <description>Wireless power transfer systems have attracted tremendous attention over the past decade. The design of most small size, low power, WPT systems; however, utilizes ferrite to shield and redirect the magnetic fields. This add to the weight and bulk of the system. In this paper, a small and extremely lightweight, PCB based, proof-of-concept WPT system is demonstrated. The circuit operates at 40.68 MHz and is capable of 20 W of output power. It utilizes no discrete inductors other than the WPT coils themselves and weights only 7 grams. The following paper shows the design methodology and the inductor elimination technique used to achieve such design.</description>
+    </item>
+    
+  </channel>
+</rss>

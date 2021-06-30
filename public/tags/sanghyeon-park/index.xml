@@ -80,6 +80,15 @@
     </item>
     
     <item>
+      <title>Estimating the Reliability of Series-Connected Schottky Diodes for High-Frequency Rectification</title>
+      <link>/publication/compel-series-diodes_park/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-series-diodes_park/</guid>
+      <description>This paper presents a method to predict the overvoltage failure rate of diodes connected in series under high-frequency reverse bias. Conventional approaches use balancing capacitors to ensure the reliability of series-connected diodes at high frequency. Instead, we investigate the viability of achieving voltage balance between devices solely by the match between their junction capacitances. Serializing diodes without extra balancing components increases the blocking voltage and decreases the capacitance, allowing high-voltage conversion at high frequencies for applications such as X-ray. We measure statistical properties of junction capacitances to estimate the reverse voltage limit of 2, 3, and 4 diodes in series. The predicted failure rate shows a good agreement with experimental results.</description>
+    </item>
+    
+    <item>
       <title>Duty Cycle and Frequency Modulations in Class-E DC–DC Converters for a Wide Range of Input and Output Voltages</title>
       <link>/publication/duty-cycle-fm-classe-dcdc-park/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>

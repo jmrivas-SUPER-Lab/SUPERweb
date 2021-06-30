@@ -1,0 +1,39 @@
+---
+title: "A Wide Input Range Isolated Stacked Resonant Switched-Capacitor dc-dc Converter for High Conversion Ratios"
+author: "Y. Li, L. Gu, A. Hariya, Y. Ishizuka, J. Rivas-Davila and S. Sanders"
+date: '2018-09-13'
+slug: -COMPEL-Wide-Input-Range-Stacked_Resonant_Li
+categories:
+  - Conference
+  - COMPEL
+tags: 
+  - Capacitor
+  - Resonant 
+  - Switched Capacitor Converter
+  - Lei Gu
+doi: '10.1109/COMPEL.2018.8459936'
+publishDate: '2018-09-13T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2018 IEEE 19th Workshop on Control and Modeling for Power Electronics (COMPEL)"
+publication_short: "COMPEL"
+abstract: "This paper presents an isolated dc-dc converter architecture for high conversion ratios using the stacked resonant switched-capacitor topology. Capacitive isolation is adopted in place of transformer isolation for saving cost and platform size. With phase shift operation, the topology can support a wide input range with a simple regulation scheme while enabling zero-voltage switching. The topology can be adapted to high conversion ratios via addition of stacking levels while keeping the same magnetics. The experimental results demonstrate a 2-Stack example achieving a peak efficiency of 92.8% and a peak power density of 283 W/inch 3 with 92% efficiency. The converter can also maintain within 3% efficiency drop over 25%-100% load range, and 50%-100% input range."
+summary: 'This paper presents an isolated dc-dc converter architecture for high conversion ratios using the stacked resonant switched-capacitor topology. Capacitive isolation is adopted in place of transformer isolation for saving cost and platform size. With phase shift operation, the topology can support a wide input range with a simple regulation scheme while enabling zero-voltage switching. The topology can be adapted to high conversion ratios via addition of stacking levels while keeping the same magnetics. The experimental results demonstrate a 2-Stack example achieving a peak efficiency of 92.8% and a peak power density of 283 W/inch 3 with 92% efficiency. The converter can also maintain within 3% efficiency drop over 25%-100% load range, and 50%-100% input range.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/8459936
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+This paper presents an isolated dc-dc converter architecture for high conversion ratios using the stacked resonant switched-capacitor topology. Capacitive isolation is adopted in place of transformer isolation for saving cost and platform size. With phase shift operation, the topology can support a wide input range with a simple regulation scheme while enabling zero-voltage switching. The topology can be adapted to high conversion ratios via addition of stacking levels while keeping the same magnetics. The experimental results demonstrate a 2-Stack example achieving a peak efficiency of 92.8% and a peak power density of 283 W/inch 3 with 92% efficiency. The converter can also maintain within 3% efficiency drop over 25%-100% load range, and 50%-100% input range.

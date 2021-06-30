@@ -34,5 +34,14 @@
       <description>In this work, we investigate the origin of these losses in GaN-on-Si High Electron Mobility Transistors (HEMTs) using TCAD simulation and experimental techniques, and find that COSS losses can be separated into resistive loss and GaN-stack trap related loss. From device simulation, we observe the expected dependence of substrate displacement current on dV/dt, and the importance of resistive loss is further confirmed with an experimental Sawyer-Tower test with an external resistor attached to the substrate.</description>
     </item>
     
+    <item>
+      <title>Considerations for Active Power Device Selection in High- and Very-High-Frequency Power Converters</title>
+      <link>/publication/compel-powerdevice-selection_zulauf/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-powerdevice-selection_zulauf/</guid>
+      <description>In this paper, we extend recent work on COSS losses, which have a significant impact on high- and very-high-frequency resonant converters, from GaN HEMTs to the remainder of the core active power devices used in medium- and highvoltage power conversion. Here, we characterize COSS losses in Silicon MOSFETs - including superjunctions and traditional constructions - and Silicon Carbide MOSFETs. The measured COSS losses in SiC MOSFETs do not increase with dV/dt at frequencies from 1-35 MHz and applied voltages up to 900 V. Across the tested SiC MOSFETs, 3-10% of the energy stored in the output capacitor is dissipated.</description>
+    </item>
+    
   </channel>
 </rss>

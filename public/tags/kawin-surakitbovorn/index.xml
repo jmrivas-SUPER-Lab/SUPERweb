@@ -99,6 +99,24 @@
     </item>
     
     <item>
+      <title>Design of a GaN-Based, Inductor-less, Wireless Power Transfer System at 40.68 MHz</title>
+      <link>/publication/compel-icn-wpt_choi/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-icn-wpt_choi/</guid>
+      <description>Wireless power transfer systems have attracted tremendous attention over the past decade. The design of most small size, low power, WPT systems; however, utilizes ferrite to shield and redirect the magnetic fields. This add to the weight and bulk of the system. In this paper, a small and extremely lightweight, PCB based, proof-of-concept WPT system is demonstrated. The circuit operates at 40.68 MHz and is capable of 20 W of output power. It utilizes no discrete inductors other than the WPT coils themselves and weights only 7 grams. The following paper shows the design methodology and the inductor elimination technique used to achieve such design.</description>
+    </item>
+    
+    <item>
+      <title>High-Frequency Bidirectional Resonant Converter for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/compel-bidirectional_gu/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-bidirectional_gu/</guid>
+      <description>This paper proposes a bidirectional resonant converter design in which the rectifier and the inverter switches can be driven with the same gate signal at frequencies above 10 MHz. The proposed design enables efficient operation at &amp;gt; 10 MHz for applications which require high conversion-ratio bidirectional power delivery. We demonstrate a 200 W 13.56 MHz 210 V-to-30 V bidirectional converter with a peak efficiency of 90%.</description>
+    </item>
+    
+    <item>
       <title>COSS Losses in 600 V GaN Power Semiconductors in Soft-Switched, High- and Very-High-Frequency Power Converters</title>
       <link>/publication/tpels-coss-gan_zulauf/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>

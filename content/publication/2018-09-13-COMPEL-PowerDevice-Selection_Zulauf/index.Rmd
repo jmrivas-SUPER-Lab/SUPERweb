@@ -1,0 +1,40 @@
+---
+title: "Considerations for Active Power Device Selection in High- and Very-High-Frequency Power Converters"
+author: "G. Zulauf, Z. Tong and J. Rivas-Davila"
+date: '2018-09-13'
+slug: -COMPEL-PowerDevice-Selection_Zulauf
+categories:
+  - Conference
+  - COMPEL
+tags: 
+  - WBG
+  - Coss Loss 
+  - Device Selection
+  - Zikang Tong
+  - Grayson Zulauf
+doi: '10.1109/COMPEL.2018.8458491'
+publishDate: '2018-09-13T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2018 IEEE 19th Workshop on Control and Modeling for Power Electronics (COMPEL)"
+publication_short: "COMPEL"
+abstract: "In this paper, we extend recent work on COSS losses, which have a significant impact on high- and very-high-frequency resonant converters, from GaN HEMTs to the remainder of the core active power devices used in medium- and highvoltage power conversion. Here, we characterize COSS losses in Silicon MOSFETs - including superjunctions and traditional constructions - and Silicon Carbide MOSFETs. The measured COSS losses in SiC MOSFETs do not increase with dV/dt at frequencies from 1-35 MHz and applied voltages up to 900 V. Across the tested SiC MOSFETs, 3-10% of the energy stored in the output capacitor is dissipated. In Si MOSFETs, COSS losses make the tested devices non-competitive with wide-bandgap devices for MHz-frequency, soft-switched applications. In superjunctions, COSS losses are much higher than those in comparable GaN and SiC devices. In planar MOSFETs, COSS losses are similar to the wide-bandgap devices but the on-resistance is an order-of-magnitude higher in the Si MOSFETs."
+summary: 'In this paper, we extend recent work on COSS losses, which have a significant impact on high- and very-high-frequency resonant converters, from GaN HEMTs to the remainder of the core active power devices used in medium- and highvoltage power conversion. Here, we characterize COSS losses in Silicon MOSFETs - including superjunctions and traditional constructions - and Silicon Carbide MOSFETs. The measured COSS losses in SiC MOSFETs do not increase with dV/dt at frequencies from 1-35 MHz and applied voltages up to 900 V. Across the tested SiC MOSFETs, 3-10% of the energy stored in the output capacitor is dissipated.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/8458491
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+In this paper, we extend recent work on COSS losses, which have a significant impact on high- and very-high-frequency resonant converters, from GaN HEMTs to the remainder of the core active power devices used in medium- and highvoltage power conversion. Here, we characterize COSS losses in Silicon MOSFETs - including superjunctions and traditional constructions - and Silicon Carbide MOSFETs. The measured COSS losses in SiC MOSFETs do not increase with dV/dt at frequencies from 1-35 MHz and applied voltages up to 900 V. Across the tested SiC MOSFETs, 3-10% of the energy stored in the output capacitor is dissipated. In Si MOSFETs, COSS losses make the tested devices non-competitive with wide-bandgap devices for MHz-frequency, soft-switched applications. In superjunctions, COSS losses are much higher than those in comparable GaN and SiC devices. In planar MOSFETs, COSS losses are similar to the wide-bandgap devices but the on-resistance is an order-of-magnitude higher in the Si MOSFETs.

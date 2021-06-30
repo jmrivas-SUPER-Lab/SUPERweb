@@ -70,5 +70,14 @@
       <description>n this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high frequency: namely, the issue of high parasitic inductance packages and the ability to drive and enhance the mosfet at these frequencies. Although power circuit designers have many alternative device technologies to choose from, such as silicon and gallium nitride materials, SiC devices have several advantageous attributes especially in high power applications. As a solution, we study the device performance and parasitics of SiC mosfets in different packaging schemes. We further offer a solution to the challenges of driving SiC devices by demonstrating a multiresonant gate driver and use this scheme to drive an SiC mosfet at 30 MHz and a SiC JFET at 13.56 MHz in a class-E inverter, achieving 85.7% drain efficiency for the mosfet and 93.8% for the JFET.</description>
     </item>
     
+    <item>
+      <title>A Study on Off-State Losses in Silicon-Carbide Schottky Diodes</title>
+      <link>/publication/coss-sic-diodes_tong/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/coss-sic-diodes_tong/</guid>
+      <description>Among HF/VHF rectifiers, SiC Schottky diodes exhibit larger losses compared to those captured in simulation, with additional off-state losses stemming from energy dissipation during the charging and discharging of the CJ. Because these losses are not included in manufacturer simulation models nor have they been well-studied for SiC Schottky diodes, we experimentally measured them using the Sawyer-Tower circuit and compared the losses across manufacturer, current rating, generation, voltage rating, and packaging. Furthermore, we analyzed the performances of these devices on a class-DE rectifier and compared their power dissipation from the simulation and experimental measurements.</description>
+    </item>
+    
   </channel>
 </rss>

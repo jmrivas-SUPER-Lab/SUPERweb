@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diode on SUPER-Lab</title>
+    <link>/tags/diode/</link>
+    <description>Recent content in Diode on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/diode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Study on Off-State Losses in Silicon-Carbide Schottky Diodes</title>
+      <link>/publication/coss-sic-diodes_tong/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/coss-sic-diodes_tong/</guid>
+      <description>Among HF/VHF rectifiers, SiC Schottky diodes exhibit larger losses compared to those captured in simulation, with additional off-state losses stemming from energy dissipation during the charging and discharging of the CJ. Because these losses are not included in manufacturer simulation models nor have they been well-studied for SiC Schottky diodes, we experimentally measured them using the Sawyer-Tower circuit and compared the losses across manufacturer, current rating, generation, voltage rating, and packaging. Furthermore, we analyzed the performances of these devices on a class-DE rectifier and compared their power dissipation from the simulation and experimental measurements.</description>
+    </item>
+    
+  </channel>
+</rss>

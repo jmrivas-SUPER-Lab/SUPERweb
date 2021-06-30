@@ -170,6 +170,33 @@
     </item>
     
     <item>
+      <title>A Wide Input Range Isolated Stacked Resonant Switched-Capacitor dc-dc Converter for High Conversion Ratios</title>
+      <link>/publication/compel-wide-input-range-stacked_resonant_li/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-wide-input-range-stacked_resonant_li/</guid>
+      <description>This paper presents an isolated dc-dc converter architecture for high conversion ratios using the stacked resonant switched-capacitor topology. Capacitive isolation is adopted in place of transformer isolation for saving cost and platform size. With phase shift operation, the topology can support a wide input range with a simple regulation scheme while enabling zero-voltage switching. The topology can be adapted to high conversion ratios via addition of stacking levels while keeping the same magnetics. The experimental results demonstrate a 2-Stack example achieving a peak efficiency of 92.8% and a peak power density of 283 W/inch 3 with 92% efficiency. The converter can also maintain within 3% efficiency drop over 25%-100% load range, and 50%-100% input range.</description>
+    </item>
+    
+    <item>
+      <title>Effect of Class 2 Ceramic Capacitance Variations on Switched Capacitor and Resonant Switched Capacitor Converters</title>
+      <link>/publication/compel-capacitor_xu/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-capacitor_xu/</guid>
+      <description>This paper presents the impact of Class 2 ceramic capacitance (such as X7R) variations on switched capacitor (SC) and resonant switched capacitor (ReSC) converters. Capacitance changes due to aging, temperature, and electric field are studied and modeled in LTSpice simulations. The measured X7R capacitance drop is 1-2% per decade hour due to aging, 18% due to a temperature change from 25°C to 125°C, and 75% due to an applied voltage that is 80% of the rated voltage. Converter performance degradation is quantified in simulation and demonstrated by implementing a 1 MHz 25 W 1:4 Dickson ReSC converter. The converter efficiency decreases from 93.1% to 90.7% due to capacitance variations.</description>
+    </item>
+    
+    <item>
+      <title>High-Frequency Bidirectional Resonant Converter for High Conversion Ratio and Variable Load Operation</title>
+      <link>/publication/compel-bidirectional_gu/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-bidirectional_gu/</guid>
+      <description>This paper proposes a bidirectional resonant converter design in which the rectifier and the inverter switches can be driven with the same gate signal at frequencies above 10 MHz. The proposed design enables efficient operation at &amp;gt; 10 MHz for applications which require high conversion-ratio bidirectional power delivery. We demonstrate a 200 W 13.56 MHz 210 V-to-30 V bidirectional converter with a peak efficiency of 90%.</description>
+    </item>
+    
+    <item>
       <title>A Wide-Input-Range High-Efficiency Step-Down Power Factor Correction Converter Using a Variable Frequency Multiplier Technique,</title>
       <link>/publication/tpels-wide-input-step-down-pfc-variable-freq_gu/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>

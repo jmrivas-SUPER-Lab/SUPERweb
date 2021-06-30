@@ -72,6 +72,24 @@
     </item>
     
     <item>
+      <title>Design of a 13.56 MHz dc-to-dc resonant converter using an impedance compression network to mitigate misalignments in a wireless power transfer system</title>
+      <link>/publication/compel-icn-wpt_choi/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-icn-wpt_choi/</guid>
+      <description>This paper presents the design and implementation of a high-frequency resonant converter with an impedance compression network (ICN) to correct horizontal alignment variations between coils in a wireless power transfer (WPT) system. In order to mitigate variations in coil impedance, we propose an ICN that simultaneously compresses magnitude and phase changes of coil impedance.</description>
+    </item>
+    
+    <item>
+      <title>Effect of Class 2 Ceramic Capacitance Variations on Switched Capacitor and Resonant Switched Capacitor Converters</title>
+      <link>/publication/compel-capacitor_xu/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-capacitor_xu/</guid>
+      <description>This paper presents the impact of Class 2 ceramic capacitance (such as X7R) variations on switched capacitor (SC) and resonant switched capacitor (ReSC) converters. Capacitance changes due to aging, temperature, and electric field are studied and modeled in LTSpice simulations. The measured X7R capacitance drop is 1-2% per decade hour due to aging, 18% due to a temperature change from 25°C to 125°C, and 75% due to an applied voltage that is 80% of the rated voltage. Converter performance degradation is quantified in simulation and demonstrated by implementing a 1 MHz 25 W 1:4 Dickson ReSC converter. The converter efficiency decreases from 93.1% to 90.7% due to capacitance variations.</description>
+    </item>
+    
+    <item>
       <title>Implementing an Impedance Compression Network to Compensate for Misalignments in a Wireless Power Transfer System</title>
       <link>/publication/tpels-icn-wpt-choi/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>

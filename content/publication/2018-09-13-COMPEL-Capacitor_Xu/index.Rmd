@@ -1,0 +1,42 @@
+---
+title: "Effect of Class 2 Ceramic Capacitance Variations on Switched Capacitor and Resonant Switched Capacitor Converters"
+author: "J. Xu, L. Gu, E. Hernandez and J. Rivas-Davila"
+date: '2018-09-13'
+slug: -COMPEL-Capacitor_Xu
+categories:
+  - Conference
+  - COMPEL
+tags: 
+  - Capacitor
+  - Class 2 Ceramic
+  - Resonant 
+  - Switched Capacitor Converter
+  - Lei Gu
+  - JiaLe Xu
+  - Emily Hernandez
+doi: '10.1109/COMPEL.2018.8460140'
+publishDate: '2018-09-13T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2018 IEEE 19th Workshop on Control and Modeling for Power Electronics (COMPEL)"
+publication_short: "COMPEL"
+abstract: "This paper presents the impact of Class 2 ceramic capacitance (such as X7R) variations on switched capacitor (SC) and resonant switched capacitor (ReSC) converters. Capacitance changes due to aging, temperature, and electric field are studied and modeled in LTSpice simulations. The measured X7R capacitance drop is 1-2% per decade hour due to aging, 18% due to a temperature change from 25°C to 125°C, and 75% due to an applied voltage that is 80% of the rated voltage. Converter performance degradation is quantified in simulation and demonstrated by implementing a 1 MHz 25 W 1:4 Dickson ReSC converter. The converter efficiency decreases from 93.1% to 90.7% due to capacitance variations."
+summary: 'This paper presents the impact of Class 2 ceramic capacitance (such as X7R) variations on switched capacitor (SC) and resonant switched capacitor (ReSC) converters. Capacitance changes due to aging, temperature, and electric field are studied and modeled in LTSpice simulations. The measured X7R capacitance drop is 1-2% per decade hour due to aging, 18% due to a temperature change from 25°C to 125°C, and 75% due to an applied voltage that is 80% of the rated voltage. Converter performance degradation is quantified in simulation and demonstrated by implementing a 1 MHz 25 W 1:4 Dickson ReSC converter. The converter efficiency decreases from 93.1% to 90.7% due to capacitance variations.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/8460140
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+This paper presents the impact of Class 2 ceramic capacitance (such as X7R) variations on switched capacitor (SC) and resonant switched capacitor (ReSC) converters. Capacitance changes due to aging, temperature, and electric field are studied and modeled in LTSpice simulations. The measured X7R capacitance drop is 1-2% per decade hour due to aging, 18% due to a temperature change from 25°C to 125°C, and 75% due to an applied voltage that is 80% of the rated voltage. Converter performance degradation is quantified in simulation and demonstrated by implementing a 1 MHz 25 W 1:4 Dickson ReSC converter. The converter efficiency decreases from 93.1% to 90.7% due to capacitance variations.

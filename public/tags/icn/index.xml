@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICN on SUPER-Lab</title>
+    <link>/tags/icn/</link>
+    <description>Recent content in ICN on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/icn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design of a 13.56 MHz dc-to-dc resonant converter using an impedance compression network to mitigate misalignments in a wireless power transfer system</title>
+      <link>/publication/compel-icn-wpt_choi/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-icn-wpt_choi/</guid>
+      <description>This paper presents the design and implementation of a high-frequency resonant converter with an impedance compression network (ICN) to correct horizontal alignment variations between coils in a wireless power transfer (WPT) system. In order to mitigate variations in coil impedance, we propose an ICN that simultaneously compresses magnitude and phase changes of coil impedance.</description>
+    </item>
+    
+  </channel>
+</rss>

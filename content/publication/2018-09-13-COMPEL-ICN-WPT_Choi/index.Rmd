@@ -1,0 +1,40 @@
+---
+title: "Design of a 13.56 MHz dc-to-dc resonant converter using an impedance compression network to mitigate misalignments in a wireless power transfer system"
+author: "J. Choi, J. Xu, R. Makhoul and J. Rivas"
+date: '2018-09-13'
+slug: -COMPEL-ICN-WPT_Choi
+categories:
+  - Conference
+  - COMPEL
+tags: 
+  - GaN
+  - WPT 
+  - ICN
+  - Jungwon Choi
+  - JiaLe Xu
+doi: '10.1109/COMPEL.2018.8460144'
+publishDate: '2018-09-13T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2018 IEEE 19th Workshop on Control and Modeling for Power Electronics (COMPEL)"
+publication_short: "COMPEL"
+abstract: "This paper presents the design and implementation of a high-frequency resonant converter with an impedance compression network (ICN) to correct horizontal alignment variations between coils in a wireless power transfer (WPT) system. Although magnetic resonant coupling (MRC) coils provide high efficiency for charging mid-range WPT applications, any misalignment between them causes a coil-impedance change and significantly affects performance of the resonant inverters. In order to mitigate variations in coil impedance, we propose an ICN that simultaneously compresses magnitude and phase changes of coil impedance. An ICN consists of a resistance compression network (RCN) to compress magnitude variations, and phase compression network (PCN) to remove phase shifts. The main advantage of an ICN is that it requires only lossless components such as inductors or capacitors. Also, by using Smith chart, which is generally used in RF circuit design to easily calculate load variations, we can effectively reduce phase shifts in power electronics circuits with load variations. We connected the ICN between a class Φ2 inverter and MRC coils and then added a class DE rectifier to provide dc-to-dc operation. As a result, we maintained not only zero voltage switching (ZVS) and zero dv/dt operation in a class Φ2 inverter, but also constant efficiency of the whole system when the alignment between coils varied."
+summary: 'This paper presents the design and implementation of a high-frequency resonant converter with an impedance compression network (ICN) to correct horizontal alignment variations between coils in a wireless power transfer (WPT) system. In order to mitigate variations in coil impedance, we propose an ICN that simultaneously compresses magnitude and phase changes of coil impedance.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/8460144
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+This paper presents the design and implementation of a high-frequency resonant converter with an impedance compression network (ICN) to correct horizontal alignment variations between coils in a wireless power transfer (WPT) system. Although magnetic resonant coupling (MRC) coils provide high efficiency for charging mid-range WPT applications, any misalignment between them causes a coil-impedance change and significantly affects performance of the resonant inverters. In order to mitigate variations in coil impedance, we propose an ICN that simultaneously compresses magnitude and phase changes of coil impedance. An ICN consists of a resistance compression network (RCN) to compress magnitude variations, and phase compression network (PCN) to remove phase shifts. The main advantage of an ICN is that it requires only lossless components such as inductors or capacitors. Also, by using Smith chart, which is generally used in RF circuit design to easily calculate load variations, we can effectively reduce phase shifts in power electronics circuits with load variations. We connected the ICN between a class Φ2 inverter and MRC coils and then added a class DE rectifier to provide dc-to-dc operation. As a result, we maintained not only zero voltage switching (ZVS) and zero dv/dt operation in a class Φ2 inverter, but also constant efficiency of the whole system when the alignment between coils varied.
