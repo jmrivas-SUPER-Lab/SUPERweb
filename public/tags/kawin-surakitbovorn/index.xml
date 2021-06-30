@@ -36,6 +36,24 @@
     </item>
     
     <item>
+      <title>Gate Drive for Very Fast Resonant Conversion using SiC Switch</title>
+      <link>/publication/ecce-gatedrive-sic_tong/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gatedrive-sic_tong/</guid>
+      <description>In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency.</description>
+    </item>
+    
+    <item>
+      <title>Gate Drive for Very Fast Resonant Conversion using SiC Switch</title>
+      <link>/publication/ecce-gatedrive-sic_tong/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gatedrive-sic_tong/</guid>
+      <description>In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency.</description>
+    </item>
+    
+    <item>
       <title>A Method to Eliminate Discrete Inductors in a Class-E Inverter Used in Wireless Power Transfer Applications</title>
       <link>/publication/eliminate-discrete-inductors-classe-wpt_surakitbovorn/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
@@ -60,6 +78,15 @@
       
       <guid>/publication/hf-bidirec-resonant-high-conversion-ratio-variable-load_gu/</guid>
       <description>This article proposes an HF/very HF (VHF) resonant converter structure in which the rectifier and the inverter switches can be driven with the same gate signal. The presented structure enables efficient bidirectional power delivery in the HF/VHF range for applications that require a large voltage conversion ratio. A 64-MHz, 12-W, 36-12-V prototype converter verifies the operation of the structure. This article further explores an interleaved architecture of the same circuit to improve efficiency and transient performance.</description>
+    </item>
+    
+    <item>
+      <title>On the Optimal Input Voltage of a Class-E Power Amplifier with GaN HEMTs at MHz Frequency Operation</title>
+      <link>/publication/compel-classe-optimalvoltage_surakitbovorn/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-classe-optimalvoltage_surakitbovorn/</guid>
+      <description>We mathematically analyze the operation of a Class-E amplifier when facing with this Coss loss term. We have found that the conventional wisdom of using the highest input voltage to get the best efficiency no longer holds above a certain frequency. Furthermore, to allow this new loss term to be easily simulated, we propose a distributed loss model for the Coss loss based on a generalized Steinmetz equation (GSE).</description>
     </item>
     
     <item>

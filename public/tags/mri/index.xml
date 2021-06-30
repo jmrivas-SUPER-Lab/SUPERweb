@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MRI on SUPER-Lab</title>
+    <link>/tags/mri/</link>
+    <description>Recent content in MRI on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MRI Compatible DC Modulator for an Envelope Tracking Transmitter,</title>
+      <link>/publication/compel-mri_braun/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-mri_braun/</guid>
+      <description>Typical MRI power amplifiers are characterized by the requirement for high linearity and a high peak-to-average power ratio. Here we present a MRI compatible DC modulator for envelope tracking applications based on a 4-phase interleaved buck converter using air core magnetics and utilizing a FPGA based digital controller. The modulator is capable of delivering 500 W into a 2.5 Ω load at an efficiency of 95.6%, has a 3 dB modulation bandwidth of 50 kHz, and has been tested with a Class-AB linear amplifier operating at 64 MHz to produce a modulated RF envelope with a peak power of 320 W.</description>
+    </item>
+    
+  </channel>
+</rss>

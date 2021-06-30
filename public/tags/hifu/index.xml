@@ -16,5 +16,14 @@
       <description>We developed previously a 2D CMUT array with capability to both do imaging and generate HIFU for ablation of targeted tissues without collateral damage. This new technology allows a more compact HIFU system, when compared to conventional systems composed of HIFU transducers made of PZT, cooling systems for PZT and additional imaging guidance systems. In this paper we present new dc and RF power electronics that drive our 2D CMUT array. The new electronics are significantly more compact and capable of fast-switching between imaging and HIFU mode.</description>
     </item>
     
+    <item>
+      <title>Multiphase GaN Class-D Resonant Amplifier for High-Intensity Focused Ultrasound</title>
+      <link>/publication/compel-hifu_gu/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-hifu_gu/</guid>
+      <description>Focused ultrasound treats tissue deep in the body without damaging surrounding structures. Driven by large-amplitude RF electrical signals, ultrasonic transducers can generate large pressure acoustic wave. Wide-bandgap semiconductors, e.g., Gallium Nitride (GaN), greatly simplify the design and reduce the requisite size and weight of RF amplifiers, and so improves the portability of focused ultrasound device. Here, we demonstrate a compact 8-phase 5 MHz Class-D resonant amplifier for a focused ultrasound cancer therapy application.</description>
+    </item>
+    
   </channel>
 </rss>

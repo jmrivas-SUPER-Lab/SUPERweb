@@ -6,7 +6,25 @@
     <description>Recent content in SiC on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gate Drive for Very Fast Resonant Conversion using SiC Switch</title>
+      <link>/publication/ecce-gatedrive-sic_tong/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gatedrive-sic_tong/</guid>
+      <description>In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency.</description>
+    </item>
+    
+    <item>
+      <title>Gate Drive for Very Fast Resonant Conversion using SiC Switch</title>
+      <link>/publication/ecce-gatedrive-sic_tong/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gatedrive-sic_tong/</guid>
+      <description>In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency.</description>
+    </item>
+    
     <item>
       <title>Cascode GaN/SiC: A Wide-Bandgap Heterogenous Power Device for High-Frequency Applications</title>
       <link>/publication/cascode-gan-sic_xu/</link>
@@ -14,6 +32,15 @@
       
       <guid>/publication/cascode-gan-sic_xu/</guid>
       <description>operating at higher frequencies requires faster switching devices in packages with low parasitics. Wide-bandgap (WBG) power devices, such as gallium nitride (GaN) and silicon carbide (SiC) devices, have high-critical fields and high-thermal conductivity that make them good candidates for efficient high-voltage and high-frequency operations. Commercially available GaN and SiC devices have ratings targeting different applications. Lateral GaN devices dominate in lower voltage(&amp;lt;; 650V) and high-frequency applications as they have relatively small device capacitances (C oss , C iss ), which make them easy to drive at high frequencies. This paper presents a cascoded GaN/SiC device that overcome many of these limitations.</description>
+    </item>
+    
+    <item>
+      <title>Low-Loss Gate Driving Techniques of the Cascode GaN/SiC Power Device at High Frequencies</title>
+      <link>/publication/compel-gatedrive-cascode-gansic_xu/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gatedrive-cascode-gansic_xu/</guid>
+      <description>Cascoding a GaN HEMT and a SiC JFET best utilizes the advantages of both of these WBG power devices. Like GaN devices, the cascode GaN/SiC device is easy to drive at high frequencies and has low gate loss; like SiC devices, it also has relatively high voltage rating and low Coss energy loss at high frequencies. In this paper, we present our investigation of the gate loss mechanism of the SiC JFET in the cascode structure and our finding that the loss can be greatly reduced by minimizing the gate resistance of the SiC JFET (R g,Jfet ).</description>
     </item>
     
     <item>

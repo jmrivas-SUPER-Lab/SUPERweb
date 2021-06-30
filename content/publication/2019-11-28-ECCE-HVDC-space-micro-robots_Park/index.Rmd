@@ -1,0 +1,41 @@
+---
+title: "Miniature High-Voltage DC-DC Power Converters for Space and Micro-Robotic Applications"
+author: "S. Park, A. Goldin and J. Rivas-Davila"
+date: '2019-11-28'
+slug: -ECCE-HVDC-space-micro-robots_Park
+categories:
+  - Conference
+  - ECCE
+tags: 
+  - High Voltage
+  - Micro-robots
+  - Class E
+  - Resonant
+  - Sanghyeon Park
+  - Aaron Goldin
+doi: '10.1109/ECCE.2019.8913249'
+publishDate: '2019-11-28T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2019 IEEE Energy Conversion Congress and Exposition (ECCE)"
+publication_short: "ECCE"
+abstract: "We develop a small and lightweight high-voltage high-gain power converter for applications where weight and size are premium. By driving a Dickson and Cockcroft-Walton voltage multiplier with a megahertz-frequency class-E inverter, we implement two converters, one that achieves 40 V-to-2 kV conversion with 16 cm 3 box volume and the other that achieves 3.7 V-to-2.9 kV conversion with 0.2 cm 3 box volume and 0.49 g weight. Presented converters achieve comparable or better power density and specific power to those of commercial high-voltage power supplies."
+summary: 'We develop a small and lightweight high-voltage high-gain power converter for applications where weight and size are premium. By driving a Dickson and Cockcroft-Walton voltage multiplier with a megahertz-frequency class-E inverter, we implement two converters, one that achieves 40 V-to-2 kV conversion with 16 cm 3 box volume and the other that achieves 3.7 V-to-2.9 kV conversion with 0.2 cm 3 box volume and 0.49 g weight. Presented converters achieve comparable or better power density and specific power to those of commercial high-voltage power supplies.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/8913249
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+We develop a small and lightweight high-voltage high-gain power converter for applications where weight and size are premium. By driving a Dickson and Cockcroft-Walton voltage multiplier with a megahertz-frequency class-E inverter, we implement two converters, one that achieves 40 V-to-2 kV conversion with 16 cm 3 box volume and the other that achieves 3.7 V-to-2.9 kV conversion with 0.2 cm 3 box volume and 0.49 g weight. Presented converters achieve comparable or better power density and specific power to those of commercial high-voltage power supplies.

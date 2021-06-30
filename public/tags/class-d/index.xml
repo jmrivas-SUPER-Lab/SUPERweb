@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Class D on SUPER-Lab</title>
+    <link>/tags/class-d/</link>
+    <description>Recent content in Class D on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/class-d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multiphase GaN Class-D Resonant Amplifier for High-Intensity Focused Ultrasound</title>
+      <link>/publication/compel-hifu_gu/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-hifu_gu/</guid>
+      <description>Focused ultrasound treats tissue deep in the body without damaging surrounding structures. Driven by large-amplitude RF electrical signals, ultrasonic transducers can generate large pressure acoustic wave. Wide-bandgap semiconductors, e.g., Gallium Nitride (GaN), greatly simplify the design and reduce the requisite size and weight of RF amplifiers, and so improves the portability of focused ultrasound device. Here, we demonstrate a compact 8-phase 5 MHz Class-D resonant amplifier for a focused ultrasound cancer therapy application.</description>
+    </item>
+    
+  </channel>
+</rss>

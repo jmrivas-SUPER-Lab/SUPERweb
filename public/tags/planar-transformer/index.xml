@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planar Transformer on SUPER-Lab</title>
+    <link>/tags/planar-transformer/</link>
+    <description>Recent content in Planar Transformer on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/planar-transformer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Compact 45 V-to-54 kV Modular DC-DC Converter</title>
+      <link>/publication/compel-40to54kv_park/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-40to54kv_park/</guid>
+      <description>This paper presents the design of a compact 45 V-to-54 kV dc-dc converter for high-energy beam applications with the focus on X-ray generation. We describe key design choices for a high power density including a modular structure, high-frequency switching, planar transformers and Dickson topology. High-voltage insulation and thermal management are also described in detail. The experimental data with with a 5 kV single module and a 10-module 54 kV converter indicate that the proposed structure can generate high dc voltage while achieving a several times higher power density compared to commercial high-voltage power supplies.</description>
+    </item>
+    
+  </channel>
+</rss>

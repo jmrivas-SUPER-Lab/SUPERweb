@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization on SUPER-Lab</title>
+    <link>/tags/optimization/</link>
+    <description>Recent content in Optimization on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the Optimal Input Voltage of a Class-E Power Amplifier with GaN HEMTs at MHz Frequency Operation</title>
+      <link>/publication/compel-classe-optimalvoltage_surakitbovorn/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-classe-optimalvoltage_surakitbovorn/</guid>
+      <description>We mathematically analyze the operation of a Class-E amplifier when facing with this Coss loss term. We have found that the conventional wisdom of using the highest input voltage to get the best efficiency no longer holds above a certain frequency. Furthermore, to allow this new loss term to be easily simulated, we propose a distributed loss model for the Coss loss based on a generalized Steinmetz equation (GSE).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -45,6 +45,15 @@
     </item>
     
     <item>
+      <title>Low-Loss Gate Driving Techniques of the Cascode GaN/SiC Power Device at High Frequencies</title>
+      <link>/publication/compel-gatedrive-cascode-gansic_xu/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gatedrive-cascode-gansic_xu/</guid>
+      <description>Cascoding a GaN HEMT and a SiC JFET best utilizes the advantages of both of these WBG power devices. Like GaN devices, the cascode GaN/SiC device is easy to drive at high frequencies and has low gate loss; like SiC devices, it also has relatively high voltage rating and low Coss energy loss at high frequencies. In this paper, we present our investigation of the gate loss mechanism of the SiC JFET in the cascode structure and our finding that the loss can be greatly reduced by minimizing the gate resistance of the SiC JFET (R g,Jfet ).</description>
+    </item>
+    
+    <item>
       <title>Output Capacitance Loss Characterization of Silicon Carbide Schottky Diodes</title>
       <link>/publication/jestpe-coss-loss-sic-diodes_tong/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>

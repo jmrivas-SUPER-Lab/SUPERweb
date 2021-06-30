@@ -70,5 +70,95 @@
       <description>The inductor presents one of the biggest obstacles in miniaturizing power electronics. In this paper we present a piezoelectric resonator for power conversion fabricated out of lithium niobate, a material that has several advantages for high frequency power conversion compared to the more commonly used PZT ceramics. The piezoelectric resonator is used in a step-down dc-dc converter that achieves zero voltage soft switching and a continuously variable conversion ratio without the use of magnetic components. The converter operates at 6.3MHz and has a maximum power output of 30W at an efficiency of 92.7%, achieving a power density of 16.7 W/cm 3</description>
     </item>
     
+    <item>
+      <title>Gate Drive for Very Fast Resonant Conversion using SiC Switch</title>
+      <link>/publication/ecce-gatedrive-sic_tong/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gatedrive-sic_tong/</guid>
+      <description>In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency.</description>
+    </item>
+    
+    <item>
+      <title>Gate Drive for Very Fast Resonant Conversion using SiC Switch</title>
+      <link>/publication/ecce-gatedrive-sic_tong/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gatedrive-sic_tong/</guid>
+      <description>In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency.</description>
+    </item>
+    
+    <item>
+      <title>Miniature High-Voltage DC-DC Power Converters for Space and Micro-Robotic Applications</title>
+      <link>/publication/ecce-hvdc-space-micro-robots_park/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-hvdc-space-micro-robots_park/</guid>
+      <description>We develop a small and lightweight high-voltage high-gain power converter for applications where weight and size are premium. By driving a Dickson and Cockcroft-Walton voltage multiplier with a megahertz-frequency class-E inverter, we implement two converters, one that achieves 40 V-to-2 kV conversion with 16 cm 3 box volume and the other that achieves 3.7 V-to-2.9 kV conversion with 0.2 cm 3 box volume and 0.49 g weight. Presented converters achieve comparable or better power density and specific power to those of commercial high-voltage power supplies.</description>
+    </item>
+    
+    <item>
+      <title>3-D Printed Air-Core Toroidal Transformer for High-Frequency Power Conversion</title>
+      <link>/publication/compel-3d-aircore-transformer_tong/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-3d-aircore-transformer_tong/</guid>
+      <description>This paper presents a nested toroidal air-core transformer utilizing a 3-D printing and electroplating fabrication methodology. The first part of this work discusses design equations to achieve the target inductance matrix. Lastly, this work provides experimental demonstrations of the transformer design including a 40.68 MHz 48-to-350 V resonant dc-dc converter.</description>
+    </item>
+    
+    <item>
+      <title>A Compact 45 V-to-54 kV Modular DC-DC Converter</title>
+      <link>/publication/compel-40to54kv_park/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-40to54kv_park/</guid>
+      <description>This paper presents the design of a compact 45 V-to-54 kV dc-dc converter for high-energy beam applications with the focus on X-ray generation. We describe key design choices for a high power density including a modular structure, high-frequency switching, planar transformers and Dickson topology. High-voltage insulation and thermal management are also described in detail. The experimental data with with a 5 kV single module and a 10-module 54 kV converter indicate that the proposed structure can generate high dc voltage while achieving a several times higher power density compared to commercial high-voltage power supplies.</description>
+    </item>
+    
+    <item>
+      <title>An Investigation into the Causes of COSS Losses in GaN-on-Si HEMTs</title>
+      <link>/publication/compel-gan-coss_zhuang/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gan-coss_zhuang/</guid>
+      <description>In this work, we investigate the origin of these losses in GaN-on-Si High Electron Mobility Transistors (HEMTs) using TCAD simulation and experimental techniques, and find that COSS losses can be separated into resistive loss and GaN-stack trap related loss. From device simulation, we observe the expected dependence of substrate displacement current on dV/dt, and the importance of resistive loss is further confirmed with an experimental Sawyer-Tower test with an external resistor attached to the substrate.</description>
+    </item>
+    
+    <item>
+      <title>Low-Loss Gate Driving Techniques of the Cascode GaN/SiC Power Device at High Frequencies</title>
+      <link>/publication/compel-gatedrive-cascode-gansic_xu/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gatedrive-cascode-gansic_xu/</guid>
+      <description>Cascoding a GaN HEMT and a SiC JFET best utilizes the advantages of both of these WBG power devices. Like GaN devices, the cascode GaN/SiC device is easy to drive at high frequencies and has low gate loss; like SiC devices, it also has relatively high voltage rating and low Coss energy loss at high frequencies. In this paper, we present our investigation of the gate loss mechanism of the SiC JFET in the cascode structure and our finding that the loss can be greatly reduced by minimizing the gate resistance of the SiC JFET (R g,Jfet ).</description>
+    </item>
+    
+    <item>
+      <title>MRI Compatible DC Modulator for an Envelope Tracking Transmitter,</title>
+      <link>/publication/compel-mri_braun/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-mri_braun/</guid>
+      <description>Typical MRI power amplifiers are characterized by the requirement for high linearity and a high peak-to-average power ratio. Here we present a MRI compatible DC modulator for envelope tracking applications based on a 4-phase interleaved buck converter using air core magnetics and utilizing a FPGA based digital controller. The modulator is capable of delivering 500 W into a 2.5 Ω load at an efficiency of 95.6%, has a 3 dB modulation bandwidth of 50 kHz, and has been tested with a Class-AB linear amplifier operating at 64 MHz to produce a modulated RF envelope with a peak power of 320 W.</description>
+    </item>
+    
+    <item>
+      <title>Multiphase GaN Class-D Resonant Amplifier for High-Intensity Focused Ultrasound</title>
+      <link>/publication/compel-hifu_gu/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-hifu_gu/</guid>
+      <description>Focused ultrasound treats tissue deep in the body without damaging surrounding structures. Driven by large-amplitude RF electrical signals, ultrasonic transducers can generate large pressure acoustic wave. Wide-bandgap semiconductors, e.g., Gallium Nitride (GaN), greatly simplify the design and reduce the requisite size and weight of RF amplifiers, and so improves the portability of focused ultrasound device. Here, we demonstrate a compact 8-phase 5 MHz Class-D resonant amplifier for a focused ultrasound cancer therapy application.</description>
+    </item>
+    
+    <item>
+      <title>On the Optimal Input Voltage of a Class-E Power Amplifier with GaN HEMTs at MHz Frequency Operation</title>
+      <link>/publication/compel-classe-optimalvoltage_surakitbovorn/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-classe-optimalvoltage_surakitbovorn/</guid>
+      <description>We mathematically analyze the operation of a Class-E amplifier when facing with this Coss loss term. We have found that the conventional wisdom of using the highest input voltage to get the best efficiency no longer holds above a certain frequency. Furthermore, to allow this new loss term to be easily simulated, we propose a distributed loss model for the Coss loss based on a generalized Steinmetz equation (GSE).</description>
+    </item>
+    
   </channel>
 </rss>

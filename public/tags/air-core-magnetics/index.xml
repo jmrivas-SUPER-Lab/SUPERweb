@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Air Core Magnetics on SUPER-Lab</title>
+    <link>/tags/air-core-magnetics/</link>
+    <description>Recent content in Air Core Magnetics on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/air-core-magnetics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Compact 45 V-to-54 kV Modular DC-DC Converter</title>
+      <link>/publication/compel-40to54kv_park/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-40to54kv_park/</guid>
+      <description>This paper presents the design of a compact 45 V-to-54 kV dc-dc converter for high-energy beam applications with the focus on X-ray generation. We describe key design choices for a high power density including a modular structure, high-frequency switching, planar transformers and Dickson topology. High-voltage insulation and thermal management are also described in detail. The experimental data with with a 5 kV single module and a 10-module 54 kV converter indicate that the proposed structure can generate high dc voltage while achieving a several times higher power density compared to commercial high-voltage power supplies.</description>
+    </item>
+    
+    <item>
+      <title>MRI Compatible DC Modulator for an Envelope Tracking Transmitter,</title>
+      <link>/publication/compel-mri_braun/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-mri_braun/</guid>
+      <description>Typical MRI power amplifiers are characterized by the requirement for high linearity and a high peak-to-average power ratio. Here we present a MRI compatible DC modulator for envelope tracking applications based on a 4-phase interleaved buck converter using air core magnetics and utilizing a FPGA based digital controller. The modulator is capable of delivering 500 W into a 2.5 Ω load at an efficiency of 95.6%, has a 3 dB modulation bandwidth of 50 kHz, and has been tested with a Class-AB linear amplifier operating at 64 MHz to produce a modulated RF envelope with a peak power of 320 W.</description>
+    </item>
+    
+  </channel>
+</rss>

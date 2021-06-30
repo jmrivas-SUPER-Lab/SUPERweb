@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gate Drive on SUPER-Lab</title>
+    <link>/tags/gate-drive/</link>
+    <description>Recent content in Gate Drive on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/gate-drive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gate Drive for Very Fast Resonant Conversion using SiC Switch</title>
+      <link>/publication/ecce-gatedrive-sic_tong/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gatedrive-sic_tong/</guid>
+      <description>In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency.</description>
+    </item>
+    
+    <item>
+      <title>Gate Drive for Very Fast Resonant Conversion using SiC Switch</title>
+      <link>/publication/ecce-gatedrive-sic_tong/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gatedrive-sic_tong/</guid>
+      <description>In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency.</description>
+    </item>
+    
+  </channel>
+</rss>

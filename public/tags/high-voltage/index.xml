@@ -16,5 +16,14 @@
       <description>In this letter, we motivate the need for application-specific power electronics solutions for electroadhesive perching, develop a useful figure of merit (the “specific voltage”) for comparing and guiding efforts, and walk through the design methodology of a system implementation. We conclude by showing that this high voltage power supply enables, for the first time in the literature, tetherless electroadhesive perching of a commercial micro quadrotor.</description>
     </item>
     
+    <item>
+      <title>Miniature High-Voltage DC-DC Power Converters for Space and Micro-Robotic Applications</title>
+      <link>/publication/ecce-hvdc-space-micro-robots_park/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-hvdc-space-micro-robots_park/</guid>
+      <description>We develop a small and lightweight high-voltage high-gain power converter for applications where weight and size are premium. By driving a Dickson and Cockcroft-Walton voltage multiplier with a megahertz-frequency class-E inverter, we implement two converters, one that achieves 40 V-to-2 kV conversion with 16 cm 3 box volume and the other that achieves 3.7 V-to-2.9 kV conversion with 0.2 cm 3 box volume and 0.49 g weight. Presented converters achieve comparable or better power density and specific power to those of commercial high-voltage power supplies.</description>
+    </item>
+    
   </channel>
 </rss>

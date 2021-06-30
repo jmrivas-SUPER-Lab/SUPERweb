@@ -70,5 +70,32 @@
       <description>The efficiency of megahertz-frequency inductive wireless power transfer designs is currently limited by the quality factor of the resonant tanks and the coils. In this article, we use two-dimensional finite-element analysis to optimize the cross section of single-turn air-core inductors for this application and demonstrate coils for wireless power at high-frequency and very-high-frequency industrial, scientific, and medical (ISM) bands. Our resonant tanks achieve diameter-normalized quality factors (Q d ) that are 25%-70% better than the state of the art for air-core coils at 6.78 MHz (Q d = 73 cm -1 ) and 13.56 MHz (102), and we show significant improvements at the 27.12 MHz (123) and 40.68 MHz (137) ISM bands.</description>
     </item>
     
+    <item>
+      <title>An Investigation into the Causes of COSS Losses in GaN-on-Si HEMTs</title>
+      <link>/publication/compel-gan-coss_zhuang/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gan-coss_zhuang/</guid>
+      <description>In this work, we investigate the origin of these losses in GaN-on-Si High Electron Mobility Transistors (HEMTs) using TCAD simulation and experimental techniques, and find that COSS losses can be separated into resistive loss and GaN-stack trap related loss. From device simulation, we observe the expected dependence of substrate displacement current on dV/dt, and the importance of resistive loss is further confirmed with an experimental Sawyer-Tower test with an external resistor attached to the substrate.</description>
+    </item>
+    
+    <item>
+      <title>Low-Loss Gate Driving Techniques of the Cascode GaN/SiC Power Device at High Frequencies</title>
+      <link>/publication/compel-gatedrive-cascode-gansic_xu/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gatedrive-cascode-gansic_xu/</guid>
+      <description>Cascoding a GaN HEMT and a SiC JFET best utilizes the advantages of both of these WBG power devices. Like GaN devices, the cascode GaN/SiC device is easy to drive at high frequencies and has low gate loss; like SiC devices, it also has relatively high voltage rating and low Coss energy loss at high frequencies. In this paper, we present our investigation of the gate loss mechanism of the SiC JFET in the cascode structure and our finding that the loss can be greatly reduced by minimizing the gate resistance of the SiC JFET (R g,Jfet ).</description>
+    </item>
+    
+    <item>
+      <title>On the Optimal Input Voltage of a Class-E Power Amplifier with GaN HEMTs at MHz Frequency Operation</title>
+      <link>/publication/compel-classe-optimalvoltage_surakitbovorn/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-classe-optimalvoltage_surakitbovorn/</guid>
+      <description>We mathematically analyze the operation of a Class-E amplifier when facing with this Coss loss term. We have found that the conventional wisdom of using the highest input voltage to get the best efficiency no longer holds above a certain frequency. Furthermore, to allow this new loss term to be easily simulated, we propose a distributed loss model for the Coss loss based on a generalized Steinmetz equation (GSE).</description>
+    </item>
+    
   </channel>
 </rss>

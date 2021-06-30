@@ -971,9 +971,63 @@
     </item>
     
     <item>
+      <title>Class E</title>
+      <link>/tags/class-e/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/class-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gate Drive</title>
+      <link>/tags/gate-drive/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gate-drive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micro-robots</title>
+      <link>/tags/micro-robots/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/micro-robots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiresonant</title>
+      <link>/tags/multiresonant/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multiresonant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonant</title>
+      <link>/tags/resonant/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/resonant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonant Gate Drive</title>
+      <link>/tags/resonant-gate-drive/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/resonant-gate-drive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SiC</title>
       <link>/tags/sic/</link>
-      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/sic/</guid>
       <description></description>
@@ -1102,6 +1156,141 @@
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/vhf-circuits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3-D Printed Magnetics</title>
+      <link>/tags/3-d-printed-magnetics/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/3-d-printed-magnetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air Core Magnetics</title>
+      <link>/tags/air-core-magnetics/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/air-core-magnetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aircore Magnetics</title>
+      <link>/tags/aircore-magnetics/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/aircore-magnetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aircore Transformer</title>
+      <link>/tags/aircore-transformer/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/aircore-transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Butrus Khuri-Yakub</title>
+      <link>/tags/butrus-khuri-yakub/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/butrus-khuri-yakub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cascode</title>
+      <link>/tags/cascode/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cascode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class D</title>
+      <link>/tags/class-d/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/class-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Envelope Tracking</title>
+      <link>/tags/envelope-tracking/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/envelope-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Plummer</title>
+      <link>/tags/james-plummer/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/james-plummer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JFET</title>
+      <link>/tags/jfet/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jfet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRI</title>
+      <link>/tags/mri/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>/tags/optimization/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planar Transformer</title>
+      <link>/tags/planar-transformer/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/planar-transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toroidal Transformer</title>
+      <link>/tags/toroidal-transformer/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/toroidal-transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X-Ray</title>
+      <link>/tags/x-ray/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/x-ray/</guid>
       <description></description>
     </item>
     

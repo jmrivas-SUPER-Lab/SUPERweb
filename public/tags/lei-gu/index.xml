@@ -62,6 +62,24 @@
     </item>
     
     <item>
+      <title>Gate Drive for Very Fast Resonant Conversion using SiC Switch</title>
+      <link>/publication/ecce-gatedrive-sic_tong/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gatedrive-sic_tong/</guid>
+      <description>In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency.</description>
+    </item>
+    
+    <item>
+      <title>Gate Drive for Very Fast Resonant Conversion using SiC Switch</title>
+      <link>/publication/ecce-gatedrive-sic_tong/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-gatedrive-sic_tong/</guid>
+      <description>In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency.</description>
+    </item>
+    
+    <item>
       <title>Effect of Class 2 Ceramic Capacitor Variations on Switched-Capacitor and Resonant Switched-Capacitor Converters,</title>
       <link>/publication/class2caps-variation-switchedcap_xu/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
@@ -77,6 +95,51 @@
       
       <guid>/publication/hf-bidirec-resonant-high-conversion-ratio-variable-load_gu/</guid>
       <description>This article proposes an HF/very HF (VHF) resonant converter structure in which the rectifier and the inverter switches can be driven with the same gate signal. The presented structure enables efficient bidirectional power delivery in the HF/VHF range for applications that require a large voltage conversion ratio. A 64-MHz, 12-W, 36-12-V prototype converter verifies the operation of the structure. This article further explores an interleaved architecture of the same circuit to improve efficiency and transient performance.</description>
+    </item>
+    
+    <item>
+      <title>A Compact 45 V-to-54 kV Modular DC-DC Converter</title>
+      <link>/publication/compel-40to54kv_park/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-40to54kv_park/</guid>
+      <description>This paper presents the design of a compact 45 V-to-54 kV dc-dc converter for high-energy beam applications with the focus on X-ray generation. We describe key design choices for a high power density including a modular structure, high-frequency switching, planar transformers and Dickson topology. High-voltage insulation and thermal management are also described in detail. The experimental data with with a 5 kV single module and a 10-module 54 kV converter indicate that the proposed structure can generate high dc voltage while achieving a several times higher power density compared to commercial high-voltage power supplies.</description>
+    </item>
+    
+    <item>
+      <title>Low-Loss Gate Driving Techniques of the Cascode GaN/SiC Power Device at High Frequencies</title>
+      <link>/publication/compel-gatedrive-cascode-gansic_xu/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gatedrive-cascode-gansic_xu/</guid>
+      <description>Cascoding a GaN HEMT and a SiC JFET best utilizes the advantages of both of these WBG power devices. Like GaN devices, the cascode GaN/SiC device is easy to drive at high frequencies and has low gate loss; like SiC devices, it also has relatively high voltage rating and low Coss energy loss at high frequencies. In this paper, we present our investigation of the gate loss mechanism of the SiC JFET in the cascode structure and our finding that the loss can be greatly reduced by minimizing the gate resistance of the SiC JFET (R g,Jfet ).</description>
+    </item>
+    
+    <item>
+      <title>MRI Compatible DC Modulator for an Envelope Tracking Transmitter,</title>
+      <link>/publication/compel-mri_braun/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-mri_braun/</guid>
+      <description>Typical MRI power amplifiers are characterized by the requirement for high linearity and a high peak-to-average power ratio. Here we present a MRI compatible DC modulator for envelope tracking applications based on a 4-phase interleaved buck converter using air core magnetics and utilizing a FPGA based digital controller. The modulator is capable of delivering 500 W into a 2.5 Ω load at an efficiency of 95.6%, has a 3 dB modulation bandwidth of 50 kHz, and has been tested with a Class-AB linear amplifier operating at 64 MHz to produce a modulated RF envelope with a peak power of 320 W.</description>
+    </item>
+    
+    <item>
+      <title>Multiphase GaN Class-D Resonant Amplifier for High-Intensity Focused Ultrasound</title>
+      <link>/publication/compel-hifu_gu/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-hifu_gu/</guid>
+      <description>Focused ultrasound treats tissue deep in the body without damaging surrounding structures. Driven by large-amplitude RF electrical signals, ultrasonic transducers can generate large pressure acoustic wave. Wide-bandgap semiconductors, e.g., Gallium Nitride (GaN), greatly simplify the design and reduce the requisite size and weight of RF amplifiers, and so improves the portability of focused ultrasound device. Here, we demonstrate a compact 8-phase 5 MHz Class-D resonant amplifier for a focused ultrasound cancer therapy application.</description>
+    </item>
+    
+    <item>
+      <title>On the Optimal Input Voltage of a Class-E Power Amplifier with GaN HEMTs at MHz Frequency Operation</title>
+      <link>/publication/compel-classe-optimalvoltage_surakitbovorn/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-classe-optimalvoltage_surakitbovorn/</guid>
+      <description>We mathematically analyze the operation of a Class-E amplifier when facing with this Coss loss term. We have found that the conventional wisdom of using the highest input voltage to get the best efficiency no longer holds above a certain frequency. Furthermore, to allow this new loss term to be easily simulated, we propose a distributed loss model for the Coss loss based on a generalized Steinmetz equation (GSE).</description>
     </item>
     
     <item>

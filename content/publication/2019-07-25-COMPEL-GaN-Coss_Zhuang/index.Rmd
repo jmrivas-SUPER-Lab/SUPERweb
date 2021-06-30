@@ -1,0 +1,41 @@
+---
+title: "An Investigation into the Causes of COSS Losses in GaN-on-Si HEMTs"
+author: "J. Zhuang, G. Zulauf, J. Roig, J. D. Plummer and J. Rivas-Davila"
+date: '2019-07-25'
+slug: -COMPEL-GaN-Coss_Zhuang
+categories:
+  - Conference
+  - COMPEL
+tags: 
+  - WBG
+  - GaN
+  - Coss loss
+  - Jia Zhuang
+  - Grayson Zulauf
+  - James Plummer
+doi: '10.1109/COMPEL.2019.8769661'
+publishDate: '2019-07-25T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2019 20th Workshop on Control and Modeling for Power Electronics (COMPEL)"
+publication_short: "COMPEL"
+abstract: "In high-frequency, soft-switched power converters, off-state losses from resonantly charging and discharging the semiconductor output capacitor have severely limited the achievable performance. In this work, we investigate the origin of these losses in GaN-on-Si High Electron Mobility Transistors (HEMTs) using TCAD simulation and experimental techniques, and find that C OSS losses can be separated into resistive loss and GaN-stack trap related loss. The resistive loss, or i 2 R losses, are a combination of resistance in the GaN stack and the Si substrate, and we detail the effect of displacement current through the highly-resistive substrate layer. The GaN-stack trap-related loss is dominated by trapping dynamics. An estimated contribution percentage from these two dominant loss mechanisms is calculated and presented to focus future efforts on solving these two problems.Our insights are supported by device simulation and experimental, including supplementing the Sawyer-Tower test technique with external substrate resistors and temperature variation. From device simulation, we observe the expected dependence of substrate displacement current on dV/dt, and the importance of resistive loss is further confirmed with an experimental Sawyer-Tower test with an external resistor attached to the substrate. Under the assumption that the resistive loss is insensitive to temperature change, GaN-stack trap related loss is investigated with the temperature-controlled Sawyer-Tower test, pointing to the criticality of trapping dynamics in C OSS losses."
+summary: 'In this work, we investigate the origin of these losses in GaN-on-Si High Electron Mobility Transistors (HEMTs) using TCAD simulation and experimental techniques, and find that COSS losses can be separated into resistive loss and GaN-stack trap related loss. From device simulation, we observe the expected dependence of substrate displacement current on dV/dt, and the importance of resistive loss is further confirmed with an experimental Sawyer-Tower test with an external resistor attached to the substrate.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/8769661
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+In high-frequency, soft-switched power converters, off-state losses from resonantly charging and discharging the semiconductor output capacitor, or "C OSS losses", have severely limited the achievable performance. In this work, we investigate the origin of these losses in GaN-on-Si High Electron Mobility Transistors (HEMTs) using TCAD simulation and experimental techniques, and find that C OSS losses can be separated into resistive loss and GaN-stack trap related loss. The resistive loss, or i 2 R losses, are a combination of resistance in the GaN stack and the Si substrate, and we detail the effect of displacement current through the highly-resistive substrate layer. The GaN-stack trap-related loss is dominated by trapping dynamics. An estimated contribution percentage from these two dominant loss mechanisms is calculated and presented to focus future efforts on solving these two problems.Our insights are supported by device simulation and experimental, including supplementing the Sawyer-Tower test technique with external substrate resistors and temperature variation. From device simulation, we observe the expected dependence of substrate displacement current on dV/dt, and the importance of resistive loss is further confirmed with an experimental Sawyer-Tower test with an external resistor attached to the substrate. Under the assumption that the resistive loss is insensitive to temperature change, GaN-stack trap related loss is investigated with the temperature-controlled Sawyer-Tower test, pointing to the criticality of trapping dynamics in COSS losses.

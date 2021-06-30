@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toroidal Transformer on SUPER-Lab</title>
+    <link>/tags/toroidal-transformer/</link>
+    <description>Recent content in Toroidal Transformer on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/toroidal-transformer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3-D Printed Air-Core Toroidal Transformer for High-Frequency Power Conversion</title>
+      <link>/publication/compel-3d-aircore-transformer_tong/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-3d-aircore-transformer_tong/</guid>
+      <description>This paper presents a nested toroidal air-core transformer utilizing a 3-D printing and electroplating fabrication methodology. The first part of this work discusses design equations to achieve the target inductance matrix. Lastly, this work provides experimental demonstrations of the transformer design including a 40.68 MHz 48-to-350 V resonant dc-dc converter.</description>
+    </item>
+    
+  </channel>
+</rss>

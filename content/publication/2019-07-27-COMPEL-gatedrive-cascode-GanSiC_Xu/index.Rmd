@@ -1,0 +1,42 @@
+---
+title: "Low-Loss Gate Driving Techniques of the Cascode GaN/SiC Power Device at High Frequencies"
+author: "J. Xu, L. Gu and J. Rivas-Davila"
+date: '2019-07-25'
+slug: -COMPEL-gatedrive-cascode-GanSiC_Xu
+categories:
+  - Conference
+  - COMPEL
+tags: 
+  - SiC
+  - GaN
+  - JFET
+  - Cascode
+  - VHF
+  - Lei Gu
+  - JiaLe Xu
+doi: '10.1109/COMPEL.2019.8769703'
+publishDate: '2019-07-25T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2019 20th Workshop on Control and Modeling for Power Electronics (COMPEL)"
+publication_short: "COMPEL"
+abstract: "Gallium Nitride (GaN) and Silicon Carbide (SiC) power devices are segmented in the Wide Bandgap (WBG) device market: GaN devices are suitable for high-frequency but low-voltage applications; SiC devices are suitable for low-frequency but high-voltage applications. Cascoding a GaN HEMT and a SiC JFET best utilizes the advantages of both of these WBG power devices. Like GaN devices, the cascode GaN/SiC device is easy to drive at high frequencies and has low gate loss; like SiC devices, it also has relatively high voltage rating and low C oss energy loss at high frequencies. In previous studies, power circuits using the cascode device achieved higher power density than circuits using only a SiC device but efficiency similar to that of a SiC device [1]. In this paper, we present our investigation of the gate loss mechanism of the SiC JFET in the cascode structure and our finding that the loss can be greatly reduced by minimizing the gate resistance of the SiC JFET (R g,Jfet ). Simulation results showed that reducing R g,Jfet from 6 Ω to 1 Ω at 13.56 MHz leads to a 5× loss reduction, and experimental data verified the simulation trend. Here we provide a simple guideline to optimize the cascode GaN/SiC device and achieve better performance in high-frequency and high-voltage applications."
+summary: 'Cascoding a GaN HEMT and a SiC JFET best utilizes the advantages of both of these WBG power devices. Like GaN devices, the cascode GaN/SiC device is easy to drive at high frequencies and has low gate loss; like SiC devices, it also has relatively high voltage rating and low Coss energy loss at high frequencies. In this paper, we present our investigation of the gate loss mechanism of the SiC JFET in the cascode structure and our finding that the loss can be greatly reduced by minimizing the gate resistance of the SiC JFET (R g,Jfet ).'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/8769703
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+Gallium Nitride (GaN) and Silicon Carbide (SiC) power devices are segmented in the Wide Bandgap (WBG) device market: GaN devices are suitable for high-frequency but low-voltage applications; SiC devices are suitable for low-frequency but high-voltage applications. Cascoding a GaN HEMT and a SiC JFET best utilizes the advantages of both of these WBG power devices. Like GaN devices, the cascode GaN/SiC device is easy to drive at high frequencies and has low gate loss; like SiC devices, it also has relatively high voltage rating and low C oss energy loss at high frequencies. In previous studies, power circuits using the cascode device achieved higher power density than circuits using only a SiC device but efficiency similar to that of a SiC device [1]. In this paper, we present our investigation of the gate loss mechanism of the SiC JFET in the cascode structure and our finding that the loss can be greatly reduced by minimizing the gate resistance of the SiC JFET (R g,Jfet ). Simulation results showed that reducing R g,Jfet from 6 Ω to 1 Ω at 13.56 MHz leads to a 5× loss reduction, and experimental data verified the simulation trend. Here we provide a simple guideline to optimize the cascode GaN/SiC device and achieve better performance in high-frequency and high-voltage applications.

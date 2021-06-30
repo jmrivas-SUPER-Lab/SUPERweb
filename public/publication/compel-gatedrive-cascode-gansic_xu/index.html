@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head>
+  
+                           
+     
+
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.83.1" />
+<title>Low-Loss Gate Driving Techniques of the Cascode GaN/SiC Power Device at High Frequencies | SUPER-Lab</title>
+
+
+<meta property="twitter:site" content="@Jmrivasd">
+<meta property="twitter:creator" content="@Jmrivasd">
+
+
+
+
+
+
+
+  
+    
+  
+<meta name="description" content="Website of the Stanford University Power Electronics Research Laboratory.">
+
+
+<meta property="og:site_name" content="SUPER-Lab">
+<meta property="og:title" content="Low-Loss Gate Driving Techniques of the Cascode GaN/SiC Power Device at High Frequencies | SUPER-Lab">
+<meta property="og:description" content="Website of the Stanford University Power Electronics Research Laboratory." />
+<meta property="og:type" content="page" />
+<meta property="og:url" content="/publication/compel-gatedrive-cascode-gansic_xu/" />
+<meta property="og:locale" content="en">
+
+
+
+
+    
+        <meta property="og:image" content="/img/superlablogofabiconv3.png" >
+        <meta property="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="/img/superlablogofabiconv3.png" >
+    
+  <meta itemprop="name" content="Low-Loss Gate Driving Techniques of the Cascode GaN/SiC Power Device at High Frequencies">
+<meta itemprop="description" content="Cascoding a GaN HEMT and a SiC JFET best utilizes the advantages of both of these WBG power devices. Like GaN devices, the cascode GaN/SiC device is easy to drive at high frequencies and has low gate loss; like SiC devices, it also has relatively high voltage rating and low Coss energy loss at high frequencies. In this paper, we present our investigation of the gate loss mechanism of the SiC JFET in the cascode structure and our finding that the loss can be greatly reduced by minimizing the gate resistance of the SiC JFET (R g,Jfet )."><meta itemprop="datePublished" content="2019-07-25T00:00:00-01:00" />
+<meta itemprop="dateModified" content="2019-07-25T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="216">
+<meta itemprop="keywords" content="SiC,GaN,JFET,Cascode,VHF,Lei Gu,JiaLe Xu," />
+  
+  <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+  
+  
+  <link rel="stylesheet" href="/style.main.min.1edda92ae9e209e183aac64c65f271f729d6f94b4bcb574704f8eeccaf86675b.css" integrity="sha256-Ht2pKuniCeGDqsZMZfJx9ynW&#43;UtLy1dHBPjuzK&#43;GZ1s=" media="screen">
+  
+  
+  <script src="/panelset.min.d74e921a1b9af2d938fdff19e433ba539cdb202961eddae2356a54199f0653ec.js" type="text/javascript"></script>
+  
+  
+  <script src="/main.min.38a0323c5b0bbb611c4874ba2d8fdaba57d20cc2b0d704b30250c235ba8b6d49.js" type="text/javascript"></script>
+</head>
+<body>
+      <div class="grid-container">
+<header class="site-header pt4 pb2 mb4 bb b--transparent ph5 headroom z-max" role="banner">
+  <nav class="site-nav db dt-l w-100" role="navigation">
+    <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="/" title="Home">
+      <img src="/img/superlablogofabiconv3.png" class="dib db-l h2 w-auto" alt="SUPER-Lab">
+    </a>
+    <div class="site-links db dtc-l v-mid w-100 w-47-l tc tr-l mt3 mt0-l ttu tracked">
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/about/" title="SUPER-Lab">SUPER-Lab</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/blog/" title="Blog">Blog and News</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/labpeople/" title="People">People</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/project/" title="Project Portfolio">Projects</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 active" href="/publication/" title="Publications">Publications</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/talk/" title="Talks">Talks</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/alumni/" title="Alumni">Alumni</a>
+      
+      
+    </div>
+  </nav>
+</header>
+
+<main class="page-main pa4" role="main">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 ph4-l">
+      <header class="post-header">
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Low-Loss Gate Driving Techniques of the Cascode GaN/SiC Power Device at High Frequencies</h1>
+        
+        <p class="f6 measure lh-copy mv1">By J. Xu, L. Gu and J. Rivas-Davila in <a href="/categories/conference">Conference</a>  <a href="/categories/compel">COMPEL</a> </p>
+        <p class="f7 db mv0 ttu">July 25, 2019</p>
+
+      
+      <div class="ph0 pt5">
+        
+    
+    
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="https://ieeexplore.ieee.org/document/8769703" target="_blank" rel="noopener"><i class="ai ai-doi fa-lg fa-fw mr2"></i>Publication</a>
+
+
+      </div>
+      
+
+      </header>
+      <section class="post-body pt5 pb4">
+        
+<script src="/publication/compel-gatedrive-cascode-gansic_xu/index_files/header-attrs/header-attrs.js"></script>
+
+
+<div id="summary" class="section level2">
+<h2>Summary</h2>
+<p>Gallium Nitride (GaN) and Silicon Carbide (SiC) power devices are segmented in the Wide Bandgap (WBG) device market: GaN devices are suitable for high-frequency but low-voltage applications; SiC devices are suitable for low-frequency but high-voltage applications. Cascoding a GaN HEMT and a SiC JFET best utilizes the advantages of both of these WBG power devices. Like GaN devices, the cascode GaN/SiC device is easy to drive at high frequencies and has low gate loss; like SiC devices, it also has relatively high voltage rating and low C oss energy loss at high frequencies. In previous studies, power circuits using the cascode device achieved higher power density than circuits using only a SiC device but efficiency similar to that of a SiC device [1]. In this paper, we present our investigation of the gate loss mechanism of the SiC JFET in the cascode structure and our finding that the loss can be greatly reduced by minimizing the gate resistance of the SiC JFET (R g,Jfet ). Simulation results showed that reducing R g,Jfet from 6 Ω to 1 Ω at 13.56 MHz leads to a 5× loss reduction, and experimental data verified the simulation trend. Here we provide a simple guideline to optimize the cascode GaN/SiC device and achieve better performance in high-frequency and high-voltage applications.</p>
+</div>
+
+        
+        <details closed class="f6 fw7 input-reset">
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Posted on:</dt>
+    <dd class="fw5 ml0">July 25, 2019</dd>
+  </dl>
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Length:</dt>
+    <dd class="fw5 ml0">2 minute read, 216 words</dd>
+  </dl>
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Categories:</dt>
+    <dd class="fw5 ml0"> <a href="/categories/conference">Conference</a>  <a href="/categories/compel">COMPEL</a> </dd>
+  </dl>
+  
+  
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Tags:</dt>
+    <dd class="fw5 ml0"> <a href="/tags/sic">SiC</a>  <a href="/tags/gan">GaN</a>  <a href="/tags/jfet">JFET</a>  <a href="/tags/cascode">Cascode</a>  <a href="/tags/vhf">VHF</a>  <a href="/tags/lei-gu">Lei Gu</a>  <a href="/tags/jiale-xu">JiaLe Xu</a> </dd>
+  </dl>
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">See Also:</dt>
+    
+    <dd class="fw5 ml0"><a href="/publication/tie-wideband-pp2-phi2-reactance-compensatoin_tong/">Wideband PPT Class Φ2 Inverter using Phase-Switched Impedance Modulation and Reactance Compensation</a></dd>
+    
+    <dd class="fw5 ml0"><a href="/publication/dynamic-capacitance-gan_zhuang/">Small- and Large-Signal Dynamic Output Capacitance and Energy Loss in GaN-on-Si Power HEMTs</a></dd>
+    
+    <dd class="fw5 ml0"><a href="/project/lamresearchsystemx/">SiC, GaN and Si technology comparison for high power RF plasma generators</a></dd>
+    
+  </dl>
+</details>
+
+      </section>
+      <footer class="post-footer">
+        <div class="post-pagination dt w-100 mt4 mb2">
+  
+  
+    <a class="prev dtc pr2 tl v-top fw6"
+    href="/publication/compel-gan-coss_zhuang/">&larr; An Investigation into the Causes of COSS Losses in GaN-on-Si HEMTs</a>
+  
+  
+  
+    <a class="next dtc pl2 tr v-top fw6"
+    href="/publication/compel-mri_braun/">MRI Compatible DC Modulator for an Envelope Tracking Transmitter, &rarr;</a>
+  
+</div>
+
+      </footer>
+    </article>
+    
+  </section>
+</main>
+<footer class="site-footer pv4 bt b--transparent ph5" role="contentinfo">
+  <nav class="db dt-l w-100">
+    <p class="site-copyright f7 db dtc-l v-mid w-100 w-33-l tc tl-l pv2 pv0-l mv0 lh-copy">
+      &copy; 2021 Stanford University, Super-Lab
+      <span class="middot-divider"></span>
+      Made with <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/hugo-apero/" rel="dct:source">Hugo Apéro</a></span>.
+      <br />
+      
+Based on <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/formspree/blogophonic-hugo" rel="dct:source">Blogophonic</a></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://formspree.io" property="cc:attributionName" rel="cc:attributionURL">Formspree</a>.
+    </p>
+    
+    <div class="site-social-links db dtc-l v-mid w-100 w-33-l tc pv2 pv0-l mv0">
+      <div class="social-icon-links" aria-hidden="true">
+  
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="http://web.stanford.edu/people/jmrivas" title="university" target="_blank" rel="noopener">
+      <i class="fas fa-university fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://github.com/jmrivas-SUPER-Lab/SUPERweb" title="github" target="_blank" rel="noopener">
+      <i class="fab fa-github fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://twitter.com/hashtag/ap%c3%a9ro" title="twitter" target="_blank" rel="noopener">
+      <i class="fab fa-twitter fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://profiles.impactstory.org/u/0000-0003-2494-8579" title="impactstory" target="_blank" rel="noopener">
+      <i class="ai ai-impactstory fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="http://orcid.org/0000-0003-2494-8579" title="orcid" target="_blank" rel="noopener">
+      <i class="ai ai-orcid fa-lg fa-fw"></i>
+    </a>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <a class="link dib h1 w1 ml0 mr2 f6 o-90 glow" href="https://scholar.google.com/citations?hl=en&amp;user=ONqMRhgAAAAJ" title="google-scholar" target="_blank" rel="noopener">
+      <i class="ai ai-google-scholar fa-lg fa-fw"></i>
+    </a>
+  
+</div>
+
+    </div>
+    
+    <div class="site-links f6 db dtc-l v-mid w-100 w-67-l tc tr-l pv2 pv0-l mv0">
+      
+      <a class="dib pv1 ph2 link" href="/license/" title="License">License</a>
+      
+      <a class="dib pv1 ph2 link" href="/contact/" title="Contact form">Contact</a>
+      
+      <a class="dib pv1 ph2 link" href="/contributors/" title="Contributors">Contributors</a>
+      
+    </div>
+  </nav>
+</footer>
+
+      </div>
+    </body>
+</html>

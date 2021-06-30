@@ -540,10 +540,37 @@
     <loc>/tags/transformers/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/cascode-gan-sic_xu/</loc>
-    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+    <loc>/tags/class-e/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/gate-drive/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ecce-gatedrive-sic_tong/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ecce-gatedrive-sic_tong/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/micro-robots/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ecce-hvdc-space-micro-robots_park/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/multiresonant/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/resonant/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/resonant-gate-drive/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/sic/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/cascode-gan-sic_xu/</loc>
     <lastmod>2019-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/capacitors/</loc>
@@ -608,6 +635,72 @@
   </url><url>
     <loc>/tags/vhf-circuits/</loc>
     <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-3d-aircore-transformer_tong/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/3-d-printed-magnetics/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-40to54kv_park/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/air-core-magnetics/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/aircore-magnetics/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/aircore-transformer/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-gan-coss_zhuang/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/butrus-khuri-yakub/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/cascode/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/class-d/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/envelope-tracking/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/james-plummer/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/jfet/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-gatedrive-cascode-gansic_xu/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mri/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-mri_braun/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-hifu_gu/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/compel-classe-optimalvoltage_surakitbovorn/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/optimization/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/planar-transformer/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/toroidal-transformer/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/x-ray/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/hybrid_cockroft-walton-dickson-hv_park/</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>

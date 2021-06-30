@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Plummer on SUPER-Lab</title>
+    <link>/tags/james-plummer/</link>
+    <description>Recent content in James Plummer on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/james-plummer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Investigation into the Causes of COSS Losses in GaN-on-Si HEMTs</title>
+      <link>/publication/compel-gan-coss_zhuang/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-gan-coss_zhuang/</guid>
+      <description>In this work, we investigate the origin of these losses in GaN-on-Si High Electron Mobility Transistors (HEMTs) using TCAD simulation and experimental techniques, and find that COSS losses can be separated into resistive loss and GaN-stack trap related loss. From device simulation, we observe the expected dependence of substrate displacement current on dV/dt, and the importance of resistive loss is further confirmed with an experimental Sawyer-Tower test with an external resistor attached to the substrate.</description>
+    </item>
+    
+  </channel>
+</rss>

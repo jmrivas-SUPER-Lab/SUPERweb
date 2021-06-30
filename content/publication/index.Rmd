@@ -1,0 +1,42 @@
+---
+title: "Gate Drive for Very Fast Resonant Conversion using SiC Switch"
+author: "Z. Tong, L. Gu, K. Surakitbovorn and J. M. Rivas-Davila"
+date: '2019-11-28'
+slug: -ECCE-GateDrive-SiC_Tong
+categories:
+  - Conference
+  - ECCE
+tags: 
+  - Resonant Gate Drive
+  - Gate Drive
+  - SiC
+  - Multiresonant
+  - Zikang Tong
+  - Lei Gu
+  - Kawin Surakitbovorn
+doi: '10.1109/ECCE.2019.8912635'
+publishDate: '2019-11-28T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2019 IEEE Energy Conversion Congress and Exposition (ECCE)"
+publication_short: "ECCE"
+abstract: "In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. Although power circuit designers have many alternative device technologies to choose from such as silicon (Si) and gallium nitride materials (GaN), SiC devices have several advantageous attributes especially in high power applications. However, utilizing these devices at high-frequencies poses an issue due to package parasitics, significant gating losses, and requiring large gate voltage swings with short rise and fall times. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency."
+summary: 'In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/8912635
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+In this paper, we explore the challenges of implementing resonant converters using silicon carbide (SiC) power devices at high-frequency: namely, the issue of the ability to drive and enhance the MOSFET at these frequencies. Although power circuit designers have many alternative device technologies to choose from such as silicon (Si) and gallium nitride materials (GaN), SiC devices have several advantageous attributes especially in high power applications. However, utilizing these devices at high-frequencies poses an issue due to package parasitics, significant gating losses, and requiring large gate voltage swings with short rise and fall times. We offer a solution to the challenges of driving SiC devices by demonstrating a multi-resonant gate driver, and use this scheme to drive a SiC MOSFET at 30 MHz in a class-E inverter. The inverter delivers 50 W of RF power, achieving 85.7% drain efficiency.
