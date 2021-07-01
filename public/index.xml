@@ -256,6 +256,24 @@ Formspree requires a (free) account and new form to be set up. The link is made 
     </item>
     
     <item>
+      <title>Passive components for electronic circuits using conformal deposition on a scaffold</title>
+      <link>/publication/patent-us11031179/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/patent-us11031179/</guid>
+      <description>Precision fabrication of 3D objects is used for fabricating passive electrical components. A 3D scaffold is fabricated and then electrically conductive and/or insulating layers are deposited on the scaffold to form the electrical component.</description>
+    </item>
+    
+    <item>
+      <title>Bipolar DC-DC converter topology using passive voltage reversal</title>
+      <link>/publication/patent-us10998823/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/patent-us10998823/</guid>
+      <description>A resonant DC-DC converter for generating high voltage MHz bi-polar DC pulses includes a left multi-level resonant rectifier bank [100] connected to a positive electrode [104] and coupled via capacitive isolation to a left RF amplifier terminal [128]; a right multi-level resonant rectifier bank [102] connected to a negative electrode [106] and coupled via capacitive isolation to a right RF amplifier terminal [130]. Each multi-level resonant rectifier bank comprises multiple resonant rectifier stages [112-122], where each stage comprises two capacitors for capacitively isolating the stage, an output capacitor, a MOSFET switch connected to an adjacent MOSFET switch of an adjacent stage, and a gating resonant circuit connected to the MOSFET switch, whereby MOSFET switches in the banks can be passively controlled by RF signals from a left RF amplifier and a right RF amplifier.</description>
+    </item>
+    
+    <item>
       <title>Optimized Resonators for Piezoelectric Power Conversion</title>
       <link>/publication/optimized-resonators-piezoelectric_braun/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
@@ -680,6 +698,15 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       
       <guid>/blog/19apeczk/</guid>
       <description>Z. Tong, S. Park and J. Rivas-Davila, &amp;ldquo;Empirical Circuit Model for Output Capacitance Losses in Silicon Carbide Power Devices,&amp;rdquo; 2019 IEEE Applied Power Electronics Conference and Exposition (APEC), 2019, pp. 998-1003, doi: 10.1109/APEC.2019.8721907.</description>
+    </item>
+    
+    <item>
+      <title>Isolated multi-level resonant topologies for wide-range power conversion and impedance matching</title>
+      <link>/publication/apec-pcb-converter_liang/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-pcb-converter_liang/</guid>
+      <description>Resonant power converters that replace the conventional impedance matching stage with series or parallel connections between resonant inverters and resonant rectifiers are provided. Two or more resonant rectifiers can be connected in series or in parallel to the resonant inverter to provide impedance matching. Similarly, two or more resonant inverters can be connected in series or in parallel to the resonant rectifier to provide impedance matching. Electrical isolation of DC voltage between input and output is provided using only capacitors.</description>
     </item>
     
     <item>

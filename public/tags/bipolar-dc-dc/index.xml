@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bipolar dc-dc on SUPER-Lab</title>
+    <link>/tags/bipolar-dc-dc/</link>
+    <description>Recent content in Bipolar dc-dc on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/bipolar-dc-dc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bipolar DC-DC converter topology using passive voltage reversal</title>
+      <link>/publication/patent-us10998823/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/patent-us10998823/</guid>
+      <description>A resonant DC-DC converter for generating high voltage MHz bi-polar DC pulses includes a left multi-level resonant rectifier bank [100] connected to a positive electrode [104] and coupled via capacitive isolation to a left RF amplifier terminal [128]; a right multi-level resonant rectifier bank [102] connected to a negative electrode [106] and coupled via capacitive isolation to a right RF amplifier terminal [130]. Each multi-level resonant rectifier bank comprises multiple resonant rectifier stages [112-122], where each stage comprises two capacitors for capacitively isolating the stage, an output capacitor, a MOSFET switch connected to an adjacent MOSFET switch of an adjacent stage, and a gating resonant circuit connected to the MOSFET switch, whereby MOSFET switches in the banks can be passively controlled by RF signals from a left RF amplifier and a right RF amplifier.</description>
+    </item>
+    
+  </channel>
+</rss>

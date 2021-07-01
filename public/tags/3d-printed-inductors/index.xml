@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Printed Inductors on SUPER-Lab</title>
+    <link>/tags/3d-printed-inductors/</link>
+    <description>Recent content in 3D Printed Inductors on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/3d-printed-inductors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Passive components for electronic circuits using conformal deposition on a scaffold</title>
+      <link>/publication/patent-us11031179/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/patent-us11031179/</guid>
+      <description>Precision fabrication of 3D objects is used for fabricating passive electrical components. A 3D scaffold is fabricated and then electrically conductive and/or insulating layers are deposited on the scaffold to form the electrical component.</description>
+    </item>
+    
+  </channel>
+</rss>

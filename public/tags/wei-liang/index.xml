@@ -6,7 +6,7 @@
     <description>Recent content in Wei Liang on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wei-liang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wei-liang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wei Liang, Ph.D.</title>
       <link>/alumni/weiliang/</link>
@@ -14,6 +14,33 @@
       
       <guid>/alumni/weiliang/</guid>
       <description>Doctoral Dissertation   * Compact high frequency power conversion for high voltage applications *      Presented in 2018 Manuscript available here.  Summary     Performance of high-voltage power converters has lagged their low-voltage counterparts on many metrics including power density, efficiency, transient response, and cost. This research presents newly developed circuit techniques and design strategies that allow high-voltage power supplies to be many times smaller and more efficient than the traditional high-voltage supplies on the market today.</description>
+    </item>
+    
+    <item>
+      <title>Passive components for electronic circuits using conformal deposition on a scaffold</title>
+      <link>/publication/patent-us11031179/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/patent-us11031179/</guid>
+      <description>Precision fabrication of 3D objects is used for fabricating passive electrical components. A 3D scaffold is fabricated and then electrically conductive and/or insulating layers are deposited on the scaffold to form the electrical component.</description>
+    </item>
+    
+    <item>
+      <title>Bipolar DC-DC converter topology using passive voltage reversal</title>
+      <link>/publication/patent-us10998823/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/patent-us10998823/</guid>
+      <description>A resonant DC-DC converter for generating high voltage MHz bi-polar DC pulses includes a left multi-level resonant rectifier bank [100] connected to a positive electrode [104] and coupled via capacitive isolation to a left RF amplifier terminal [128]; a right multi-level resonant rectifier bank [102] connected to a negative electrode [106] and coupled via capacitive isolation to a right RF amplifier terminal [130]. Each multi-level resonant rectifier bank comprises multiple resonant rectifier stages [112-122], where each stage comprises two capacitors for capacitively isolating the stage, an output capacitor, a MOSFET switch connected to an adjacent MOSFET switch of an adjacent stage, and a gating resonant circuit connected to the MOSFET switch, whereby MOSFET switches in the banks can be passively controlled by RF signals from a left RF amplifier and a right RF amplifier.</description>
+    </item>
+    
+    <item>
+      <title>Isolated multi-level resonant topologies for wide-range power conversion and impedance matching</title>
+      <link>/publication/apec-pcb-converter_liang/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-pcb-converter_liang/</guid>
+      <description>Resonant power converters that replace the conventional impedance matching stage with series or parallel connections between resonant inverters and resonant rectifiers are provided. Two or more resonant rectifiers can be connected in series or in parallel to the resonant inverter to provide impedance matching. Similarly, two or more resonant inverters can be connected in series or in parallel to the resonant rectifier to provide impedance matching. Electrical isolation of DC voltage between input and output is provided using only capacitors.</description>
     </item>
     
     <item>
