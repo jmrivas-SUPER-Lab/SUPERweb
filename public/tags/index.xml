@@ -2141,7 +2141,7 @@
     </item>
     
     <item>
-      <title>Resonant Rectifier</title>
+      <title>Resonant rectifier</title>
       <link>/tags/resonant-rectifier/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
@@ -2236,6 +2236,33 @@
       <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>/tags/printed-circuit-board-pcb-inductors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phi-2</title>
+      <link>/tags/phi-2/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/phi-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class D Rectifier</title>
+      <link>/tags/class-d-rectifier/</link>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/class-d-rectifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Voltage Gain</title>
+      <link>/tags/high-voltage-gain/</link>
+      <pubDate>Mon, 28 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/high-voltage-gain/</guid>
       <description></description>
     </item>
     

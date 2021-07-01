@@ -1,0 +1,40 @@
+---
+title: "3D printed air core inductors for high frequency power converters"
+author: "W. Liang, L. Raymond and J. Rivas"
+date: '2014-11-13'
+slug: -ECCE-3D-inductors_Liang
+categories:
+  - Conference
+  - ECCE
+tags: 
+  - 3D Printed Converter
+  - Resonant Converter
+  - Aircore inductors
+  - Wei Liang
+  - Luke Raymond
+doi: '10.1109/ECCE.2014.6953504'
+publishDate: '2014-11-13T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2014 IEEE Energy Conversion Congress and Exposition (ECCE)"
+publication_short: "ECCE"
+abstract: "This paper presents the design, modeling and characterization of 3D printed air core inductors for high frequency power electronics circuits. The use of additive manufacturing techniques in passive components design extends the design flexibility and offers ways to overcome some of the fabrication limitations of today's planar processes. Recent work [1]-[4] has demonstrated the feasibility of incorporating air core inductors in high frequency (>10 MHz) switching power converters. These implementations have used discrete wire wound solenoids and toroids, and planar components that use Printed Circuit Board (PCB) traces or photolithographic techniques to make air core inductors. However, realizations of such components have limitations in performance and applicability: wire wound and PCB devices leave open paths conducive to the flow of leakage fields, and photolithography yields devices with geometric constraints and limited cross section aspect ratios. We propose the use of 3D printing and molding techniques to add flexibility and functionality in the design as they allow the manufacturing of components with rounded edges and overhanging structures impossible for planar processes. In this paper, we present several examples of air core inductors designed using 3D printing and molding techniques to give an idea of the geometries that are possible to realize. Moreover, we show that some of these designs can lead to improved electrical performance. The paper also describes the tools used by the authors to design, fabricate and characterize the electromagnetic performance of the air core inductors. As progress in additive manufacturing continues, we envision a fully 3D printed power converter that obviates the need of printed circuits board. Toward this goal, we present a 70 W prototype 27.12 MHz resonant inverter that incorporates some of the 3D printed components developed for this work."
+summary: 'This paper presents the design, modeling and characterization of 3D printed air core inductors for high frequency power electronics circuits. The use of additive manufacturing techniques in passive components design extends the design flexibility and offers ways to overcome some of the fabrication limitations of today''s planar processes. Recent work [1]-[4] has demonstrated the feasibility of incorporating air core inductors in high frequency (>10 MHz) switching power converters. These implementations have used discrete wire wound solenoids and toroids, and planar components that use Printed Circuit Board (PCB) traces or photolithographic techniques to make air core inductors. However, realizations of such components have limitations in performance and applicability: wire wound and PCB devices leave open paths conducive to the flow of leakage fields, and photolithography yields devices with geometric constraints and limited cross section aspect ratios. We propose the use of 3D printing and molding techniques to add flexibility and functionality in the design as they allow the manufacturing of components with rounded edges and overhanging structures impossible for planar processes. In this paper, we present several examples of air core inductors designed using 3D printing and molding techniques to give an idea of the geometries that are possible to realize. Moreover, we show that some of these designs can lead to improved electrical performance. The paper also describes the tools used by the authors to design, fabricate and characterize the electromagnetic performance of the air core inductors. As progress in additive manufacturing continues, we envision a fully 3D printed power converter that obviates the need of printed circuits board. Toward this goal, we present a 70 W prototype 27.12 MHz resonant inverter that incorporates some of the 3D printed components developed for this work.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/6953504
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+This paper presents the design, modeling and characterization of 3D printed air core inductors for high frequency power electronics circuits. The use of additive manufacturing techniques in passive components design extends the design flexibility and offers ways to overcome some of the fabrication limitations of today's planar processes. Recent work [1]-[4] has demonstrated the feasibility of incorporating air core inductors in high frequency (>10 MHz) switching power converters. These implementations have used discrete wire wound solenoids and toroids, and planar components that use Printed Circuit Board (PCB) traces or photolithographic techniques to make air core inductors. However, realizations of such components have limitations in performance and applicability: wire wound and PCB devices leave open paths conducive to the flow of leakage fields, and photolithography yields devices with geometric constraints and limited cross section aspect ratios. We propose the use of 3D printing and molding techniques to add flexibility and functionality in the design as they allow the manufacturing of components with rounded edges and overhanging structures impossible for planar processes. In this paper, we present several examples of air core inductors designed using 3D printing and molding techniques to give an idea of the geometries that are possible to realize. Moreover, we show that some of these designs can lead to improved electrical performance. The paper also describes the tools used by the authors to design, fabricate and characterize the electromagnetic performance of the air core inductors. As progress in additive manufacturing continues, we envision a fully 3D printed power converter that obviates the need of printed circuits board. Toward this goal, we present a 70 W prototype 27.12 MHz resonant inverter that incorporates some of the 3D printed components developed for this work.

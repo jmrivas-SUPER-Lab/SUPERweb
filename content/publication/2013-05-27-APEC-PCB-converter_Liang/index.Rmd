@@ -1,0 +1,38 @@
+---
+title: "13.56 MHz high density dc-dc converter with PCB inductors"
+author: "W. Liang, J. Glaser and J. Rivas"
+date: '2013-05-27'
+slug: -APEC-PCB-converter_Liang
+categories:
+  - Conference
+  - APEC
+tags: 
+  - PCB Converter
+  - Aircore Inductors
+  - Wei Liang
+doi: '10.1109/APEC.2013.6520277'
+publishDate: '2013-05-27T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2013 Twenty-Eighth Annual IEEE Applied Power Electronics Conference and Exposition (APEC)"
+publication_short: "APEC"
+abstract: "This paper presents the design and implementation of a high density 150 V-200 V to 28 V, 200 W-400 W resonant dc-dc converter with embedded inductors. The converter has a switching frequency of 13.56 MHz and uses air-core toroidal inductors fabricated with printed circuit board (PCB) technology. Implementing the inductors with the PCB eliminates inductance variation, minimizes unwanted stray magnetic fields and parasitics, and reduces undesired coupling to the rest of the circuit. Hence, the tuning and implementation of the converter are simplified while achieving high levels of performance and power density. By not using magnetic cores, the inductors also maintain stable values over a wide temperature range. Moreover, the paper discusses the trade-offs between simplicity and performance of implementing a hard-switched gate drive at MHz switching frequencies. We describe the advantages of resonant power converter topologies in applications requiring high density and high performance in demanding environmental conditions."
+summary: 'This paper presents the design and implementation of a high density 150 V-200 V to 28 V, 200 W-400 W resonant dc-dc converter with embedded inductors. The converter has a switching frequency of 13.56 MHz and uses air-core toroidal inductors fabricated with printed circuit board (PCB) technology. Moreover, the paper discusses the trade-offs between simplicity and performance of implementing a hard-switched gate drive at MHz switching frequencies. We describe the advantages of resonant power converter topologies in applications requiring high density and high performance in demanding environmental conditions.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/6520277
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+This paper presents the design and implementation of a high density 150 V-200 V to 28 V, 200 W-400 W resonant dc-dc converter with embedded inductors. The converter has a switching frequency of 13.56 MHz and uses air-core toroidal inductors fabricated with printed circuit board (PCB) technology. Implementing the inductors with the PCB eliminates inductance variation, minimizes unwanted stray magnetic fields and parasitics, and reduces undesired coupling to the rest of the circuit. Hence, the tuning and implementation of the converter are simplified while achieving high levels of performance and power density. By not using magnetic cores, the inductors also maintain stable values over a wide temperature range. Moreover, the paper discusses the trade-offs between simplicity and performance of implementing a hard-switched gate drive at MHz switching frequencies. We describe the advantages of resonant power converter topologies in applications requiring high density and high performance in demanding environmental conditions.

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phi-2 on SUPER-Lab</title>
+    <link>/tags/phi-2/</link>
+    <description>Recent content in Phi-2 on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="/tags/phi-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A High-Frequency Resonant Converter Based on the Class Phi2 Inverter for Wireless Power Transfer</title>
+      <link>/publication/vtc-phi2-wpt_choi/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/vtc-phi2-wpt_choi/</guid>
+      <description>This paper presents the design and implementation of high frequency resonant converter based on the Class Φ 2 inverter for inductive power transfer. MHz frequency operation can allow for higher power density than conventional switching frequencies. The converter is based on the Class Φ 2 inverter, reducing the voltage stress across the switch compared to other resonant topologies. A prototype of converter and a few cm airgap inductive coupling system with resistive load was implemented. We will demonstrate a greater than hundred Watt push-pull resonant converter for inductive power transfer at 13.56MHz.</description>
+    </item>
+    
+  </channel>
+</rss>

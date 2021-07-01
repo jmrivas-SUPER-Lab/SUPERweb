@@ -88,5 +88,23 @@
       <description>This paper presents a 1.3 kW resonant power amplifier using a Gallium Nitride (GaN) device at 13.56 MHz for wireless power transfer (WPT). The power amplifier driving the power transmitting coils is based on a Class Φ 2 inverter, a single switch topology with low switch voltage stress and fast transient response. This implementation utilizes a recently available GaN device in a low inductance package that is compatible with operation in the 10&amp;rsquo;s of MHz switching frequency. These power GaN switching devices have low gate resistance RG and low capacitance C GS which greatly reduces the power requirements of the gate drive circuitry. This paper shows experimental measurements of the inverter in a WPT application and characterization of the system performance over various distances and operating conditions.</description>
     </item>
     
+    <item>
+      <title>A High-Frequency Resonant Converter Based on the Class Phi2 Inverter for Wireless Power Transfer</title>
+      <link>/publication/vtc-phi2-wpt_choi/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/vtc-phi2-wpt_choi/</guid>
+      <description>This paper presents the design and implementation of high frequency resonant converter based on the Class Φ 2 inverter for inductive power transfer. MHz frequency operation can allow for higher power density than conventional switching frequencies. The converter is based on the Class Φ 2 inverter, reducing the voltage stress across the switch compared to other resonant topologies. A prototype of converter and a few cm airgap inductive coupling system with resistive load was implemented. We will demonstrate a greater than hundred Watt push-pull resonant converter for inductive power transfer at 13.56MHz.</description>
+    </item>
+    
+    <item>
+      <title>27.12 MHz large voltage gain resonant converter with low voltage stress</title>
+      <link>/publication/ecce-large-gain-dcdc_raymond/</link>
+      <pubDate>Mon, 28 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-large-gain-dcdc_raymond/</guid>
+      <description>This paper presents the design and implementation of a high frequency switching power converter with a large voltage gain and air core inductors. Specifically, we demonstrate a 40 W, 30 V to 300 V dc-dc converter switching at 27.12 MHz.We evaluate and compare two rectifier topologies with lower voltage stress than the class E rectifiers described in [2], to get large voltage ratios. Unique to this design is the ability to provide short bursts of high voltage while promising excellent performance and high power density.</description>
+    </item>
+    
   </channel>
 </rss>

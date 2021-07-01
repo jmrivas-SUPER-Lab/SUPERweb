@@ -25,5 +25,23 @@
       <description>This paper presents the design and implementation of a 27.12 MHz, 320 W, 170 V to 28 V dc-dc resonant power converter with resonant inductors and capacitors embedded into the Printed Circuit Board (PCB). Operating at 27.12 MHz allows for small value and size resonant passive components to be implemented using traces on or within a PCB. A prototype dc-dc converter was built to verify the concept and it reaches an efficiency of 73.6%. A simulated loss analysis is also presented.</description>
     </item>
     
+    <item>
+      <title>3D printed air core inductors for high frequency power converters</title>
+      <link>/publication/ecce-3d-inductors_liang/</link>
+      <pubDate>Thu, 13 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-3d-inductors_liang/</guid>
+      <description>This paper presents the design, modeling and characterization of 3D printed air core inductors for high frequency power electronics circuits. The use of additive manufacturing techniques in passive components design extends the design flexibility and offers ways to overcome some of the fabrication limitations of today&amp;rsquo;s planar processes. Recent work [1]-[4] has demonstrated the feasibility of incorporating air core inductors in high frequency (&amp;gt;10 MHz) switching power converters. These implementations have used discrete wire wound solenoids and toroids, and planar components that use Printed Circuit Board (PCB) traces or photolithographic techniques to make air core inductors. However, realizations of such components have limitations in performance and applicability: wire wound and PCB devices leave open paths conducive to the flow of leakage fields, and photolithography yields devices with geometric constraints and limited cross section aspect ratios. We propose the use of 3D printing and molding techniques to add flexibility and functionality in the design as they allow the manufacturing of components with rounded edges and overhanging structures impossible for planar processes. In this paper, we present several examples of air core inductors designed using 3D printing and molding techniques to give an idea of the geometries that are possible to realize. Moreover, we show that some of these designs can lead to improved electrical performance. The paper also describes the tools used by the authors to design, fabricate and characterize the electromagnetic performance of the air core inductors. As progress in additive manufacturing continues, we envision a fully 3D printed power converter that obviates the need of printed circuits board. Toward this goal, we present a 70 W prototype 27.12 MHz resonant inverter that incorporates some of the 3D printed components developed for this work.</description>
+    </item>
+    
+    <item>
+      <title>13.56 MHz high density dc-dc converter with PCB inductors</title>
+      <link>/publication/apec-pcb-converter_liang/</link>
+      <pubDate>Mon, 27 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-pcb-converter_liang/</guid>
+      <description>This paper presents the design and implementation of a high density 150 V-200 V to 28 V, 200 W-400 W resonant dc-dc converter with embedded inductors. The converter has a switching frequency of 13.56 MHz and uses air-core toroidal inductors fabricated with printed circuit board (PCB) technology. Moreover, the paper discusses the trade-offs between simplicity and performance of implementing a hard-switched gate drive at MHz switching frequencies. We describe the advantages of resonant power converter topologies in applications requiring high density and high performance in demanding environmental conditions.</description>
+    </item>
+    
   </channel>
 </rss>

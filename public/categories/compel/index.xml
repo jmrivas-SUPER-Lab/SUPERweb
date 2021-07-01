@@ -286,5 +286,14 @@
       <description>Resonant dc-dc converter regularly use Schottky diodes for high frequency rectification. Si Schottky diodes have relatively low voltage ratings and present reverse-recovery type losses when driven hard enough. SiC Schottky diodes can operate at high frequencies, but incur higher conduction losses. This paper presents a bidirectional dc-dc resonant converter having two ground referenced switches. The prototype converter delivers 400 W between a source of 170 V and a load of 50 V while delivering 250 W in the opposite direction. The converter presented herein can potentially be used in applications such as wireless power transfer, fuel cell and battery applications, bus converters, etc.</description>
     </item>
     
+    <item>
+      <title>Performance evaluation of diodes in 27.12 MHz Class-D resonant rectifiers under high voltage and high slew rate conditions</title>
+      <link>/publication/compel-coss-diodes_raymond/</link>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-coss-diodes_raymond/</guid>
+      <description>This paper provides a performance review of select diodes for use in high frequency resonant rectifiers at modest power levels. Specifically, we evaluate the performance of several leading edge diodes for use in a 27.12 MHz Class-D type rectifier for output voltages from 170 V to 1000 V dc, and corresponding power levels between 8.5 W and 100 W. The authors suspect these losses are due in part to the high equation experienced by the Silicon Carbide (SiC) Schottky diodes used in that design.</description>
+    </item>
+    
   </channel>
 </rss>

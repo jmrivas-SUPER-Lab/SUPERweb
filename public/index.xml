@@ -1234,12 +1234,57 @@ Abstract     This paper demonstrates a dc-dc converter that combines resonant re
     </item>
     
     <item>
+      <title>A High-Frequency Resonant Converter Based on the Class Phi2 Inverter for Wireless Power Transfer</title>
+      <link>/publication/vtc-phi2-wpt_choi/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/vtc-phi2-wpt_choi/</guid>
+      <description>This paper presents the design and implementation of high frequency resonant converter based on the Class Φ 2 inverter for inductive power transfer. MHz frequency operation can allow for higher power density than conventional switching frequencies. The converter is based on the Class Φ 2 inverter, reducing the voltage stress across the switch compared to other resonant topologies. A prototype of converter and a few cm airgap inductive coupling system with resistive load was implemented. We will demonstrate a greater than hundred Watt push-pull resonant converter for inductive power transfer at 13.56MHz.</description>
+    </item>
+    
+    <item>
       <title>Prof. Rivas featured in Stanford EE spotlight</title>
       <link>/blog/2014eespotlight_rivas/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>/blog/2014eespotlight_rivas/</guid>
       <description>Figure 1: Electrical Engineering Professor Juan Rivas-Davila loves being in the midst of top-notch Stanford students, world-class research facilities and within a community brimming with entrepreneurial attitudes.  EE spotlight What made you decide to be a professor, and what made you want to be at Stanford? After grad school, I spent a few years working at GE Global Research. There I learned electrical engineering research can change (and has changed) the world.</description>
+    </item>
+    
+    <item>
+      <title>3D printed air core inductors for high frequency power converters</title>
+      <link>/publication/ecce-3d-inductors_liang/</link>
+      <pubDate>Thu, 13 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-3d-inductors_liang/</guid>
+      <description>This paper presents the design, modeling and characterization of 3D printed air core inductors for high frequency power electronics circuits. The use of additive manufacturing techniques in passive components design extends the design flexibility and offers ways to overcome some of the fabrication limitations of today&amp;rsquo;s planar processes. Recent work [1]-[4] has demonstrated the feasibility of incorporating air core inductors in high frequency (&amp;gt;10 MHz) switching power converters. These implementations have used discrete wire wound solenoids and toroids, and planar components that use Printed Circuit Board (PCB) traces or photolithographic techniques to make air core inductors. However, realizations of such components have limitations in performance and applicability: wire wound and PCB devices leave open paths conducive to the flow of leakage fields, and photolithography yields devices with geometric constraints and limited cross section aspect ratios. We propose the use of 3D printing and molding techniques to add flexibility and functionality in the design as they allow the manufacturing of components with rounded edges and overhanging structures impossible for planar processes. In this paper, we present several examples of air core inductors designed using 3D printing and molding techniques to give an idea of the geometries that are possible to realize. Moreover, we show that some of these designs can lead to improved electrical performance. The paper also describes the tools used by the authors to design, fabricate and characterize the electromagnetic performance of the air core inductors. As progress in additive manufacturing continues, we envision a fully 3D printed power converter that obviates the need of printed circuits board. Toward this goal, we present a 70 W prototype 27.12 MHz resonant inverter that incorporates some of the 3D printed components developed for this work.</description>
+    </item>
+    
+    <item>
+      <title>Performance evaluation of diodes in 27.12 MHz Class-D resonant rectifiers under high voltage and high slew rate conditions</title>
+      <link>/publication/compel-coss-diodes_raymond/</link>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/compel-coss-diodes_raymond/</guid>
+      <description>This paper provides a performance review of select diodes for use in high frequency resonant rectifiers at modest power levels. Specifically, we evaluate the performance of several leading edge diodes for use in a 27.12 MHz Class-D type rectifier for output voltages from 170 V to 1000 V dc, and corresponding power levels between 8.5 W and 100 W. The authors suspect these losses are due in part to the high equation experienced by the Silicon Carbide (SiC) Schottky diodes used in that design.</description>
+    </item>
+    
+    <item>
+      <title>27.12 MHz large voltage gain resonant converter with low voltage stress</title>
+      <link>/publication/ecce-large-gain-dcdc_raymond/</link>
+      <pubDate>Mon, 28 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-large-gain-dcdc_raymond/</guid>
+      <description>This paper presents the design and implementation of a high frequency switching power converter with a large voltage gain and air core inductors. Specifically, we demonstrate a 40 W, 30 V to 300 V dc-dc converter switching at 27.12 MHz.We evaluate and compare two rectifier topologies with lower voltage stress than the class E rectifiers described in [2], to get large voltage ratios. Unique to this design is the ability to provide short bursts of high voltage while promising excellent performance and high power density.</description>
+    </item>
+    
+    <item>
+      <title>13.56 MHz high density dc-dc converter with PCB inductors</title>
+      <link>/publication/apec-pcb-converter_liang/</link>
+      <pubDate>Mon, 27 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/apec-pcb-converter_liang/</guid>
+      <description>This paper presents the design and implementation of a high density 150 V-200 V to 28 V, 200 W-400 W resonant dc-dc converter with embedded inductors. The converter has a switching frequency of 13.56 MHz and uses air-core toroidal inductors fabricated with printed circuit board (PCB) technology. Moreover, the paper discusses the trade-offs between simplicity and performance of implementing a hard-switched gate drive at MHz switching frequencies. We describe the advantages of resonant power converter topologies in applications requiring high density and high performance in demanding environmental conditions.</description>
     </item>
     
     <item>

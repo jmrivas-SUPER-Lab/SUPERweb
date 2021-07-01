@@ -1,0 +1,40 @@
+---
+title: "27.12 MHz large voltage gain resonant converter with low voltage stress"
+author: "L. Raymond, W. Liang, J. Choi and J. Rivas"
+date: '2013-10-28'
+slug: -ECCE-large-gain-dcdc_Raymond
+categories:
+  - Conference
+  - ECCE
+tags: 
+  - HV
+  - High Voltage Gain
+  - Jungwon Choi
+  - Luke Raymond
+  - Wei Liang
+doi: '10.1109/ECCE.2013.6646928'
+publishDate: '2013-10-28T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2013 IEEE Energy Conversion Congress and Exposition"
+publication_short: "ECCE"
+abstract: "This paper presents the design and implementation of a high frequency switching power converter with a large voltage gain and air core inductors. Specifically, we demonstrate a 40 W, 30 V to 300 V dc-dc converter switching at 27.12 MHz. Operating at this frequency reduces bulk energy storage over conventional low frequency designs and allows for fast transient response. We implement a resonant converter based on the Φ 2 inverter of [1]. In this paper, we evaluate and compare two rectifier topologies with lower voltage stress than the class E rectifiers described in [2], to get large voltage ratios. Unique to this design is the ability to provide short bursts of high voltage while promising excellent performance and high power density."
+summary: 'This paper presents the design and implementation of a high frequency switching power converter with a large voltage gain and air core inductors. Specifically, we demonstrate a 40 W, 30 V to 300 V dc-dc converter switching at 27.12 MHz.We evaluate and compare two rectifier topologies with lower voltage stress than the class E rectifiers described in [2], to get large voltage ratios. Unique to this design is the ability to provide short bursts of high voltage while promising excellent performance and high power density.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/6646928
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+This paper presents the design and implementation of a high frequency switching power converter with a large voltage gain and air core inductors. Specifically, we demonstrate a 40 W, 30 V to 300 V dc-dc converter switching at 27.12 MHz. Operating at this frequency reduces bulk energy storage over conventional low frequency designs and allows for fast transient response. We implement a resonant converter based on the Φ 2 inverter of [1]. In this paper, we evaluate and compare two rectifier topologies with lower voltage stress than the class E rectifiers described in [2], to get large voltage ratios. Unique to this design is the ability to provide short bursts of high voltage while promising excellent performance and high power density.
