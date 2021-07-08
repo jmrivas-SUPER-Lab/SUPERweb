@@ -1,0 +1,39 @@
+---
+title: "1.7 kW 6.78 MHz Wireless Power Transfer with Air-Core Coils at 95.7% DC-DC Efficiency"
+author: "L. Gu and J. Rivas-Davila"
+date: '2021-06-23'
+slug: WPTC-1k7W-WPT_Gu
+categories:
+  - Conference
+  - WPTC
+tags: 
+  - Power Amplifier
+  - WPT
+  - Inductive Power Transmission
+  - Lei Gu
+doi: '10.1109/WPTC51349.2021.9458037'
+publishDate: '2021-06-23T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "2021 IEEE Wireless Power Transfer Conference (WPTC)"
+publication_short: "WPTC"
+abstract: "This paper describes the design and implementation of a 1.7 kW wireless power transfer system that operates at 6.78 MHz and uses low-cost air-core coils. The demonstration achieves a dc-dc efficiency of 95.7% at 1.7 kW and maintains above 93% efficiency between 100 W and 1.7 kW."
+summary: 'This paper describes the design and implementation of a 1.7 kW wireless power transfer system that operates at 6.78 MHz and uses low-cost air-core coils. The demonstration achieves a dc-dc efficiency of 95.7% at 1.7 kW and maintains above 93% efficiency between 100 W and 1.7 kW.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: https://ieeexplore.ieee.org/document/9458037
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+This paper describes the design and implementation of a 1.7 kW wireless power transfer system that operates at 6.78 MHz and uses low-cost air-core coils. The demonstration achieves a dc-dc efficiency of 95.7% at 1.7 kW and maintains above 93% efficiency between 100 W and 1.7 kW.
