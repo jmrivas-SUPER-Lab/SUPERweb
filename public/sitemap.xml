@@ -99,6 +99,24 @@
     <loc>/tags/zikang-tong/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication/wptc-1k7w-wpt_gu/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/conference/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/inductive-power-transmission/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/power-amplifier/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/wpt/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/wptc/</loc>
+    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/formspree.io/f/xpzkrlzy</loc>
     <lastmod>2021-06-14T15:38:41-06:00</lastmod>
   </url><url>
@@ -219,9 +237,6 @@
     <loc>/publication/hifu-2d-cmut_stedman/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/conference/</loc>
-    <lastmod>2020-12-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/hifu/</loc>
     <lastmod>2020-12-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -268,9 +283,6 @@
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/wireless-power-transfer/</loc>
-    <lastmod>2020-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/wpt/</loc>
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/ecce-physical-large-signal-dynamic-output-capacitance-gan_zhuang/</loc>
@@ -646,9 +658,6 @@
     <lastmod>2019-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/ieee-tpels/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/inductive-power-transmission/</loc>
     <lastmod>2019-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/singleturn-aircore-hf-wpt_zulauf/</loc>
@@ -1234,9 +1243,6 @@
     <lastmod>2015-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/gan-wpt-choi/</loc>
-    <lastmod>2015-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/wptc/</loc>
     <lastmod>2015-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/tpels-13m56-dcdc-pcb-inductors_liang/</loc>

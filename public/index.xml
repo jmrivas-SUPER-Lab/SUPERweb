@@ -246,6 +246,15 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
+      <title>1.7 kW 6.78 MHz Wireless Power Transfer with Air-Core Coils at 95.7% DC-DC Efficiency</title>
+      <link>/publication/wptc-1k7w-wpt_gu/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/wptc-1k7w-wpt_gu/</guid>
+      <description>This paper describes the design and implementation of a 1.7 kW wireless power transfer system that operates at 6.78 MHz and uses low-cost air-core coils. The demonstration achieves a dc-dc efficiency of 95.7% at 1.7 kW and maintains above 93% efficiency between 100 W and 1.7 kW.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/formspree.io/f/xpzkrlzy</link>
       <pubDate>Mon, 14 Jun 2021 15:38:41 -0600</pubDate>
@@ -1321,7 +1330,7 @@ Abstract     This paper demonstrates a dc-dc converter that combines resonant re
       
       <guid>/contributors/</guid>
       <description>Thank you to all the students, collaborators and company sponsors that have contributed to our research.
-Sponsors      SystemX Texas Instruments LAM-Research Daihen ON-Semiconductors Precourt Institute for Energy TomKat Center Seed Grant: &amp;ldquo;Building the Power Electronics Cell&amp;rdquo; NSF  Collaborators      Prof. Christine Charles, Australian National University Prof. Jonathan Fan, Stanford University (Precourt Seed Grant) Prof. Debbie Senesky, Stanford University (SystemX Seed Grant) Prof.</description>
+Sponsors      SystemX Texas Instruments LAM-Research Daihen ON-Semiconductors Precourt Institute for Energy TomKat Center for Suistainable Energy Stanford Woods Institute for the Environment National Science Foundation  Collaborators      Prof. Mark Capelli, Stanford University Prof. Srabanti Chowdhuri, Stanford University Prof. Christine Charles and Prof. Rod Boswell, Australian National University Prof.</description>
     </item>
     
     <item>

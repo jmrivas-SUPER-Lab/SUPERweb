@@ -53,6 +53,33 @@
     </item>
     
     <item>
+      <title>Inductive Power Transmission</title>
+      <link>/tags/inductive-power-transmission/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/inductive-power-transmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Amplifier</title>
+      <link>/tags/power-amplifier/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/power-amplifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WPT</title>
+      <link>/tags/wpt/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>3D Printed Inductors</title>
       <link>/tags/3d-printed-inductors/</link>
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
@@ -355,15 +382,6 @@
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/wireless-power-transfer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WPT</title>
-      <link>/tags/wpt/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/wpt/</guid>
       <description></description>
     </item>
     
@@ -1174,15 +1192,6 @@
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/coils/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inductive Power Transmission</title>
-      <link>/tags/inductive-power-transmission/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/inductive-power-transmission/</guid>
       <description></description>
     </item>
     
