@@ -10,8 +10,13 @@ show_social_links: true
 submit_button_label: Send Message
 title: Contact
 type: form
-url: formspree.io/f/xpzkrlzy
+url: contact
 ---
+
+
+** Contact page don't contain a body, just the front matter above.
+See form.html in the layouts folder **
+
 
 ** Contact page don't contain a body, just the front matter above.
 See form.html in the layouts folder.

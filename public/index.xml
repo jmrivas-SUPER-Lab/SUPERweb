@@ -256,11 +256,12 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     
     <item>
       <title>Contact</title>
-      <link>/formspree.io/f/xpzkrlzy</link>
+      <link>/contact/</link>
       <pubDate>Mon, 14 Jun 2021 15:38:41 -0600</pubDate>
       
-      <guid>/formspree.io/f/xpzkrlzy</guid>
-      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+      <guid>/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder **
+** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
 Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>
     
