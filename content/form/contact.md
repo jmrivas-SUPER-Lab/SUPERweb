@@ -2,7 +2,7 @@
 date: "2021-06-14T15:38:41-06:00"
 description: Please reach out if you have questions or want to know more about the SUPER-Lab
 draft: false
-formspree_form_id: jmrivas@stanford.edu
+formspree_form_id: "xpzkrlzy"
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true
@@ -10,7 +10,7 @@ show_social_links: true
 submit_button_label: Send Message
 title: Contact
 type: form
-url: //formspree.io/f/xpzkrlzy
+url: contact
 ---
 
 
