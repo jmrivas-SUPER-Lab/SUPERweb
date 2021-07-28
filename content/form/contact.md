@@ -10,7 +10,7 @@ show_social_links: true
 submit_button_label: Send Message
 title: Contact
 type: form
-url: contact
+url: //formspree.io/f/xpzkrlzy
 ---
 
 
