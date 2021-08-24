@@ -1,0 +1,43 @@
+---
+title: "Circuitry and methodology benefiting from reduced gate loss"
+author: "Juan Rivas-Davila, Jiale Xu and Lei Gu"
+date: '2021-08-24'
+slug: -Patent-US11101792B2_SIC-GaN-cascode
+categories:
+  - Patent
+tags: 
+  - WBG
+  - SiC
+  - GaN
+  - JiaLe Xu
+  - Lei Gu
+doi: 'US11101792B2'
+publishDate: '2021-08-24T00:00:00-01:00'
+publication_types:
+  - '2'
+publication: "US Patent"
+publication_short: "Patent"
+abstract: "In specific examples, aspects are directed towards eliminating, mitigating or reducing gate loss in circuits including, for example, WBG power devices. One such example is directed towards an apparatus including first and second types of field-effect transistor (FET), where the first type is characterized as being a normally-on FET in a switching-circuit operation with a high-voltage rating, and the second type of FET is characterized as being a normally-off FET in a switching-circuit operation with a voltage rating that is much less than the high-voltage rating of the first type of FET circuit. The FET are arranged in a cascode manner so that, in response to a switching control signal received by the second type of FET circuit, the second type of FET circuit is active to drive the first type of FET."
+summary: 'In specific examples, aspects are directed towards eliminating, mitigating or reducing gate loss in circuits including, for example, WBG power devices. One such example is directed towards an apparatus including first and second types of field-effect transistor (FET), where the first type is characterized as being a normally-on FET in a switching-circuit operation with a high-voltage rating, and the second type of FET is characterized as being a normally-off FET in a switching-circuit operation with a voltage rating that is much less than the high-voltage rating of the first type of FET circuit. The FET are arranged in a cascode manner so that, in response to a switching control signal received by the second type of FET circuit, the second type of FET circuit is active to drive the first type of FET.'
+featured: yes
+links:
+- icon: google
+  icon_pack: fab
+  name: Publication
+  url: https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=11,101,792&OS=11,101,792&RS=11,101,792
+- icon: file-pdf
+  icon_pack: fas
+  name: Patent
+  url: files2download/US11101792B2.pdf
+  image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+## Summary
+
+In specific examples, aspects are directed towards eliminating, mitigating or reducing gate loss in circuits including, for example, WBG power devices. One such example is directed towards an apparatus including first and second types of field-effect transistor (FET), where the first type is characterized as being a normally-on FET in a switching-circuit operation with a high-voltage rating, and the second type of FET is characterized as being a normally-off FET in a switching-circuit operation with a voltage rating that is much less than the high-voltage rating of the first type of FET circuit. The FET are arranged in a cascode manner so that, in response to a switching control signal received by the second type of FET circuit, the second type of FET circuit is active to drive the first type of FET.

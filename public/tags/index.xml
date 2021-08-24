@@ -6,22 +6,58 @@
     <description>Recent content in Tags on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>High-frequency broadband power amplifiers</title>
-      <link>/tags/high-frequency-broadband-power-amplifiers/</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <title>GaN</title>
+      <link>/tags/gan/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/high-frequency-broadband-power-amplifiers/</guid>
+      <guid>/tags/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JiaLe Xu</title>
+      <link>/tags/jiale-xu/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jiale-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lei Gu</title>
       <link>/tags/lei-gu/</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/lei-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SiC</title>
+      <link>/tags/sic/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WBG</title>
+      <link>/tags/wbg/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wbg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-frequency broadband power amplifiers</title>
+      <link>/tags/high-frequency-broadband-power-amplifiers/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/high-frequency-broadband-power-amplifiers/</guid>
       <description></description>
     </item>
     
@@ -170,15 +206,6 @@
     </item>
     
     <item>
-      <title>GaN</title>
-      <link>/tags/gan/</link>
-      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Grayson Zulauf</title>
       <link>/tags/grayson-zulauf/</link>
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
@@ -211,15 +238,6 @@
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/daihen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JiaLe Xu</title>
-      <link>/tags/jiale-xu/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/jiale-xu/</guid>
       <description></description>
     </item>
     
@@ -616,15 +634,6 @@
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/coss-loss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WBG</title>
-      <link>/tags/wbg/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/wbg/</guid>
       <description></description>
     </item>
     
@@ -1075,15 +1084,6 @@
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/resonant-gate-drive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SiC</title>
-      <link>/tags/sic/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sic/</guid>
       <description></description>
     </item>
     
