@@ -96,6 +96,10 @@ enableEmoji = true
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://scholar.google.com/citations?hl=en&user=ONqMRhgAAAAJ"
+ [[params.social]]
+      icon      = "file-pdf" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "https://gitlab.com/jmrivas1/rivascv/-/raw/master/RivasCV.pdf?inline=false"
 
 
 [taxonomies]
