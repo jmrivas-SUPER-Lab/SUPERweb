@@ -23,7 +23,7 @@ tags:
 title: High density power converters with Piezo-electric resonators
 ---
 
-```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="Electrostatic potential contours under large-signal excitation at 1 MHz. (a) Deep buffer traps added at 0.98 eV. (b) Shallow buffer traps added at 0.5 eV."}
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="Photograph of prototype piezoelectric resonator based dc-dc converter."}
 knitr::include_graphics("Braun_piezo_featured.gif")
 ```
 
