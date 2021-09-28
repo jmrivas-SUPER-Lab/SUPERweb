@@ -13,7 +13,7 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/project/tisystemx/</guid>
-      <description>Figure 1: Electrostatic potential contours under large-signal excitation at 1 MHz. (a) Deep buffer traps added at 0.98 eV. (b) Shallow buffer traps added at 0.5 eV.  The performance of inductors at high frequencies and small sizes is one of the largest limiting factors in the continued miniaturization of dc-dc converters. Piezoelectric resonators can have a very high quality factor and provide an inductive impedance between their series and parallel resonant frequencies, making them a promising technology for further miniaturizing dc-dc converters.</description>
+      <description>Figure 1: Photograph of prototype piezoelectric resonator based dc-dc converter.  The performance of inductors at high frequencies and small sizes is one of the largest limiting factors in the continued miniaturization of dc-dc converters. Piezoelectric resonators can have a very high quality factor and provide an inductive impedance between their series and parallel resonant frequencies, making them a promising technology for further miniaturizing dc-dc converters. In this paper we analyze the impact of resonator parameters on the performance of the piezoelectric resonator based dc-dc converter, derive the optimal load impedance and efficiency limits, and analyze the impacts of varying conversion ratio and load impedance.</description>
     </item>
     
   </channel>

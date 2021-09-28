@@ -6,7 +6,16 @@
     <description>Recent content in Tags on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jason Poon</title>
+      <link>/tags/jason-poon/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jason-poon/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>GaN</title>
       <link>/tags/gan/</link>
@@ -553,15 +562,6 @@
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/inverters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jason Poon</title>
-      <link>/tags/jason-poon/</link>
-      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/jason-poon/</guid>
       <description></description>
     </item>
     
