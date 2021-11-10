@@ -63,10 +63,43 @@
   </url><url>
     <loc>/labpeople/jasonpoon/</loc>
   </url><url>
-    <loc>/categories/analog-computing/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/conference/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/ecce/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/eric-stolt/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/lei-gu/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/reverse-recovery-loss/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ecce-reverse_recovery_diodes-braun/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/schottky-diodes/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/weston-braun/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/analog-computing/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/</loc>
@@ -81,12 +114,6 @@
     <loc>/categories/optimization/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/patent-us11101792b2_sic-gan-cascode/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -96,13 +123,7 @@
     <loc>/tags/jiale-xu/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/lei-gu/</loc>
-    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/patent/</loc>
-    <lastmod>2021-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/sic/</loc>
@@ -133,9 +154,6 @@
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/wptc-1k7w-wpt_gu/</loc>
-    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/conference/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/inductive-power-transmission/</loc>
@@ -177,9 +195,6 @@
     <loc>/tags/kawin-surakitbovorn/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/eric-stolt/</loc>
-    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/optimized-resonators-piezoelectric_braun/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -187,9 +202,6 @@
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/resonator/</loc>
-    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/weston-braun/</loc>
     <lastmod>2021-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/coss/</loc>
@@ -307,9 +319,6 @@
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/ecce-physical-large-signal-dynamic-output-capacitance-gan_zhuang/</loc>
-    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/ecce/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/gallium-nitride-gan/</loc>
@@ -775,9 +784,6 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/jestpe-coss-loss-sic-diodes_tong/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/schottky-diodes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/19apeczk/</loc>

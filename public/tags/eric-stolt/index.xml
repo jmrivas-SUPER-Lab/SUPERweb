@@ -6,7 +6,7 @@
     <description>Recent content in Eric Stolt on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/eric-stolt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/eric-stolt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eric Stolt</title>
       <link>/labpeople/ericstolt/</link>
@@ -14,6 +14,15 @@
       
       <guid>/labpeople/ericstolt/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Recovery Testing of Small-Signal Schottky Diodes</title>
+      <link>/publication/ecce-reverse_recovery_diodes-braun/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ecce-reverse_recovery_diodes-braun/</guid>
+      <description>Ideally, Schottky diodes have little to no reverse recovery charge due to the lack of a PN junction or associated minority carriers. However, commercial Schottky diodes incorporate a PN junction guard ring under the electrode edge. At high currents, conduction through the guard ring structure can occur, injecting minority carriers and increasing reverse recovery charge. This behavior can lead to adverse circuit effects and increased loss, especially in high frequency dc-dc converters. Moreover, this effect is little-discussed in technical literature, not captured in datasheet provided values, and not typically incorporated into manufacture provided simulation models. This paper provides an open source and low-cost diode recovery test circuit and uses it to evaluate a selection of small-signal Schottky diodes and rectifiers. In several of the diodes, we find a significant increase in the recovery charge at high currents, characteristic of the PN junction guard ring’s conduction.</description>
     </item>
     
     <item>
