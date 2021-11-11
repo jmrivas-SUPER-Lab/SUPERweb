@@ -6,7 +6,61 @@
     <description>Recent content in Tags on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analog computers</title>
+      <link>/tags/analog-computers/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/analog-computers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dc-ac power converters</title>
+      <link>/tags/dc-ac-power-converters/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dc-ac-power-converters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Poon</title>
+      <link>/tags/jason-poon/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jason-poon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimization methods</title>
+      <link>/tags/optimization-methods/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/optimization-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>power conversion harmonics</title>
+      <link>/tags/power-conversion-harmonics/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/power-conversion-harmonics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>selective harmonic minimization</title>
+      <link>/tags/selective-harmonic-minimization/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/selective-harmonic-minimization/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Eric Stolt</title>
       <link>/tags/eric-stolt/</link>
@@ -49,15 +103,6 @@
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/weston-braun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jason Poon</title>
-      <link>/tags/jason-poon/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/jason-poon/</guid>
       <description></description>
     </item>
     

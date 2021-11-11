@@ -63,8 +63,44 @@
   </url><url>
     <loc>/labpeople/jasonpoon/</loc>
   </url><url>
+    <loc>/tags/analog-computers/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/dc-ac-power-converters/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/ieee-tpels/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/jason-poon/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/journal/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/optimization-methods/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/power-conversion-harmonics/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/tpels-harmonic-analog-digital-computing_poon/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/selective-harmonic-minimization/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/conference/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
@@ -78,12 +114,6 @@
     <loc>/tags/lei-gu/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/reverse-recovery-loss/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -93,9 +123,6 @@
     <loc>/tags/schottky-diodes/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/weston-braun/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -103,9 +130,6 @@
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/jason-poon/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/mixedsignalcomputing/</loc>
@@ -136,9 +160,6 @@
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/ieee-tie/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/journal/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/phase-switched-impedance-modulation/</loc>
@@ -676,9 +697,6 @@
     <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/coils/</loc>
-    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/ieee-tpels/</loc>
     <lastmod>2019-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/singleturn-aircore-hf-wpt_zulauf/</loc>

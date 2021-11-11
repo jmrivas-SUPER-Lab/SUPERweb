@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>selective harmonic minimization on SUPER-Lab</title>
+    <link>/tags/selective-harmonic-minimization/</link>
+    <description>Recent content in selective harmonic minimization on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/selective-harmonic-minimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real-time Selective Harmonic Minimization using a Hybrid Analog/Digital Computing Method</title>
+      <link>/publication/tpels-harmonic-analog-digital-computing_poon/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-harmonic-analog-digital-computing_poon/</guid>
+      <description>We present a hybrid analog/digital computing circuit to solve a selective harmonic minimization problem. The approach leverages favorable attributes of digital and analog controllers to yield a fast and scalable optimization solver. We present a specific realization of the computing circuit that solves for eight independent switching angles for a quarter-wave symmetric PWM driven two-level single-phase inverter. Seven undesired harmonics are minimized while retaining control over modulation index. The proposed computing circuit is verified with simulations and a PCB hardware implementation. The experimental results demonstrate that the proposed circuit can converge to the optimal solution in less than 5 ms, which is substantially faster than existing methods and facilitates real-time implementation. Moreover, the steady-state power consumption of the PCB implementation is approximately 750 mW, which is also significantly lower than published methods for comparable applications.</description>
+    </item>
+    
+  </channel>
+</rss>

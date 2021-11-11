@@ -1,0 +1,46 @@
+---
+title: "Real-time Selective Harmonic Minimization using a Hybrid Analog/Digital Computing Method"
+author: "Jason Poon, Mohit Sinha, Sairaj V. Dhople and, Juan Manuel Rivas Davila"
+date: '2021-11-09'
+slug: -TPELS-Harmonic-analog-digital-computing_Poon
+categories:
+  - Journal
+  - IEEE TPELS
+tags: 
+  - Analog computers
+  - dc-ac power converters
+  - optimization methods
+  - power conversion harmonics
+  - selective harmonic minimization
+  - Jason Poon
+doi: '10.1109/TPEL.2021.3126678'
+publishDate: '2021-11-09T00:00:00-01:00'
+publication_types:
+  - '1'
+publication: "IEEE Transactions on Power Electronics"
+publication_short: "IEEE TPELS"
+abstract: "We present a hybrid analog/digital computing circuit to solve a selective harmonic minimization problem. The approach leverages favorable attributes of digital and analog controllers to yield a fast and scalable optimization solver. A digital microcontroller programs the cost function and other user-defined inputs to the optimization. Voltages in the circuit represent switching angles in the optimization problem. In steady state, the voltages converge to KarushKuhnTucker (KKT) points of the problem. We present a specific realization of the computing circuit that solves for eight independent switching angles for a quarter-wave symmetric PWM driven two-level single-phase inverter. Seven undesired harmonics are minimized while retaining control over modulation index. The proposed computing circuit is verified with simulations and a PCB hardware implementation. The experimental results demonstrate that the proposed circuit can converge to the optimal solution in less than 5 ms, which is substantially faster than existing methods and facilitates real-time implementation. Moreover, the steady-state power consumption of the PCB implementation is approximately 750 mW, which is also significantly lower than published methods for comparable applications. The computing circuit is utilized to generate the PWM for a 2 kW single-phase inverter, which validates its feasibility in practical applications."
+summary: 'We present a hybrid analog/digital computing circuit to solve a selective harmonic minimization problem. The approach leverages favorable attributes of digital and analog controllers to yield a fast and scalable optimization solver. We present a specific realization of the computing circuit that solves for eight independent switching angles for a quarter-wave symmetric PWM driven two-level single-phase inverter. Seven undesired harmonics are minimized while retaining control over modulation index. The proposed computing circuit is verified with simulations and a PCB hardware implementation. The experimental results demonstrate that the proposed circuit can converge to the optimal solution in less than 5 ms, which is substantially faster than existing methods and facilitates real-time implementation. Moreover, the steady-state power consumption of the PCB implementation is approximately 750 mW, which is also significantly lower than published methods for comparable applications.'
+featured: yes
+links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: http://ieeexplore.ieee.org/document/9609668
+image:
+  caption: ''
+  placement: 2
+  focal_point: 'Center'
+  preview_only: no
+projects: []
+slides: ''
+---
+
+
+```{r, eval=TRUE, echo=FALSE, out.width="75%", fig.align='center', fig.cap="A photo of the hardware implementation of the proposed computing circuit with a US penny for scale. The active area of the circuit is shown in color and measures 3.925 × 0.535 inches."}
+knitr::include_graphics("poon21-analog-circuit.jpg")
+```
+
+## Abstract 
+
+We present a hybrid analog/digital computing circuit to solve a selective harmonic minimization problem. The approach leverages favorable attributes of digital and analog controllers to yield a fast and scalable optimization solver. A digital microcontroller programs the cost function and other user-defined inputs to the optimization. Voltages in the circuit represent switching angles in the optimization problem. In steady state, the voltages converge to KarushKuhnTucker (KKT) points of the problem. We present a specific realization of the computing circuit that solves for eight independent switching angles for a quarter-wave symmetric PWM driven two-level single-phase inverter. Seven undesired harmonics are minimized while retaining control over modulation index. The proposed computing circuit is verified with simulations and a PCB hardware implementation. The experimental results demonstrate that the proposed circuit can converge to the optimal solution in less than 5 ms, which is substantially faster than existing methods and facilitates real-time implementation. Moreover, the steady-state power consumption of the PCB implementation is approximately 750 mW, which is also significantly lower than published methods for comparable applications. The computing circuit is utilized to generate the PWM for a 2 kW single-phase inverter, which validates its feasibility in practical applications.

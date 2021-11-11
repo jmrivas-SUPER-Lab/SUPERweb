@@ -6,7 +6,16 @@
     <description>Recent content in Journal on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/journal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real-time Selective Harmonic Minimization using a Hybrid Analog/Digital Computing Method</title>
+      <link>/publication/tpels-harmonic-analog-digital-computing_poon/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tpels-harmonic-analog-digital-computing_poon/</guid>
+      <description>We present a hybrid analog/digital computing circuit to solve a selective harmonic minimization problem. The approach leverages favorable attributes of digital and analog controllers to yield a fast and scalable optimization solver. We present a specific realization of the computing circuit that solves for eight independent switching angles for a quarter-wave symmetric PWM driven two-level single-phase inverter. Seven undesired harmonics are minimized while retaining control over modulation index. The proposed computing circuit is verified with simulations and a PCB hardware implementation. The experimental results demonstrate that the proposed circuit can converge to the optimal solution in less than 5 ms, which is substantially faster than existing methods and facilitates real-time implementation. Moreover, the steady-state power consumption of the PCB implementation is approximately 750 mW, which is also significantly lower than published methods for comparable applications.</description>
+    </item>
+    
     <item>
       <title>Wideband PPT Class Φ2 Inverter using Phase-Switched Impedance Modulation and Reactance Compensation</title>
       <link>/publication/tie-wideband-pp2-phi2-reactance-compensatoin_tong/</link>

@@ -6,7 +6,25 @@
     <description>Recent content in Categories on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IEEE TPELS</title>
+      <link>/categories/ieee-tpels/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ieee-tpels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>/categories/journal/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/journal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Conference</title>
       <link>/categories/conference/</link>
@@ -58,15 +76,6 @@
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/ieee-tie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Journal</title>
-      <link>/categories/journal/</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/journal/</guid>
       <description></description>
     </item>
     
@@ -193,15 +202,6 @@
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/ieee-jestpe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IEEE TPELS</title>
-      <link>/categories/ieee-tpels/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/ieee-tpels/</guid>
       <description></description>
     </item>
     
