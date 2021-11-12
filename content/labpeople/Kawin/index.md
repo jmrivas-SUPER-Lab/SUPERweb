@@ -4,7 +4,7 @@ subtitle: "Postdoctoral Research fellow"
 excerpt: "Postdoctoral Research fellow"
 tags:
   - Kawin Surakitbovorn
-weight: 8
+weight: 9
 author: ""
 draft: false
 # layout options: single or single-sidebar

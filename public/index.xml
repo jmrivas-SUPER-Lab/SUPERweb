@@ -219,12 +219,12 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
-      <title>Dr. Kawin Surakitbovorn</title>
-      <link>/labpeople/kawin/</link>
+      <title>Dr. Jason Poon</title>
+      <link>/labpeople/jasonpoon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/labpeople/kawin/</guid>
-      <description>Doctoral Dissertation   On the design and optimization of RF power amplifiers using wide bandgap devices      Presented March 2021 Manuscript available here.  Summary     Compact radio-frequency (RF) power amplifiers are essential building blocks in various applications, including radio transmission, medical imaging, wireless power transfer, industrial plasma generation, and micro-satellite propulsion. Over the past decades, new wide bandgap (WBG) semiconductor devices, particularly gallium nitride (GaN) and silicon carbide (SiC), were successfully commercialized.</description>
+      <guid>/labpeople/jasonpoon/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -237,12 +237,12 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
-      <title>Dr. Jason Poon</title>
-      <link>/labpeople/jasonpoon/</link>
+      <title>Dr. Kawin Surakitbovorn</title>
+      <link>/labpeople/kawin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/labpeople/jasonpoon/</guid>
-      <description></description>
+      <guid>/labpeople/kawin/</guid>
+      <description>Doctoral Dissertation   On the design and optimization of RF power amplifiers using wide bandgap devices      Presented March 2021 Manuscript available here.  Summary     Compact radio-frequency (RF) power amplifiers are essential building blocks in various applications, including radio transmission, medical imaging, wireless power transfer, industrial plasma generation, and micro-satellite propulsion. Over the past decades, new wide bandgap (WBG) semiconductor devices, particularly gallium nitride (GaN) and silicon carbide (SiC), were successfully commercialized.</description>
     </item>
     
     <item>
