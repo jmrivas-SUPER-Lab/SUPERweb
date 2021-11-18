@@ -6,7 +6,16 @@
     <description>Recent content in Publications on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixed-Frequency Control of Piezoelectric Resonator DC-DC Converters for Spurious Mode Avoidance</title>
+      <link>/publication/fixed-frequency-piezo-spurious-avoidance_stolt/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fixed-frequency-piezo-spurious-avoidance_stolt/</guid>
+      <description>Piezoelectric resonators have shown promise as efficient, power-dense energy storage element alternatives to continue the miniaturization of DC-DC converters. However, practical piezoelectric resonators diverge from their ideal behavior due to spurious modes that cause high loss regions throughout their operating frequency range. This paper presents a fixed-frequency control mode utilizing the high-quality factor of piezoelectric resonators to avoid spurious modes.</description>
+    </item>
+    
     <item>
       <title>Real-time Selective Harmonic Minimization using a Hybrid Analog/Digital Computing Method</title>
       <link>/publication/tpels-harmonic-analog-digital-computing_poon/</link>

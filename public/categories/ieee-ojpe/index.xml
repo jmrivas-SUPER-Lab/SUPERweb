@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IEEE OJPE on SUPER-Lab</title>
+    <link>/categories/ieee-ojpe/</link>
+    <description>Recent content in IEEE OJPE on SUPER-Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/ieee-ojpe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixed-Frequency Control of Piezoelectric Resonator DC-DC Converters for Spurious Mode Avoidance</title>
+      <link>/publication/fixed-frequency-piezo-spurious-avoidance_stolt/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fixed-frequency-piezo-spurious-avoidance_stolt/</guid>
+      <description>Piezoelectric resonators have shown promise as efficient, power-dense energy storage element alternatives to continue the miniaturization of DC-DC converters. However, practical piezoelectric resonators diverge from their ideal behavior due to spurious modes that cause high loss regions throughout their operating frequency range. This paper presents a fixed-frequency control mode utilizing the high-quality factor of piezoelectric resonators to avoid spurious modes.</description>
+    </item>
+    
+    <item>
+      <title>Optimized Resonators for Piezoelectric Power Conversion</title>
+      <link>/publication/optimized-resonators-piezoelectric_braun/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/optimized-resonators-piezoelectric_braun/</guid>
+      <description>The performance of inductors at high frequencies and small sizes is one of the largest limiting factors in the continued miniaturization of dc-dc converters. Piezoelectric resonators can have a very high quality factor and provide an inductive impedance between their series and parallel resonant frequencies, making them a promising technology for further miniaturizing dc-dc converters.</description>
+    </item>
+    
+  </channel>
+</rss>

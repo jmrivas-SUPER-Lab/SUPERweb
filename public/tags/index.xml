@@ -6,7 +6,97 @@
     <description>Recent content in Tags on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Control sytems</title>
+      <link>/tags/control-sytems/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/control-sytems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dc-dc power converter</title>
+      <link>/tags/dc-dc-power-converter/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dc-dc-power-converter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Stolt</title>
+      <link>/tags/eric-stolt/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/eric-stolt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lei Gu</title>
+      <link>/tags/lei-gu/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lei-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piezoelectric</title>
+      <link>/tags/piezoelectric/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/piezoelectric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonant frequency</title>
+      <link>/tags/resonant-frequency/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/resonant-frequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonator</title>
+      <link>/tags/resonator/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/resonator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spurious modes</title>
+      <link>/tags/spurious-modes/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spurious-modes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switches</title>
+      <link>/tags/switches/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/switches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weston Braun</title>
+      <link>/tags/weston-braun/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/weston-braun/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Analog computers</title>
       <link>/tags/analog-computers/</link>
@@ -62,24 +152,6 @@
     </item>
     
     <item>
-      <title>Eric Stolt</title>
-      <link>/tags/eric-stolt/</link>
-      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/eric-stolt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lei Gu</title>
-      <link>/tags/lei-gu/</link>
-      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/lei-gu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reverse Recovery loss</title>
       <link>/tags/reverse-recovery-loss/</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
@@ -94,15 +166,6 @@
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/schottky-diodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weston Braun</title>
-      <link>/tags/weston-braun/</link>
-      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/weston-braun/</guid>
       <description></description>
     </item>
     
@@ -247,24 +310,6 @@
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/kawin-surakitbovorn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Piezoelectric</title>
-      <link>/tags/piezoelectric/</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/piezoelectric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resonator</title>
-      <link>/tags/resonator/</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/resonator/</guid>
       <description></description>
     </item>
     

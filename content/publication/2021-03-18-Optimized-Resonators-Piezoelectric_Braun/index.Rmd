@@ -5,6 +5,7 @@ date: '2021-03-18'
 slug: Optimized-Resonators-Piezoelectric_Braun
 categories:
   - Journal
+  - IEEE OJPE
 tags:
   - Piezoelectric
   - Resonator
