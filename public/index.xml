@@ -309,6 +309,17 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
+      <title>2021 IEEE MTTS Student Design Competition</title>
+      <link>/blog/2021-zk-mtts-award/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2021-zk-mtts-award/</guid>
+      <description>Figure 1: MTTS award  IEEE Microwave Theory and Techniques Society
+2021 International Microwave Symposium
+2021 Student Design Competition on High-efficiency power amplifier for 13.56 MHz</description>
+    </item>
+    
+    <item>
       <title>Wideband PPT Class Φ2 Inverter using Phase-Switched Impedance Modulation and Reactance Compensation</title>
       <link>/publication/tie-wideband-pp2-phi2-reactance-compensatoin_tong/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
