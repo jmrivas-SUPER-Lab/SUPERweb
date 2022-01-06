@@ -32,9 +32,9 @@ The 2021 IEEE International Microwave Symposium (IMS) was held in June 7-10 at A
 
 * 10-11 W output power at 13.56 MHz
 * 12 V DC Supply Voltage
-* 50 $\Omega$ load impedance
+* 50 Ohms load impedance
 * 10 mW External Signal Source
-* Input SWR: < 2:1 relative to 50 $\Omega$
+* Input SWR: < 2:1 relative to 50 Ohms
 * Harmonics: < -40 dBc (up to 100 MHz)
 * Non-harmonic spurs: < -70 dBc (10 kHz to 100 MHz).
 

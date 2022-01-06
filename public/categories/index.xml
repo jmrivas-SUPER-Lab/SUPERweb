@@ -6,34 +6,7 @@
     <description>Recent content in Categories on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Awards</title>
-      <link>/categories/awards/</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/awards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhechi Ye</title>
-      <link>/categories/zhechi-ye/</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/zhechi-ye/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zikang Tong</title>
-      <link>/categories/zikang-tong/</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/zikang-tong/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IEEE OJPE</title>
       <link>/categories/ieee-ojpe/</link>
@@ -121,6 +94,33 @@
       <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/wptc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>/categories/awards/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/awards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhechi Ye</title>
+      <link>/categories/zhechi-ye/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/zhechi-ye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zikang Tong</title>
+      <link>/categories/zikang-tong/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/zikang-tong/</guid>
       <description></description>
     </item>
     
