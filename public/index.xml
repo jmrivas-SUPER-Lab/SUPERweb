@@ -6,7 +6,7 @@
     <description>Recent content in Prof. Juan M. Rivas Davila on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>/collection/day02/01-netlify/</link>
@@ -264,6 +264,17 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
+      <title>2021 IEEE MTTS Student Design Competition</title>
+      <link>/blog/2021-zk-mtts-award/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2021-zk-mtts-award/</guid>
+      <description>Figure 1: MTTS award  IEEE Microwave Theory and Techniques Society
+2021 International Microwave Symposium
+2021 Student Design Competition on High-efficiency power amplifier for 13.56 MHz</description>
+    </item>
+    
+    <item>
       <title>Fixed-Frequency Control of Piezoelectric Resonator DC-DC Converters for Spurious Mode Avoidance</title>
       <link>/publication/fixed-frequency-piezo-spurious-avoidance_stolt/</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
@@ -306,17 +317,6 @@ My content section is: collection  My layout is: single-series   part 2!     doe
       
       <guid>/publication/patent-us11101792b2_sic-gan-cascode/</guid>
       <description>In specific examples, aspects are directed towards eliminating, mitigating or reducing gate loss in circuits including, for example, WBG power devices. One such example is directed towards an apparatus including first and second types of field-effect transistor (FET), where the first type is characterized as being a normally-on FET in a switching-circuit operation with a high-voltage rating, and the second type of FET is characterized as being a normally-off FET in a switching-circuit operation with a voltage rating that is much less than the high-voltage rating of the first type of FET circuit. The FET are arranged in a cascode manner so that, in response to a switching control signal received by the second type of FET circuit, the second type of FET circuit is active to drive the first type of FET.</description>
-    </item>
-    
-    <item>
-      <title>2021 IEEE MTTS Student Design Competition</title>
-      <link>/blog/2021-zk-mtts-award/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2021-zk-mtts-award/</guid>
-      <description>Figure 1: MTTS award  IEEE Microwave Theory and Techniques Society
-2021 International Microwave Symposium
-2021 Student Design Competition on High-efficiency power amplifier for 13.56 MHz</description>
     </item>
     
     <item>
