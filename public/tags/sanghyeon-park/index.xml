@@ -6,7 +6,7 @@
     <description>Recent content in Sanghyeon Park on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sanghyeon-park/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sanghyeon-park/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sanghyeon Park, Ph.D.</title>
       <link>/alumni/sanghyeon/</link>
@@ -14,6 +14,15 @@
       
       <guid>/alumni/sanghyeon/</guid>
       <description> Doctoral Dissertation   Circuit techniques for compact and lightweight high-voltage dc power supplies      Presented on April 13, 2021  </description>
+    </item>
+    
+    <item>
+      <title>Apparatuses and methods involving power conversion using multiple rectifier circuits</title>
+      <link>/publication/patent-us11228252_hv-rect/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/patent-us11228252_hv-rect/</guid>
+      <description>An apparatus including direct-current (DC)-alternating-current (AC) inverter circuitry, first and second circuits, and output circuitry. The DC-AC inverter circuitry inverts a DC input signal corresponding to an input voltage to an AC signal. The first circuit and second circuits respectively include inductive isolation circuits driven in response to power from the at least one AC signal, and rectifier circuits that responds to the inductive isolation circuits by outputting first and second rectified signals, where at least one of the first and second rectifier circuits characterized as being limited by a voltage breakdown rating. The output circuitry provides a DC output voltage signal and to cascade a plurality of signals, including the first and second rectified signals, to provide a voltage source that is dependent on the first and second rectified signals and greater than voltage breakdown rating.</description>
     </item>
     
     <item>

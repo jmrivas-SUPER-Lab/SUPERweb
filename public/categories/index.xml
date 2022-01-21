@@ -6,7 +6,16 @@
     <description>Recent content in Categories on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patent</title>
+      <link>/categories/patent/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/patent/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>IEEE OJPE</title>
       <link>/categories/ieee-ojpe/</link>
@@ -67,15 +76,6 @@
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Patent</title>
-      <link>/categories/patent/</link>
-      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/patent/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,7 @@
     <description>Recent content in Luke Raymond on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/luke-raymond/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/luke-raymond/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Luke Raymond, Ph.D.</title>
       <link>/alumni/lukeraymond/</link>
@@ -14,6 +14,15 @@
       
       <guid>/alumni/lukeraymond/</guid>
       <description>Doctoral Dissertation   * Compact high frequency power conversion for high voltage applications *      Presented in 2018 Manuscript available here.  Summary     Performance of high-voltage power converters has lagged their low-voltage counterparts on many metrics including power density, efficiency, transient response, and cost. This research presents newly developed circuit techniques and design strategies that allow high-voltage power supplies to be many times smaller and more efficient than the traditional high-voltage supplies on the market today.</description>
+    </item>
+    
+    <item>
+      <title>Apparatuses and methods involving power conversion using multiple rectifier circuits</title>
+      <link>/publication/patent-us11228252_hv-rect/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/patent-us11228252_hv-rect/</guid>
+      <description>An apparatus including direct-current (DC)-alternating-current (AC) inverter circuitry, first and second circuits, and output circuitry. The DC-AC inverter circuitry inverts a DC input signal corresponding to an input voltage to an AC signal. The first circuit and second circuits respectively include inductive isolation circuits driven in response to power from the at least one AC signal, and rectifier circuits that responds to the inductive isolation circuits by outputting first and second rectified signals, where at least one of the first and second rectifier circuits characterized as being limited by a voltage breakdown rating. The output circuitry provides a DC output voltage signal and to cascade a plurality of signals, including the first and second rectified signals, to provide a voltage source that is dependent on the first and second rectified signals and greater than voltage breakdown rating.</description>
     </item>
     
     <item>
