@@ -6,7 +6,70 @@
     <description>Recent content in Tags on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JiaLe Xu</title>
+      <link>/tags/jiale-xu/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jiale-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plasma</title>
+      <link>/tags/plasma/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/plasma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Amplifier</title>
+      <link>/tags/power-amplifier/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/power-amplifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonant frequency</title>
+      <link>/tags/resonant-frequency/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/resonant-frequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weston Braun</title>
+      <link>/tags/weston-braun/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/weston-braun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wideband</title>
+      <link>/tags/wideband/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wideband/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zikang Tong</title>
+      <link>/tags/zikang-tong/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/zikang-tong/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>HV</title>
       <link>/tags/hv/</link>
@@ -89,15 +152,6 @@
     </item>
     
     <item>
-      <title>Resonant frequency</title>
-      <link>/tags/resonant-frequency/</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/resonant-frequency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Resonator</title>
       <link>/tags/resonator/</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
@@ -121,15 +175,6 @@
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/switches/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weston Braun</title>
-      <link>/tags/weston-braun/</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/weston-braun/</guid>
       <description></description>
     </item>
     
@@ -215,15 +260,6 @@
     </item>
     
     <item>
-      <title>JiaLe Xu</title>
-      <link>/tags/jiale-xu/</link>
-      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/jiale-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SiC</title>
       <link>/tags/sic/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
@@ -269,29 +305,11 @@
     </item>
     
     <item>
-      <title>Zikang Tong</title>
-      <link>/tags/zikang-tong/</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/zikang-tong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Inductive Power Transmission</title>
       <link>/tags/inductive-power-transmission/</link>
       <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/inductive-power-transmission/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power Amplifier</title>
-      <link>/tags/power-amplifier/</link>
-      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/power-amplifier/</guid>
       <description></description>
     </item>
     

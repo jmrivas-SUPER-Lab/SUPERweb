@@ -6,7 +6,7 @@
     <description>Recent content in Prof. Juan M. Rivas Davila on SUPER-Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>/collection/day02/01-netlify/</link>
@@ -261,6 +261,15 @@ My content section is: collection  My layout is: single-series   part 2!     doe
       
       <guid>/labpeople/kawin/</guid>
       <description>Doctoral Dissertation   On the design and optimization of RF power amplifiers using wide bandgap devices      Presented March 2021 Manuscript available here.  Summary     Compact radio-frequency (RF) power amplifiers are essential building blocks in various applications, including radio transmission, medical imaging, wireless power transfer, industrial plasma generation, and micro-satellite propulsion. Over the past decades, new wide bandgap (WBG) semiconductor devices, particularly gallium nitride (GaN) and silicon carbide (SiC), were successfully commercialized.</description>
+    </item>
+    
+    <item>
+      <title>1 kW MHz Wideband Class E Power Amplifier</title>
+      <link>/publication/kw_mhz_wideband_class_e_power_amplifier_jiale/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kw_mhz_wideband_class_e_power_amplifier_jiale/</guid>
+      <description>Class E power amplifiers are widely used in high- frequency applications due to their simplicity and use of only one ground-referenced switch. However, Class E power amplifiers are usually tuned to operate at a fixed frequency due to their resonant nature. Extending the bandwidth of these switch-mode power amplifiers is beneficial in many applications, such as plasma generators and wireless power transfer systems. In this paper, we present a 1 kW wideband Class E power amplifier using Silicon Carbide (SiC) MOSFETs that achieves 93% efficiency at 13.56 MHz with a bandwidth of 1 MHz.</description>
     </item>
     
     <item>
